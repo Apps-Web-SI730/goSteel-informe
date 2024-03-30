@@ -636,6 +636,27 @@ Segemento Objetivo 2:
 
 ## 2.4. Ubiquitous Language
 
+# Capítulo III: Requirements Specification
+
+## 3.1 To-Be Scenario Mapping
+
+### Segmento 1:
+| Escenario                               | Doing                                                   | Thinking                                                     | Feeling                                                   |
+|-----------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------|
+| Usuario buscando un scotter  disponible | Navegando por nuestra <br/> pagina busca una disponible | Pensando en un scooter <br/> deacuerdo a sus necesidades     | Impaciente por encontrar un <br/> scooter adecuado        |
+| Usuario reserva un scooter              | Completando el formulario de reserva                    | Evaluando la tiempo y costo de alquiler                      | Se siente bien por haber reservado un scooter             |
+| Usuario utiliza el scooter              | Conduciendo el scooter por la zona                      | Observando el trafico y la experiencia de conduccion         | Contento con la comodidad del scooter                     |
+| Usuario devuelve el scooter             | Aparcando el scooter en el lugar designado              | Pensando en la experiencia general del alquiler              | Aliviado por haber completado la devolucion sin problemas |
+| Usuario deja una reseña                 | Escribiendo un comentario                               | Considerando aspecto positivos y negativos de la experiencia | Satisfecho con la experiencia y por compartir su opinion  | 
+
+### Segmento 2:
+| Escenario                 | Doing                                                          | Thinking                                             | Feeling                                            | 
+|---------------------------|----------------------------------------------------------------|------------------------------------------------------|----------------------------------------------------|
+| Adquisicion de scooters   | Explorando opciones de alquiler de scooters en la web app      | Evaluando terminos de alquiler y servicios asociados | Seguro de la invesion que se esta haciendo         |
+| Asignacion de scooters    | Asignando scooters a los repartidores                          | Confiado en la disponibilidad de los scooters        | Seguridad en la disponibilidad de scooters         |
+| Mantenimiento de scooters | Gestionando el mantenimiento programado a travez de la web app | Minimizando tiempos de inactividad y costos          | Confianza en la fiabilidad y estado de los scooter |
+
+
 
 # Conclusiones
 ### Conclusiones y recomendaciones
