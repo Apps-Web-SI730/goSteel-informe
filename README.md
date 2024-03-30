@@ -729,8 +729,10 @@ Segemento Objetivo 2:
 
 
 ## 2.4. Ubiquitous Language
-- Scooter: 
-
+- FastScooter:  El nombre del producto principal de la empresa, que son scooters eléctricos para renta empresarial.
+- Movilidad urbana: Se refiere al desplazamiento dentro de entornos urbanos.
+- Experiencia de usuario: La interacción y percepción de los clientes al utilizar los productos o servicios de la empresa.
+- Plataforma centralizada: Se refiere a una única interfaz o sistema donde los usuarios pueden acceder a todas las funciones relacionadas con el alquiler de scooters eléctricos, como reservas, pagos y seguimiento de rutas.
 
 
 
