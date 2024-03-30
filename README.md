@@ -590,11 +590,95 @@ Segemento Objetivo 2:
             <td colspan="1">Importancia</td>
 		</tr>
         <tr>
-			<td colspan="1">...</td>
-			<td colspan="1">multiple/rara/nunca</td>
-            <td colspan="1">alta/baja/media</td>
-            <td colspan="1">multiple/rara/nunca</td>
-            <td colspan="1">alta/baja/media</td>
+			<td colspan="1">Registro y autenticación en el sistema</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Iniciar sesión</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Ver scooters disponibles</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Alquilar scooters</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Reservar scooters</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Administrar scooters a otros usuarios</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">rara</td>
+            <td colspan="1">baja</td>
+		</tr>
+        <tr>
+			<td colspan="1">Realizar pago</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Escanear el código QR para desbloquear scooter</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Iniciar viaje</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Monitorear viaje</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">media</td>
+            <td colspan="1">rara</td>
+            <td colspan="1">baja</td>
+		</tr>
+         <tr>
+			<td colspan="1">Historial de viajes</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">media</td>
+            <td colspan="1">rara</td>
+            <td colspan="1">media</td>
+		</tr>
+         <tr>
+			<td colspan="1">Soporte al cliente</td>
+			<td colspan="1">rara</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">rara</td>
+            <td colspan="1">baja</td>
+		</tr>
+        <tr>
+			<td colspan="1">Reporte de mantenimiento de scooter</td>
+			<td colspan="1">rara</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">rara</td>
+            <td colspan="1">alta</td>
 		</tr>
 	</tbody>
 </table>
