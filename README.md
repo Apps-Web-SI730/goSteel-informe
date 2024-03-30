@@ -237,8 +237,8 @@ Para los usuarios interesados en la movilidad urbana ágil y económica, la falt
 #### 1.2.2.3. Lean UX Hypothesis Statements
 - Creemos que los usuarios de servicios de movilidad urbana prefieren opciones ágiles y económicas debido a la conveniencia y flexibilidad que ofrecen en comparación con métodos de transporte tradicionales como automóviles o taxis.
 - Creemos que los usuarios valoran la seguridad y confiabilidad al elegir opciones de movilidad, lo que incluye la percepción de riesgo al usar scooters eléctricos en áreas urbanas.
-- Creemos que los proveedores de scooters eléctricos están dispuestos a participar en una plataforma centralizada de alquiler de scooters si les brinda beneficios como una mayor visibilidad en el mercado y una gestión simplificada de su flota.
-- Creemos que la transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre los usuarios de la aplicación de alquiler de scooters.
+- Creemos que los proveedores de scooters eléctricos están dispuestos a participar en una plataforma de alquiler de scooters si les brinda beneficios como una mayor visibilidad en el mercado y una gestión simplificada de su flota.
+- Creemos que la transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre los usuarios de la aplicación.
 
 
 #### 1.2.2.4. Lean UX Canvas
@@ -738,7 +738,7 @@ Segemento Objetivo 2:
 - Movilidad urbana: Se refiere al desplazamiento dentro de entornos urbanos.
 - Experiencia de usuario: La interacción y percepción de los clientes al utilizar los productos o servicios de la empresa.
 - Plataforma centralizada: Se refiere a una única interfaz o sistema donde los usuarios pueden acceder a todas las funciones relacionadas con el alquiler de scooters eléctricos, como reservas, pagos y seguimiento de rutas.
-
+- Flota: Conjunto de scooters que se encuentran desplegados al rededor de la ciudad listos para ser usados por los usuarios.
 
 
 # Capítulo III: Requirements Specification
