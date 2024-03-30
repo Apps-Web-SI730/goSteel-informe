@@ -208,6 +208,16 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
+<img src="./assets/profile-arturo.png" alt="Carlos Arturo Adrianzén Flores" width="200" height="200">
+
+Nombre completo: Carlos Arturo Adrianzén Flores
+
+Código de estudiante: U202215705
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy estudiante de la UPC, curso el 5to ciclo. Me gusta jugar fútbol y tocar guitarra. Respecto al trabajo en equipo espero poder ayudar con todas mis capacidades. Me considero optimista y alegre.
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
