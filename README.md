@@ -729,6 +729,10 @@ Segemento Objetivo 2:
 
 
 ## 2.4. Ubiquitous Language
+- Scooter: 
+
+
+
 
 # Capítulo III: Requirements Specification
 
