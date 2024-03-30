@@ -213,8 +213,16 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+Para los usuarios interesados en la movilidad urbana ágil y económica, la falta de opciones accesibles y convenientes para el alquiler de scooters representa un obstáculo significativo. Actualmente, las alternativas disponibles carecen de una plataforma centralizada que facilite el contacto entre los usuarios y los proveedores, lo que conduce a una experiencia fragmentada y poco satisfactoria. Además, la ausencia de un modelo de negocio rentable para ambas partes impide el desarrollo de un ecosistema de alquiler de scooters sostenible y efectivo. Esta falta de solución integral obstaculiza tanto a los usuarios que buscan una alternativa de movilidad eficiente como a empresas de delivery que buscan una opcion de transporte para sus empleados que sea tanto económica como sostenible.
 
 #### 1.2.2.2. Lean UX Assumptions
+* Los usuarios prefieren opciones de movilidad ágil y económica para desplazarse
+* Los usuarios buscan opciones de movilidad que no solo sean ágiles y económicas, sino también seguras y confiables.
+* Los proveedores de scooters están dispuestos a participar en una plataforma centralizada de alquiler de scooters.
+* Los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido a su conveniencia y accesibilidad.
+* Existe una preocupación creciente por la congestión del tráfico y la contaminación en áreas urbanas, lo que aumenta la demanda de opciones de movilidad sostenible como el alquiler de scooters.
+* La transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre los usuarios de la aplicación de alquiler de scooters.
+* Los usuarios valoran la flexibilidad en el modelo de alquiler, preferiendo opciones que se adapten a diferentes necesidades, como tarifas por minuto, planes de suscripción o paquetes de uso diario/semanal
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
