@@ -235,6 +235,11 @@ Para los usuarios interesados en la movilidad urbana ágil y económica, la falt
 * Los usuarios valoran la flexibilidad en el modelo de alquiler, preferiendo opciones que se adapten a diferentes necesidades, como tarifas por minuto, planes de suscripción o paquetes de uso diario/semanal
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+- Creemos que los usuarios de servicios de movilidad urbana prefieren opciones ágiles y económicas debido a la conveniencia y flexibilidad que ofrecen en comparación con métodos de transporte tradicionales como automóviles o taxis.
+- Creemos que los usuarios valoran la seguridad y confiabilidad al elegir opciones de movilidad, lo que incluye la percepción de riesgo al usar scooters eléctricos en áreas urbanas.
+- Creemos que los proveedores de scooters eléctricos están dispuestos a participar en una plataforma centralizada de alquiler de scooters si les brinda beneficios como una mayor visibilidad en el mercado y una gestión simplificada de su flota.
+- Creemos que la transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre los usuarios de la aplicación de alquiler de scooters.
+
 
 #### 1.2.2.4. Lean UX Canvas
 
