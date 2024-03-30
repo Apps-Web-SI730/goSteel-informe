@@ -22,7 +22,7 @@ Integrantes:
 - Apellido Apellido, Nombre Nombre
 - Barrial Marin, Sharon Antuanet Ivet - U202114900
 - Minaya Mundines, Pietro Minaya - U201718387
-- Apellido Apellido, Scott Huachaca
+- Apellido, Scott Huachaca
 - Apellido Apellido, Nombre Nombre
 
 Junio del 2024
