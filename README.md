@@ -761,10 +761,6 @@ Segemento Objetivo 2:
 | Asignacion de scooters    | Asignando scooters a los repartidores                          | Confiado en la disponibilidad de los scooters        | Seguridad en la disponibilidad de scooters         |
 | Mantenimiento de scooters | Gestionando el mantenimiento programado a travez de la web app | Minimizando tiempos de inactividad y costos          | Confianza en la fiabilidad y estado de los scooter |
 
-
-# Capítulo III: Requirements Specification
-## 3.1. To-Be Scenario Mapping
-
 ## 3.2. User Stories
 
 # 3.3. Impact Mapping
