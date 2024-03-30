@@ -603,7 +603,36 @@ Segemento Objetivo 2:
 
 ### 2.3.4. Empathy Mapping
 
+### Segmento 1:
+
+
+
+<img src="./assets/ThinkingMapping.png" alt="Entrevista Pietro" width="600" height="300">
+
+### Segmento 2:
+
+<img src="./assets/ThinkingMapping2.png" alt="Entrevista Pietro" width="600" height="300">
+
+<img scr="./assets/">
+
+<img scr="./assets/ThinkingMapping2.jpg">
+
 ### 2.3.5. As-is Scenario Mapping
+### Segmento 1:
+| Escenario                              | Doing                                                                   | Thinking                                                           | Feeling                                                              |
+|----------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|
+| Usuario buscando un scotter disponible | Buscando en linea o preguntando a locales la disponibilidad de scooters | Evaluando la conveniencia y costos                                 | Frustracion por la falta de informacion clara y actualizada          |
+| Usuario reserva un scooter             | Llamando o visitando fisicamente la empresa de alquiler para reservar   | Considerando la fiabilidad y disponibilidad del scooter reservado  | Inseguridad sobre si el scooter estara disponible al llegar          |
+| Usuario utiliza el scooter             | Recogiendo al scooter en el lugar designado                             | Planificando la ruta y considernado la seguridad                   | Emocion por la experiencia de conduccion y la aventura               |
+| Usuario devuelve el scooter            | Devolviendo el scooter al lugar de alquiler                             | Preocupandose por los terminos y condiciones de devolucion         | Satisfecho si la experiencia general fue positiva                    |
+| Usuario deja una reseña                | Completando formularios o enviando comentarios sobre su experiencia     | Reflexionando sobre la calidad del servicio y el scooter utilizado | Esperando que su opinion influya en futuros usuarios y en la empresa | 
+### Segmento 2:
+| Escenario                 | Doing                                                        | Thinking                                       | Feeling                                        | 
+|---------------------------|--------------------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Adquisicion de scooters   | Buscando proveedores de scooters en linea                    | Evaluando opciones de compra y financiamiento  | Preocupacion por si a sido una buena inversion |
+| Asignacion de scooters    | Asignando scooters a los repartidores                        | Considerando la disponibilidad y mantenimiento | Icertidumbre sobre la eficiencia y seguimiento |
+| Mantenimiento de scooters | Coordinando el mantenimiento y reparaciones sesgun necesidad | Evaluando costos y tiempos de inactividad      | Preocupacion por el estado y fiabilidad        |
+
 
 ## 2.4. Ubiquitous Language
 
