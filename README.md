@@ -1,6 +1,6 @@
 ![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
-#### **Universidad Peruana de Ciencias Aplicadas**
+### **Universidad Peruana de Ciencias Aplicadas**
 
 **Carrera** <br>Ingeniería de Software
 
