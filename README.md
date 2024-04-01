@@ -22,32 +22,32 @@
 <table border="1" style="text-align: left;">
 	<tbody>
         <tr>
-            <td colspan="1" style="text-align:center;">
+            <td style="text-align:center;">
             <strong>Alumno</strong>
             </td>
-            <td colspan="1" style="text-align:center;">
+            <td style="text-align:center;">
             <strong>Código</strong>
             </td>
         </tr>
 		<tr>
-			<td colspan="1">Apellido Apellido, Nombre Nombre</td>
-            <td>uxxxxxxxxx<td>
+			<td>Apellido Apellido, Nombre Nombre</td>
+            <td>uxxxxxxxxx</td>
 		</tr>
         <tr>
-            <td colspan="1">Barrial Marin, Sharon Antuanet Ivet</td>
-            <td>U202114900<td>
+            <td>Barrial Marin, Sharon Antuanet Ivet</td>
+            <td>U202114900</td>
         </tr>
         <tr>
-            <td colspan="1">Minaya Mundines, Pietro Minayat</td>
-            <td>U201718387<td>
+            <td>Minaya Mundines, Pietro Minayat</td>
+            <td>U201718387</td>
         </tr>
         <tr>
-            <td colspan="1">Apellido Apellido, Nombre Nombre</td>
-            <td>uxxxxxxxxx<td>
+            <td>Apellido Apellido, Nombre Nombre</td>
+            <td>uxxxxxxxxx</td>
         </tr>
         <tr>
-            <td colspan="1">Apellido Apellido, Nombre Nombre</td>
-            <td>uxxxxxxxxx<td>
+            <td>Apellido Apellido, Nombre Nombre</td>
+            <td>uxxxxxxxxx</td>
         </tr>
 	</tbody>
 </table>
