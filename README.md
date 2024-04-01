@@ -626,6 +626,54 @@ Segemento Objetivo 2:
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
+#### User Persona 1: Ana García - Empresas de Delivery
+
+|                     |                     |
+|---------------------|---------------------|
+| **Nombre:**         | Ana García          |
+| **Edad:**           | 35 años             |
+| **Nacionalidad:**   | Peruana             |
+| **Estado Civil:**   | Soltera             |
+| **Descripción:**    | Gerente de operaciones en una empresa de delivery de comida rápida en Lima Metropolitana. |
+| **Motivación:**     | Mejorar la eficiencia de las operaciones de entrega y reducir los costos operativos. |
+| **Frustraciones:**  | Entregas retrasadas debido al tráfico y altos costos de mantenimiento. |
+| **Objetivos:**      | Optimizar las operaciones de entrega y reducir costos. |
+| **Dispositivos:**   | Computadora de escritorio y teléfono inteligente. |
+| **Redes Sociales:** | [LinkedIn](#), [Twitter](#) |
+| **Etiquetas:**      | #Operaciones #Delivery #Eficiencia |
+
+#### User Persona 2: Juan Pérez - Personas que transitan Lima Metropolitana
+
+|                     |                     |
+|---------------------|---------------------|
+| **Nombre:**         | Juan Pérez          |
+| **Edad:**           | 25 años             |
+| **Nacionalidad:**   | Peruana             |
+| **Estado Civil:**   | Soltero             |
+| **Descripción:**    | Joven estudiante universitario y trabajador a tiempo parcial que vive en Lima Metropolitana. |
+| **Motivación:**     | Encontrar opciones de transporte rápido, económico y respetuoso con el medio ambiente. |
+| **Frustraciones:**  | Tráfico congestionado, altos costos de transporte y falta de estacionamiento. |
+| **Objetivos:**      | Encontrar opciones de transporte rápido, económico y sostenible. |
+| **Dispositivos:**   | Teléfono inteligente y computadora portátil. |
+| **Redes Sociales:** | [LinkedIn](#), [Instagram](#) |
+| **Etiquetas:**      | #Transporte #Lima #Sostenibilidad |
+
+#### User Persona 3: Carlos Sánchez - Personal de Mantenimiento
+
+|                     |                     |
+|---------------------|---------------------|
+| **Nombre:**         | Carlos Sánchez      |
+| **Edad:**           | 40 años             |
+| **Nacionalidad:**   | Peruana             |
+| **Estado Civil:**   | Casado              |
+| **Descripción:**    | Hombre de mediana edad que trabaja como personal de mantenimiento en un edificio de oficinas en Lima Metropolitana. |
+| **Motivación:**     | Garantizar que el edificio donde trabaja esté en las mejores condiciones posibles para los ocupantes y visitantes. |
+| **Frustraciones:**  | Problemas de accesibilidad y transporte ineficiente entre sitios de trabajo. |
+| **Objetivos:**      | Realizar el trabajo de mantenimiento de manera eficiente y efectiva. |
+| **Dispositivos:**   | Teléfono inteligente y tableta/computadora portátil. |
+| **Redes Sociales:** | [LinkedIn](#), [Facebook](#) |
+| **Etiquetas:**      | #Mantenimiento #Edificio #Eficiencia |
+
 ### 2.3.2. User Task Matrix
 
 <table border="1" style="text-align: center;">
