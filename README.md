@@ -1,29 +1,57 @@
-![UPC_logo_transparente](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263743755-2ff342be-dc34-415c-925e-1e7133e49abf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240326%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240326T011051Z&X-Amz-Expires=300&X-Amz-Signature=8ed63cf6c09cf1beb91e5b23f73c7bfef6313b6d528dcb2e877acfe8c5ad3729&X-Amz-SignedHeaders=host&actor_id=59981756&key_id=0&repo_id=679038627)
+![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
-Universidad Peruana de Ciencias Aplicadas
+#### **Universidad Peruana de Ciencias Aplicadas**
 
-Carrera: Ingeniería de Software
+**Carrera** <br>Ingeniería de Software
 
-Ciclo: 2024-01
+**Ciclo** <br>2024-01
 
-Curso: Aplicaciones Web
+**Curso** <br> Aplicaciones Web
 
-Sección: WX52
+**Sección** <br> WX52
 
-Profesor: Naldo Reupo-Musayon Gastulo
+**Profesor** <br> Naldo Reupo-Musayon Gastulo
 
-Informe del Trabajo Final
+#### **Informe del Trabajo Final**
 
-Startup: GoSteel
+**Startup**<br> GoSteel
 
-Producto: FastScooter
+**Producto** <br> FastScooter
 
-Integrantes:
-- Apellido Apellido, Nombre Nombre
-- Barrial Marin, Sharon Antuanet Ivet - U202114900
-- Minaya Mundines, Pietro Minaya - U201718387
-- Apellido, Scott Huachaca
-- Apellido Apellido, Nombre Nombre
+**Integrantes**
+<table border="1" style="text-align: left;">
+	<tbody>
+        <tr>
+            <td colspan="1" style="text-align:center;">
+            <strong>Alumno</strong>
+            </td>
+            <td colspan="1" style="text-align:center;">
+            <strong>Código</strong>
+            </td>
+        </tr>
+		<tr>
+			<td colspan="1">Apellido Apellido, Nombre Nombre</td>
+            <td>uxxxxxxxxx<td>
+		</tr>
+        <tr>
+            <td colspan="1">Barrial Marin, Sharon Antuanet Ivet</td>
+            <td>U202114900<td>
+        </tr>
+        <tr>
+            <td colspan="1">Minaya Mundines, Pietro Minayat</td>
+            <td>U201718387<td>
+        </tr>
+        <tr>
+            <td colspan="1">Apellido Apellido, Nombre Nombre</td>
+            <td>uxxxxxxxxx<td>
+        </tr>
+        <tr>
+            <td colspan="1">Apellido Apellido, Nombre Nombre</td>
+            <td>uxxxxxxxxx<td>
+        </tr>
+	</tbody>
+</table>
+
 
 Junio del 2024
 
@@ -169,6 +197,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
+
 GoSteel: Simplificando la movilidad urbana con FastScooter
 
 <ins>**Misión:**</ins>
