@@ -885,6 +885,9 @@ Segemento Objetivo 2:
 
 ## 3.3. Impact Mapping
 
+<img src="./assets/juanperezmap.png" alt="Josue Hidalgo" width="900" height="600">
+<img src="./assets/anagarciamap.png" alt="Josue Hidalgo" width="900" height="600">
+
 ## 3.4. Product Backlog
 
 | # Orden | User Story Id | Titulo                       | Desripcion                                                                                                                 | Story Points (1/2/3/4/5/8) |
