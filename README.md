@@ -863,13 +863,14 @@ Segemento Objetivo 2:
 
 ### 2.3.5. As-is Scenario Mapping
 ### Segmento 1:
-| Escenario                              | Doing                                                                   | Thinking                                                           | Feeling                                                              |
-|----------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|
-| Usuario buscando un scotter disponible | Buscando en linea o preguntando a locales la disponibilidad de scooters | Evaluando la conveniencia y costos                                 | Frustracion por la falta de informacion clara y actualizada          |
-| Usuario reserva un scooter             | Llamando o visitando fisicamente la empresa de alquiler para reservar   | Considerando la fiabilidad y disponibilidad del scooter reservado  | Inseguridad sobre si el scooter estara disponible al llegar          |
-| Usuario utiliza el scooter             | Recogiendo al scooter en el lugar designado                             | Planificando la ruta y considernado la seguridad                   | Emocion por la experiencia de conduccion y la aventura               |
-| Usuario devuelve el scooter            | Devolviendo el scooter al lugar de alquiler                             | Preocupandose por los terminos y condiciones de devolucion         | Satisfecho si la experiencia general fue positiva                    |
-| Usuario deja una reseña                | Completando formularios o enviando comentarios sobre su experiencia     | Reflexionando sobre la calidad del servicio y el scooter utilizado | Esperando que su opinion influya en futuros usuarios y en la empresa | 
+
+| Escenario | Usuario buscando un scotter disponible                                  | Usuario reserva un scooter                                            | Usuario utiliza el scooter                              | Usuario devuelve el scooter                                | Usuario deja una reseña                                               |
+|-----------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------|
+| Doing     | Buscando en linea o preguntando a locales la disponibilidad de scooters | Llamando o visitando fisicamente la empresa de alquiler para reservar | Recogiendo al scooter en el lugar designado             | Devolviendo el scooter al lugar de alquiler                | Completando formularios o enviando comentarios sobre su experiencia   |
+| Thinking  | Evaluando la conveniencia y costos                                      | Considerando la fiabilidad y disponibilidad del scooter reservado     | Planificando la ruta y considernado la seguridad        | Preocupandose por los terminos y condiciones de devolucion | Reflexionando sobre la calidad del servicio y el scooter utilizado    |
+| Feeling   | Frustracion por la falta de informacion clara y actualizada             | Inseguridad sobre si el scooter estara disponible al llegar           | Emocion por la experiencia de conduccion y la aventura  | Satisfecho si la experiencia general fue positiva          | Esperando que su opinion influya en futuros usuarios y en la empresa  |
+
+
 ### Segmento 2:
 | Escenario                 | Doing                                                        | Thinking                                       | Feeling                                        | 
 |---------------------------|--------------------------------------------------------------|------------------------------------------------|------------------------------------------------|
