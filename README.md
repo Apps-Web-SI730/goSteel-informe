@@ -268,7 +268,9 @@ Para los usuarios interesados en la movilidad urbana ágil y económica, la falt
 - Creemos que los usuarios valoran la seguridad y confiabilidad al elegir opciones de movilidad, lo que incluye la percepción de riesgo al usar scooters eléctricos en áreas urbanas.
 - Creemos que los proveedores de scooters eléctricos están dispuestos a participar en una plataforma de alquiler de scooters si les brinda beneficios como una mayor visibilidad en el mercado y una gestión simplificada de su flota.
 - Creemos que la transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre los usuarios de la aplicación.
-
+- Creemos que los usuarios valoran la flexibilidad en el modelo de alquiler, prefiriendo opciones que se adapten a diferentes necesidades, como tarifas por minutoi, planes de suscripción o paquetes de uso semanal.
+- Creemos que existe una creciente preocupación por la congestión del tráfico y la contaminación en áreas urbanas, lo que aumenta la demanda de opciones de movilidad sostenibles.
+- Creemos que los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido a su conveniencia y accesibilidad, siempre y cuando la plataforma ofrezca una experiencia de usuario intuitiva y segura.
 
 #### 1.2.2.4. Lean UX Canvas
 
