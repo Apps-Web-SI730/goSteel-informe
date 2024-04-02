@@ -31,7 +31,7 @@
         </tr>
 		<tr>
 			<td>Apellido Apellido, Nombre Nombre</td>
-            <td>uxxxxxxxxx</td>
+            <td>Hidalgo Bustamante, Josue Omar</td>
 		</tr>
         <tr>
             <td>Barrial Marin, Sharon Antuanet Ivet</td>
