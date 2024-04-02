@@ -41,9 +41,13 @@
             <td>Minaya Mundines, Pietro Minayat</td>
             <td>U201718387</td>
         </tr>
+	 <tr>
+            <td>Adrianzén Flores, Carlos Arturo</td>
+            <td>U201718387</td>
+        </tr>	
         <tr>
-            <td>Apellido Apellido, Nombre Nombre</td>
-            <td>uxxxxxxxxx</td>
+            <td>Huachaca Advincula, Scott Jacobo</td>
+            <td>U201914294</td>
         </tr>
         <tr>
             <td>Apellido Apellido, Nombre Nombre</td>
@@ -247,12 +251,47 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy estudiante de la UPC, curso el 5to ciclo. Me gusta jugar fútbol y tocar guitarra. Respecto al trabajo en equipo espero poder ayudar con todas mis capacidades. Me considero optimista y alegre.
 
+<img src="./assets/profile-scott.jpg" alt="Scott Jacobo Huachaca Advincula" width="200" height="200">
+
+Nombre completo: Scott Jacobo Huachaca Advincula
+
+Código de estudiante: U201914294
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que utilizamos a diario, como las redes sociales o aplicaciones de productividad.
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 Para los usuarios interesados en la movilidad urbana ágil y económica, la falta de opciones accesibles y convenientes para el alquiler de scooters representa un obstáculo significativo. Actualmente, las alternativas disponibles carecen de una plataforma centralizada que facilite el contacto entre los usuarios y los proveedores, lo que conduce a una experiencia fragmentada y poco satisfactoria. Además, la ausencia de un modelo de negocio rentable para ambas partes impide el desarrollo de un ecosistema de alquiler de scooters sostenible y efectivo. Esta falta de solución integral obstaculiza tanto a los usuarios que buscan una alternativa de movilidad eficiente como a empresas de delivery que buscan una opcion de transporte para sus empleados que sea tanto económica como sostenible.
+
+Usuarios interesados en movilidad urbana ágil y económica:
+
+* Problema: Carencia de opciones accesibles y convenientes para el alquiler de scooters
+* Causa: Falta de una plataforma para facilitar el contacto entre usuario y proveedores
+* Efecto: Experiencia de usuario fragmentada y poco satisfactoria
+
+Empresas de delivery buscando opciones de transporte Económicas y sostenibles:
+
+* Problema: Dificultad para encontrar soluciones de transporte adecuadas para empleados
+* Causa: Ausencia de un modelo de negocio rentable que beneficie tanto a proveedores como a empresas
+* Efecto: Limitaciones para desarrollar un sistema de entrega eficiente y sostenible
+
+Desarrollo de un ecosistema sostenible de alquiler de scooters:
+
+* Problema: Falta de un ecosistema de alquiler de scooters sostenible y efectivo
+* Causa: Inexistencia de soluciones integrales que atiendan tanto a usuarios individuales como a empresas
+* Efecto: Limitaciones para desarrollar un sistema de entrega eficiente y sostenible
+
+Impacto de la contaminación en la salud y economia:
+
+* Problema: La contaminación del aire en las ciudades afecta la salud y economia
+* Causa: Emisiones de CO2 del transporte urbano y congestion vehicular
+* Efecto: Mas de 1600 muertes anuales atribuidas al aire contaminado en Lima, ademas de impactos economicos negativos.
+
 
 #### 1.2.2.2. Lean UX Assumptions
 * Los usuarios prefieren opciones de movilidad ágil y económica para desplazarse
@@ -268,7 +307,9 @@ Para los usuarios interesados en la movilidad urbana ágil y económica, la falt
 - Creemos que los usuarios valoran la seguridad y confiabilidad al elegir opciones de movilidad, lo que incluye la percepción de riesgo al usar scooters eléctricos en áreas urbanas.
 - Creemos que los proveedores de scooters eléctricos están dispuestos a participar en una plataforma de alquiler de scooters si les brinda beneficios como una mayor visibilidad en el mercado y una gestión simplificada de su flota.
 - Creemos que la transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre los usuarios de la aplicación.
-
+- Creemos que los usuarios valoran la flexibilidad en el modelo de alquiler, prefiriendo opciones que se adapten a diferentes necesidades, como tarifas por minutoi, planes de suscripción o paquetes de uso semanal.
+- Creemos que existe una creciente preocupación por la congestión del tráfico y la contaminación en áreas urbanas, lo que aumenta la demanda de opciones de movilidad sostenibles.
+- Creemos que los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido a su conveniencia y accesibilidad, siempre y cuando la plataforma ofrezca una experiencia de usuario intuitiva y segura.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -849,19 +890,20 @@ Segemento Objetivo 2:
 
 ### 2.3.5. As-is Scenario Mapping
 ### Segmento 1:
-| Escenario                              | Doing                                                                   | Thinking                                                           | Feeling                                                              |
-|----------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|
-| Usuario buscando un scotter disponible | Buscando en linea o preguntando a locales la disponibilidad de scooters | Evaluando la conveniencia y costos                                 | Frustracion por la falta de informacion clara y actualizada          |
-| Usuario reserva un scooter             | Llamando o visitando fisicamente la empresa de alquiler para reservar   | Considerando la fiabilidad y disponibilidad del scooter reservado  | Inseguridad sobre si el scooter estara disponible al llegar          |
-| Usuario utiliza el scooter             | Recogiendo al scooter en el lugar designado                             | Planificando la ruta y considernado la seguridad                   | Emocion por la experiencia de conduccion y la aventura               |
-| Usuario devuelve el scooter            | Devolviendo el scooter al lugar de alquiler                             | Preocupandose por los terminos y condiciones de devolucion         | Satisfecho si la experiencia general fue positiva                    |
-| Usuario deja una reseña                | Completando formularios o enviando comentarios sobre su experiencia     | Reflexionando sobre la calidad del servicio y el scooter utilizado | Esperando que su opinion influya en futuros usuarios y en la empresa | 
+
+| Escenario | Usuario buscando un scotter disponible                                  | Usuario reserva un scooter                                            | Usuario utiliza el scooter                              | Usuario devuelve el scooter                                | Usuario deja una reseña                                               |
+|-----------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------|
+| Doing     | Buscando en linea o preguntando a locales la disponibilidad de scooters | Llamando o visitando fisicamente la empresa de alquiler para reservar | Recogiendo al scooter en el lugar designado             | Devolviendo el scooter al lugar de alquiler                | Completando formularios o enviando comentarios sobre su experiencia   |
+| Thinking  | Evaluando la conveniencia y costos                                      | Considerando la fiabilidad y disponibilidad del scooter reservado     | Planificando la ruta y considernado la seguridad        | Preocupandose por los terminos y condiciones de devolucion | Reflexionando sobre la calidad del servicio y el scooter utilizado    |
+| Feeling   | Frustracion por la falta de informacion clara y actualizada             | Inseguridad sobre si el scooter estara disponible al llegar           | Emocion por la experiencia de conduccion y la aventura  | Satisfecho si la experiencia general fue positiva          | Esperando que su opinion influya en futuros usuarios y en la empresa  |
+
 ### Segmento 2:
-| Escenario                 | Doing                                                        | Thinking                                       | Feeling                                        | 
-|---------------------------|--------------------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| Adquisicion de scooters   | Buscando proveedores de scooters en linea                    | Evaluando opciones de compra y financiamiento  | Preocupacion por si a sido una buena inversion |
-| Asignacion de scooters    | Asignando scooters a los repartidores                        | Considerando la disponibilidad y mantenimiento | Icertidumbre sobre la eficiencia y seguimiento |
-| Mantenimiento de scooters | Coordinando el mantenimiento y reparaciones sesgun necesidad | Evaluando costos y tiempos de inactividad      | Preocupacion por el estado y fiabilidad        |
+
+| Escenario | Adquisicion de scooters                         | Asignacion de scooters                          | Mantenimiento de scooters                                    | 
+|-----------|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------------|
+| Doing     | Buscando proveedores de scooters en linea       | Asignando scooters a los repartidores           | Coordinando el mantenimiento y reparaciones sesgun necesidad |
+| Thinking  | Evaluando opciones de compra y financiamiento   | Considerando la disponibilidad y mantenimiento  | Evaluando costos y tiempos de inactividad                    |
+| Feeling   | Preocupacion por si a sido una buena inversion  | Icertidumbre sobre la eficiencia y seguimiento  | Preocupacion por el estado y fiabilidad                      |
 
 
 ## 2.4. Ubiquitous Language
@@ -877,20 +919,23 @@ Segemento Objetivo 2:
 ## 3.1 To-Be Scenario Mapping
 
 ### Segmento 1:
-| Escenario                               | Doing                                                   | Thinking                                                     | Feeling                                                   |
-|-----------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------|
-| Usuario buscando un scotter  disponible | Navegando por nuestra <br/> pagina busca una disponible | Pensando en un scooter <br/> deacuerdo a sus necesidades     | Impaciente por encontrar un <br/> scooter adecuado        |
-| Usuario reserva un scooter              | Completando el formulario de reserva                    | Evaluando la tiempo y costo de alquiler                      | Se siente bien por haber reservado un scooter             |
-| Usuario utiliza el scooter              | Conduciendo el scooter por la zona                      | Observando el trafico y la experiencia de conduccion         | Contento con la comodidad del scooter                     |
-| Usuario devuelve el scooter             | Aparcando el scooter en el lugar designado              | Pensando en la experiencia general del alquiler              | Aliviado por haber completado la devolucion sin problemas |
-| Usuario deja una reseña                 | Escribiendo un comentario                               | Considerando aspecto positivos y negativos de la experiencia | Satisfecho con la experiencia y por compartir su opinion  | 
+
+| Escenario | Usuario buscando un scotter disponible                   | Usuario reserva un scooter                     | Usuario utiliza el scooter                           | Usuario devuelve el scooter                                | Usuario deja una reseña                                      |
+|-----------|----------------------------------------------------------|------------------------------------------------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| Doing     | Navegando por nuestra <br/> pagina busca una disponible  | Completando el formulario de reserva           | Conduciendo el scooter por la zona                   | Aparcando el scooter en el lugar designado                 | Escribiendo un comentario                                    |
+| Thinking  | Pensando en un scooter <br/> deacuerdo a sus necesidades | Evaluando la tiempo y costo de alquiler        | Observando el trafico y la experiencia de conduccion | Pensando en la experiencia general del alquiler            | Considerando aspecto positivos y negativos de la experiencia |
+| Feeling   | Impaciente por encontrar un <br/> scooter adecuado       | Se siente bien por haber reservado un scooter  | Contento con la comodidad del scooter                | Aliviado por haber completado la devolucion sin problemas  | Satisfecho con la experiencia y por compartir su opinion     |
+
 
 ### Segmento 2:
-| Escenario                 | Doing                                                          | Thinking                                             | Feeling                                            | 
-|---------------------------|----------------------------------------------------------------|------------------------------------------------------|----------------------------------------------------|
-| Adquisicion de scooters   | Explorando opciones de alquiler de scooters en la web app      | Evaluando terminos de alquiler y servicios asociados | Seguro de la invesion que se esta haciendo         |
-| Asignacion de scooters    | Asignando scooters a los repartidores                          | Confiado en la disponibilidad de los scooters        | Seguridad en la disponibilidad de scooters         |
-| Mantenimiento de scooters | Gestionando el mantenimiento programado a travez de la web app | Minimizando tiempos de inactividad y costos          | Confianza en la fiabilidad y estado de los scooter |
+
+| Escenario | Adquisicion de scooters                                   | Asignacion de scooters                        | Mantenimiento de scooters                                      | 
+|-----------|-----------------------------------------------------------|-----------------------------------------------|----------------------------------------------------------------|
+| Doing     | Explorando opciones de alquiler de scooters en la web app | Asignando scooters a los repartidores         | Gestionando el mantenimiento programado a travez de la web app |
+| Thinking  | Evaluando terminos de alquiler y servicios asociados      | Confiado en la disponibilidad de los scooters | Minimizando tiempos de inactividad y costos                    |
+| Feeling   | Seguro de la invesion que se esta haciendo                | Seguridad en la disponibilidad de scooters    | Confianza en la fiabilidad y estado de los scooter             |
+
+
 
 ## 3.2. User Stories
 
