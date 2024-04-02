@@ -258,6 +258,31 @@ Acerca de mí: Soy estudiante de la UPC, curso el 5to ciclo. Me gusta jugar fút
 #### 1.2.2.1. Lean UX Problem Statements
 Para los usuarios interesados en la movilidad urbana ágil y económica, la falta de opciones accesibles y convenientes para el alquiler de scooters representa un obstáculo significativo. Actualmente, las alternativas disponibles carecen de una plataforma centralizada que facilite el contacto entre los usuarios y los proveedores, lo que conduce a una experiencia fragmentada y poco satisfactoria. Además, la ausencia de un modelo de negocio rentable para ambas partes impide el desarrollo de un ecosistema de alquiler de scooters sostenible y efectivo. Esta falta de solución integral obstaculiza tanto a los usuarios que buscan una alternativa de movilidad eficiente como a empresas de delivery que buscan una opcion de transporte para sus empleados que sea tanto económica como sostenible.
 
+Usuarios interesados en movilidad urbana ágil y económica:
+
+* Problema: Carencia de opciones accesibles y convenientes para el alquiler de scooters
+* Causa: Falta de una plataforma para facilitar el contacto entre usuario y proveedores
+* Efecto: Experiencia de usuario fragmentada y poco satisfactoria
+
+Empresas de delivery buscando opciones de transporte Económicas y sostenibles:
+
+* Problema: Dificultad para encontrar soluciones de transporte adecuadas para empleados
+* Causa: Ausencia de un modelo de negocio rentable que beneficie tanto a proveedores como a empresas
+* Efecto: Limitaciones para desarrollar un sistema de entrega eficiente y sostenible
+
+Desarrollo de un ecosistema sostenible de alquiler de scooters:
+
+* Problema: Falta de un ecosistema de alquiler de scooters sostenible y efectivo
+* Causa: Inexistencia de soluciones integrales que atiendan tanto a usuarios individuales como a empresas
+* Efecto: Limitaciones para desarrollar un sistema de entrega eficiente y sostenible
+
+Impacto de la contaminación en la salud y economia:
+
+* Problema: La contaminación del aire en las ciudades afecta la salud y economia
+* Causa: Emisiones de CO2 del transporte urbano y congestion vehicular
+* Efecto: Mas de 1600 muertes anuales atribuidas al aire contaminado en Lima, ademas de impactos economicos negativos.
+
+
 #### 1.2.2.2. Lean UX Assumptions
 * Los usuarios prefieren opciones de movilidad ágil y económica para desplazarse
 * Los usuarios buscan opciones de movilidad que no solo sean ágiles y económicas, sino también seguras y confiables.
