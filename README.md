@@ -322,7 +322,7 @@ Impacto de la contaminación en la salud y economia:
 - Creemos que los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido a su conveniencia y accesibilidad, siempre y cuando la plataforma ofrezca una experiencia de usuario intuitiva y segura.
 
 #### 1.2.2.4. Lean UX Canvas
- <img src="./assets/leanux.png" alt="Josue Hidalgo" width="600" height="900">
+ <img src="./assets/leanux.png" alt="Josue Hidalgo" width="900" height="600">
 ## 1.3. Segmentos objetivo
 
 Para el desarrollo de FastScooter tenemos como enfoque dos segmentos objetivos:
