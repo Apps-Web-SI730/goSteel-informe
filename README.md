@@ -30,8 +30,8 @@
             </td>
         </tr>
 		<tr>
-			<td>Apellido Apellido, Nombre Nombre</td>
-            <td>uxxxxxxxxx</td>
+			<td>Hidalgo Bustamante Josue Omar</td>
+            <td>u202119880</td>
 		</tr>
         <tr>
             <td>Barrial Marin, Sharon Antuanet Ivet</td>
@@ -261,6 +261,16 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que utilizamos a diario, como las redes sociales o aplicaciones de productividad.
 
+<img src="./assets/yo.jpeg" alt="Josue Hidalgo" width="200" height="200">
+
+Nombre completo: Josue Hidalgo Bustamante 
+
+Código de estudiante: U202119880
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy estudiante de la UPC,me gusta mucho la tecnologia y los videojuegos
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
@@ -347,44 +357,7 @@ Impacto de la contaminación en la salud y economia:
 - Creemos que los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido a su conveniencia y accesibilidad, siempre y cuando la plataforma ofrezca una experiencia de usuario intuitiva y segura.
 
 #### 1.2.2.4. Lean UX Canvas
-
-## Problema:
-- **Descripción:** La falta de opciones accesibles y convenientes para el alquiler de scooters eléctricos representa un obstáculo significativo.
-- **Impacto:** Experiencia fragmentada y poco satisfactoria para los usuarios. Falta de un modelo de negocio rentable para ambas partes.
-
-## Usuarios:
-- **Descripción:** Usuarios interesados en la movilidad urbana ágil y económica, así como proveedores de scooters eléctricos.
-- **Necesidades:** Acceso conveniente a opciones de alquiler de scooters. Experiencia de usuario satisfactoria y segura.
-
-## Resultado Deseado:
-- **Objetivo Principal:** Establecer una plataforma centralizada de alquiler de scooters que ofrezca una experiencia conveniente y segura para los usuarios y un modelo de negocio rentable para los proveedores.
-- **Beneficios Esperados:** Mejora en la accesibilidad y conveniencia de las opciones de alquiler de scooters. Incremento en la satisfacción del usuario y en la rentabilidad para los proveedores.
-
-## Hipótesis:
-1. **Hipótesis Principal:** Los usuarios prefieren opciones de movilidad ágil y económica que sean convenientes y seguras.
-   - **Razón de la Hipótesis:** La movilidad urbana ágil y económica es una demanda creciente. La conveniencia y la seguridad son factores clave para los usuarios al elegir un medio de transporte.
-2. **Hipótesis Secundaria:** Los proveedores de scooters eléctricos están dispuestos a participar en una plataforma centralizada de alquiler de scooters si se les ofrece un modelo de negocio rentable y una mayor visibilidad en el mercado.
-   - **Razón de la Hipótesis:** Los proveedores buscan oportunidades para ampliar su base de clientes y optimizar la gestión de su flota de scooters.
-   
-## Métricas:
-- **Número de Usuarios Registrados:** Indica la cantidad de usuarios interesados en el servicio.
-- **Tasa de Conversión de Usuarios a Clientes:** Mide la eficacia en la conversión de usuarios interesados en clientes activos.
-- **Tasa de Retención de Usuarios:** Evalúa la satisfacción y fidelidad de los usuarios con el servicio.
-- **Número de Proveedores Registrados:** Refleja el interés de los proveedores en participar en la plataforma.
-- **Nivel de Satisfacción del Usuario:** Proporciona información sobre la percepción y experiencia del usuario con el servicio.
-
-## Experimentos:
-1. **Encuestas de Usuario:** Para comprender las preferencias y necesidades de los usuarios en términos de movilidad urbana.
-2. **Pruebas de Seguridad y Confiabilidad:** Para evaluar la percepción de seguridad de los usuarios al utilizar scooters eléctricos.
-3. **Entrevistas con Proveedores:** Para explorar el interés y los requisitos de los proveedores para participar en la plataforma.
-4. **Prototipo de Aplicación:** Para recopilar retroalimentación sobre la experiencia del usuario y la transparencia de precios y políticas.
-
-## Resultados:
-- **Validación de Hipótesis:** Confirmación o refutación de las hipótesis planteadas.
-- **Iteración del Diseño:** Mejora continua del diseño y funcionalidades de la plataforma basada en los resultados de los experimentos.
-- **Adquisición de Usuarios y Proveedores:** Aumento en el número de usuarios y proveedores registrados en la plataforma.
-- **Mejora Continua del Servicio:** Optimización constante del servicio para satisfacer las necesidades cambiantes de los usuarios y proveedores.
-
+ <img src="./assets/leanux.png" alt="Josue Hidalgo" width="900" height="600">
 ## 1.3. Segmentos objetivo
 
 Para el desarrollo de FastScooter tenemos como enfoque dos segmentos objetivos:
@@ -749,52 +722,13 @@ Segemento Objetivo 2:
 ### 2.3.1. User Personas
 
 #### User Persona 1: Ana García - Empresas de Delivery
+ <img src="./assets/anagarcia.png" alt="Josue Hidalgo" width="700" height="900">
 
-|                     |                     |
-|---------------------|---------------------|
-| **Nombre:**         | Ana García          |
-| **Edad:**           | 35 años             |
-| **Nacionalidad:**   | Peruana             |
-| **Estado Civil:**   | Soltera             |
-| **Descripción:**    | Gerente de operaciones en una empresa de delivery de comida rápida en Lima Metropolitana. |
-| **Motivación:**     | Mejorar la eficiencia de las operaciones de entrega y reducir los costos operativos. |
-| **Frustraciones:**  | Entregas retrasadas debido al tráfico y altos costos de mantenimiento. |
-| **Objetivos:**      | Optimizar las operaciones de entrega y reducir costos. |
-| **Dispositivos:**   | Computadora de escritorio y teléfono inteligente. |
-| **Redes Sociales:** | [LinkedIn](#), [Twitter](#) |
-| **Etiquetas:**      | #Operaciones #Delivery #Eficiencia |
 
 #### User Persona 2: Juan Pérez - Personas que transitan Lima Metropolitana
 
-|                     |                     |
-|---------------------|---------------------|
-| **Nombre:**         | Juan Pérez          |
-| **Edad:**           | 25 años             |
-| **Nacionalidad:**   | Peruana             |
-| **Estado Civil:**   | Soltero             |
-| **Descripción:**    | Joven estudiante universitario y trabajador a tiempo parcial que vive en Lima Metropolitana. |
-| **Motivación:**     | Encontrar opciones de transporte rápido, económico y respetuoso con el medio ambiente. |
-| **Frustraciones:**  | Tráfico congestionado, altos costos de transporte y falta de estacionamiento. |
-| **Objetivos:**      | Encontrar opciones de transporte rápido, económico y sostenible. |
-| **Dispositivos:**   | Teléfono inteligente y computadora portátil. |
-| **Redes Sociales:** | [LinkedIn](#), [Instagram](#) |
-| **Etiquetas:**      | #Transporte #Lima #Sostenibilidad |
+ <img src="./assets/juanperez.png" alt="Josue Hidalgo" width="700" height="900">
 
-#### User Persona 3: Carlos Sánchez - Personal de Mantenimiento
-
-|                     |                     |
-|---------------------|---------------------|
-| **Nombre:**         | Carlos Sánchez      |
-| **Edad:**           | 40 años             |
-| **Nacionalidad:**   | Peruana             |
-| **Estado Civil:**   | Casado              |
-| **Descripción:**    | Hombre de mediana edad que trabaja como personal de mantenimiento en un edificio de oficinas en Lima Metropolitana. |
-| **Motivación:**     | Garantizar que el edificio donde trabaja esté en las mejores condiciones posibles para los ocupantes y visitantes. |
-| **Frustraciones:**  | Problemas de accesibilidad y transporte ineficiente entre sitios de trabajo. |
-| **Objetivos:**      | Realizar el trabajo de mantenimiento de manera eficiente y efectiva. |
-| **Dispositivos:**   | Teléfono inteligente y tableta/computadora portátil. |
-| **Redes Sociales:** | [LinkedIn](#), [Facebook](#) |
-| **Etiquetas:**      | #Mantenimiento #Edificio #Eficiencia |
 
 ### 2.3.2. User Task Matrix
 
@@ -907,6 +841,9 @@ Segemento Objetivo 2:
 
 ### 2.3.3. User Journey Mapping
 
+ <img src="./assets/journey.png" alt="Josue Hidalgo" width="900" height="600">
+
+
 ### 2.3.4. Empathy Mapping
 
 ### Segmento 1:
@@ -982,6 +919,9 @@ Segemento Objetivo 2:
 |                 |                             |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## 3.3. Impact Mapping
+
+<img src="./assets/juanperezmap.png" alt="Josue Hidalgo" width="1000" height="800">
+<img src="./assets/anagarciamap.png" alt="Josue Hidalgo" width="1000" height="600">
 
 ## 3.4. Product Backlog
 
@@ -1193,16 +1133,20 @@ La información presentada se separa por partes, de tal manera que el usuario en
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
-![IMG-SystemContext-Diagram]()
+![IMG-SystemContext-Diagram](./assets/1_Context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
-![IMG-Container-Diagram]()
+![IMG-Container-Diagram](./assets/2_Container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
-![IMG-Component_1-Diagram]()
-![IMG-Component_2-Diagram]()
-![IMG-Component_3-Diagram]()
-![IMG-Component_4-Diagram]()
+#### User Managment Context
+![IMG-Component_1-Diagram](./assets/3_a-UserComponent.png)
+#### Payment Context
+![IMG-Component_2-Diagram](./assets/3_b-PaymentComponent.png)
+#### Booking Context
+![IMG-Component_3-Diagram](./assets/3_c-BookingComponent.png)
+#### Scooter Inventory Context
+![IMG-Component_4-Diagram](./assets/3_d-ScooterComponent.png)
 
 ## 4.7. Software Object-Oriented Design
 En esta sección, se utilizará el enfoque de diseño orientado a objetos para desarrollar la aplicación web. Asimismo, se aplicarán los principios y conceptos fundamentales de la programación orientada a objetos.
