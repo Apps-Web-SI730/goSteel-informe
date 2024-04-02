@@ -261,6 +261,16 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que utilizamos a diario, como las redes sociales o aplicaciones de productividad.
 
+<img src="./assets/yo.jpeg" alt="Josue Hidalgo" width="200" height="200">
+
+Nombre completo: Josue Hidalgo Bustamante 
+
+Código de estudiante: U202114900
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy estudiante de la UPC,me gusta mucho la tegnologia y los videojuegos
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
