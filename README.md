@@ -265,7 +265,7 @@ Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es
 
 Nombre completo: Josue Hidalgo Bustamante 
 
-Código de estudiante: U202114900
+Código de estudiante: U202119880
 
 Carrera: Ingeniería de Software
 
@@ -322,44 +322,7 @@ Impacto de la contaminación en la salud y economia:
 - Creemos que los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido a su conveniencia y accesibilidad, siempre y cuando la plataforma ofrezca una experiencia de usuario intuitiva y segura.
 
 #### 1.2.2.4. Lean UX Canvas
-
-## Problema:
-- **Descripción:** La falta de opciones accesibles y convenientes para el alquiler de scooters eléctricos representa un obstáculo significativo.
-- **Impacto:** Experiencia fragmentada y poco satisfactoria para los usuarios. Falta de un modelo de negocio rentable para ambas partes.
-
-## Usuarios:
-- **Descripción:** Usuarios interesados en la movilidad urbana ágil y económica, así como proveedores de scooters eléctricos.
-- **Necesidades:** Acceso conveniente a opciones de alquiler de scooters. Experiencia de usuario satisfactoria y segura.
-
-## Resultado Deseado:
-- **Objetivo Principal:** Establecer una plataforma centralizada de alquiler de scooters que ofrezca una experiencia conveniente y segura para los usuarios y un modelo de negocio rentable para los proveedores.
-- **Beneficios Esperados:** Mejora en la accesibilidad y conveniencia de las opciones de alquiler de scooters. Incremento en la satisfacción del usuario y en la rentabilidad para los proveedores.
-
-## Hipótesis:
-1. **Hipótesis Principal:** Los usuarios prefieren opciones de movilidad ágil y económica que sean convenientes y seguras.
-   - **Razón de la Hipótesis:** La movilidad urbana ágil y económica es una demanda creciente. La conveniencia y la seguridad son factores clave para los usuarios al elegir un medio de transporte.
-2. **Hipótesis Secundaria:** Los proveedores de scooters eléctricos están dispuestos a participar en una plataforma centralizada de alquiler de scooters si se les ofrece un modelo de negocio rentable y una mayor visibilidad en el mercado.
-   - **Razón de la Hipótesis:** Los proveedores buscan oportunidades para ampliar su base de clientes y optimizar la gestión de su flota de scooters.
-   
-## Métricas:
-- **Número de Usuarios Registrados:** Indica la cantidad de usuarios interesados en el servicio.
-- **Tasa de Conversión de Usuarios a Clientes:** Mide la eficacia en la conversión de usuarios interesados en clientes activos.
-- **Tasa de Retención de Usuarios:** Evalúa la satisfacción y fidelidad de los usuarios con el servicio.
-- **Número de Proveedores Registrados:** Refleja el interés de los proveedores en participar en la plataforma.
-- **Nivel de Satisfacción del Usuario:** Proporciona información sobre la percepción y experiencia del usuario con el servicio.
-
-## Experimentos:
-1. **Encuestas de Usuario:** Para comprender las preferencias y necesidades de los usuarios en términos de movilidad urbana.
-2. **Pruebas de Seguridad y Confiabilidad:** Para evaluar la percepción de seguridad de los usuarios al utilizar scooters eléctricos.
-3. **Entrevistas con Proveedores:** Para explorar el interés y los requisitos de los proveedores para participar en la plataforma.
-4. **Prototipo de Aplicación:** Para recopilar retroalimentación sobre la experiencia del usuario y la transparencia de precios y políticas.
-
-## Resultados:
-- **Validación de Hipótesis:** Confirmación o refutación de las hipótesis planteadas.
-- **Iteración del Diseño:** Mejora continua del diseño y funcionalidades de la plataforma basada en los resultados de los experimentos.
-- **Adquisición de Usuarios y Proveedores:** Aumento en el número de usuarios y proveedores registrados en la plataforma.
-- **Mejora Continua del Servicio:** Optimización constante del servicio para satisfacer las necesidades cambiantes de los usuarios y proveedores.
-
+ <img src="./assets/leanux.png" alt="Josue Hidalgo" width="600" height="600">
 ## 1.3. Segmentos objetivo
 
 Para el desarrollo de FastScooter tenemos como enfoque dos segmentos objetivos:
