@@ -46,8 +46,8 @@
             <td>U201718387</td>
         </tr>	
         <tr>
-            <td>Apellido Apellido, Nombre Nombre</td>
-            <td>uxxxxxxxxx</td>
+            <td>Huachaca Advincula, Scott Jacobo</td>
+            <td>U201914294</td>
         </tr>
         <tr>
             <td>Apellido Apellido, Nombre Nombre</td>
