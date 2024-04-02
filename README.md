@@ -269,7 +269,7 @@ Código de estudiante: U202114900
 
 Carrera: Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC,me gusta mucho la tegnologia y los videojuegos
+Acerca de mí: Soy estudiante de la UPC,me gusta mucho la tecnologia y los videojuegos
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
