@@ -1158,16 +1158,20 @@ La información presentada se separa por partes, de tal manera que el usuario en
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
-![IMG-SystemContext-Diagram]()
+![IMG-SystemContext-Diagram](./assets/1_Context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
-![IMG-Container-Diagram]()
+![IMG-Container-Diagram](./assets/2_Container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
-![IMG-Component_1-Diagram]()
-![IMG-Component_2-Diagram]()
-![IMG-Component_3-Diagram]()
-![IMG-Component_4-Diagram]()
+#### User Managment Context
+![IMG-Component_1-Diagram](./assets/3_a-UserComponent.png)
+#### Payment Context
+![IMG-Component_2-Diagram](./assets/3_b-PaymentComponent.png)
+#### Booking Context
+![IMG-Component_3-Diagram](./assets/3_c-BookingComponent.png)
+#### Scooter Inventory Context
+![IMG-Component_4-Diagram](./assets/3_d-ScooterComponent.png)
 
 ## 4.7. Software Object-Oriented Design
 En esta sección, se utilizará el enfoque de diseño orientado a objetos para desarrollar la aplicación web. Asimismo, se aplicarán los principios y conceptos fundamentales de la programación orientada a objetos.
