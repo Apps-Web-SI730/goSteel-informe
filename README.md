@@ -264,6 +264,41 @@ Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
+En entornos urbanos el tráfico y la contaminación representan desafíos importantes, con congestiones viales que aumentan el estrés y emiten gases nocivos, afectando la salud pública y el medio ambiente. Frente a esto *GoStell* identficó que se necesitan soluciones sostenibles, como el transporte público y medios de movilidad alternativos, junto con políticas urbanas que reduzcan el tráfico y las emisiones.
+
+**What?**
+
+La renta de scooters es un proceso donde las personas dentro de Lima Metropolitana adquieren una alternativa de transportes frente a la problemática del congestionamiento vehicular y la conciencia ambiental. La contribución al medio ambiente se refiere a la idea de que esta práctica puede tener un impacto positivo en el entorno, al reducir el uso de automóviles que emiten gases como el dióxido de carbono provocando polución.
+
+**Who?**
+
+Nuestro enfoque principal son las personas que transitan dentro de Lima Metropolitana. Esto puede incluir:
+- Residentes locales que quieren un transporte para uso diaro.
+- Turistas extranjeros y locales, para realizar turismo por las calles o incentivar diferentes actividades.
+- Personas dueñas de empresas delivery o que ofrecen este tipo de servicio para la entrega de sus productos.
+
+**When?**
+
+La renta de scooters solo estará disponible durante la duración de 15 horas, desde las 7 de la mañana hasta las 10 de la noche, considerando el timing de personas que mayormente transitan por esas zonas. 
+
+**Where?**
+
+Dentro de la zona de Lima Metropolitana
+
+**Why?**
+
+
+Antecedentes: La industria de la moda es conocida por su impacto ambiental negativo debido a la producción masiva y la generación de desechos textiles.
+Problemática: La compra y venta de ropa usada en ventas de garaje busca abordar esta problemática al extender la vida útil de las prendas y reducir la necesidad de comprar ropa nueva, lo que puede disminuir la presión sobre los recursos naturales y reducir los residuos textiles.
+
+**How?**
+
+Las personas organizan ventas de garaje para vender su ropa usada, y los compradores pueden adquirir prendas a precios asequibles. Esto se realiza a través de anuncios en línea, redes sociales u otros métodos de publicidad.
+
+**How Much?**
+
+El impacto en la contribución al medio ambiente puede variar, pero el potencial para reducir la producción y el desperdicio de ropa nueva es significativo si más personas participan en la compra y venta de ropa usada en ventas de garaje.
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 Para los usuarios interesados en la movilidad urbana ágil y económica, la falta de opciones accesibles y convenientes para el alquiler de scooters representa un obstáculo significativo. Actualmente, las alternativas disponibles carecen de una plataforma centralizada que facilite el contacto entre los usuarios y los proveedores, lo que conduce a una experiencia fragmentada y poco satisfactoria. Además, la ausencia de un modelo de negocio rentable para ambas partes impide el desarrollo de un ecosistema de alquiler de scooters sostenible y efectivo. Esta falta de solución integral obstaculiza tanto a los usuarios que buscan una alternativa de movilidad eficiente como a empresas de delivery que buscan una opcion de transporte para sus empleados que sea tanto económica como sostenible.
