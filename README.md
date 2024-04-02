@@ -806,6 +806,9 @@ Segemento Objetivo 2:
 
 ### 2.3.3. User Journey Mapping
 
+ <img src="./assets/journey.png" alt="Josue Hidalgo" width="900" height="600">
+
+
 ### 2.3.4. Empathy Mapping
 
 ### Segmento 1:
