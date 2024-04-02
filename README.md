@@ -41,6 +41,10 @@
             <td>Minaya Mundines, Pietro Minayat</td>
             <td>U201718387</td>
         </tr>
+	 <tr>
+            <td>Adrianzén Flores, Carlos Arturo</td>
+            <td>U201718387</td>
+        </tr>	
         <tr>
             <td>Apellido Apellido, Nombre Nombre</td>
             <td>uxxxxxxxxx</td>
