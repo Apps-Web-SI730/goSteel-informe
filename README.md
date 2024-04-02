@@ -311,14 +311,7 @@ Para los usuarios interesados en la movilidad urbana ágil y económica, la falt
 
 ## 1.3. Segmentos objetivo
 
->**Empresas delivery**
-
-Las empresas delivery o con servicio delivery en Lima metropolitana son un enfoque importante para nuestro producto, ya que *FastScooter* les da como beneficio la **eficiencia en la entrega**. Debido a que los scooters son vehículos pequeños y ágiles, consiguen acceder a áreas de la ciudad a las que los automóviles no pueden llegar fácilmente haciendo que las entregas sean más rápidas y cumplan con los plazos acordados sin que el tráfico congestionado de Lima Metropolitana sea un problema.
-
-Asimismo, resuelve el problema de la **reducción de costos operativos**, puesto que al hacer uso de scooters en lugar de vehículos más grandes ocasionan que los costos operativos asociados con el mantenimiento y el combustible disminuya, lo que puede ser beneficioso para las empresas de entrega en términos de rentabilidad. A su vez, alquilar scooters en lugar de comprarlos puede proporcionar a las empresas de entrega la flexibilidad de aumentar o reducir su flota según la demanda, lo que les permite ajustarse a los cambios estacionales o a las fluctuaciones en la demanda del mercado.
-
-Además de estas razones empresariales, también existe una mejora en la **sostenibilidad ambiental**. El uso de scooters eléctricos produce bajas emisiones de polución lo que ayuda a reducir la huella de carbono de las operaciones de entrega de la empresa y esto es un punto de venta importante para aquellas empresas que buscan mejorar su imagen y compromiso con el ambiente.
-
+Para el desarrollo de FastScooter tenemos como enfoque dos segmentos objetivos:
 
 >**Personas que transitan Lima Metropolitana**
 
@@ -329,6 +322,14 @@ Además, al ser un servicio *eco-friendly*, aporta al **cuidado de nuestro medio
 Por otro lado, según RPP (2020), la mayoría de los ciudadanos no poseen un vehículo propio y en comparación con otros países de Latianoamérica, Perú cuenta con una cantidad de autos menor al promedio. El alquiler de scooters es una opción conveniente y flexible para desplazarse por la ciudad. Pueden usar los scooters para viajes cortos o esporádicos sin la necesidad de comprometerse con la propiedad y el mantenimiento de un vehículo.
 
 Por último, la renta de scooters estimula el turismo en la **realización de actividades** recreativas entre Los residentes locales y turistas, desde paseos por el vecindario a visitas a parques locales o exploración de lugares de interés turístico dentro de la ciudad.
+
+>**Empresas delivery**
+
+Las empresas delivery o con servicio delivery en Lima metropolitana son un enfoque importante para nuestro producto, ya que *FastScooter* les da como beneficio la **eficiencia en la entrega**. Debido a que los scooters son vehículos pequeños y ágiles, consiguen acceder a áreas de la ciudad a las que los automóviles no pueden llegar fácilmente haciendo que las entregas sean más rápidas y cumplan con los plazos acordados sin que el tráfico congestionado de Lima Metropolitana sea un problema.
+
+Asimismo, resuelve el problema de la **reducción de costos operativos**, puesto que al hacer uso de scooters en lugar de vehículos más grandes ocasionan que los costos operativos asociados con el mantenimiento y el combustible disminuya, lo que puede ser beneficioso para las empresas de entrega en términos de rentabilidad. A su vez, alquilar scooters en lugar de comprarlos puede proporcionar a las empresas de entrega la flexibilidad de aumentar o reducir su flota según la demanda, lo que les permite ajustarse a los cambios estacionales o a las fluctuaciones en la demanda del mercado.
+
+Además de estas razones empresariales, también existe una mejora en la **sostenibilidad ambiental**. El uso de scooters eléctricos produce bajas emisiones de polución lo que ayuda a reducir la huella de carbono de las operaciones de entrega de la empresa y esto es un punto de venta importante para aquellas empresas que buscan mejorar su imagen y compromiso con el ambiente.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
@@ -606,7 +607,9 @@ Por último, la renta de scooters estimula el turismo en la **realización de ac
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
-Segmento Objetivo 1 (Usuario Scooter)
+
+>**Segmento Objetivo 1: Personas que transitan Lima Metropolitana**
+
 1. ¿Con qué frecuencia utilizas scooters como medio de transporte?
 2. ¿Cuáles crees que son los principales beneficios de usar scooters en comparación con otros medios de transporte, como automóviles o bicicletas?
 3. ¿Has experimentado algún desafío o limitación al usar scooters en tu distrito?
@@ -617,6 +620,20 @@ Segmento Objetivo 1 (Usuario Scooter)
 8. ¿Qué características te gustaría ver en una aplicación de alquiler de scooters para que sea más fácil y conveniente para ti?
 9. ¿Qué medidas de seguridad consideras importantes al alquilar y usar scooters, tanto para ti como para otros usuarios y peatones?
 10. ¿Crees que seguirás utilizando scooters como medio de transporte en el futuro?
+
+>**Segmento Objetivo 2: Empresas delivery**
+
+1. Actualmente, ¿cuál es el medio de transporte que usted utiliza para realizar el servicio delivery?
+2. ¿Cuáles son los principales desafíos que enfrentan al hacer las entregas?
+3. ¿Qué le parece la idea de implementar scooters en su servicio de delivery?
+4. ¿Qué características buscan en una plataforma web para gestionar el alquiler de scooters?
+5. ¿Qué medidas tomarían para garantizar el mantenimiento adecuado de los scooters?
+6. ¿Cómo manejarían el seguimiento de la ubicación de los scooters y su disponibilidad para los repartidores?
+7. ¿Qué opciones de personalización necesitarían en la plataforma web para adaptarse a las necesidades específicas de su empresa?
+8. ¿Qué integraciones con otras herramientas o sistemas consideran importantes para optimizar sus operaciones de entrega?
+9. ¿Cuáles son los criterios clave que utilizan para evaluar el rendimiento de la plataforma web y cómo los aplican en su negocio?
+10. Si yo le propongo una aplicación web con todas estas características y funciones usted la utilizaría?
+
 
 ### 2.2.2. Registro de entrevistas
 
@@ -632,7 +649,7 @@ Distrito: San Isidro
 
 <img src="./assets/interview-pietro.png" alt="Entrevista Pietro" width="600" height="300">
 
-[URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
+[URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/ 201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
 
 Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial. Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos. Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad.
 
