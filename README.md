@@ -30,8 +30,8 @@
             </td>
         </tr>
 		<tr>
-			<td>Apellido Apellido, Nombre Nombre</td>
-            <td>Hidalgo Bustamante, Josue Omar</td>
+			<td>Hidalgo Bustamante Josue Omar</td>
+            <td>u202119880</td>
 		</tr>
         <tr>
             <td>Barrial Marin, Sharon Antuanet Ivet</td>
