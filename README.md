@@ -293,21 +293,21 @@ La renta de scooters solo estará disponible durante la duración de 15 horas, d
 
 **Where?**
 
-Dentro de la zona de Lima Metropolitana
+La renta de scooters estará premitida dentro de toda la zona de Lima Metropolitana, cada vez que un usuario inicie sesión en nuestra aplicación  y alquile un scooter.
 
 **Why?**
 
+- **Antecedentes:** El uso de automóviles que emiten gas de carbono es conocido por su impacto ambiental negativo debido a la producción masiva de sus componentes en fábricas y al uso cotidiano como transporte.
 
-Antecedentes: La industria de la moda es conocida por su impacto ambiental negativo debido a la producción masiva y la generación de desechos textiles.
-Problemática: La compra y venta de ropa usada en ventas de garaje busca abordar esta problemática al extender la vida útil de las prendas y reducir la necesidad de comprar ropa nueva, lo que puede disminuir la presión sobre los recursos naturales y reducir los residuos textiles.
+- **Problemática:** La renta de scooters busca abordar la problemática de la carencia de transportes ágiles y eco-friendly, reduciendo el uso de trasnportes que tanto en su producción como en su uso final, generan mucho impacto negativo en nuestro medio ambiente
 
 **How?**
 
-Las personas organizan ventas de garaje para vender su ropa usada, y los compradores pueden adquirir prendas a precios asequibles. Esto se realiza a través de anuncios en línea, redes sociales u otros métodos de publicidad.
+Las personas que se registran a nuestra aplicación pueden acceder a la función de aquilar los scooters de nuestros provedores.
 
 **How Much?**
 
-El impacto en la contribución al medio ambiente puede variar, pero el potencial para reducir la producción y el desperdicio de ropa nueva es significativo si más personas participan en la compra y venta de ropa usada en ventas de garaje.
+El impacto en la contribución al medio ambiente puede variar, pero el potencial para reducir la producción y la polución que generan los automóviles al emitir gases de dióxido de carbono.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
@@ -358,6 +358,7 @@ Impacto de la contaminación en la salud y economia:
 
 #### 1.2.2.4. Lean UX Canvas
  <img src="./assets/leanux.png" alt="Josue Hidalgo" width="900" height="600">
+ 
 ## 1.3. Segmentos objetivo
 
 Para el desarrollo de FastScooter tenemos como enfoque dos segmentos objetivos:
@@ -919,6 +920,7 @@ Segemento Objetivo 2:
 |                 |                             |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## 3.3. Impact Mapping
+
 
 <img src="./assets/juanperezmap.png" alt="Josue Hidalgo" width="1000" height="800">
 <img src="./assets/anagarciamap.png" alt="Josue Hidalgo" width="1000" height="600">
