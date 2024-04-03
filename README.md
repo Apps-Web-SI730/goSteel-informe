@@ -912,6 +912,205 @@ Segemento Objetivo 2:
 
 ## 3.2. User Stories
 
+Para elaborar user stories que pertenecen a un epic. A continuación, las epics que consideramos como equipo:
+
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1">Código</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Epic</td>
+		</tr>
+		<tr>
+            <td colspan="1">EP001</td>
+            <td colspan="1">....</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP002</td>
+            <td colspan="1">....</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP003</td>
+            <td colspan="1">....</td>
+            <td colspan="1">...</td>
+		</tr>
+	</tbody>
+</table>
+
+A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Epica:
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1">ID de Historia de Usuario</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Descripción</td>
+            <td colspan="1">Criterios de Aceptación con Escenarios	</td>
+            <td colspan="1">ID de Épica</td>
+		</tr>
+		<tr>
+            <td colspan="1">US001</td>
+            <td colspan="1">
+            Registro de usuarios clientes en la plataforma
+            </td>
+            <td colspan="1">
+            <strong>Como</strong> usuario clientes <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
+            </td>
+            <td colspan="1">
+            <strong>E01: Registro Exitoso</strong>
+            <br><br>
+            <strong><u>Caso 01: Registro con e-mail</u></strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario cliente ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario cliente selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario cliente llene todo el formulario con sus datos
+            <br>
+            <strong>Y</strong> el usuario cliente seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema verifique los datos colocados por el usuario cliente
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que su cuenta ha sido registrada exitosamente.
+            <br><br>
+            <strong>E02: Registro Fallido</strong>
+            <br><br>
+            <u><strong>Caso 01: Datos inválidos</strong></u>
+            <br><br>
+            <strong>Dado que</strong> el usuario cliente ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario cliente selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario cliente llene todo el formulario con sus datos
+            <br>
+            <strong>Y</strong> el usuario cliente seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
+            <br><br>
+            <u><strong>Caso 02: Datos incompletos</strong></u>
+            <br><br>
+            <strong>Dado que</strong> el usuario cliente ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario cliente selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario cliente llene solo algunas partes del formulario con sus datos
+            <br>
+            <strong>Y</strong> el usuario cliente seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
+            <br><br>
+            </td>
+            <td colspan="1">EP01</td>
+		</tr>
+        <tr>
+            <td colspan="1">US002</td>
+            <td colspan="1">Registro de empresas deliverys en la plataforma</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.
+            </td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US003</td>
+            <td colspan="1">Inicio de sesión de usuarios estudiante en la plataforma</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US003</td>
+            <td colspan="1">Inicio de sesión de instituciones educativas en la plataforma</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US004</td>
+            <td colspan="1">Recuperación de contraseña para usuarios registrados</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US005</td>
+            <td colspan="1">Búsqueda de una rama de matemática</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US006</td>
+            <td colspan="1">Elección de una rama de matemática</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US006</td>
+            <td colspan="1">Búsqueda de una unidad</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US007</td>
+            <td colspan="1">Elección de una unidad</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US008</td>
+            <td colspan="1">Elección de un tema</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US009</td>
+            <td colspan="1">Elección de categoría</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US010</td>
+            <td colspan="1">Inicio del juego de preguntas con respecto a la categoría y el tema seleccionado</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US011</td>
+            <td colspan="1">Inicio del juego de preguntas con respecto a la categoría y el tema seleccionado</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US012</td>
+            <td colspan="1"></td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+	</tbody>
+</table>
+
 | Epic / Story ID | Titulo                                                     | Descripcion | Criterios de Aceptacion                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-----------------|------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | US01            | Registro de usuario                                        |             | __Escenario: Registro de usuario__ <br/> Given que estoy en la pagina de registro de usuario <br/> When ingreso mis datos en el formualario <br/> And presiono el boton de registro <br/> Then ya deberia tener una cuenta ya creada                                                                                                                                                                                                                                                                                           |
