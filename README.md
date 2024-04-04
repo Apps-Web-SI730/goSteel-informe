@@ -924,17 +924,42 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 		</tr>
 		<tr>
             <td colspan="1">EP001</td>
-            <td colspan="1">....</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Autenticación y registro de usuarios</td>
+            <td colspan="1"><strong>Como</strong></td>
 		</tr>
         <tr>
             <td colspan="1">EP002</td>
-            <td colspan="1">....</td>
+            <td colspan="1">Administración de cuentas de usuario</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
             <td colspan="1">EP003</td>
-            <td colspan="1">....</td>
+            <td colspan="1">Gestión de flota de scooters</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP004</td>
+            <td colspan="1">Operación de pagos</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP005</td>
+            <td colspan="1">Integración con Servicios Externos</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP006</td>
+            <td colspan="1">Gestión de reservas de scooters</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP007</td>
+            <td colspan="1">Manejo del historial de viajes</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP008</td>
+            <td colspan="1">Soporte del cliente</td>
             <td colspan="1">...</td>
 		</tr>
 	</tbody>
@@ -962,7 +987,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">
             <strong>E01: Registro Exitoso</strong>
             <br><br>
-            <strong><u>Caso 01: Registro con e-mail</u></strong>
+            <strong>Caso 01: Registro con e-mail</strong>
             <br><br>
             <strong>Dado que</strong> el usuario cliente ingresa por primera vez a la aplicación
             <br>
@@ -980,7 +1005,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>E02: Registro Fallido</strong>
             <br><br>
-            <u><strong>Caso 01: Datos inválidos</strong></u>
+            <strong>Caso 01: Datos inválidos</strong>
             <br><br>
             <strong>Dado que</strong> el usuario cliente ingresa por primera vez a la aplicación
             <br>
@@ -996,7 +1021,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
             <br><br>
-            <u><strong>Caso 02: Datos incompletos</strong></u>
+            <strong>Caso 02: Datos incompletos</strong>
             <br><br>
             <strong>Dado que</strong> el usuario cliente ingresa por primera vez a la aplicación
             <br>
