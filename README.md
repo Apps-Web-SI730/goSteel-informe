@@ -1128,32 +1128,344 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US012</td>
-            <td colspan="1"></td>
+            <td colspan="1">Buscar scooters disponibles </td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
+        <tr>
+            <td colspan="1">US013</td>
+            <td colspan="1">Cancelacion de reserva</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> poder cancelar una reserva 
+            <br>
+            <strong>para</strong> no incurrir en gastos por un servicio que no voy a utilizar.
+            </td>
+            <td colspan="1">
+            <strong>E01: Cancelación exitosa</strong>
+            <br><br>
+            <strong><u>Caso 01: Usuario cancela una reserva exitosamente</u></strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario tiene almenos una reserva activa
+            <br>
+            <strong>Cuando</strong> el usuario selecciona la opcion de cancelar reserva y confirma la cancelacion
+            <br>
+            <strong>Entonces</strong> se muestra un mensaje de "Reserva cancelada exitosamente" y la reserva ya no aparece en su lista de reservas activas
+            <br>
+            <br>
+            <strong>E02: Cancelacion fuera del tiempo limite</strong>
+            <br><br>
+            <strong><u>Caso 01: Usuario intenta cancelar una reserva fuera del tiempo límite para cancelaciones</u></strong>
+            <br><br>
+            <strong>Dado que</strong> la politica de cancelacion permite cancelar hasta 1 hora antes de la hora de inicio de la reserva
+            <br>
+            <strong>Cuando</strong> el usuario intenta cancelar la reserva fuera del tiempo limite que permite la cancelacion de la reserva
+            <br>
+            <strong>Entonces</strong> se muestra un mensaje de "No se puede cancelar la reserva, se ha superado el tiempo límite de cancelación" y la reserva se mantiene en su lista de reservas activas
+            </td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US014</td>
+            <td colspan="1">Visualizacion de perfil</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> poder visualizar mi perfil 
+            <br>
+            <strong>para</strong> revisar y confirmar mis datos personales y de usuario
+            </td>
+            <td colspan="1">
+            <strong>E01: Visualización de datos del perfil</strong>
+            <br><br>
+            <strong><u>Caso 01: Usuario accede a la visualización de su perfil</u></strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario ha iniciado sesión en la aplicación
+            <br>
+            <strong>Cuando</strong> el usuario selecciona la opción de "Mi Perfil"
+            <br>
+            <strong>Entonces</strong> se muestra su información de perfil incluyendo nombre, correo electrónico y historial de reservas
+            <br>
+            <br>
+            <strong>E02: Actualización reciente reflejada en perfil</strong>
+            <br><br>
+            <strong><u>Caso 01: Usuario visualiza cambios recientes en su perfil</u></strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario ha actualizado recientemente su información de perfil
+            <br>
+            <strong>Cuando</strong> el usuario accede a "Mi Perfil" después de realizar cambios
+            <br>
+            <strong>Entonces</strong> se muestra su información actualizada de perfil incluyendo los cambios recientes
+            </td>
+            <td colspan="1">...</td> 
+		</tr>
+        <tr>
+            <td colspan="1">US015</td>
+            <td colspan="1">Seguridad de informacion</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> tener la seguridad de que mis datos personales 
+            <br>
+            <strong>para</strong> evitar accesos no autorizados y proteger mi privacidad
+            </td>
+            <td colspan="1">
+            <strong>E01: Gestión de credenciales seguras</strong>
+            <br><br>
+            <strong><u>Caso 01: Asegurar la gestión segura de las credenciales de acceso</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios deben proporcionar credenciales de acceso
+            <br>
+            <strong>Cuando</strong> un usuario crea una cuenta o actualiza su contraseña
+            <br>
+            <strong>Entonces</strong> se deben aplicar requisitos de seguridad mínimos para las contraseñas, como longitud y complejidad para tener una contraseña mas segura
+            </td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US016</td>
+            <td colspan="1">Gestion de pagos</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> tener un proceso de pago seguro y eficiente
+            <br>
+            <strong>para</strong> poder realizar reservas de scooters de manera rápida y confiable
+            </td>
+            <td colspan="1">
+            <strong>E01: Opciones de pago seguras</strong>
+            <br><br>
+            <strong><u>Caso 01: Proporcionar opciones de pago seguras para los usuarios</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios necesitan realizar pagos de manera segura
+            <br>
+            <strong>Cuando</strong> un usuario está realizando una reserva
+            <br>
+            <strong>Entonces</strong> se deben ofrecer opciones de pago seguras, como tarjetas de crédito/débito o métodos de pago en línea confiables
+            <br><br>
+            <strong>E02: Confirmación de pago exitoso</strong>
+            <br><br>
+            <strong><u>Caso 01: Confirmar el éxito del pago después de una reserva</u></strong>
+            <br><br>
+            <strong>Dado que</strong> un usuario ha realizado un pago para una reserva
+            <br>
+            <strong>Cuando</strong> se completa con éxito el pago de una reserva
+            <br>
+            <strong>Entonces</strong> se debe mostrar un mensaje de confirmación de pago exitoso
+            <br><br>
+            <strong><u>Caso 02: Pagos que no se pudieron completar</u></strong>
+            <br><br>
+            <strong>Dado que</strong> un usuario intenta realizar un pago pero falla
+            <br>
+            <strong>Cuando</strong> un pago no se puede completar debido a un problema con la tarjeta u otro motivo
+            <br>
+            <strong>Entonces</strong> se debe notificar al usuario sobre el pago fallido
+            </td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US017</td>
+            <td colspan="1">Actualizacion de perfil</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> poder actualizar mi información de perfil
+            <br>
+            <strong>para</strong> mantener mis datos personales actualizados y precisos
+            </td>
+            <td colspan="1">
+            <strong>E01: Edición de información del perfil</strong>
+            <br><br>
+            <strong><u>Caso 01: Permitir a los usuarios editar su información de perfil</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios pueden necesitar actualizar su información personal
+            <br>
+            <strong>Cuando</strong> un usuario accede a la página de configuración de perfil
+            <br>
+            <strong>Entonces</strong> se deben proporcionar campos editables para actualizar la información
+            <br><br>
+             <strong>E02: Confirmación de actualización exitosa</strong>
+            <br><br>
+            <strong><u>Caso 01: Confirmar la actualización exitosa del perfil</u></strong>
+            <br><br>
+            <strong>Dado que</strong> un usuario ha realizado cambios en su perfil
+            <br>
+            <strong>Cuando</strong> un usuario guarda los cambios realizados en su perfil
+            <br>
+            <strong>Entonces</strong> se debe mostrar un mensaje de confirmación de que la actualización se ha realizado con éxito
+            </td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US018</td>
+            <td colspan="1">Marcar scooters favoritos</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> poder marcar scooters como favoritos
+            <br>
+            <strong>para</strong> acceder rápidamente a mis opciones preferidas y realizar reservas más fácilmente
+            </td>
+            <td colspan="1">
+            <strong>E01: Marcar un scooter como favorito</strong>
+            <br><br>
+            <strong><u>Caso 01: Permitir a los usuarios marcar un scooter como favorito</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios desean guardar scooters específicos para futuras referencias
+            <br>
+            <strong>Cuando</strong> un usuario visualiza un scooter en la aplicación y selecciona la opción de "Marcar como favorito"
+            <br>
+            <strong>Entonces</strong> el scooter se agrega a la lista de favoritos del usuario
+            </td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US019</td>
+            <td colspan="1">Reseña sobre la experiencia sobre el scooter</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> poder dejar una reseña sobre mi experiencia con un scooter
+            <br>
+            <strong>para</strong> compartir mi opinión con otros usuarios y ayudarles a tomar decisiones informadas
+            </td>
+            <td colspan="1">
+            <strong>E01: Dejar una reseña después de usar un scooter</strong>
+            <br><br>
+            <strong><u>Caso 01: Permitir a los usuarios dejar una reseña después de usar un scooter</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios han utilizado un scooter para realizar un viaje
+            <br>
+            <strong>Cuando</strong> un usuario finaliza su viaje con un scooter
+            <br>
+            <strong>Entonces</strong> se le ofrece la opción de dejar una reseña sobre su experiencia con el scooter
+            <br><br>
+            <strong>E02: Calificación de la experiencia</strong>
+            <br><br>
+            <strong><u>Caso 01: Permitir a los usuarios calificar su experiencia con el scooter</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios desean proporcionar una evaluación rápida de su experiencia
+            <br>
+            <strong>Cuando</strong> un usuario deja una reseña sobre su experiencia con el scooter
+            <br>
+            <strong>Entonces</strong> se le solicita que proporcione una calificación, que puede ser en forma de estrellas o puntos numéricos
+            <br><br>
+            <strong>E03: Visualización de reseñas</strong>
+            <br><br>
+            <strong><u>Caso 01: Permitir a los usuarios ver las reseñas dejadas por otros usuarios</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios desean tomar decisiones informadas basadas en las experiencias de otros
+            <br>
+            <strong>Cuando</strong> un usuario busca información sobre un scooter específico
+            <br>
+            <strong>Entonces</strong> se le muestra una lista de reseñas dejadas por otros usuarios sobre ese scooter
+            </td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US020</td>
+            <td colspan="1">Visualizacion de zonas de recojo y entrega de los scooters</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> poder ver las zonas designadas para recojo y entrega de scooters
+            <br>
+            <strong>para</strong> cplanificar mi viaje y encontrar fácilmente el punto de inicio y fin de mi alquiler
+            </td>
+            <td colspan="1">
+            <strong>E01: Visualización de zonas en el mapa</strong>
+            <br><br>
+            <strong><u>Caso 01: Permitir a los usuarios ver las zonas de recojo y entrega en un mapa</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios necesitan localizar las zonas de recojo y entrega
+            <br>
+            <strong>Cuando</strong> un usuario abre la aplicación y accede a la sección de recojo y entrega de scooters
+            <br>
+            <strong>Entonces</strong> se muestra un mapa que indica las zonas designadas para recojo y entrega
+            </td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US021</td>
+            <td colspan="1">Historial de reservas</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> poder acceder a un historial de mis reservas anteriores
+            <br>
+            <strong>para</strong> tener un registro de mis viajes pasados 
+            </td>
+            <td colspan="1">
+            <strong>E01: Mostrar el apartado de historial de reservas</strong>
+            <br><br>
+            <strong><u>Caso 01: Mostrar detalles específicos de cada reserva en el historial </u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios pueden necesitar información detallada sobre sus reservas pasadas
+            <br>
+            <strong>Cuando</strong> un usuario selecciona una reserva específica en su historial
+            <br>
+            <strong>Entonces</strong> se muestran detalles detallados de esa reserva
+            <br><br>
+            <strong><u>Caso 02: No visualizar ninguna reserva en el historial</u></strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario todavia no haya realizado ninguna reserva
+            <br>
+            <strong>Cuando</strong> entre al apartado de historial de reserva
+            <br>
+            <strong>Entonces</strong> no le aparecera ninguna reserva en el historial
+            </td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US022</td>
+            <td colspan="1">Personalizacion de la interfaz de usuario</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> poder personalizar la interfaz de usuario según mis preferencias
+            <br>
+            <strong>para</strong> adaptarla a mis necesidades y mejorar mi experiencia de uso
+            </td>
+            <td colspan="1">
+            <strong>E01: Selección de tema de color</strong>
+            <br><br>
+            <strong><u>Caso 01: Permitir a los usuarios seleccionar un tema de color para la interfaz</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios pueden tener preferencias de diseño específicas
+            <br>
+            <strong>Cuando</strong> un usuario accede a la configuración de la aplicación
+            <br>
+            <strong>Entonces</strong> se le proporciona la opción de seleccionar un tema de color predefinido
+            </td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US023</td>
+            <td colspan="1">Reporte de problemas</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la aplicación 
+            <br>
+            <strong>quiero</strong> poder reportar problemas que encuentre durante el uso de la aplicación web
+            <br>
+            <strong>para</strong> informar a los administradores sobre posibles errores o situaciones que requieran atención
+            </td>
+            <td colspan="1">
+            <strong>E01: Acceso al formulario de reporte</strong>
+            <br><br>
+            <strong><u>Caso 01: Permitir a los usuarios acceder al formulario de reporte de problemas</u></strong>
+            <br><br>
+            <strong>Dado que</strong> los usuarios pueden encontrar problemas durante el uso de la aplicación web
+            <br>
+            <strong>Cuando</strong> un usuario encuentra un problema y desea reportarlo
+            <br>
+            <strong>Entonces</strong> se le proporciona una forma clara de acceder al formulario de reporte de la aplicación
+            </td>
+            <td colspan="1">...</td>
+		</tr>
 	</tbody>
 </table>
-
-| Epic / Story ID | Titulo                                                     | Descripcion | Criterios de Aceptacion                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|-----------------|------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| US01            | Registro de usuario                                        |             | __Escenario: Registro de usuario__ <br/> Given que estoy en la pagina de registro de usuario <br/> When ingreso mis datos en el formualario <br/> And presiono el boton de registro <br/> Then ya deberia tener una cuenta ya creada                                                                                                                                                                                                                                                                                           |
-| US02            | Inicio de sesion                                           |             | __Escenario: Inicio de sesion exitoso__ <br/> Given que estoy en la pgina de inicio de session <br/> When ingreso mi correo y contraseña <br/> And presiono el boton de inicio de sesion <br/> Then debo ser redigido a la pagina principal  __Escenario: Inicio de sesion fallida__ <br/> Given que estoy en la pagina de inicio de sesion <br/> When ingreso credenciales incorrectas <br/> And presiono el boton de inicio de sesion <br/> Then debo ver un mensaje de error indicando que las credenciones son incorrectas |
-| US03            | Buscar scooters disponibles                                |             | __Escenario: Usuario busca scooters disponibles__ <br/> Given el usuario esta en la pagina principal <br/> When el usuario accede a la pagina de busqueda <br/> And aplique los filtros necesario deacuerdo a sus necesidades <br/> Then deberia ver todos scooters disponibles                                                                                                                                                                                                                                                |
-| US04            | Reserva de scooters                                        |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US05            | Cancelacion de reserva                                     |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US06            | Visualizacion de perfil                                    |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US07            | Seguridad de informacion                                   |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US08            | Gestion de pagos                                           |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US09            | Actualizacion de perfil                                    |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US10            | Marcar scooters favoritos                                  |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US11            | Reseña sobre la experiencia sobre el scooter               |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US12            | Visualizacion de zonas de recojo y entrega de los scooters |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US13            | Historial de reservas                                      |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US14            | Personalizacion de la interfaz de usuario                  |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US15            | Reporte de problemas                                       |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-
 
 
 ## 3.3. Impact Mapping
