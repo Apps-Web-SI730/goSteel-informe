@@ -909,7 +909,6 @@ Segemento Objetivo 2:
 | Feeling   | Seguro de la invesion que se esta haciendo                | Seguridad en la disponibilidad de scooters    | Confianza en la fiabilidad y estado de los scooter             |
 
 
-
 ## 3.2. User Stories
 
 Para elaborar user stories que pertenecen a un epic. A continuación, las epics que consideramos como equipo:
