@@ -1720,7 +1720,7 @@ En esta sección, se presentará el diagrama de la base de datos, que muestra la
 
 ![IMG-DB]()
 
-[Link de la Base de Datos]()
+[Link Database Diagram]()
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
