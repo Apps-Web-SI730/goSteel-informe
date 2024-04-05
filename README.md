@@ -1463,6 +1463,112 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             </td>
             <td colspan="1">...</td>
 		</tr>
+<tr>
+    <td colspan="1">US024</td>
+    <td colspan="1">Gestión de quejas de usuarios</td>
+    <td colspan="1">
+        <strong>Como</strong> administrador del sistema,
+        <br>
+        <strong>quiero</strong> poder gestionar las quejas de los usuarios para abordar problemas y mejorar la experiencia del usuario.
+    </td>
+    <td colspan="1">
+        <strong>E01: Recepción de quejas</strong>
+        <br><br>
+        <strong><u>Caso 01: Permitir a los usuarios enviar quejas a través de un formulario de contacto</u></strong>
+        <br><br>
+        <strong>Dado que</strong> un usuario desea reportar un problema o hacer una queja...
+    </td>
+    <td colspan="1">EP008</td>
+</tr>
+
+<tr>
+    <td colspan="1">US025</td>
+    <td colspan="1">Mejora de la experiencia de reserva</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la aplicación,
+        <br>
+        <strong>quiero</strong> que el proceso de reserva de scooters sea más intuitivo y eficiente para poder completar reservas rápidamente.
+    </td>
+    <td colspan="1">
+        <strong>E01: Simplificación del proceso de reserva</strong>
+        <br><br>
+        <strong><u>Caso 01: Reducir el número de pasos requeridos para completar una reserva</u></strong>
+        <br><br>
+        <strong>Dado que</strong> un usuario desea reservar un scooter de forma rápida...
+    </td>
+    <td colspan="1">EP006</td>
+</tr>
+
+<tr>
+    <td colspan="1">US026</td>
+    <td colspan="1">Integración de métodos de pago adicionales</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la aplicación,
+        <br>
+        <strong>quiero</strong> tener más opciones de pago disponibles para mayor comodidad y flexibilidad.
+    </td>
+    <td colspan="1">
+        <strong>E01: Adición de métodos de pago</strong>
+        <br><br>
+        <strong><u>Caso 01: Integrar nuevos métodos de pago, como PayPal o transferencias bancarias</u></strong>
+        <br><br>
+        <strong>Dado que</strong> un usuario desea utilizar un método de pago diferente...
+    </td>
+    <td colspan="1">EP004</td>
+</tr>
+<tr>
+    <td colspan="1">US027</td>
+    <td colspan="1">Notificaciones de estado de reserva</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la aplicación,
+        <br>
+        <strong>quiero</strong> recibir notificaciones sobre el estado de mis reservas para mantenerme informado sobre cualquier cambio o actualización.
+    </td>
+    <td colspan="1">
+        <strong>E01: Notificaciones en tiempo real</strong>
+        <br><br>
+        <strong><u>Caso 01: Enviar notificaciones cuando se confirme una reserva</u></strong>
+        <br><br>
+        <strong>Dado que</strong> un usuario ha realizado una reserva...
+    </td>
+    <td colspan="1">EP006</td>
+</tr>
+
+<tr>
+    <td colspan="1">US028</td>
+    <td colspan="1">Opciones de suscripción premium</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la aplicación,
+        <br>
+        <strong>quiero</strong> tener la opción de suscribirme a un plan premium para acceder a características adicionales y beneficios exclusivos.
+    </td>
+    <td colspan="1">
+        <strong>E01: Ofrecer planes de suscripción premium</strong>
+        <br><br>
+        <strong><u>Caso 01: Mostrar las características exclusivas de la suscripción premium</u></strong>
+        <br><br>
+        <strong>Dado que</strong> un usuario está interesado en acceder a beneficios adicionales...
+    </td>
+    <td colspan="1">EP008</td>
+</tr>
+
+<tr>
+    <td colspan="1">US029</td>
+    <td colspan="1">Historial de quejas y resoluciones</td>
+    <td colspan="1">
+        <strong>Como</strong> administrador del sistema,
+        <br>
+        <strong>quiero</strong> mantener un registro de todas las quejas recibidas y las acciones tomadas para resolverlas para garantizar la satisfacción del usuario.
+    </td>
+    <td colspan="1">
+        <strong>E01: Registro de quejas y resoluciones</strong>
+        <br><br>
+        <strong><u>Caso 01: Almacenar detalles de todas las quejas recibidas</u></strong>
+        <br><br>
+        <strong>Dado que</strong> un usuario envía una queja...
+    </td>
+    <td colspan="1">EP008</td>
+</tr>
 	</tbody>
 </table>
 
