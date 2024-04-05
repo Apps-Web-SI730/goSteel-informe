@@ -1397,7 +1397,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>para</strong> tener un registro de mis viajes pasados 
             </td>
             <td colspan="1">
-            <strong>E01: Mostrar el apartado de historial de reservas</strong>
+            <strong>E01:  Mostrar el apartado de historial de reservas</strong>
             <br><br>
             <strong><u>Caso 01: Mostrar detalles específicos de cada reserva en el historial </u></strong>
             <br><br>
