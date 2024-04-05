@@ -1147,9 +1147,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong><u>Caso 01: Usuario cancela una reserva exitosamente</u></strong>
             <br><br>
-            <strong>Dado que</strong> el usuario tiene almenos una reserva activa
+            <strong>Dado que</strong> el usuario tiene al menos una reserva activa
             <br>
-            <strong>Cuando</strong> el usuario selecciona la opcion de cancelar reserva y confirma la cancelacion
+            <strong>Cuando</strong> el usuario selecciona la opcion de cancelar reserva 
+            <br>
+            <strong>Y</strong> confirma la cancelacion
             <br>
             <strong>Entonces</strong> se muestra un mensaje de "Reserva cancelada exitosamente" y la reserva ya no aparece en su lista de reservas activas
             <br>
@@ -1158,11 +1160,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong><u>Caso 01: Usuario intenta cancelar una reserva fuera del tiempo límite para cancelaciones</u></strong>
             <br><br>
-            <strong>Dado que</strong> la politica de cancelacion permite cancelar hasta 1 hora antes de la hora de inicio de la reserva
+            <strong>Dado que</strong> el sistema permite cancelar hasta 1 hora antes de la hora de inicio de la reserva
             <br>
-            <strong>Cuando</strong> el usuario intenta cancelar la reserva fuera del tiempo limite que permite la cancelacion de la reserva
+            <strong>Cuando</strong> el usuario intenta cancelar la reserva fuera del tiempo limite 
             <br>
-            <strong>Entonces</strong> se muestra un mensaje de "No se puede cancelar la reserva, se ha superado el tiempo límite de cancelación" y la reserva se mantiene en su lista de reservas activas
+            <strong>Entonces</strong> se muestra un mensaje de "No se puede cancelar la reserva, se ha superado el tiempo límite de cancelación" y la reserva se mantendra activa
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1314,7 +1316,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>Dado que</strong> los usuarios desean guardar scooters específicos para futuras referencias
             <br>
-            <strong>Cuando</strong> un usuario visualiza un scooter en la aplicación y selecciona la opción de "Marcar como favorito"
+            <strong>Cuando</strong> un usuario visualiza un scooter en la aplicación
+            <br>
+            <strong>Y</strong> selecciona la opción de "Marcar como favorito"
             <br>
             <strong>Entonces</strong> el scooter se agrega a la lista de favoritos del usuario
             </td>
@@ -1380,7 +1384,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>Dado que</strong> los usuarios necesitan localizar las zonas de recojo y entrega
             <br>
-            <strong>Cuando</strong> un usuario abre la aplicación y accede a la sección de recojo y entrega de scooters
+            <strong>Cuando</strong> un usuario abre la aplicación 
+            <br>
+            <strong>Y</strong> accede a la sección de recojo y entrega de scooters
             <br>
             <strong>Entonces</strong> se muestra un mapa que indica las zonas designadas para recojo y entrega
             </td>
@@ -1457,7 +1463,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>Dado que</strong> los usuarios pueden encontrar problemas durante el uso de la aplicación web
             <br>
-            <strong>Cuando</strong> un usuario encuentra un problema y desea reportarlo
+            <strong>Cuando</strong> un usuario encuentra un problema
+            <br>
+            <strong>Y</strong> desea reportarlo
             <br>
             <strong>Entonces</strong> se le proporciona una forma clara de acceder al formulario de reporte de la aplicación
             </td>
@@ -1824,9 +1832,9 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 ### 4.8.1. Database Diagram
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas.
 
-![IMG-DB]()
+![IMG-DB](./assets/DB-FastScooter.png)
 
-[Link Database Diagram]()
+[Link Database Diagram](https://my.vertabelo.com/public-model-view/BuTgCOFwRnLqR0QIhemQ3fQ54SAz2TZRgFV2K34qNZ6wFwXWb96nUAjoeDvpxqME?x=3793&y=4054&zoom=0.6719)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
