@@ -1489,6 +1489,12 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong><u>Caso 01: Permitir a los usuarios enviar quejas a través de un formulario de contacto</u></strong>
         <br><br>
         <strong>Dado que</strong> un usuario desea reportar un problema o hacer una queja...
+        <br><br>
+        **Escenario:**
+        <br><br>
+        Cuando el usuario accede al formulario de contacto y proporciona los detalles de la queja,
+        <br>
+        entonces el sistema registra la queja correctamente y notifica al equipo de soporte para su seguimiento.
     </td>
     <td colspan="1">EP008</td>
 </tr>
@@ -1507,6 +1513,12 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong><u>Caso 01: Reducir el número de pasos requeridos para completar una reserva</u></strong>
         <br><br>
         <strong>Dado que</strong> un usuario desea reservar un scooter de forma rápida...
+        <br><br>
+        **Escenario:**
+        <br><br>
+        Cuando el usuario inicia el proceso de reserva,
+        <br>
+        entonces el sistema guía al usuario a través de un proceso simplificado con la menor cantidad de pasos posibles, incluyendo la selección del scooter, la fecha y hora de recogida, y la confirmación de la reserva.
     </td>
     <td colspan="1">EP006</td>
 </tr>
@@ -1525,9 +1537,16 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong><u>Caso 01: Integrar nuevos métodos de pago, como PayPal o transferencias bancarias</u></strong>
         <br><br>
         <strong>Dado que</strong> un usuario desea utilizar un método de pago diferente...
+        <br><br>
+        **Escenario:**
+        <br><br>
+        Cuando el usuario selecciona la opción de pago durante el proceso de reserva,
+        <br>
+        entonces el sistema muestra una variedad de opciones de pago, incluyendo PayPal y transferencias bancarias, y permite al usuario completar la transacción utilizando el método deseado.
     </td>
     <td colspan="1">EP004</td>
 </tr>
+
 <tr>
     <td colspan="1">US027</td>
     <td colspan="1">Notificaciones de estado de reserva</td>
@@ -1542,6 +1561,12 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong><u>Caso 01: Enviar notificaciones cuando se confirme una reserva</u></strong>
         <br><br>
         <strong>Dado que</strong> un usuario ha realizado una reserva...
+        <br><br>
+        **Escenario:**
+        <br><br>
+        Cuando la reserva es confirmada por el sistema,
+        <br>
+        entonces el sistema envía una notificación al usuario, informándole sobre la confirmación de la reserva y proporcionando detalles adicionales, como la hora y ubicación de recogida del scooter.
     </td>
     <td colspan="1">EP006</td>
 </tr>
@@ -1560,6 +1585,12 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong><u>Caso 01: Mostrar las características exclusivas de la suscripción premium</u></strong>
         <br><br>
         <strong>Dado que</strong> un usuario está interesado en acceder a beneficios adicionales...
+        <br><br>
+        **Escenario:**
+        <br><br>
+        Cuando el usuario explora las opciones de suscripción premium,
+        <br>
+        entonces el sistema presenta de manera clara y detallada las características exclusivas de cada plan de suscripción premium, destacando los beneficios adicionales y las ventajas de cada uno.
     </td>
     <td colspan="1">EP008</td>
 </tr>
@@ -1577,10 +1608,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br><br>
         <strong><u>Caso 01: Almacenar detalles de todas las quejas recibidas</u></strong>
         <br><br>
-        <strong>Dado que</strong> un usuario envía una queja...
-    </td>
-    <td colspan="1">EP008</td>
-</tr>
+        <strong>Dado que</strong> un usuario env
+
 	</tbody>
 </table>
 
