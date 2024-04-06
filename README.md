@@ -1608,7 +1608,10 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br><br>
         <strong><u>Caso 01: Almacenar detalles de todas las quejas recibidas</u></strong>
         <br><br>
-        <strong>Dado que</strong> un usuario env
+        <strong>Dado que</strong> un usuario envía una queja...
+    </td>
+    <td colspan="1">EP008</td>
+</tr>
 
 	</tbody>
 </table>
