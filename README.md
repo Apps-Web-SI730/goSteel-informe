@@ -967,7 +967,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 			<td colspan="1">ID de Historia de Usuario</td>
             <td colspan="1">Título</td>
             <td colspan="1">Descripción</td>
-            <td colspan="4">Criterios de Aceptación con Escenarios	</td>
+            <td colspan="5">Criterios de Aceptación con Escenarios	</td>
             <td colspan="1">ID de Épica</td>
 		</tr>
 		<tr>
@@ -1163,10 +1163,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US004</td>
-            <td colspan="1">Inicio de sesión de instituciones educativas en la plataforma</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Reserva de scooter</td>
+            <td colspan="1"><strong>Como</strong> usuario<strong> quiero</strong> poder reservar un scooter específico con anticipación <strong>para</strong> asegurarme de que esté disponible cuando llegue a la estación de scooters.
+            </td>
+            <td colspan="5"></td>
+            <td colspan="1">EP005</td>
 		</tr>
         <tr>
             <td colspan="1">US005</td>
