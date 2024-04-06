@@ -1153,7 +1153,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Y</strong> confirma la cancelacion
             <br>
-            <strong>Entonces</strong> se muestra un mensaje de "Reserva cancelada exitosamente" y la reserva ya no aparece en su lista de reservas activas
+            <strong>Entonces</strong> se muestra un mensaje de "Reserva cancelada exitosamente" 
+            <br>    
+            <strong>Y</strong> la reserva ya no aparece en su lista de reservas activas
             <br>
             <br>
             <strong>E02: Cancelacion fuera del tiempo limite</strong>
@@ -1164,7 +1166,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> el usuario intenta cancelar la reserva fuera del tiempo limite 
             <br>
-            <strong>Entonces</strong> se muestra un mensaje de "No se puede cancelar la reserva, se ha superado el tiempo límite de cancelación" y la reserva se mantendra activa
+            <strong>Entonces</strong> se muestra un mensaje de "No se puede cancelar la reserva, se ha superado el tiempo límite de cancelación" 
+            <br>
+            <strong>Y</strong> la reserva se mantendra activa
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1386,7 +1390,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario abre la aplicación 
             <br>
-            <strong>Y</strong> accede a la sección de recojo y entrega de scooters
+            <strong>Y</strong> accede a la sección de "recojo y entrega de scooters"
             <br>
             <strong>Entonces</strong> se muestra un mapa que indica las zonas designadas para recojo y entrega
             </td>
