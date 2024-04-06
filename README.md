@@ -1475,9 +1475,10 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             </td>
             <td colspan="1">...</td>
 		</tr>
+
 <tr>
-    <td colspan="1">US024</td>
-    <td colspan="1">Gestión de quejas de usuarios</td>
+    <td colspan="1"><strong>US024</strong></td>
+    <td colspan="1"><strong>Gestión de quejas de usuarios</strong></td>
     <td colspan="1">
         <strong>Como</strong> administrador del sistema,
         <br>
@@ -1490,18 +1491,18 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br><br>
         <strong>Dado que</strong> un usuario desea reportar un problema o hacer una queja...
         <br><br>
-        **Escenario:**
+        <strong>Escenario:</strong>
         <br><br>
         Cuando el usuario accede al formulario de contacto y proporciona los detalles de la queja,
         <br>
         entonces el sistema registra la queja correctamente y notifica al equipo de soporte para su seguimiento.
     </td>
-    <td colspan="1">EP008</td>
+    <td colspan="1"><strong>EP008</strong></td>
 </tr>
 
 <tr>
-    <td colspan="1">US025</td>
-    <td colspan="1">Mejora de la experiencia de reserva</td>
+    <td colspan="1"><strong>US025</strong></td>
+    <td colspan="1"><strong>Mejora de la experiencia de reserva</strong></td>
     <td colspan="1">
         <strong>Como</strong> usuario de la aplicación,
         <br>
@@ -1514,18 +1515,18 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br><br>
         <strong>Dado que</strong> un usuario desea reservar un scooter de forma rápida...
         <br><br>
-        **Escenario:**
+        <strong>Escenario:</strong>
         <br><br>
         Cuando el usuario inicia el proceso de reserva,
         <br>
         entonces el sistema guía al usuario a través de un proceso simplificado con la menor cantidad de pasos posibles, incluyendo la selección del scooter, la fecha y hora de recogida, y la confirmación de la reserva.
     </td>
-    <td colspan="1">EP006</td>
+    <td colspan="1"><strong>EP006</strong></td>
 </tr>
 
 <tr>
-    <td colspan="1">US026</td>
-    <td colspan="1">Integración de métodos de pago adicionales</td>
+    <td colspan="1"><strong>US026</strong></td>
+    <td colspan="1"><strong>Integración de métodos de pago adicionales</strong></td>
     <td colspan="1">
         <strong>Como</strong> usuario de la aplicación,
         <br>
@@ -1538,18 +1539,18 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br><br>
         <strong>Dado que</strong> un usuario desea utilizar un método de pago diferente...
         <br><br>
-        **Escenario:**
+        <strong>Escenario:</strong>
         <br><br>
         Cuando el usuario selecciona la opción de pago durante el proceso de reserva,
         <br>
         entonces el sistema muestra una variedad de opciones de pago, incluyendo PayPal y transferencias bancarias, y permite al usuario completar la transacción utilizando el método deseado.
     </td>
-    <td colspan="1">EP004</td>
+    <td colspan="1"><strong>EP004</strong></td>
 </tr>
 
 <tr>
-    <td colspan="1">US027</td>
-    <td colspan="1">Notificaciones de estado de reserva</td>
+    <td colspan="1"><strong>US027</strong></td>
+    <td colspan="1"><strong>Notificaciones de estado de reserva</strong></td>
     <td colspan="1">
         <strong>Como</strong> usuario de la aplicación,
         <br>
@@ -1562,18 +1563,18 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br><br>
         <strong>Dado que</strong> un usuario ha realizado una reserva...
         <br><br>
-        **Escenario:**
+        <strong>Escenario:</strong>
         <br><br>
         Cuando la reserva es confirmada por el sistema,
         <br>
         entonces el sistema envía una notificación al usuario, informándole sobre la confirmación de la reserva y proporcionando detalles adicionales, como la hora y ubicación de recogida del scooter.
     </td>
-    <td colspan="1">EP006</td>
+    <td colspan="1"><strong>EP006</strong></td>
 </tr>
 
 <tr>
-    <td colspan="1">US028</td>
-    <td colspan="1">Opciones de suscripción premium</td>
+    <td colspan="1"><strong>US028</strong></td>
+    <td colspan="1"><strong>Opciones de suscripción premium</strong></td>
     <td colspan="1">
         <strong>Como</strong> usuario de la aplicación,
         <br>
@@ -1586,18 +1587,18 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br><br>
         <strong>Dado que</strong> un usuario está interesado en acceder a beneficios adicionales...
         <br><br>
-        **Escenario:**
+        <strong>Escenario:</strong>
         <br><br>
         Cuando el usuario explora las opciones de suscripción premium,
         <br>
         entonces el sistema presenta de manera clara y detallada las características exclusivas de cada plan de suscripción premium, destacando los beneficios adicionales y las ventajas de cada uno.
     </td>
-    <td colspan="1">EP008</td>
+    <td colspan="1"><strong>EP008</strong></td>
 </tr>
 
 <tr>
-    <td colspan="1">US029</td>
-    <td colspan="1">Historial de quejas y resoluciones</td>
+    <td colspan="1"><strong>US029</strong></td>
+    <td colspan="1"><strong>Historial de quejas y resoluciones</strong></td>
     <td colspan="1">
         <strong>Como</strong> administrador del sistema,
         <br>
@@ -1622,7 +1623,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>entonces</strong> se actualiza el estado de la queja en el registro, indicando el progreso y las acciones realizadas para resolverla.
     </td>
-    <td colspan="1">EP008</td>
+    <td colspan="1"><strong>EP008</strong></td>
 </tr>
 
 
