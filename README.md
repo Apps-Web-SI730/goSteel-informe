@@ -976,7 +976,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             Registro de usuarios clientes en la plataforma
             </td>
             <td colspan="1">
-            <strong>Como</strong> usuario clientes <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
+            <strong>Como</strong> usuario cliente <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
             </td>
             <td colspan="1">
             <strong>E01: Registro Exitoso</strong>
@@ -1038,27 +1038,99 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">US002</td>
             <td colspan="1">Registro de empresas deliverys en la plataforma</td>
             <td colspan="1">
-            <strong>Como</strong> usuario <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.
+            <strong>Como</strong> usuario empresa <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.
             </td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">
+            <strong>E01: Registro Exitoso</strong>
+            <br><br>
+            <strong>Caso 01: Registro con e-mail</strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario empresa selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario empresa llene todo el formulario con sus datos
+            <br>
+            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema verifique los datos colocados por el usuario empresa
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que su cuenta ha sido registrada exitosamente.
+            <br><br>
+            <strong>E02: Registro Fallido</strong>
+            <br><br>
+            <strong>Caso 01: Datos inválidos</strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario empresa selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario empresa llene todo el formulario con sus datos
+            <br>
+            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
+            <br><br>
+            <strong>Caso 02: Datos incompletos</strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario empresa selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario empresa llene solo algunas partes del formulario con sus datos
+            <br>
+            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
+            <br><br>
+            <strong>Caso 03: Datos inexistentes</strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario empresa selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario empresa coloque un RUC inexistente
+            <br>
+            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario empresa son inexistentes
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta porque la empresa no existe.
+            <br><br>
+            </td>
+            <td colspan="1">EP01</td>
+            </td>
 		</tr>
         <tr>
             <td colspan="1">US003</td>
-            <td colspan="1">Inicio de sesión de usuarios estudiante en la plataforma</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Inicio de sesión de usuarios en la plataforma</td>
+            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> iniciar sesión con mi correo <strong>para</strong> ingresar a la plataforma.</td>
+            <td colspan="1">
+            <strong>Escenario 01: Inicio de sesión exitoso</strong>
+            </td>
+            <td colspan="1">EP001</td>
 		</tr>
         <tr>
-            <td colspan="1">US003</td>
+            <td colspan="1">US004</td>
             <td colspan="1">Inicio de sesión de instituciones educativas en la plataforma</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
-            <td colspan="1">US004</td>
+            <td colspan="1">US005</td>
             <td colspan="1">Recuperación de contraseña para usuarios registrados</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
