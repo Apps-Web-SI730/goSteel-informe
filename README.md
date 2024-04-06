@@ -1148,7 +1148,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Y</strong> confirma la cancelacion
             <br>
-            <strong>Entonces</strong> se muestra un mensaje de "Reserva cancelada exitosamente" 
+            <strong>Entonces</strong> el sistema mostrara un mensaje de "Reserva cancelada exitosamente" 
             <br>    
             <strong>Y</strong> la reserva ya no aparece en su lista de reservas activas
             <br>
@@ -1161,7 +1161,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> el usuario intenta cancelar la reserva fuera del tiempo limite 
             <br>
-            <strong>Entonces</strong> se muestra un mensaje de "No se puede cancelar la reserva, se ha superado el tiempo límite de cancelación" 
+            <strong>Entonces</strong> el sistema muestra un mensaje de "No se puede cancelar la reserva, se ha superado el tiempo límite de cancelación" 
             <br>
             <strong>Y</strong> la reserva se mantendra activa
             </td>
@@ -1186,7 +1186,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> el usuario selecciona la opción de "Mi Perfil"
             <br>
-            <strong>Entonces</strong> se muestra su información de perfil incluyendo nombre, correo electrónico y historial de reservas
+            <strong>Entonces</strong> el usuario visualizara su información de perfil incluyendo nombre, correo electrónico y historial de reservas
             <br>
             <br>
             <strong>E02: Actualización reciente reflejada en perfil</strong>
@@ -1197,7 +1197,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> el usuario accede a "Mi Perfil" después de realizar cambios
             <br>
-            <strong>Entonces</strong> se muestra su información actualizada de perfil incluyendo los cambios recientes
+            <strong>Entonces</strong> el usuario visualizara su información actualizada de perfil incluyendo los cambios recientes
             </td>
             <td colspan="1">...</td> 
 		</tr>
@@ -1220,7 +1220,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario crea una cuenta o actualiza su contraseña
             <br>
-            <strong>Entonces</strong> se deben aplicar requisitos de seguridad mínimos para las contraseñas, como longitud y complejidad para tener una contraseña mas segura
+            <strong>Entonces</strong> el sistema debe hacer cumplir los requisitos de seguridad mínimos para las contraseñas de los usuarios, como longitud y complejidad para tener una contraseña mas segura
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1243,7 +1243,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario está realizando una reserva
             <br>
-            <strong>Entonces</strong> se deben ofrecer opciones de pago seguras, como tarjetas de crédito/débito o métodos de pago en línea confiables
+            <strong>Entonces</strong> el sistema debe ofrecer opciones de pago seguras, como tarjetas de crédito/débito o métodos de pago en línea confiables
             <br><br>
             <strong>E02: Confirmación de pago exitoso</strong>
             <br><br>
@@ -1253,7 +1253,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> se completa con éxito el pago de una reserva
             <br>
-            <strong>Entonces</strong> se debe mostrar un mensaje de confirmación de pago exitoso
+            <strong>Entonces</strong> el sistema se debe mostrar un mensaje de confirmación de pago exitoso
             <br><br>
             <strong><u>Caso 02: Pagos que no se pudieron completar</u></strong>
             <br><br>
@@ -1261,7 +1261,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un pago no se puede completar debido a un problema con la tarjeta u otro motivo
             <br>
-            <strong>Entonces</strong> se debe notificar al usuario sobre el pago fallido
+            <strong>Entonces</strong> el sistema debe notificar al usuario sobre el pago fallido
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1284,7 +1284,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario accede a la página de configuración de perfil
             <br>
-            <strong>Entonces</strong> se deben proporcionar campos editables para actualizar la información
+            <strong>Entonces</strong> el sistema debe proporcionar una interfaz intuitiva y segura que permita a los usuarios editar su información de perfil de manera eficiente y conveniente
             <br><br>
              <strong>E02: Confirmación de actualización exitosa</strong>
             <br><br>
@@ -1294,7 +1294,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario guarda los cambios realizados en su perfil
             <br>
-            <strong>Entonces</strong> se debe mostrar un mensaje de confirmación de que la actualización se ha realizado con éxito
+            <strong>Entonces</strong> el sistema debe mostrar un mensaje de confirmación de que la actualización se ha realizado con éxito
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1319,7 +1319,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Y</strong> selecciona la opción de "Marcar como favorito"
             <br>
-            <strong>Entonces</strong> el scooter se agrega a la lista de favoritos del usuario
+            <strong>Entonces</strong> el sistema debe proporcionar una funcionalidad clara y conveniente que permita a los usuarios marcar un scooter como favorito
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1342,7 +1342,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario finaliza su viaje con un scooter
             <br>
-            <strong>Entonces</strong> se le ofrece la opción de dejar una reseña sobre su experiencia con el scooter
+            <strong>Entonces</strong> el sistema debe proporcionar una funcionalidad fácil de usar que permita a los usuarios dejar reseñas después de utilizar un scooter 
             <br><br>
             <strong>E02: Calificación de la experiencia</strong>
             <br><br>
@@ -1352,7 +1352,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario deja una reseña sobre su experiencia con el scooter
             <br>
-            <strong>Entonces</strong> se le solicita que proporcione una calificación, que puede ser en forma de estrellas o puntos numéricos
+            <strong>Entonces</strong> el sistema debe facilitar a los usuarios la calificación de su experiencia con el scooter mediante una calificación, que puede ser en forma de estrellas o puntos numéricos
             <br><br>
             <strong>E03: Visualización de reseñas</strong>
             <br><br>
@@ -1362,7 +1362,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario busca información sobre un scooter específico
             <br>
-            <strong>Entonces</strong> se le muestra una lista de reseñas dejadas por otros usuarios sobre ese scooter
+            <strong>Entonces</strong> el sistema muestra una lista de reseñas dejadas por otros usuarios sobre ese scooter
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1387,7 +1387,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Y</strong> accede a la sección de "recojo y entrega de scooters"
             <br>
-            <strong>Entonces</strong> se muestra un mapa que indica las zonas designadas para recojo y entrega
+            <strong>Entonces</strong> el sistema muestra un mapa que indica las zonas designadas para recojo y entrega
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1410,7 +1410,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario selecciona una reserva específica en su historial
             <br>
-            <strong>Entonces</strong> se muestran detalles detallados de esa reserva
+            <strong>Entonces</strong> el sistema le mostrara los detalles de las reserva pasadas al usuario
             <br><br>
             <strong><u>Caso 02: No visualizar ninguna reserva en el historial</u></strong>
             <br><br>
@@ -1418,7 +1418,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> entre al apartado de historial de reserva
             <br>
-            <strong>Entonces</strong> no le aparecera ninguna reserva en el historial
+            <strong>Entonces</strong> el sistema debe mostrar un mensaje en el apartado de historial de reservas indicando que el usuario aún no ha realizado ninguna reserva
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1441,7 +1441,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario accede a la configuración de la aplicación
             <br>
-            <strong>Entonces</strong> se le proporciona la opción de seleccionar un tema de color predefinido
+            <strong>Entonces</strong> el sistema le proporciona la opción de seleccionar un tema de color predefinido
             </td>
             <td colspan="1">...</td>
 		</tr>
@@ -1466,7 +1466,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Y</strong> desea reportarlo
             <br>
-            <strong>Entonces</strong> se le proporciona una forma clara de acceder al formulario de reporte de la aplicación
+            <strong>Entonces</strong> el sistema le proporciona una forma clara de acceder al formulario de reporte de la aplicación
             </td>
             <td colspan="1">...</td>
 		</tr>
