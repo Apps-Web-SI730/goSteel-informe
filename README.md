@@ -1601,17 +1601,30 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     <td colspan="1">
         <strong>Como</strong> administrador del sistema,
         <br>
-        <strong>quiero</strong> mantener un registro de todas las quejas recibidas y las acciones tomadas para resolverlas para garantizar la satisfacción del usuario.
+        <strong>quiero</strong> mantener un registro completo y detallado de todas las quejas recibidas por parte de los usuarios, así como las acciones tomadas para resolverlas, con el fin de garantizar la satisfacción y confianza de los usuarios en el sistema.
     </td>
     <td colspan="1">
-        <strong>E01: Registro de quejas y resoluciones</strong>
+        <strong>E01: Registro exhaustivo de quejas y resoluciones</strong>
         <br><br>
         <strong><u>Caso 01: Almacenar detalles de todas las quejas recibidas</u></strong>
+        <br>
+        <strong>Dado que</strong> un usuario envía una queja o reporta un problema con el sistema,
+        <br>
+        <strong>cuando</strong> la queja es recibida por el sistema de gestión de quejas,
+        <br>
+        <strong>entonces</strong> se registra de manera automática en la base de datos del sistema, incluyendo información relevante como fecha, hora, tipo de queja, descripción detallada del problema y datos del usuario.
         <br><br>
-        <strong>Dado que</strong> un usuario envía una queja...
+        <strong><u>Caso 02: Seguir el proceso de resolución de quejas</u></strong>
+        <br>
+        <strong>Dado que</strong> se registra una queja en el sistema,
+        <br>
+        <strong>cuando</strong> se toman acciones para resolverla,
+        <br>
+        <strong>entonces</strong> se actualiza el estado de la queja en el registro, indicando el progreso y las acciones realizadas para resolverla.
     </td>
     <td colspan="1">EP008</td>
 </tr>
+
 
 	</tbody>
 </table>
