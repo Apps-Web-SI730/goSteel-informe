@@ -967,7 +967,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 			<td colspan="1">ID de Historia de Usuario</td>
             <td colspan="1">Título</td>
             <td colspan="1">Descripción</td>
-            <td colspan="1">Criterios de Aceptación con Escenarios	</td>
+            <td colspan="4">Criterios de Aceptación con Escenarios	</td>
             <td colspan="1">ID de Épica</td>
 		</tr>
 		<tr>
@@ -978,11 +978,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">
             <strong>Como</strong> usuario cliente <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Registro Exitoso</strong>
             <br><br>
             <strong>Caso 01: Registro con e-mail</strong>
-            <br><br>
+            <br>
             <strong>Dado que</strong> el usuario cliente ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario cliente selecciona la opción de registro
@@ -1000,7 +1000,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>E02: Registro Fallido</strong>
             <br><br>
             <strong>Caso 01: Datos inválidos</strong>
-            <br><br>
+            <br>
             <strong>Dado que</strong> el usuario cliente ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario cliente selecciona la opción de registro
@@ -1016,7 +1016,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
             <br><br>
             <strong>Caso 02: Datos incompletos</strong>
-            <br><br>
+            <br>
             <strong>Dado que</strong> el usuario cliente ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario cliente selecciona la opción de registro
@@ -1036,15 +1036,15 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US002</td>
-            <td colspan="1">Registro de empresas deliverys en la plataforma</td>
+            <td colspan="1">Registro de empresas en la plataforma</td>
             <td colspan="1">
             <strong>Como</strong> usuario empresa <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Registro Exitoso</strong>
             <br><br>
             <strong>Caso 01: Registro con e-mail</strong>
-            <br><br>
+            <br>
             <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario empresa selecciona la opción de registro
@@ -1062,7 +1062,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>E02: Registro Fallido</strong>
             <br><br>
             <strong>Caso 01: Datos inválidos</strong>
-            <br><br>
+            <br>
             <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario empresa selecciona la opción de registro
@@ -1078,7 +1078,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
             <br><br>
             <strong>Caso 02: Datos incompletos</strong>
-            <br><br>
+            <br>
             <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario empresa selecciona la opción de registro
@@ -1094,7 +1094,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
             <br><br>
             <strong>Caso 03: Datos inexistentes</strong>
-            <br><br>
+            <br>
             <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario empresa selecciona la opción de registro
@@ -1117,8 +1117,47 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">US003</td>
             <td colspan="1">Inicio de sesión de usuarios en la plataforma</td>
             <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> iniciar sesión con mi correo <strong>para</strong> ingresar a la plataforma.</td>
-            <td colspan="1">
-            <strong>Escenario 01: Inicio de sesión exitoso</strong>
+            <td colspan="4">
+            <strong>E01: Inicio de sesión exitoso</strong>
+            <br><br>
+            <strong>Caso 01: Ingreso de credenciales correctos</strong>
+            <br>
+            <strong>Dado que </strong> el usuario selecciona la opción "iniciar sesión"
+            <br>
+            <strong>Y</strong> el sistema muestre el formulario de inicio de sesión
+            <br>
+            <strong>Cuando</strong> el usuario llene todo el formulario con su correo y contraseña
+            <br>
+            <strong>Y</strong> el sistema verifique que el correo y la contraseña son correctos
+            <br>
+            <strong>Entonces</strong> el usuario ingresa a la plataforma con la sesión iniciada y según su tipo de usuario.
+            <br><br>
+            <strong>E02: Inicio de sesión fallido</strong>
+            <br><br>
+            <strong>Caso 01: Ingreso de credenciales inválidos</strong>
+            <br>
+            <strong>Dado que </strong> el usuario selecciona la opción "iniciar sesión"
+            <br>
+            <strong>Y</strong> el sistema muestre el formulario de inicio de sesión
+            <br>
+            <strong>Cuando</strong> el usuario llene todo el formulario con su correo y contraseña
+            <br>
+            <strong>Y</strong> el sistema detecta que el correo y la contraseña son inválidos
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje diciendo que el correo y/o la contraseña son inválidos.
+            <br><br>
+            <strong>Caso 02: Credenciales faltante</strong>
+            <br>
+            <strong>Dado que </strong> el usuario selecciona la opción "iniciar sesión"
+            <br>
+            <strong>Y</strong> el sistema muestre el formulario de inicio de sesión
+            <br>
+            <strong>Cuando</strong> el usuario solo llene el formulario con su correo o contraseña
+            <br>
+            <strong>Y</strong> el sistema detecta que falta su correo o contraseña
+            <br>
+            <strong>Entonces</strong> el sistema muestra que falta el correo o la contraseña.
+            <br><br>
             </td>
             <td colspan="1">EP001</td>
 		</tr>
@@ -1209,11 +1248,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> no incurrir en gastos por un servicio que no voy a utilizar.
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Cancelación exitosa</strong>
             <br><br>
-            <strong><u>Caso 01: Usuario cancela una reserva exitosamente</u></strong>
-            <br><br>
+            <strong>Caso 01: Usuario cancela una reserva exitosamente</strong>
+            <br>
             <strong>Dado que</strong> el usuario tiene al menos una reserva activa
             <br>
             <strong>Cuando</strong> el usuario selecciona la opcion de cancelar reserva 
@@ -1227,8 +1266,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>E02: Cancelacion fuera del tiempo limite</strong>
             <br><br>
-            <strong><u>Caso 01: Usuario intenta cancelar una reserva fuera del tiempo límite para cancelaciones</u></strong>
-            <br><br>
+            <strong>Caso 01: Usuario intenta cancelar una reserva fuera del tiempo límite para cancelaciones</strong>
+            <br>
             <strong>Dado que</strong> el sistema permite cancelar hasta 1 hora antes de la hora de inicio de la reserva
             <br>
             <strong>Cuando</strong> el usuario intenta cancelar la reserva fuera del tiempo limite 
@@ -1237,7 +1276,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Y</strong> la reserva se mantendra activa
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP005</td>
 		</tr>
         <tr>
             <td colspan="1">US014</td>
@@ -1249,11 +1288,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> revisar y confirmar mis datos personales y de usuario
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Visualización de datos del perfil</strong>
             <br><br>
-            <strong><u>Caso 01: Usuario accede a la visualización de su perfil</u></strong>
-            <br><br>
+            <strong>Caso 01: Usuario accede a la visualización de su perfil</strong>
+            <br>
             <strong>Dado que</strong> el usuario ha iniciado sesión en la aplicación
             <br>
             <strong>Cuando</strong> el usuario selecciona la opción de "Mi Perfil"
@@ -1263,15 +1302,15 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>E02: Actualización reciente reflejada en perfil</strong>
             <br><br>
-            <strong><u>Caso 01: Usuario visualiza cambios recientes en su perfil</u></strong>
-            <br><br>
+            <strong>Caso 01: Usuario visualiza cambios recientes en su perfil</strong>
+            <br>
             <strong>Dado que</strong> el usuario ha actualizado recientemente su información de perfil
             <br>
             <strong>Cuando</strong> el usuario accede a "Mi Perfil" después de realizar cambios
             <br>
             <strong>Entonces</strong> el usuario visualizara su información actualizada de perfil incluyendo los cambios recientes
             </td>
-            <td colspan="1">...</td> 
+            <td colspan="1">EP002</td> 
 		</tr>
         <tr>
             <td colspan="1">US015</td>
@@ -1283,18 +1322,18 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> evitar accesos no autorizados y proteger mi privacidad
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Gestión de credenciales seguras</strong>
             <br><br>
-            <strong><u>Caso 01: Asegurar la gestión segura de las credenciales de acceso</u></strong>
-            <br><br>
+            <strong>Caso 01: Asegurar la gestión segura de las credenciales de acceso</strong>
+            <br>
             <strong>Dado que</strong> los usuarios deben proporcionar credenciales de acceso
             <br>
             <strong>Cuando</strong> un usuario crea una cuenta o actualiza su contraseña
             <br>
             <strong>Entonces</strong> el sistema debe hacer cumplir los requisitos de seguridad mínimos para las contraseñas de los usuarios, como longitud y complejidad para tener una contraseña mas segura
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP001</td>
 		</tr>
         <tr>
             <td colspan="1">US016</td>
@@ -1304,13 +1343,13 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>quiero</strong> tener un proceso de pago seguro y eficiente
             <br>
-            <strong>para</strong> poder realizar reservas de scooters de manera rápida y confiable
+            <strong>para</strong> poder realizar reservas de scooters de manera rápida y confiable.
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Opciones de pago seguras</strong>
             <br><br>
-            <strong><u>Caso 01: Proporcionar opciones de pago seguras para los usuarios</u></strong>
-            <br><br>
+            <strong>Caso 01: Proporcionar opciones de pago seguras para los usuarios</strong>
+            <br>
             <strong>Dado que</strong> los usuarios necesitan realizar pagos de manera segura
             <br>
             <strong>Cuando</strong> un usuario está realizando una reserva
@@ -1319,23 +1358,23 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>E02: Confirmación de pago exitoso</strong>
             <br><br>
-            <strong><u>Caso 01: Confirmar el éxito del pago después de una reserva</u></strong>
-            <br><br>
+            <strong>Caso 01: Confirmar el éxito del pago después de una reserva</strong>
+            <br>
             <strong>Dado que</strong> un usuario ha realizado un pago para una reserva
             <br>
             <strong>Cuando</strong> se completa con éxito el pago de una reserva
             <br>
             <strong>Entonces</strong> el sistema se debe mostrar un mensaje de confirmación de pago exitoso
             <br><br>
-            <strong><u>Caso 02: Pagos que no se pudieron completar</u></strong>
-            <br><br>
+            <strong>Caso 02: Pagos que no se pudieron completar</strong>
+            <br>
             <strong>Dado que</strong> un usuario intenta realizar un pago pero falla
             <br>
             <strong>Cuando</strong> un pago no se puede completar debido a un problema con la tarjeta u otro motivo
             <br>
             <strong>Entonces</strong> el sistema debe notificar al usuario sobre el pago fallido
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP004</td>
 		</tr>
         <tr>
             <td colspan="1">US017</td>
@@ -1347,11 +1386,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> mantener mis datos personales actualizados y precisos
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Edición de información del perfil</strong>
             <br><br>
-            <strong><u>Caso 01: Permitir a los usuarios editar su información de perfil</u></strong>
-            <br><br>
+            <strong>Caso 01: Permitir a los usuarios editar su información de perfil</strong>
+            <br>
             <strong>Dado que</strong> los usuarios pueden necesitar actualizar su información personal
             <br>
             <strong>Cuando</strong> un usuario accede a la página de configuración de perfil
@@ -1360,15 +1399,15 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
              <strong>E02: Confirmación de actualización exitosa</strong>
             <br><br>
-            <strong><u>Caso 01: Confirmar la actualización exitosa del perfil</u></strong>
-            <br><br>
+            <strong>Caso 01: Confirmar la actualización exitosa del perfil</strong>
+            <br>
             <strong>Dado que</strong> un usuario ha realizado cambios en su perfil
             <br>
             <strong>Cuando</strong> un usuario guarda los cambios realizados en su perfil
             <br>
             <strong>Entonces</strong> el sistema debe mostrar un mensaje de confirmación de que la actualización se ha realizado con éxito
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP002</td>
 		</tr>
         <tr>
             <td colspan="1">US018</td>
@@ -1380,11 +1419,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> acceder rápidamente a mis opciones preferidas y realizar reservas más fácilmente
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Marcar un scooter como favorito</strong>
             <br><br>
-            <strong><u>Caso 01: Permitir a los usuarios marcar un scooter como favorito</u></strong>
-            <br><br>
+            <strong>Caso 01: Permitir a los usuarios marcar un scooter como favorito</strong>
+            <br>
             <strong>Dado que</strong> los usuarios desean guardar scooters específicos para futuras referencias
             <br>
             <strong>Cuando</strong> un usuario visualiza un scooter en la aplicación
@@ -1393,7 +1432,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> el sistema debe proporcionar una funcionalidad clara y conveniente que permita a los usuarios marcar un scooter como favorito
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP009</td>
 		</tr>
         <tr>
             <td colspan="1">US019</td>
@@ -1405,11 +1444,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> compartir mi opinión con otros usuarios y ayudarles a tomar decisiones informadas
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Dejar una reseña después de usar un scooter</strong>
             <br><br>
-            <strong><u>Caso 01: Permitir a los usuarios dejar una reseña después de usar un scooter</u></strong>
-            <br><br>
+            <strong>Caso 01: Permitir a los usuarios dejar una reseña después de usar un scooter</strong>
+            <br>
             <strong>Dado que</strong> los usuarios han utilizado un scooter para realizar un viaje
             <br>
             <strong>Cuando</strong> un usuario finaliza su viaje con un scooter
@@ -1418,8 +1457,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>E02: Calificación de la experiencia</strong>
             <br><br>
-            <strong><u>Caso 01: Permitir a los usuarios calificar su experiencia con el scooter</u></strong>
-            <br><br>
+            <strong>Caso 01: Permitir a los usuarios calificar su experiencia con el scooter</strong>
+            <br>
             <strong>Dado que</strong> los usuarios desean proporcionar una evaluación rápida de su experiencia
             <br>
             <strong>Cuando</strong> un usuario deja una reseña sobre su experiencia con el scooter
@@ -1428,15 +1467,15 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>E03: Visualización de reseñas</strong>
             <br><br>
-            <strong><u>Caso 01: Permitir a los usuarios ver las reseñas dejadas por otros usuarios</u></strong>
-            <br><br>
+            <strong>Caso 01: Permitir a los usuarios ver las reseñas dejadas por otros usuarios</strong>
+            <br>
             <strong>Dado que</strong> los usuarios desean tomar decisiones informadas basadas en las experiencias de otros
             <br>
             <strong>Cuando</strong> un usuario busca información sobre un scooter específico
             <br>
             <strong>Entonces</strong> el sistema muestra una lista de reseñas dejadas por otros usuarios sobre ese scooter
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP008</td>
 		</tr>
         <tr>
             <td colspan="1">US020</td>
@@ -1448,11 +1487,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> cplanificar mi viaje y encontrar fácilmente el punto de inicio y fin de mi alquiler
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Visualización de zonas en el mapa</strong>
             <br><br>
-            <strong><u>Caso 01: Permitir a los usuarios ver las zonas de recojo y entrega en un mapa</u></strong>
-            <br><br>
+            <strong>Caso 01: Permitir a los usuarios ver las zonas de recojo y entrega en un mapa</strong>
+            <br>
             <strong>Dado que</strong> los usuarios necesitan localizar las zonas de recojo y entrega
             <br>
             <strong>Cuando</strong> un usuario abre la aplicación 
@@ -1461,7 +1500,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> el sistema muestra un mapa que indica las zonas designadas para recojo y entrega
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US021</td>
@@ -1473,26 +1512,26 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> tener un registro de mis viajes pasados 
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01:  Mostrar el apartado de historial de reservas</strong>
             <br><br>
-            <strong><u>Caso 01: Mostrar detalles específicos de cada reserva en el historial </u></strong>
-            <br><br>
+            <strong>Caso 01: Mostrar detalles específicos de cada reserva en el historial</strong>
+            <br>
             <strong>Dado que</strong> los usuarios pueden necesitar información detallada sobre sus reservas pasadas
             <br>
             <strong>Cuando</strong> un usuario selecciona una reserva específica en su historial
             <br>
             <strong>Entonces</strong> el sistema le mostrara los detalles de las reserva pasadas al usuario
             <br><br>
-            <strong><u>Caso 02: No visualizar ninguna reserva en el historial</u></strong>
-            <br><br>
+            <strong>Caso 02: No visualizar ninguna reserva en el historial</strong>
+            <br>
             <strong>Dado que</strong> el usuario todavia no haya realizado ninguna reserva
             <br>
             <strong>Cuando</strong> entre al apartado de historial de reserva
             <br>
             <strong>Entonces</strong> el sistema debe mostrar un mensaje en el apartado de historial de reservas indicando que el usuario aún no ha realizado ninguna reserva
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP005</td>
 		</tr>
         <tr>
             <td colspan="1">US022</td>
@@ -1504,7 +1543,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> adaptarla a mis necesidades y mejorar mi experiencia de uso
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Selección de tema de color</strong>
             <br><br>
             <strong><u>Caso 01: Permitir a los usuarios seleccionar un tema de color para la interfaz</u></strong>
@@ -1515,7 +1554,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> el sistema le proporciona la opción de seleccionar un tema de color predefinido
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP008</td>
 		</tr>
         <tr>
             <td colspan="1">US023</td>
@@ -1527,11 +1566,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> informar a los administradores sobre posibles errores o situaciones que requieran atención
             </td>
-            <td colspan="1">
+            <td colspan="4">
             <strong>E01: Acceso al formulario de reporte</strong>
             <br><br>
-            <strong><u>Caso 01: Permitir a los usuarios acceder al formulario de reporte de problemas</u></strong>
-            <br><br>
+            <strong>Caso 01: Permitir a los usuarios acceder al formulario de reporte de problemas</strong>
+            <br>
             <strong>Dado que</strong> los usuarios pueden encontrar problemas durante el uso de la aplicación web
             <br>
             <strong>Cuando</strong> un usuario encuentra un problema
@@ -1540,7 +1579,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> el sistema le proporciona una forma clara de acceder al formulario de reporte de la aplicación
             </td>
-            <td colspan="1">...</td>
+            <td colspan="1">EP006</td>
 		</tr>
     <tr>
     <td colspan="1">US024</td>
@@ -1550,11 +1589,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> poder gestionar las quejas de los usuarios para abordar problemas y mejorar la experiencia del usuario.
     </td>
-    <td colspan="1">
+    <td colspan="4">
         <strong>E01: Recepción de quejas</strong>
         <br><br>
-        <strong><u>Caso 01: Permitir a los usuarios enviar quejas a través de un formulario de contacto</u></strong>
-        <br><br>
+        <strong>Caso 01: Permitir a los usuarios enviar quejas a través de un formulario de contacto</strong>
+        <br>
         <strong>Dado que</strong> un usuario desea reportar un problema o hacer una queja...
         <br><br>
         **Escenario:**
@@ -1563,7 +1602,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         entonces el sistema registra la queja correctamente y notifica al equipo de soporte para su seguimiento.
     </td>
-    <td colspan="1">EP008</td>
+    <td colspan="1">EP006</td>
 </tr>
 
 <tr>
@@ -1574,11 +1613,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> que el proceso de reserva de scooters sea más intuitivo y eficiente para poder completar reservas rápidamente.
     </td>
-    <td colspan="1">
+    <td colspan="4">
         <strong>E01: Simplificación del proceso de reserva</strong>
         <br><br>
-        <strong><u>Caso 01: Reducir el número de pasos requeridos para completar una reserva</u></strong>
-        <br><br>
+        <strong>Caso 01: Reducir el número de pasos requeridos para completar una reserva</strong>
+        <br>
         <strong>Dado que</strong> un usuario desea reservar un scooter de forma rápida...
         <br><br>
         **Escenario:**
@@ -1598,11 +1637,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> tener más opciones de pago disponibles para mayor comodidad y flexibilidad.
     </td>
-    <td colspan="1">
+    <td colspan="4">
         <strong>E01: Adición de métodos de pago</strong>
         <br><br>
-        <strong><u>Caso 01: Integrar nuevos métodos de pago, como PayPal o transferencias bancarias</u></strong>
-        <br><br>
+        <strong>Caso 01: Integrar nuevos métodos de pago, como PayPal o transferencias bancarias</strong>
+        <br>
         <strong>Dado que</strong> un usuario desea utilizar un método de pago diferente...
         <br><br>
         **Escenario:**
@@ -1625,8 +1664,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     <td colspan="1">
         <strong>E01: Notificaciones en tiempo real</strong>
         <br><br>
-        <strong><u>Caso 01: Enviar notificaciones cuando se confirme una reserva</u></strong>
-        <br><br>
+        <strong>Caso 01: Enviar notificaciones cuando se confirme una reserva</strong>
+        <br>
         <strong>Dado que</strong> un usuario ha realizado una reserva...
         <br><br>
         **Escenario:**
@@ -1646,11 +1685,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> tener la opción de suscribirme a un plan premium para acceder a características adicionales y beneficios exclusivos.
     </td>
-    <td colspan="1">
+    <td colspan="4">
         <strong>E01: Ofrecer planes de suscripción premium</strong>
         <br><br>
-        <strong><u>Caso 01: Mostrar las características exclusivas de la suscripción premium</u></strong>
-        <br><br>
+        <strong>Caso 01: Mostrar las características exclusivas de la suscripción premium</strong>
+        <br>
         <strong>Dado que</strong> un usuario está interesado en acceder a beneficios adicionales...
         <br><br>
         **Escenario:**
@@ -1670,7 +1709,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> mantener un registro completo y detallado de todas las quejas recibidas por parte de los usuarios, así como las acciones tomadas para resolverlas, con el fin de garantizar la satisfacción y confianza de los usuarios en el sistema.
     </td>
-    <td colspan="1">
+    <td colspan="4">
         <strong>E01: Registro exhaustivo de quejas y resoluciones</strong>
         <br><br>
         <strong><u>Caso 01: Almacenar detalles de todas las quejas recibidas</u></strong>
