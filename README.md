@@ -1882,7 +1882,7 @@ En el sitio web estático, los usuarios podrán utilizar la barra de navegación
 - Búsqueda de Alternativas de Movilidad Urbana:
     - Permitir a las personas que transitan Lima Metropolitana buscar alternativas de movilidad urbana que les permitan desplazarse de manera rápida, económica y ecoamigable.
     - Incluir información sobre el alquiler de scooters eléctricos como una opción conveniente para evitar la congestión del tráfico y el estacionamiento limitado en áreas urbanas.
-    -Ejemplo de búsqueda: "Alquiler de scooters eléctricos en Lima Metropolitana".
+    - Ejemplo de búsqueda: "Alquiler de scooters eléctricos en Lima Metropolitana".
 
 
 - Búsqueda de Estilo de Vida Sostenible:
@@ -1892,7 +1892,16 @@ En el sitio web estático, los usuarios podrán utilizar la barra de navegación
 
 **Segmento: Empresas Delivery en Lima Metropolitana**
 
--
+- Búsqueda de Soluciones de Entrega Eficientes:
+    -Permitir a las empresas delivery buscar soluciones de entrega eficientes que les ayuden a cumplir con los plazos de entrega y reducir los costos operativos.
+    -Incluir información sobre el alquiler de scooters eléctricos como una opción para mejorar la eficiencia de las entregas en áreas urbanas congestionadas.
+    -Ejemplo de búsqueda: "Alquiler de scooters eléctricos para empresas delivery".
+
+
+- Búsqueda de Reducción de Costos Operativos:
+    -Facilitar la búsqueda de información sobre cómo reducir los costos operativos asociados con la flota de entrega de una empresa.
+    -Incluir recursos sobre el uso de scooters eléctricos en lugar de vehículos más grandes para disminuir los gastos de mantenimiento y combustible.
+    -Ejemplo de búsqueda: "Beneficios económicos del uso de scooters eléctricos para empresas delivery".
 
 ### 4.2.5. Navigation Systems
 A continuación, el equipo mostrará los sistemas de navegación con los que contará Ayni para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
