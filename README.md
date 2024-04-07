@@ -1880,17 +1880,15 @@ En el sitio web estático, los usuarios podrán utilizar la barra de navegación
 **Segmento: Personas que Transitan Lima Metropolitana**
 
 - Búsqueda de Alternativas de Movilidad Urbana:
-
-Permitir a las personas que transitan Lima Metropolitana buscar alternativas de movilidad urbana que les permitan desplazarse de manera rápida, económica y ecoamigable.
-Incluir información sobre el alquiler de scooters eléctricos como una opción conveniente para evitar la congestión del tráfico y el estacionamiento limitado en áreas urbanas.
-Ejemplo de búsqueda: "Alquiler de scooters eléctricos en Lima Metropolitana".
+    - Permitir a las personas que transitan Lima Metropolitana buscar alternativas de movilidad urbana que les permitan desplazarse de manera rápida, económica y ecoamigable.
+    - Incluir información sobre el alquiler de scooters eléctricos como una opción conveniente para evitar la congestión del tráfico y el estacionamiento limitado en áreas urbanas.
+    -Ejemplo de búsqueda: "Alquiler de scooters eléctricos en Lima Metropolitana".
 
 
 - Búsqueda de Estilo de Vida Sostenible:
-
-Facilitar la búsqueda de información sobre cómo adoptar un estilo de vida más sostenible y respetuoso con el medio ambiente.
-Incluir recursos sobre el uso de medios de transporte ecoamigables, como los scooters eléctricos, para reducir las emisiones de carbono y contribuir a la preservación del medio ambiente.
-Ejemplo de búsqueda: "Beneficios ambientales del uso de scooters eléctricos".
+    -Facilitar la búsqueda de información sobre cómo adoptar un estilo de vida más sostenible y respetuoso con el medio ambiente.
+    -Incluir recursos sobre el uso de medios de transporte ecoamigables, como los scooters eléctricos, para reducir las emisiones de carbono y contribuir a la preservación del medio ambiente.
+    -Ejemplo de búsqueda: "Beneficios ambientales del uso de scooters eléctricos".
 
 **Segmento: Empresas Delivery en Lima Metropolitana**
 
