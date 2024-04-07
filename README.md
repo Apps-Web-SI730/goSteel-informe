@@ -1904,7 +1904,7 @@ En el sitio web estático, los usuarios podrán utilizar la barra de navegación
     -Ejemplo de búsqueda: "Beneficios económicos del uso de scooters eléctricos para empresas delivery".
 
 ### 4.2.5. Navigation Systems
-A continuación, el equipo mostrará los sistemas de navegación con los que contará Ayni para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
+A continuación, el equipo mostrará los sistemas de navegación con los que contará GoSteel para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
 
 En el Landing Page, se cuenta con encabezados que representan a las diversas secciones que estarán presentes. Estas estarán ubicadas en la parte superior de la página como menú horizontal siempre presente a la hora de bajar y subir con el ratón. Para que el usuario no tenga que realizar una traslación de manera manual por toda la página para llegar a una sección, se podrá usar estos encabezados para ubicarse inmediatamente en el sector que se desee. Obviamente, el visitante tiene que haber leído el título del encabezado para asegurarse de que se ubicará en la zona adecuada. Gracias a esto, se genera una traslación fácil e intuitiva.
 
