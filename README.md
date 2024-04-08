@@ -956,6 +956,21 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
             <td colspan="1">Desarrollo del Landing Page</td>
             <td colspan="1"><strong>Como</strong> usuario en la plataforma <strong>quiero</strong> visitar el landing page del proyecto <strong>para</strong> conocer más sobre la iniciativa del proyecto. </td>
 		</tr>
+        <tr>
+            <td colspan="1">EP008</td>
+            <td colspan="1">Control y vista de la plataforma</td>
+            <td colspan="1"><strong>Como</strong> usuario en la plataforma <strong>quiero</strong> poder personalizar la interfaz <strong>para</strong> mejorar mi experiencia dentro de la plataforma. </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP009</td>
+            <td colspan="1">Gestión de reseñas</td>
+            <td colspan="1"><strong>Como</strong> usuario en la plataforma <strong>quiero</strong> poder dejar mi calificación del scooter utilizado<strong> para</strong> compartir mi experiencia con los demás usuarios. </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP010</td>
+            <td colspan="1">Mantenimiento de scooters</td>
+            <td colspan="1"><strong>Como</strong> usuario en la plataforma <strong>quiero</strong> poder reportar problemas con un scooter<strong> para</strong> que puedan ser reparados rápidamente. </td>
+		</tr>
 	</tbody>
 </table>
 
@@ -978,7 +993,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">
             <strong>Como</strong> usuario cliente <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Registro Exitoso</strong>
             <br><br>
             <strong>Caso 01: Registro con e-mail</strong>
@@ -1040,7 +1055,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">
             <strong>Como</strong> usuario empresa <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Registro Exitoso</strong>
             <br><br>
             <strong>Caso 01: Registro con e-mail</strong>
@@ -1110,14 +1125,14 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta porque la empresa no existe.
             <br><br>
             </td>
-            <td colspan="1">EP01</td>
+            <td colspan="1">EP001</td>
             </td>
 		</tr>
         <tr>
             <td colspan="1">US003</td>
             <td colspan="1">Inicio de sesión de usuarios en la plataforma</td>
             <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> iniciar sesión con mi correo <strong>para</strong> ingresar a la plataforma.</td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Inicio de sesión exitoso</strong>
             <br><br>
             <strong>Caso 01: Ingreso de credenciales correctos</strong>
@@ -1166,78 +1181,160 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">Reserva de scooter</td>
             <td colspan="1"><strong>Como</strong> usuario<strong> quiero</strong> poder reservar un scooter específico con anticipación <strong>para</strong> asegurarme de que esté disponible cuando llegue a la estación de scooters.
             </td>
-            <td colspan="5"></td>
+            <td colspan="5">
+            <strong>E01: Reserva exitosa</strong>
+            <br><br>
+            <strong>Caso 01: Usuario reserva scooter exitosamente</strong>
+            <br>
+           <strong>Dado que</strong> el usuario selecciona la opción de reservar scooters
+           <br>
+            <strong>Y</strong> el sistema muestra el formulario de reserva
+            <br>
+            <strong>Cuando</strong> el usuario elija el scooter, la fecha y hora para la reserva
+            <br>
+            <strong>Y</strong> el usuario seleccione la opción reservar scooter
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje diciendo que la reserva se realizó exitosamente.
+            <br><br>
+            <strong>E02: Reserva fallida</strong>
+            <br><br>
+            <strong>Caso 01: Reserva incompleta</strong>
+            <strong>Dado que</strong> el usuario selecciona la opción de reservar scooters
+            <br>
+            <strong>Y</strong> el sistema muestra el formulario de reserva
+            <br>
+            <strong>Cuando</strong> el usuario solo llene el formulario sellecionando el scooter sin la fecha u hora para la reserva
+            <br>
+            <strong>Y</strong> el usuario seleccione la opción reservar scooter
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje diciendo que la reserva no se pudo realizar porque faltan seleccionar la fecha u hora.
+            <br><br>
+            <strong>Caso 02: Reservación fuera del límite del tiempo</strong>
+            <br>
+            <strong>Dado que</strong> el usuario selecciona la opción de reservar scooters
+            <br>
+            <strong>Y</strong> el sistema muestra el formulario de reserva
+            <br>
+            <strong>Cuando</strong> el usuario escoja el scooter, fecha y hora fuera del tiempo límite
+            <br>
+            <strong>Y</strong> el usuario seleccione la opción reservar scooter.
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje diciendo que la reserva no se pudo realizar porque faltan seleccionar la fecha u hora.
+            <br>
+            </td>
             <td colspan="1">EP005</td>
 		</tr>
         <tr>
             <td colspan="1">US005</td>
-            <td colspan="1">Recuperación de contraseña para usuarios registrados</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
-            <td colspan="1">US005</td>
-            <td colspan="1">Búsqueda de una rama de matemática</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Recuperación de contraseña para usuarios registrados </td>
+            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> poder recuperar mi contraseña <strong>para</strong> poder acceder a mi cuenta en caso de que me hay olvidado alguna de mis credenciales. 
+            </td>
+            <td colspan="5">   
+            <strong>E01: Recuperación de contraseña exitosa</strong>
+            <br><br>
+            <strong>Caso 01: Cambio de contraseña</strong>
+            <br>
+            <strong>Dado que</strong> el usuario olvida su contraseña 
+            <br>
+            <strong>Y</strong> el usuario quiere recuperar su contraseña 
+            <br>
+            <strong>Cuando</strong> el usuario seleccione la opción restablecer contraseña 
+            <br>
+            <strong>Y</strong> el sistema envía un código a su correo 
+            <br>
+            <strong>Y</strong> el usuario coloca el código en el formulario de la plataforma
+            <br>
+            <strong>Entonces</strong> el sistema verifica que el código es correcto 
+            <br>
+            <strong>Y</strong> el usuario puede volver a escribir una nueva contraseña.
+            <br><br>
+            <strong> Caso 02: No se pudo realizar el cambio de contraseña</strong>
+            <br>
+            <strong>Dado que</strong> el usuario olvida su contraseña 
+            <br>
+            <strong>Y</strong> el usuario quiere recuperar su contraseña 
+            <br>
+            <strong>Cuando</strong> el usuario seleccione la opción restablecer contraseña 
+            <br>
+            <strong>Y</strong> el sistema envía un código a su correo 
+            <br>
+            <strong>Y</strong> el usuario coloca el código en el formulario de la plataforma
+            <br>
+            <strong>Y</strong> el sistema detecta que el código es incorrecto.
+            <br>
+            <strong>Entonces</strong> el sistema un mensaje donde indica que ha colocado el código incorrecto.           <br>
+            </td>
+            <td colspan="1">EP002</td>
 		</tr>
         <tr>
             <td colspan="1">US006</td>
-            <td colspan="1">Elección de una rama de matemática</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
-            <td colspan="1">US006</td>
-            <td colspan="1">Búsqueda de una unidad</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Bloqueo de scooters</td>
+            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> bloquear mi scooter cuando termine mi viaje<strong> para</strong> evitar que otros lo utilicen sin autorización.</td>
+            <td colspan="5">
+            <strong>E01: Bloqueo exitoso
+            <br></br>
+            Caso 01: El usuario bloquea exitosamente el scooter</strong>
+            <strong>Dado</strong> que el usuario termina de usar el scooter 
+            <br>
+            <strong>Y</strong> el usuario quiere bloquear el scooter
+            <br> 
+            <strong>Cuando</strong> el usuario seleccione la opción finalizar uso
+            <br>
+            <strong>Y</strong> el sistema envía un código al correo del usuario
+            <br>
+            <strong>Y</strong> el usuario coloca el código 
+            <br>
+            <strong>Y</strong> el sistema verifica que el código sea correcto
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje diciendo que se ha bloqueado correctamente el scooter.        
+            </td>
+            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US007</td>
-            <td colspan="1">Elección de una unidad</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Confirmación de reserva</td>
+            <td colspan="1"><strong>Como</strong> usuario que ha realizado una reserva en el sistema, <strong>quiero</strong> recibir un correo <strong>para</strong> confirmar mi reserva y asegurarme de no rhaber reservado por error.</td>
+            <td colspan="5">E01: Confrimación exitosa
+            E02: Confirmación denegada</td>
+            <td colspan="1">EP005</td>
 		</tr>
         <tr>
             <td colspan="1">US008</td>
-            <td colspan="1">Elección de un tema</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Desbloqueo de scooter</td>
+            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> desbloquear mi scooter<strong> para</strong> empezar mi viaje.</td>
+            <td colspan="5">E01: Desbloqueo exitoso
+            E02: Desbloqueo fallido</td>
+            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US009</td>
-            <td colspan="1">Elección de categoría</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Rentar Scooter</td>
+            <td colspan="1">Como usuario quiero rentar un scooter para realizar mis viajes.</td>
+            <td colspan="5">E01: Renta exitosa</td>
+            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US010</td>
-            <td colspan="1">Inicio del juego de preguntas con respecto a la categoría y el tema seleccionado</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Reporte de problemas con el scooter</td>
+            <td colspan="1">Como usuario quiero reportar problemas con el scooter para que entre a mantenimiento </td>
+            <td colspan="5">E01: Reporte exitoso
+            E02: Reporte fallido</td>
+            <td colspan="1">EP010</td>
 		</tr>
         <tr>
             <td colspan="1">US011</td>
-            <td colspan="1">Inicio del juego de preguntas con respecto a la categoría y el tema seleccionado</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Visualización de precios</td>
+            <td colspan="1">Como usuario quiero visualizar precios para poder saber lo que tengo que pagar</td>
+            <td colspan="5">E01: Precios visibles</td>
+            <td colspan="1">EP004</td>
 		</tr>
         <tr>
             <td colspan="1">US012</td>
-            <td colspan="1">Buscar scooters disponibles </td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Buscar scooters disponibles</td>
+            <td colspan="1">Como usuario, quiero poder buscar scooters disponibles en mi área cercana para poder encontrar una opción conveniente para mi viaje.
+            </td>
+            <td colspan="5">E01: Búsqueda de scooters</td>
+            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US013</td>
@@ -1249,7 +1346,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> no incurrir en gastos por un servicio que no voy a utilizar.
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Cancelación exitosa</strong>
             <br><br>
             <strong>Caso 01: Usuario cancela una reserva exitosamente</strong>
@@ -1289,7 +1386,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> revisar y confirmar mis datos personales y de usuario
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Visualización de datos del perfil</strong>
             <br><br>
             <strong>Caso 01: Usuario accede a la visualización de su perfil</strong>
@@ -1323,7 +1420,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> evitar accesos no autorizados y proteger mi privacidad
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Gestión de credenciales seguras</strong>
             <br><br>
             <strong>Caso 01: Asegurar la gestión segura de las credenciales de acceso</strong>
@@ -1346,7 +1443,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> poder realizar reservas de scooters de manera rápida y confiable.
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Opciones de pago seguras</strong>
             <br><br>
             <strong>Caso 01: Proporcionar opciones de pago seguras para los usuarios</strong>
@@ -1387,7 +1484,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> mantener mis datos personales actualizados y precisos
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Edición de información del perfil</strong>
             <br><br>
             <strong>Caso 01: Permitir a los usuarios editar su información de perfil</strong>
@@ -1420,7 +1517,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> acceder rápidamente a mis opciones preferidas y realizar reservas más fácilmente
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Marcar un scooter como favorito</strong>
             <br><br>
             <strong>Caso 01: Permitir a los usuarios marcar un scooter como favorito</strong>
@@ -1445,7 +1542,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> compartir mi opinión con otros usuarios y ayudarles a tomar decisiones informadas
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Dejar una reseña después de usar un scooter</strong>
             <br><br>
             <strong>Caso 01: Permitir a los usuarios dejar una reseña después de usar un scooter</strong>
@@ -1488,7 +1585,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> cplanificar mi viaje y encontrar fácilmente el punto de inicio y fin de mi alquiler
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Visualización de zonas en el mapa</strong>
             <br><br>
             <strong>Caso 01: Permitir a los usuarios ver las zonas de recojo y entrega en un mapa</strong>
@@ -1513,7 +1610,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> tener un registro de mis viajes pasados 
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01:  Mostrar el apartado de historial de reservas</strong>
             <br><br>
             <strong>Caso 01: Mostrar detalles específicos de cada reserva en el historial</strong>
@@ -1544,7 +1641,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> adaptarla a mis necesidades y mejorar mi experiencia de uso
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Selección de tema de color</strong>
             <br><br>
             <strong><u>Caso 01: Permitir a los usuarios seleccionar un tema de color para la interfaz</u></strong>
@@ -1559,7 +1656,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US023</td>
-            <td colspan="1">Reporte de problemas</td>
+            <td colspan="1">Reporte de problemas de la aplicación web</td>
             <td colspan="1">
             <strong>Como</strong> usuario de la aplicación 
             <br>
@@ -1567,7 +1664,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>para</strong> informar a los administradores sobre posibles errores o situaciones que requieran atención
             </td>
-            <td colspan="4">
+            <td colspan="5">
             <strong>E01: Acceso al formulario de reporte</strong>
             <br><br>
             <strong>Caso 01: Permitir a los usuarios acceder al formulario de reporte de problemas</strong>
@@ -1590,7 +1687,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> poder gestionar las quejas de los usuarios para abordar problemas y mejorar la experiencia del usuario.
     </td>
-    <td colspan="4">
+    <td colspan="5">
         <strong>E01: Recepción de quejas</strong>
         <br><br>
         <strong>Caso 01: Permitir a los usuarios enviar quejas a través de un formulario de contacto</strong>
@@ -1614,7 +1711,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> que el proceso de reserva de scooters sea más intuitivo y eficiente para poder completar reservas rápidamente.
     </td>
-    <td colspan="4">
+    <td colspan="5">
         <strong>E01: Simplificación del proceso de reserva</strong>
         <br><br>
         <strong>Caso 01: Reducir el número de pasos requeridos para completar una reserva</strong>
@@ -1638,7 +1735,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> tener más opciones de pago disponibles para mayor comodidad y flexibilidad.
     </td>
-    <td colspan="4">
+    <td colspan="5">
         <strong>E01: Adición de métodos de pago</strong>
         <br><br>
         <strong>Caso 01: Integrar nuevos métodos de pago, como PayPal o transferencias bancarias</strong>
@@ -1686,7 +1783,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> tener la opción de suscribirme a un plan premium para acceder a características adicionales y beneficios exclusivos.
     </td>
-    <td colspan="4">
+    <td colspan="5">
         <strong>E01: Ofrecer planes de suscripción premium</strong>
         <br><br>
         <strong>Caso 01: Mostrar las características exclusivas de la suscripción premium</strong>
@@ -1710,7 +1807,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> mantener un registro completo y detallado de todas las quejas recibidas por parte de los usuarios, así como las acciones tomadas para resolverlas, con el fin de garantizar la satisfacción y confianza de los usuarios en el sistema.
     </td>
-    <td colspan="4">
+    <td colspan="5">
         <strong>E01: Registro exhaustivo de quejas y resoluciones</strong>
         <br><br>
         <strong><u>Caso 01: Almacenar detalles de todas las quejas recibidas</u></strong>
@@ -1731,8 +1828,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     </td>
     <td colspan="1">EP008</td>
 </tr>
-
-
 </tbody>
 </table>
 
@@ -1877,34 +1972,16 @@ En el sitio web estático, los usuarios podrán utilizar la barra de navegación
 
 **En la aplicación web:**
 
-**Segmento: Personas que Transitan Lima Metropolitana**
+**Segmento: Productores que desean mejorar la calidad de sus productos**
 
-- Búsqueda de Alternativas de Movilidad Urbana:
-    - Permitir a las personas que transitan Lima Metropolitana buscar alternativas de movilidad urbana que les permitan desplazarse de manera rápida, económica y ecoamigable.
-    - Incluir información sobre el alquiler de scooters eléctricos como una opción conveniente para evitar la congestión del tráfico y el estacionamiento limitado en áreas urbanas.
-    - Ejemplo de búsqueda: "Alquiler de scooters eléctricos en Lima Metropolitana".
+- 
 
+**Segmento: Exportadores o comerciantes que desean mejorar la calidad de sus ventas**
 
-- Búsqueda de Estilo de Vida Sostenible:
-    -Facilitar la búsqueda de información sobre cómo adoptar un estilo de vida más sostenible y respetuoso con el medio ambiente.
-    -Incluir recursos sobre el uso de medios de transporte ecoamigables, como los scooters eléctricos, para reducir las emisiones de carbono y contribuir a la preservación del medio ambiente.
-    -Ejemplo de búsqueda: "Beneficios ambientales del uso de scooters eléctricos".
-
-**Segmento: Empresas Delivery en Lima Metropolitana**
-
-- Búsqueda de Soluciones de Entrega Eficientes:
-    -Permitir a las empresas delivery buscar soluciones de entrega eficientes que les ayuden a cumplir con los plazos de entrega y reducir los costos operativos.
-    -Incluir información sobre el alquiler de scooters eléctricos como una opción para mejorar la eficiencia de las entregas en áreas urbanas congestionadas.
-    -Ejemplo de búsqueda: "Alquiler de scooters eléctricos para empresas delivery".
-
-
-- Búsqueda de Reducción de Costos Operativos:
-    -Facilitar la búsqueda de información sobre cómo reducir los costos operativos asociados con la flota de entrega de una empresa.
-    -Incluir recursos sobre el uso de scooters eléctricos en lugar de vehículos más grandes para disminuir los gastos de mantenimiento y combustible.
-    -Ejemplo de búsqueda: "Beneficios económicos del uso de scooters eléctricos para empresas delivery".
+-
 
 ### 4.2.5. Navigation Systems
-A continuación, el equipo mostrará los sistemas de navegación con los que contará GoSteel para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
+A continuación, el equipo mostrará los sistemas de navegación con los que contará Ayni para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
 
 En el Landing Page, se cuenta con encabezados que representan a las diversas secciones que estarán presentes. Estas estarán ubicadas en la parte superior de la página como menú horizontal siempre presente a la hora de bajar y subir con el ratón. Para que el usuario no tenga que realizar una traslación de manera manual por toda la página para llegar a una sección, se podrá usar estos encabezados para ubicarse inmediatamente en el sector que se desee. Obviamente, el visitante tiene que haber leído el título del encabezado para asegurarse de que se ubicará en la zona adecuada. Gracias a esto, se genera una traslación fácil e intuitiva.
 
