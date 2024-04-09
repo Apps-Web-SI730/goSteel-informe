@@ -1851,15 +1851,59 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 ## 4.1. Style Guidelines
 En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de una interfaz que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo tiempo que hemos establecido ciertas restricciones para evitar la inclusión de elementos gráficos poco atractivos.
 ### 4.1.1. General Style Guidelines
-* Colores: la consideración de los colores es crucial porque influyen en la coherencia visual, la legibilidad y accesibilidad del diseño, la capacidad para transmitir mensajes y emociones, así como en la atracción visual y la usabilidad del producto final. En resumen, los colores dentro de las directrices de estilo son fundamentales para crear diseños atractivos, legibles, accesibles y coherentes que comuniquen eficazmente el mensaje deseado y mejoren la experiencia del usuario.
+<BR>
 
-![IMAGEN-Colores]()
+>**Branding**
 
-* Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario. Establecer reglas sobre el tamaño, el estilo y el espaciado de la fuente ayuda a mantener la coherencia visual y a garantizar una lectura cómoda, mientras que la elección de tipos de letra adecuados puede reflejar la identidad de la marca y transmitir emociones específicas. En resumen, las directrices de estilo para la tipografía son fundamentales para crear diseños legibles, coherentes y efectivos que mejoren la experiencia del usuario y fortalezcan la identidad de la marca.
+Para el desarrollo de nuestro branding realizamos un logotipo distintivo y memorable que facilita la comprensión de lo que nuestra plataforma ofrece a nuestros usuarios.
 
-![IMAGEN-Tipografia]()
+![logo](assets/logo.png)
 
-* Tono de comunicacion y lenguaje aplicado: El tono de comunicación es un aspecto muy importante de los estilos que planeamos integrar en las páginas. Considerar el tono de comunicación implica definir si el contenido será formal, informal, técnico, amigable, entre otros. Estas decisiones afectan la manera en que la audiencia percibe la marca y su mensaje, así como la efectividad de la comunicación. Además, las directrices de estilo establecen el lenguaje aplicado, incluyendo la elección de palabras, la estructura de las oraciones y el nivel de complejidad del texto, lo cual impacta en la claridad, la accesibilidad y la capacidad de conexión con la audiencia.
+
+La paleta de colores que implementamos para el desarrollo de nuestro logo es el siguiente:
+
+![logo-paleta de colores](assets/logo_paleta.png)
+
+<br>
+
+>**Colores**
+
+Al dar la alusión de la capacidad para transmitir mensajes y emociones, así como en la atracción visual y la usabilidad del producto final. Decidimos hacer uso de colores dentro de las directrices de estilo neutro. Ya que, observamos que son fundamentales para crear diseños atractivos, legibles, accesibles y coherentes que comunican eficazmente el mensaje deseado y mejoran la experiencia de nuestros usuarios.
+
+![plataforma- paleta de colores](assets/plataforma_paleta.png)
+
+Significado de los colores usados:
+
+
+<br>
+
+>**Tipografía**
+
+Las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. Por lo que, además de la elección, decidimos establecer reglas sobre el tamaño, el estilo y el espaciado de la fuente ayuda a mantener la coherencia visual y a garantizar una lectura cómoda.
+
+![tipografía](assets/tipografia.png)
+
+La elección de la *NUNITO* es porque transmite y da el toque amigable pero profesional a los usuarios que visitan nuestra plataforma. Nunito es una tipografía contemporánea que funciona bien en interfaces de usuario. Sus formas redondeadas y proporciones equilibradas la hacen especialmente adecuada para aplicaciones web con un estilo moderno.
+
+-   **Títulos**: Los títulos son de estilo "Bold" y de tamaño 64px
+-   **Subtítulos**: Los subtítulos sin de estilo "Semibold" y de tamaño 40px
+- **Texto y botones**: En ambos casos se hace uso del estilo "Light" y de tamaño 32px
+- **Spacing**: Implementamos un espacio apropiado entre los elementos con el fin de mejorar la legibilidad y facilitar la navegación en el sitio web. Garantizamos que los componentes de la página cuenten con el espacio adecuado alrededor de ellos para evitar una sensación de congestión y promover una organización visual mejorada.
+    - Entre un *título* y un *texto* en la **aplicación** habrá una separación de 2.5 px.
+    - Entre un *título* y un *texto* del **landing page** habrá una separación de 8 px.
+    - Entre un *subtítulo* y el *párrafo* del **landing page** habrá una separación de 31 px.
+
+<br>
+
+>**Tono de comunicacion y lenguaje aplicado**
+
+La elección del tono de comunicación es un componente fundamental de los estilos que estamos planificando integrar en las páginas. 
+
+Al analizar el tono de comunicación, hemos determinando que el contenido será entre el límite de lo **formal e informal**. 
+
+Teniendo como predominio lo **amigable** en el aspecto de nuestra aplicación e instruyendo lo **técnico** solo en el reporte oficial para problemas/soporte técnico. 
+
+Además,las directrices de estilo guían la selección del lenguaje utilizado, lo que incluye en la elección de palabras coloquiales y técnicas para darle un nivel de complejidad del texto que sea entendible para todo tipo de usuario y exista la capacidad de conectar con la audiencia.
 
 ### 4.1.2. Web Style Guidelines
 Los colores utilizados en la web de nuestra aplicación siguen las pautas de la guía general de diseño. Estas personalizaciones se basan no sólo en el nuevo formato y estilo de visualización, sino también en la sección o página específica que el usuario esté utilizando en la aplicación. Para corregir estas variaciones, hemos identificado diferentes secciones donde los colores y transparencias se ajustan según el diseño:
