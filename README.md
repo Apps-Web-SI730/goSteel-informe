@@ -1851,7 +1851,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 ## 4.1. Style Guidelines
 En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de una interfaz que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo tiempo que hemos establecido ciertas restricciones para evitar la inclusión de elementos gráficos poco atractivos.
 ### 4.1.1. General Style Guidelines
-<BR>
 
 >**Branding**
 
@@ -1864,8 +1863,6 @@ La paleta de colores que implementamos para el desarrollo de nuestro logo es el 
 
 ![logo-paleta de colores](assets/logo_paleta.png)
 
-<br>
-
 >**Colores**
 
 Al dar la alusión de la capacidad para transmitir mensajes y emociones, así como en la atracción visual y la usabilidad del producto final. Decidimos hacer uso de colores dentro de las directrices de estilo neutro. Ya que, observamos que son fundamentales para crear diseños atractivos, legibles, accesibles y coherentes que comunican eficazmente el mensaje deseado y mejoran la experiencia de nuestros usuarios.
@@ -1873,9 +1870,7 @@ Al dar la alusión de la capacidad para transmitir mensajes y emociones, así co
 ![plataforma- paleta de colores](assets/plataforma_paleta.png)
 
 Significado de los colores usados:
-
-
-<br>
+- c
 
 >**Tipografía**
 
@@ -1889,11 +1884,9 @@ La elección de la *NUNITO* es porque transmite y da el toque amigable pero prof
 -   **Subtítulos**: Los subtítulos sin de estilo "Semibold" y de tamaño 40px
 - **Texto y botones**: En ambos casos se hace uso del estilo "Light" y de tamaño 32px
 - **Spacing**: Implementamos un espacio apropiado entre los elementos con el fin de mejorar la legibilidad y facilitar la navegación en el sitio web. Garantizamos que los componentes de la página cuenten con el espacio adecuado alrededor de ellos para evitar una sensación de congestión y promover una organización visual mejorada.
-    - Entre un *título* y un *texto* en la **aplicación** habrá una separación de 2.5 px.
     - Entre un *título* y un *texto* del **landing page** habrá una separación de 8 px.
     - Entre un *subtítulo* y el *párrafo* del **landing page** habrá una separación de 31 px.
 
-<br>
 
 >**Tono de comunicacion y lenguaje aplicado**
 
@@ -1903,25 +1896,34 @@ Al analizar el tono de comunicación, hemos determinando que el contenido será 
 
 Teniendo como predominio lo **amigable** en el aspecto de nuestra aplicación e instruyendo lo **técnico** solo en el reporte oficial para problemas/soporte técnico. 
 
-Además,las directrices de estilo guían la selección del lenguaje utilizado, lo que incluye en la elección de palabras coloquiales y técnicas para darle un nivel de complejidad del texto que sea entendible para todo tipo de usuario y exista la capacidad de conectar con la audiencia.
+Además,las directrices de estilo guían la selección del lenguaje utilizado, lo que incluye en la elección de palabras coloquiales y técnicas para darle un nivel de complejidad del texto que sea entendible para todo tipo de usuario y exista la capacidad de conectar con la audiencia.         
 
 ### 4.1.2. Web Style Guidelines
-Los colores utilizados en la web de nuestra aplicación siguen las pautas de la guía general de diseño. Estas personalizaciones se basan no sólo en el nuevo formato y estilo de visualización, sino también en la sección o página específica que el usuario esté utilizando en la aplicación. Para corregir estas variaciones, hemos identificado diferentes secciones donde los colores y transparencias se ajustan según el diseño:
 
-* Fondos: para asegurar una estética clásica que se adapte a los diversos fondos degradados presentes en nuestras aplicaciones, hemos elegido una paleta de grises. Esta decisión permite una mayor versatilidad visual, manteniendo la elegancia y la legibilidad del contenido sin importar la combinación de colores específica en la pantalla.
+>**Colores**
 
-![IMAGEN-Fondos]()
+Los colores empleados en el sitio web de nuestra aplicación están en línea con las directrices generales de diseño. Estas adaptaciones se fundamentan no solo en el nuevo formato y estilo visual, sino también en la sección o página específica que el usuario esté explorando en la aplicación. Para unificar estas variaciones, hemos identificado diversas secciones donde los colores y niveles de transparencia se ajustan según el diseño:
 
-* Tipografia: 
+![paleta web style](assets/paleta_web.png)
 
-La elección de colores en el diseño dependerá del fondo en el que se sitúen, y para mantener un estilo clásico, hemos optado por una paleta de grises que se adapta a la mayoría de los tipos de fondo. Esta selección permite una versatilidad visual que conserva la elegancia y la sobriedad requeridas para un estilo clásico, mientras garantiza una armonía estética con una amplia variedad de contextos. Además, los tonos de gris ofrecen un contraste suave y equilibrado, lo que asegura una legibilidad óptima del contenido en cualquier entorno, añadiendo una sensación de atemporalidad al diseño.
+>**Fondos**
 
-![IMAGEN-Tipografia-Colores]()
+ Con el objetivo de garantizar una estética clásica que se adecue a los variados fondos degradados presentes en nuestras aplicaciones, hemos optado por una paleta de colores compuesta por tonos blancos, cafés y una gama de grises.
 
-El estilo para la tipografía son fundamentales para crear diseños legibles, coherentes y efectivos que mejoren la experiencia del usuario y fortalezcan la identidad de la marca.
-Por eso usaremos la tipografía Open Sans con un tamaño de 95px y estilo light ofrece una estética moderna y elegante, ideal para títulos y encabezados que requieran un aspecto sofisticado y fácil de leer. El peso ligero de la fuente proporciona una apariencia delicada y atractiva, mientras que el tamaño grande garantiza una excelente legibilidad, especialmente en dispositivos con pantallas de alta resolución. Esta combinación de tamaño y estilo es ideal para crear un impacto visual fuerte mientras se mantiene una sensación de sutileza y claridad en el diseño.
+![fondo_escala](assets/escala_fondo.png)
 
-![IMAGEN-Tipografia-Estilo]()
+Esta decisión fomenta una mayor flexibilidad visual al mismo tiempo que mantiene la sofisticación y la facilidad de lectura del contenido, sin importar la combinación de colores específica que se presente en la pantalla. Esto garantiza una estética armoniosa en una amplia gama de situaciones. Además, los tonos de gris proporcionan un contraste suave y equilibrado, lo que asegura una lectura óptima del contenido en cualquier entorno, y añade una sensación de atemporalidad al diseño con los tonos de café sugeridos.
+
+
+>**Tipografia** 
+
+La tipografía Nunito presenta una apariencia moderna y refinada, perfecta para títulos y encabezados que busquen un aspecto sofisticado y legible. Su peso ligero ofrece una delicada y atractiva estética, mientras que su tamaño generoso asegura una excelente legibilidad, especialmente en dispositivos con pantallas de alta resolución. 
+
+![heading tipografía](assets/heading_typo.png)
+
+Esta combinación de tamaño y estilo es óptima para generar un impacto visual notable, al mismo tiempo que conserva una sensación de sutileza y claridad en el diseño.
+
+![body tipografía](assets/body_typo.png)
 
 ## 4.2. Information Architecture
 Como equipo decidimos que el diseño de la aplicacion se organizara con una paleta de colores llamativos y de acuerdo con la temática de nuestro trabajo. La principal característica que decidimos llevar a cabo es en relación a la experiencia de los usuarios, queremos que los estudiantes tengan un contenido accesible y asegurado para que puedan resolver cualquiera de sus dudas.
