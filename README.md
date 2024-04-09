@@ -1964,52 +1964,82 @@ En el presente punto se indicará los grupos de información en los cuales se ap
 -
 
 ### 4.2.2. Labeling Systems
-A continuación, el equipo mostrará el sistema de etiquetado que otorgará una descripción breve y clara de la información brindada por la Landing Page.
+A continuación, se presenta el sistema de etiquetado que proporcionará una descripción breve y clara de las funcionalidades ofrecidas por el servicio de alquiler de scooters, dirigido a los segmentos de personas que transitan Lima Metropolitana y empresas de delivery.
 
-**Los encabezados serán los siguientes:**
+### Encabezados para Personas que Transitan Lima Metropolitana:
 
-- Inicio/Home: Sección preseleccionada por defecto que brindara una frase representativa y el logo de la aplicación, además brindara una idea principal del objetivo de esta.
+1. **Inicio/Home:**
+   - Página preseleccionada por defecto que muestra scooters disponibles para alquilar en Lima Metropolitana.
+   - Breve descripción del servicio y su objetivo principal para los residentes y visitantes de la ciudad.
 
-- Sobre nosotros/About Us: Sección donde el cliente obtiene información acerca del equipo de desarrollo, será capaz de visualizar nuestra misión, visión, quienes somos y qué hacemos.
+2. **Registro/Login:**
+   - Sección donde los usuarios pueden crear una cuenta o iniciar sesión.
+   - Formulario para ingresar datos de registro o inicio de sesión, destacando la conveniencia para quienes utilizan el servicio con frecuencia.
 
-- Services/Funcionalidades: Sección dividida para cada segmento objetivo donde se mostrará las funcionalidades que otorga la aplicación para ellos.
+3. **Reservar Scooter:**
+   - Página para seleccionar y reservar un scooter específico en Lima Metropolitana.
+   - Formulario para elegir el scooter, fecha y hora de reserva, con opciones de búsqueda por ubicación.
 
-- Contactanos/Contact Us: Sección donde se muestran nuestros canales de comunicación.
+4. **Historial de Reservas:**
+   - Sección donde los usuarios pueden ver sus reservas anteriores en Lima Metropolitana.
+   - Detalles de cada reserva, incluyendo fecha, hora y scooter reservado, destacando la conveniencia para quienes realizan viajes frecuentes.
 
-A continuación, el equipo mostrará el sistema de etiquetado que otorgará una descripción breve y clara de las funcionalidades brindadas por la aplicación web-
+5. **Perfil de Usuario:**
+   - Página para ver y editar la información del perfil del usuario.
+   - Visualización de datos personales y preferencias de cuenta, con la posibilidad de agregar ubicaciones frecuentes en Lima Metropolitana.
 
-**Los encabezados son los siguientes:**
+### Encabezados para Empresas de Delivery:
 
-**Para SEGMENTO OBJETIVO 1**
+1. **Inicio/Home:**
+   - Página preseleccionada por defecto con scooters disponibles y opciones específicas para empresas de delivery.
+   - Breve descripción del servicio y su utilidad para empresas que necesitan realizar entregas rápidas en Lima Metropolitana.
 
--  
+2. **Registro/Login:**
+   - Sección donde las empresas de delivery pueden crear una cuenta o iniciar sesión.
+   - Formulario para ingresar datos de registro o inicio de sesión, destacando la eficiencia y rapidez en las entregas.
 
-**Para SEGMENTO OBJETIVO 2:**
+3. **Gestión de Flota:**
+   - Página para administrar la flota de scooters utilizada por la empresa de delivery.
+   - Funcionalidades para agregar, asignar y rastrear scooters, así como gestionar mantenimiento y reparaciones.
 
-- 
+4. **Seguimiento de Pedidos:**
+   - Sección donde las empresas pueden seguir el estado de los pedidos en curso en Lima Metropolitana.
+   - Detalles de cada pedido, incluyendo hora de solicitud, recogida y entrega, con actualizaciones en tiempo real.
+
+5. **Reporte de Problemas:**
+   - Página para recibir y gestionar informes de problemas con scooters utilizados por la empresa de delivery.
+   - Registro de problemas reportados y acciones tomadas para solucionarlos, priorizando la continuidad en las entregas.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
-En esta sección, se presentarán las etiquetas que identificarán y diferenciarán al sitio web de los demás en internet. Gracias a ellos, se podrá encontrar a Ayni en los diversos buscadores.
 
-Para el sitio web estático:
+### Para el sitio web estático:
 
-Tittle: 
+**Título (Title):**
+- GoSteel - Servicios de Alquiler de Scooters
 
-Description: 
+**Descripción (Description):**
+- ¡Alquila scooters fácilmente en Lima Metropolitana con GoSteel! Descubre una forma rápida y conveniente de moverte por la ciudad.
 
-Keywords: 
+**Palabras Clave (Keywords):**
+- scooter rental, scooter hire, Lima scooter rental, urban mobility
 
-Authors: 
+**Autores (Authors):**
+- Equipo de Desarrollo GoSteel
 
-Para la aplicación web:
+### Para la aplicación web:
 
-Tittle: 
+**Título (Title):**
+- GoSteel - Plataforma de Alquiler de Scooters
 
-Description: 
+**Descripción (Description):**
+- ¡Alquila scooters fácilmente en Lima Metropolitana con la plataforma GoSteel! Descubre una forma rápida y conveniente de moverte por la ciudad.
 
-Keywords: 
+**Palabras Clave (Keywords):**
+- scooter rental, scooter hire, Lima scooter rental, urban mobility, scooter reservation
 
-Authors: 
+**Autores (Authors):**
+- Equipo de Desarrollo GoSteel
 
 ### 4.2.4. Searching Systems
 En esta sección se presentarán los sistemas de búsqueda que se implementarán en la aplicación. Al hacer uso de esos sistemas, los usuarios podrán encontrar la información que requieran.
