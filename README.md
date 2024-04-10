@@ -2075,25 +2075,45 @@ Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Styl
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
-Pantalla relacianada a la :
-![WIREFRAME-WebApplication]()
+
+![WIREFRAME-WebApplication](./assets/Wireframe-Login.png)
+![WIREFRAME-WebApplication](./assets/Wireframe-Register.png)
+![WIREFRAME-WebApplication](./assets/Wireframe-Inicio.png)
+![WIREFRAME-WebApplication](./assets/Wireframe-BuscarScooter.png)
+![WIREFRAME-WebApplication](./assets/Wireframe-Reserva.png)
+![WIREFRAME-WebApplication](./assets/Wireframe-Favoritos.png)
+![WIREFRAME-WebApplication](./assets/Wireframe-Perfil.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
+En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario.
 
-[Link LucidChart]()
+#### User Persona Empresa de Delivery
 
-**Usar Goal: Como usuario, quiero ...**
+___
 
-**Task Flow:**
+**Usar Goal: Como usuario empresa quiero crearme una cuenta para poder acceder a la aplicación.**
 
-![IMAGEN-WireFlow]()
+![IMAGEN-WireFlow](./assets/US2.png)
 
-**Usar Goal: Como usuario, quiero ...**
+#### User Persona usuario
 
-**Task Flow:**
+___
 
-![IMAGEN-WireFlow]()
+**Usar Goal: Como usuario quiero iniciar sesión con mi correo para ingresar a la plataforma**
+
+![IMAGEN-WireFlow](./assets/US3.png)
+
+**Usar Goal: Como usuario quiero poder reservar un scooter específico con anticipación para asegurarme de que esté disponible cuando llegue a la estación de scooters**
+
+![IMAGEN-WireFlow](./assets/US4.png)
+
+**Usar Goal: Como usuario de la aplicación quiero poder cancelar una reserva para no incurrir en gastos por un servicio que no voy a utilizar**
+
+![IMAGEN-WireFlow](./assets/US13.png)
+
+Enlace de Wireflow Diagrams en Figma para una mejor observación: https://www.figma.com/file/SOKyS4fEM5Vpngj85Rx08v/Untitled?type=design&node-id=0%3A1&mode=design&t=enyuXClZrXBI99Vp-1
+
+
 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección, se presenta el diseño viusal y de interacción en formato de mockups del producto solución.
