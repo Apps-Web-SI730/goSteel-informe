@@ -2129,7 +2129,7 @@ Pantallas relacionas con el Inicio:
 <img src="https://i.imgur.com/fW5UFVi.png" style="width:60%">  
 Pantallas Relacionadas con la Busqueda de Scooters:
 
-<img src="https://i.imgur.com/zK3wTcn.pn" style="width:60%">  
+<img src="https://i.imgur.com/zK3wTcn.png" style="width:60%">  
 Pantallas relacionada con la gestion de reservas:
 
 <img src="https://i.imgur.com/8qVP43o.png" style="width:60%">  
