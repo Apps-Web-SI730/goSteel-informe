@@ -2118,6 +2118,17 @@ Enlace de Wireflow Diagrams en Figma para una mejor observación: https://www.fi
 ### 4.4.3. Web Applications Mock-ups
 En esta sección, se presenta el diseño viusal y de interacción en formato de mockups del producto solución.
 
+Pantallas relacionadas con el inicio de sesiòn:
+<img src="https://i.imgur.com/8MgPFGh.png" style="width:60%">  
+Pantallas relacionadas con la creacion de cuenta:
+<img src="https://i.imgur.com/XwaduUX.png" style="width:60%">  
+Pantallas relacionas con el Inicio:
+<img src="https://i.imgur.com/fW5UFVi.png" style="width:60%">  
+Pantallas Relacionadas con la Busqueda de Scooters:
+<img src="https://i.imgur.com/zK3wTcn.pn" style="width:60%">  
+Pantallas relacionada con la gestion de reservas:
+<img src="https://i.imgur.com/8qVP43o.png" style="width:60%">  
+
 ![MOCK_UP_WEB APPLICATION]()
 ### 4.4.4. Web Applications User Flow Diagrams 
 En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo.
