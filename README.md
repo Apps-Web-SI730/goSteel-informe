@@ -687,9 +687,9 @@ Además de estas razones empresariales, también existe una mejora en la **soste
 
 ### 2.2.2. Registro de entrevistas
 
-Segmento Objetivo: Segemento Objetivo 1
+>**Segmentos Objetivos 1: Transeúntes**
 
-Entrevistado: 1
+**Entrevistado: 1**
 
 Nombre y apellidos: Luis Carbajal
 
@@ -703,10 +703,7 @@ Distrito: San Isidro
 
 Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial. Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos. Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad.
 
-
-Segmento Objetivo: Segemento Objetivo 1
-
-Entrevistado: 2
+**Entrevistado: 2**
 
 Nombre y apellidos: Maria Hinostroza
 
@@ -721,9 +718,22 @@ Distrito: San Isidro
 Resumen:El entrevistado emplea scooters regularmente para trayectos cortos en entornos urbanos, valorando su conveniencia y agilidad. Sin embargo, señala desafíos como la disponibilidad limitada y la infraestructura vial deficiente. Prioriza la comodidad, seguridad y autonomía al alquilar un scooter, aunque su experiencia con los servicios de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real sobre la disponibilidad. Destaca la importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva para emergencias.
 
 
+**Entrevistado: 3**
+
+Nombre y apellidos: Jasmin Gianella Pomasoncco Oropeza
+
+Edad: 20
+
+Distrito: San Isidro
+
+<img src="assets/interview_sharon.png" style="width:80%"> 
+
+**[URL: Entrevista](https://youtu.be/SQGh2JlNiuI)**
+
+Resumen:El entrevistado emplea scooters regularmente para trayectos cortos en entornos urbanos, valorando su conveniencia y agilidad. Sin embargo, señala desafíos como la disponibilidad limitada y la infraestructura vial deficiente. Prioriza la comodidad, seguridad y autonomía al alquilar un scooter, aunque su experiencia con los servicios de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real sobre la disponibilidad. Destaca la importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva para emergencias.
 
 
-**Segmento Objetivo: Segemento Objetivo 2**
+>**Segmento Objetivo: Empresarios**
 
 Nombre y apellidos: Janet Bustamante
 
