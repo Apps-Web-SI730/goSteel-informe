@@ -2218,13 +2218,39 @@ Pantallas relacionadas con Generar Una Nueva Reserva
 ### 4.4.4. Web Applications User Flow Diagrams 
 En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo.
 
-[Link LucidChart]()
+[Link LucidChart](https://www.figma.com/file/DCoXljg9CCi31HLqP1Zi8G/Untitled?type=design&node-id=0%3A1&mode=design&t=lVsnLpJUdo6Vk466-1)
 
-**User Goal:**
+**User Goal:** Reserva de scooters
 
 **Task Flow:**
+- El usuario ingresa a la sección "buscar scooters".
+- El usuario puede observar todos los scooters disponibles.
+- Al presionar en un scooter se ven sus características más relevantes.
+- Si se presiona "Reservar", entonces se reservará el scooter seleccionado y se mostrará una pantalla que diga "Reserva exitosa". (Happy Path)
+- Si se cierra la ventana de reserva o se sale de ahi, se mostrará un cuadro que diga "Reserva cancelada". (Unhappy Path)
 
-![IMAGEN-UserFlow]()
+![IMAGEN-UserFlow](assets/WebAppUFD_Goal1.png)
+
+**User Goal:** Edición de perfil
+
+**Task Flow:**
+- El usuario ingresa a la sección "perfil".
+- El usuario puede observar todos los datos de su perfil y modificarlos.
+- Al presionar el botón de "Confirmar datos", se mostrará una ventana diciendo "Perfil modificado". (Happy Path)
+- Si se sale de la sección se devolverá al apartado inicio. (Unhappy Path)
+
+![IMAGEN-UserFlow](assets/WebAppUFD_Goal2.png)
+
+**User Goal:** Registro de usuario
+
+**Task Flow:**
+- El usuario ingresa a la sección "registro".
+- El usuario puede escoger que tipo de usuario es: "Usuario" o "Empresa".
+- El usuario introducirá los campos necesarios para crear su cuenta.
+- Si se presiona "Crear cuenta" y todos los datos son válidos se mostrará "Cuenta creada". (Happy Path)
+- Si se cierra la ventana o se sale de esta se volverá a la sección "Inicio". (Unhappy Path)
+
+![IMAGEN-UserFlow](assets/WebAppUFD_Goal3.png)
 
 ## 4.5. Web Applications Prototyping
 En esta sección, se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
