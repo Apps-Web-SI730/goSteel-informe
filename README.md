@@ -86,6 +86,19 @@ Junio del 2024
 ---
 # Project Report Collaboration Insights
 
+TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo: Link de repositorio Github: (https://github.com/Apps-Web-SI730/goSteel-informe.git)
+
+Para la elaboración del informe se realizaron actividades tales como:
+
+Redactar y graficar en formato Markdown los puntos designados al integrante y posteriormente realizar commits para que el avance se guarde.
+Elaborar los artefactos en las herramientas indicadas y posteriormente obtener el enlace de imagen mediante "Issues" dentro del repositorio del informe
+Se realizaron reuniones para coordinar el avance de los puntos del informe, además comunicar los avances del Sprint 1 correspondiente a la Landing Page
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+
 
 ---
 # Student Outcome
