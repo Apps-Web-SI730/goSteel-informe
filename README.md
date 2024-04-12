@@ -1786,7 +1786,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>quiero</strong> recibir notificaciones sobre el estado de mis reservas para mantenerme informado sobre cualquier cambio o actualización.
     </td>
-    <td colspan="1">
+    <td colspan="5">
         <strong>E01: Notificaciones en tiempo real</strong>
         <br><br>
         <strong>Caso 01: Enviar notificaciones cuando se confirme una reserva</strong>
@@ -1804,18 +1804,108 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 
 ## 3.3. Impact Mapping
 
+>**Semneto objetivo 1: Transeúntes**
+
 
 <img src="./assets/juanperezmap.png" alt="Josue Hidalgo" width="1000" height="800">
+
+>**Segmento objetivo 2: Empresarios**
+
 <img src="./assets/anagarciamap.png" alt="Josue Hidalgo" width="1000" height="600">
 
 ## 3.4. Product Backlog
 
-| # Orden | User Story Id | Titulo                       | Desripcion                                                                                                                 | Story Points (1/2/3/4/5/8) |
-|---------|---------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| 1       | US01          | Registro de usuario          | Como usuario nuevo, <br/> deseo poder registrarme en la plataforma <br/> para acceder al servicio de alquiler de scooters. |                            |
-| 2       | US02          | Inicio de sesion             | Como usuario registrado, <br/>  deseo iniciar sesion en la plataforma <br/> para acceder a mis datos y reservas            |                            |
-| 3       | US03          | Buscar Scooters disponibles  | Como usuario, <br/> deseo buscar scooters disponibles <br/> para alquilar                                                  |                            |
-|         |               |                              |                                                                                                                            |                            |
+<table border="1" style="text-align: left;">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong># Orden</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>User Story Id</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Título</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Descripción</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Story Points (1/2/3/4/5/8)</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>US001</td>
+			<td>Registro de usuarios clientes en la plataforma</td>
+			<td>Como usuario cliente quiero crearme una cuenta para poder acceder a la aplicación y sus funciones.</td>
+			<td>8</td>
+		</tr>
+        <tr>
+			<td>2</td>
+            <td>US002</td>
+			<td>Registro de empresas en la plataforma</td>
+			<td>Como usuario empresa quiero crearme una cuenta para poder acceder a la aplicación.</td>
+			<td>8</td>
+		</tr>
+        <tr>
+			<td>3</td>
+            <td>US003</td>
+			<td>Inicio de sesión de usuarios en la plataforma</td>
+			<td>Como usuario quiero iniciar sesión con mi correo para ingresar a la plataforma.</td>
+			<td>8</td>
+		</tr>
+        <tr>
+			<td>4</td>
+            <td>US004</td>
+			<td>Reserva de scooter</td>
+			<td>Como usuario quiero poder reservar un scooter específico con anticipación para asegurarme de que esté disponible cuando llegue a la estación de scooters.</td>
+			<td>8</td>
+		</tr>
+        <tr>
+			<td>5</td>
+            <td>US016</td>
+			<td>Gestion de pagos</td>
+			<td>Como usuario de la aplicación quiero tener un proceso de pago seguro y eficiente para poder realizar reservas de scooters de manera rápida y confiable.</td>
+			<td>8</td>
+		</tr>
+        <tr>
+			<td>6</td>
+            <td>US013</td>
+			<td>Cancelacion de reserva</td>
+			<td>CComo usuario de la aplicación quiero poder cancelar una reserva para no incurrir en gastos por un servicio que no voy a utilizar..</td>
+			<td>8</td>
+		</tr>
+        <tr>
+			<td>7</td>
+            <td>US006</td>
+			<td>Bloqueo de scooters</td>
+			<td>Como usuario quiero bloquear mi scooter cuando termine mi viaje para evitar que otros lo utilicen sin autorización.</td>
+			<td>8</td>
+		</tr>
+        <tr>
+			<td>8</td>
+            <td>US008</td>
+			<td>Desbloqueo de scooter</td>
+			<td>Como usuario quiero desbloquear mi scooter para empezar mi viaje.</td>
+			<td>8</td>
+		</tr>
+        <tr>
+			<td>9</td>
+            <td>US009</td>
+			<td>Rentar Scooter</td>
+			<td>Como usuario quiero rentar un scooter para realizar mis viajes.</td>
+			<td>8</td>
+		</tr>
+        <tr>
+			<td>10</td>
+            <td>US020</td>
+			<td>Visualizacion de zonas de recojo y entrega de los scooters</td>
+			<td>Como usuario de la aplicación quiero poder ver las zonas designadas para recojo y entrega de scooters para cplanificar mi viaje y encontrar fácilmente el punto de inicio y fin de mi alquiler</td>
+			<td>8</td>
+		</tr>
+	</tbody>
+</table>
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
@@ -2034,7 +2124,7 @@ En esta sección, presentaremos el proceso visual de desarrollo del Landing Page
 
 Para mayor visualización: [Landing Page](https://www.figma.com/file/tuAbwsUKZRYtAbqHKbDQEM/Untitled?type=design&node-id=0%3A1&mode=design&t=MIUAZs4lJc8338Gn-1)
 
-![landing page-desktop&mobile](assets/landingpage.png)
+![landingpageuidesign](assets/landingpage/landingpageuidesign.png)
 
 ### 4.3.1. Landing Page Wireframe
 
@@ -2337,15 +2427,9 @@ Para el desarrollo del landing page, se decidió con el equipo usar HTML, CSS y 
 ### 5.1.2. Source Code Management
 Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una Github Organizacion: [Apps Web SI730](https://github.com/upc-2023-GreatMinds-SW51-Web) 
 
-[Repositorio Informe: goSteel-informe](https://github.com/Apps-Web-SI730/goSteel-informe)
+**Repositorio Informe:** [goSteel-informe](https://github.com/Apps-Web-SI730/goSteel-informe)
 
-[Repositorio Landing Page: goSteel-LandingPage](https://github.com/Apps-Web-SI730/goSteel-LandingPage)
-
-[Repositorio pruebas de aceptacion: ]()
-
-[Repositorio Frontend: ]()
-
-[Repositorio Backend: ]()
+**Repositorio Landing Page:** [ goSteel-LandingPage](https://github.com/Apps-Web-SI730/goSteel-LandingPage)
 
 ### 5.1.3. Source Code Style Guide & Conventions
 A continuación, se darán a conocer las convenciones, formatos, estilos y entre otras propiedades de los lenguajes trabajados en la presente solución las cuales son: HTML, CSS y JavaScript:
@@ -2401,7 +2485,7 @@ En resumen, las convenciones o estilos de programación, se seguirá la guía de
 Para el almacenamiento y control de versiones de código se utilizará GIT gestionado desde 
 GitHub aplicando GitFlow Workflow, Conventional Commits y Semantic Versioning. Además, todos los hotfixes se realizan en ella, para así poder tener los arreglos desplegados de forma automática. 
 
-![IMG: Commits del Landing Page]() 
+![Network-Graph](assets/network.png)
 
 El lenguaje de diseño de Landing Page y Web Applications estará basado en Material Design. Como biblioteca de componentes de UI se utilizará PrimeVue.
 
@@ -2431,7 +2515,7 @@ Para el despliegue del Landing Page se utilizará Github Pages, para el Frontend
 #### 5.2.1.2. Sprint Backlog 1
 Implementación del Landing Page acorde con las User Stories.
 
-![IMG: Spring Backlog]()
+![sprintbacklog1](assets/sprintbacklog.png)
 #### 5.2.1.3. Development Evidence for Sprint Review
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
@@ -2447,21 +2531,25 @@ Esta sección no fue posible integrar en la presente entrega debido a que el có
 #### 5.2.1.5. Execution Evidence for Sprint Review
 En este apartado se hace presenta la implementación/despliegue de la landing page del producto solución goSteel.
 
-![IMG despliegue]()
+**[Link del landing page](https://apps-web-si730.github.io/goSteel-LandingPage/src/index.html)**
 
-[Link del video]() 
+![imagen despliegue](assets/landingdespliegue.png)
+
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 No se utilizó ningún servicio adicional, pues este primer Sprint solo consta de la implementación del landing page.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Como se mencionó, se utilizó Github Pages para el despliegue automático del landing page con todos los cambios realizados por el equipo. Github Pages se integra con nuestra organización en GitHub y luego con el repositorio, siendo la rama main la que utilizamos para el despliegue.
-[Enlance al Landing Page Desplegado](https://apps-web-si730.github.io/goSteel-LandingPage/src/index.html)
+**[Enlance al Landing Page Desplegado](https://apps-web-si730.github.io/goSteel-LandingPage/src/index.html)**
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Las actividades para el presente Sprint se repartieron en base a las secciones de la landing page que se plantearon como equipo previamente, para ello, se realizaron primero los styles en un archivo aparte .css y luego entre todo el equipo se desarrolló el index.html. De esta manera, el desarrollo de la landing page fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
-
+![pulse](assets/pulse.png)
+![controbution](assets/contri.png)
+![network](assets/network.png)
 
 # Conclusiones
 ### Conclusiones y recomendaciones
