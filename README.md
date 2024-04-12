@@ -49,10 +49,6 @@
             <td>Huachaca Advincula, Scott Jacobo</td>
             <td>U201914294</td>
         </tr>
-        <tr>
-            <td>Apellido Apellido, Nombre Nombre</td>
-            <td>uxxxxxxxxx</td>
-        </tr>
 	</tbody>
 </table>
 
@@ -62,6 +58,30 @@ Junio del 2024
 ---
 # Registro de Versiones del Informe
 
+<table border="1" style="text-align: left;">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>Versión</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Fecha</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Autor</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Descripción de la modificación</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1.00</td>
+            <td>12/04/2024</td>
+            <td>Todos los integrantes del grupo</td>
+            <td>Se realizaron todos los puntos correspondientes a solution profile, startup profile y antecedentes y problemáticas, segmentos objetivos, General Style Guidelines, Wireframes, Mockups y sus respectivos wireflows y userflows. Diagramas C4, diagramas de clases, desplegue del landing page.</td>
+		</tr>
+	</tbody>
+</table>
 
 ---
 # Project Report Collaboration Insights
@@ -2556,8 +2576,7 @@ Como se mencionó, se utilizó Github Pages para el despliegue automático del l
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Las actividades para el presente Sprint se repartieron en base a las secciones de la landing page que se plantearon como equipo previamente, para ello, se realizaron primero los styles en un archivo aparte .css y luego entre todo el equipo se desarrolló el index.html. De esta manera, el desarrollo de la landing page fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
-![IMG: commits al Landing Page]()
-![IMG: commits al Landing Page]()
+
 
 # Conclusiones
 ### Conclusiones y recomendaciones
