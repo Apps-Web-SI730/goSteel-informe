@@ -2164,16 +2164,29 @@ En esta sección, se presentaran los User Flows, donde se mostrarán las rutas H
 ![IMAGEN-UserFlow]()
 
 ## 4.5. Web Applications Prototyping
-En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
+En esta sección, se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
 
 **Principio de elección:**
 Procuramos que la aplicación web posea una cantidad de secciones a todo momento, por lo que se cuenta con la barra superior siempre en la aplicación con 4 secciones, los cuales podrá acceder a las funcionalidades rapidamente desde cualquier pantalla.
 
 **Principio de divulgación:**
 La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee.
+<img src="https://i.imgur.com/er4V7Wv.png" style="width:80%"> 
+<img src="https://i.imgur.com/XQuyrgR.png" style="width:80%"> 
+<img src="https://i.imgur.com/jRkwPNH.png" style="width:80%"> 
+<img src="https://i.imgur.com/Hvc9Tzn.png" style="width:80%"> 
 
-![IMAGE]()
-[Link Prototipo]()
+<img src="https://i.imgur.com/mXnoTbY.png" style="width:80%"> 
+<img src="https://i.imgur.com/B40M1aH.png" style="width:80%"> 
+
+<img src="https://i.imgur.com/6faI3su.png" style="width:80%"> 
+<img src="https://i.imgur.com/RNT44Rn.png" style="width:80%"> 
+<img src="https://i.imgur.com/9GGUvD7.png" style="width:80%"> 
+
+<img src="https://i.imgur.com/m2yIu8e.png" style="width:80%"> 
+<img src="https://i.imgur.com/gZG7JVL.png" style="width:80%"> 
+<img src="https://i.imgur.com/NC3Zqk1.png" style="width:80%"> 
+
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
