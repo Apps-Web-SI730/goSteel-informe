@@ -2120,32 +2120,32 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 
 Pantallas relacionadas con el inicio de sesiòn:
 
-<img src="https://i.imgur.com/8MgPFGh.png" style="width:60%">  
+<img src="https://i.imgur.com/8MgPFGh.png" style="width:80%">  
 
 
 Pantallas relacionadas con la creacion de cuenta:
 
-<img src="https://i.imgur.com/XwaduUX.png" style="width:60%">  
+<img src="https://i.imgur.com/XwaduUX.png" style="width:80%">  
 
 
 Pantallas relacionas con el Inicio:
 
-<img src="https://i.imgur.com/fW5UFVi.png" style="width:60%">  
+<img src="https://i.imgur.com/fW5UFVi.png" style="width:80%">  
 
 
 Pantallas Relacionadas con la Busqueda de Scooters:
 
-<img src="https://i.imgur.com/zK3wTcn.png" style="width:60%">  
+<img src="https://i.imgur.com/zK3wTcn.png" style="width:80%">  
 
 
 Pantallas relacionada con la gestion de reservas:
 
-<img src="https://i.imgur.com/8qVP43o.png" style="width:60%">  
+<img src="https://i.imgur.com/8qVP43o.png" style="width:80%">  
 
 
 Pantallas relacionadas con el Perfil de Usuario
 
-<img src="https://i.imgur.com/7G3rbcj.png" style="width:60%"> 
+<img src="https://i.imgur.com/7G3rbcj.png" style="width:80%"> 
 
 
 ![MOCK_UP_WEB APPLICATION]()
