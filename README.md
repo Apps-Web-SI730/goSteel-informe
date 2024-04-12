@@ -718,6 +718,19 @@ Districto: Villa el salvador
 
 Resumen: La entrevistada es dueña de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa son las motos ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el de llevar la comida rapido y en buen estado, tambien nos comenta que le gustaria implementar scooters al servicio de delivery pero que solo lo aplicaria a ciertas zonas, otra cosa que nos dice es que un caracteristica principal que debe tener una plataforma web para el alquiler de scooter es la que sea facil de navegar y facil de gestionar los scooters. Nos afirma que no le importa tanto al personalizacion sino el facilidad de utilizar la aplicacion web. Por ultimo nos dice que si hubiese una aplicacion web sobre el alquiler de scooter que le ofrece las necesidades que necesita por su puesto que la usaria.
 
+
+
+Nombre y apellidos: Jeremy Quispe
+
+Edad: 19
+
+Districto: San Juan de Lurigancho
+
+<img src="assets/EntrevistaSegementoObjetivo2_2.png" width="300">
+
+[URL: Entrevista dueño de empresa de delivery](https://youtu.be/JRuP-yDurrU)
+
+Resumen: El entrevistado es dueña junto a su tio de una polleria que realiza delivery, sus repartidores usan el transporte de moto. Dentro de sus principales problemas se encuentra el tráfico denso en horas pico, y el estacionamiento y problemas para acceder a ciertas zonas. Considera que los scooters son más manobriables, además de que son más sostenibles ecologicamente. En la aplicación web busca que sea intuitiva, que se pueda rastrear el estado de los scooters. Considera que se le deberían realizar constantemente revisiones a los scooters para verificar su correcto funcionamiento. Le gustaría una opción de asignar scooters a repartidores individuales y generar rendimiento de la flota de scooters.
 ---
 
 ### 2.2.3. Análisis de entrevistas
