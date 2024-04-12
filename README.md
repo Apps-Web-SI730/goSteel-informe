@@ -729,7 +729,7 @@ Edad: 24
 
 Districto: San Juan de Lurigancho
 
-<img src="assets/EntrevistaSegementoObjetivo2_2.png" width="300">
+<img src="assets/EntrevistaSegmentoObjetivo2_2.png" width="300">
 
 [URL: Entrevista dueño de empresa de delivery](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914294_upc_edu_pe/Ed97wuf6Sk9MuTW6C__Rgh8BURBBMiMqCRKqWaLkiG_WaA?e=KalkQS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
