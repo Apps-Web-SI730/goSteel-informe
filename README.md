@@ -2541,7 +2541,7 @@ No se utilizó ningún servicio adicional, pues este primer Sprint solo consta d
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Como se mencionó, se utilizó Github Pages para el despliegue automático del landing page con todos los cambios realizados por el equipo. Github Pages se integra con nuestra organización en GitHub y luego con el repositorio, siendo la rama main la que utilizamos para el despliegue.
-[Enlance al Landing Page]()
+[Enlance al Landing Page Desplegado](https://apps-web-si730.github.io/goSteel-LandingPage/src/index.html)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Las actividades para el presente Sprint se repartieron en base a las secciones de la landing page que se plantearon como equipo previamente, para ello, se realizaron primero los styles en un archivo aparte .css y luego entre todo el equipo se desarrolló el index.html. De esta manera, el desarrollo de la landing page fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
