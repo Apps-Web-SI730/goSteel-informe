@@ -1374,9 +1374,13 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <tr>
             <td colspan="1">US007</td>
             <td colspan="1">Confirmación de reserva</td>
-            <td colspan="1"><strong>Como</strong> usuario que ha realizado una reserva en el sistema, <strong>quiero</strong> recibir un correo <strong>para</strong> confirmar mi reserva y asegurarme de no rhaber reservado por error.</td>
-            <td colspan="5">E01: Confrimación exitosa
-            E02: Confirmación denegada</td>
+            <td colspan="1"><strong>Como</strong> usuario que ha realizado una reserva en el sistema, <strong>quiero</strong> recibir un correo <strong>para</strong> confirmar mi reserva y asegurarme de no haber reservado por error.</td>
+            <td colspan="5">E01: Confirmación exitosa
+            Caso 01: Usuario recibe correo de confirmación 
+            Dado que el usuario reserva su scooter
+            Cuando el sistema envie un correo notificando la reserva exitosa
+            Entonces el usuario visualiza su reserva detalladamente.
+            </td>
             <td colspan="1">EP005</td>
 		</tr>
         <tr>
@@ -1384,14 +1388,25 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">Desbloqueo de scooter</td>
             <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> desbloquear mi scooter<strong> para</strong> empezar mi viaje.</td>
             <td colspan="5">E01: Desbloqueo exitoso
-            E02: Desbloqueo fallido</td>
+            Caso 01: Uso activo
+            Dado que el usuario paga por la renta del scooter
+            Cuando el sistema envia un codigo al correo del usuario
+            Y el usuario escribe el codigo en la aplicación
+            Entonces el sistema desbloquea el scooter
+            Y el usuario empieza a utilizar su scooter.
+            </td>
             <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US009</td>
             <td colspan="1">Rentar Scooter</td>
             <td colspan="1">Como usuario quiero rentar un scooter para realizar mis viajes.</td>
-            <td colspan="5">E01: Renta exitosa</td>
+            <td colspan="5">E01: Renta exitosa
+            Caso 01: Comienzo de uso del scooter
+            Dado que el usuario realiza una reserva
+            Cuando el usuario realice el pago
+            Entonces el usuario puede empezar a utilizar el scooter.
+            </td>
             <td colspan="1">EP003</td>
 		</tr>
         <tr>
@@ -1399,22 +1414,26 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">Reporte de problemas con el scooter</td>
             <td colspan="1">Como usuario quiero reportar problemas con el scooter para que entre a mantenimiento </td>
             <td colspan="5">E01: Reporte exitoso
-            E02: Reporte fallido</td>
+            Caso 01: Reporte de mantenimiento
+            Dado que el usuario ha rentado su scooter
+            Y el usuario nota que el scooter tiene problemas
+            Cuando el usuario seleccione la opción reportar problema
+            Y el usuario llene todo el formulario del reporte
+            Entonces el sistema muestra un mensaje diciendo que su reporte ha sido enviado exitosamente.
+            </td>
             <td colspan="1">EP010</td>
-		</tr>
-        <tr>
-            <td colspan="1">US011</td>
-            <td colspan="1">Visualización de precios</td>
-            <td colspan="1">Como usuario quiero visualizar precios para poder saber lo que tengo que pagar</td>
-            <td colspan="5">E01: Precios visibles</td>
-            <td colspan="1">EP004</td>
 		</tr>
         <tr>
             <td colspan="1">US012</td>
             <td colspan="1">Buscar scooters disponibles</td>
             <td colspan="1">Como usuario, quiero poder buscar scooters disponibles en mi área cercana para poder encontrar una opción conveniente para mi viaje.
             </td>
-            <td colspan="5">E01: Búsqueda de scooters</td>
+            <td colspan="5">E01: Búsqueda de scooters
+            Caso 01: Búsqueda Exitosa
+            Dado que el usuario quiere buscar un scooter con características específicas
+            Cuando el usuario utilice los filtros de la aplicación
+            Entonces el sistema muestra el resultado de búsqueda
+            </td>
             <td colspan="1">EP003</td>
 		</tr>
         <tr>
@@ -1760,79 +1779,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             </td>
             <td colspan="1">EP006</td>
 		</tr>
-    <tr>
-    <td colspan="1">US024</td>
-    <td colspan="1">Gestión de quejas de usuarios</td>
-    <td colspan="1">
-        <strong>Como</strong> administrador del sistema,
-        <br>
-        <strong>quiero</strong> poder gestionar las quejas de los usuarios para abordar problemas y mejorar la experiencia del usuario.
-    </td>
-    <td colspan="5">
-        <strong>E01: Recepción de quejas</strong>
-        <br><br>
-        <strong>Caso 01: Permitir a los usuarios enviar quejas a través de un formulario de contacto</strong>
-        <br>
-        <strong>Dado que</strong> un usuario desea reportar un problema o hacer una queja...
-        <br><br>
-        **Escenario:**
-        <br><br>
-        Cuando el usuario accede al formulario de contacto y proporciona los detalles de la queja,
-        <br>
-        entonces el sistema registra la queja correctamente y notifica al equipo de soporte para su seguimiento.
-    </td>
-    <td colspan="1">EP006</td>
-</tr>
-
-<tr>
-    <td colspan="1">US025</td>
-    <td colspan="1">Mejora de la experiencia de reserva</td>
-    <td colspan="1">
-        <strong>Como</strong> usuario de la aplicación,
-        <br>
-        <strong>quiero</strong> que el proceso de reserva de scooters sea más intuitivo y eficiente para poder completar reservas rápidamente.
-    </td>
-    <td colspan="5">
-        <strong>E01: Simplificación del proceso de reserva</strong>
-        <br><br>
-        <strong>Caso 01: Reducir el número de pasos requeridos para completar una reserva</strong>
-        <br>
-        <strong>Dado que</strong> un usuario desea reservar un scooter de forma rápida...
-        <br><br>
-        **Escenario:**
-        <br><br>
-        Cuando el usuario inicia el proceso de reserva,
-        <br>
-        entonces el sistema guía al usuario a través de un proceso simplificado con la menor cantidad de pasos posibles, incluyendo la selección del scooter, la fecha y hora de recogida, y la confirmación de la reserva.
-    </td>
-    <td colspan="1">EP006</td>
-</tr>
-
-<tr>
-    <td colspan="1">US026</td>
-    <td colspan="1">Integración de métodos de pago adicionales</td>
-    <td colspan="1">
-        <strong>Como</strong> usuario de la aplicación,
-        <br>
-        <strong>quiero</strong> tener más opciones de pago disponibles para mayor comodidad y flexibilidad.
-    </td>
-    <td colspan="5">
-        <strong>E01: Adición de métodos de pago</strong>
-        <br><br>
-        <strong>Caso 01: Integrar nuevos métodos de pago, como PayPal o transferencias bancarias</strong>
-        <br>
-        <strong>Dado que</strong> un usuario desea utilizar un método de pago diferente...
-        <br><br>
-        **Escenario:**
-        <br><br>
-        Cuando el usuario selecciona la opción de pago durante el proceso de reserva,
-        <br>
-        entonces el sistema muestra una variedad de opciones de pago, incluyendo PayPal y transferencias bancarias, y permite al usuario completar la transacción utilizando el método deseado.
-    </td>
-    <td colspan="1">EP004</td>
-</tr>
-
-<tr>
     <td colspan="1">US027</td>
     <td colspan="1">Notificaciones de estado de reserva</td>
     <td colspan="1">
@@ -1845,69 +1791,12 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br><br>
         <strong>Caso 01: Enviar notificaciones cuando se confirme una reserva</strong>
         <br>
-        <strong>Dado que</strong> un usuario ha realizado una reserva...
-        <br><br>
-        **Escenario:**
-        <br><br>
-        Cuando la reserva es confirmada por el sistema,
+        <strong>Dado que</strong> el usuario ha realizado una reserva<br>
+        Cuando el sistema confirme la reserva,
         <br>
-        entonces el sistema envía una notificación al usuario, informándole sobre la confirmación de la reserva y proporcionando detalles adicionales, como la hora y ubicación de recogida del scooter.
+        Entonces el sistema envía una notificación al usuario informando sobre la confirmación de la reserva y proporcionando detalles adicionales, como la hora y ubicación de recogida del scooter.
     </td>
     <td colspan="1">EP006</td>
-</tr>
-
-<tr>
-    <td colspan="1">US028</td>
-    <td colspan="1">Opciones de suscripción premium</td>
-    <td colspan="1">
-        <strong>Como</strong> usuario de la aplicación,
-        <br>
-        <strong>quiero</strong> tener la opción de suscribirme a un plan premium para acceder a características adicionales y beneficios exclusivos.
-    </td>
-    <td colspan="5">
-        <strong>E01: Ofrecer planes de suscripción premium</strong>
-        <br><br>
-        <strong>Caso 01: Mostrar las características exclusivas de la suscripción premium</strong>
-        <br>
-        <strong>Dado que</strong> un usuario está interesado en acceder a beneficios adicionales...
-        <br><br>
-        **Escenario:**
-        <br><br>
-        Cuando el usuario explora las opciones de suscripción premium,
-        <br>
-        entonces el sistema presenta de manera clara y detallada las características exclusivas de cada plan de suscripción premium, destacando los beneficios adicionales y las ventajas de cada uno.
-    </td>
-    <td colspan="1">EP008</td>
-</tr>
-
-<tr>
-    <td colspan="1">US029</td>
-    <td colspan="1">Historial de quejas y resoluciones</td>
-    <td colspan="1">
-        <strong>Como</strong> administrador del sistema,
-        <br>
-        <strong>quiero</strong> mantener un registro completo y detallado de todas las quejas recibidas por parte de los usuarios, así como las acciones tomadas para resolverlas, con el fin de garantizar la satisfacción y confianza de los usuarios en el sistema.
-    </td>
-    <td colspan="5">
-        <strong>E01: Registro exhaustivo de quejas y resoluciones</strong>
-        <br><br>
-        <strong><u>Caso 01: Almacenar detalles de todas las quejas recibidas</u></strong>
-        <br>
-        <strong>Dado que</strong> un usuario envía una queja o reporta un problema con el sistema,
-        <br>
-        <strong>cuando</strong> la queja es recibida por el sistema de gestión de quejas,
-        <br>
-        <strong>entonces</strong> se registra de manera automática en la base de datos del sistema, incluyendo información relevante como fecha, hora, tipo de queja, descripción detallada del problema y datos del usuario.
-        <br><br>
-        <strong><u>Caso 02: Seguir el proceso de resolución de quejas</u></strong>
-        <br>
-        <strong>Dado que</strong> se registra una queja en el sistema,
-        <br>
-        <strong>cuando</strong> se toman acciones para resolverla,
-        <br>
-        <strong>entonces</strong> se actualiza el estado de la queja en el registro, indicando el progreso y las acciones realizadas para resolverla.
-    </td>
-    <td colspan="1">EP008</td>
 </tr>
 </tbody>
 </table>
