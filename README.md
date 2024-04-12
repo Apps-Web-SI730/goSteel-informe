@@ -703,6 +703,21 @@ Distrito: San Isidro
 
 Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial. Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos. Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad.
 
+
+**Segmento Objetivo: Segemento Objetivo 2**
+
+Nombre y apellidos: Janet Bustamante
+
+Edad: 41
+
+Districto: Villa el salvador
+
+<img src="assets/EntrevistaSegementoObjetivo2.png" width="300">
+
+[URL: Entrevista dueño de empresa de delivery](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914294_upc_edu_pe/Ed97wuf6Sk9MuTW6C__Rgh8BURBBMiMqCRKqWaLkiG_WaA?e=KalkQS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Resumen: La entrevistada es dueña de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa son las motos ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el de llevar la comida rapido y en buen estado, tambien nos comenta que le gustaria implementar scooters al servicio de delivery pero que solo lo aplicaria a ciertas zonas, otra cosa que nos dice es que un caracteristica principal que debe tener una plataforma web para el alquiler de scooter es la que sea facil de navegar y facil de gestionar los scooters. Nos afirma que no le importa tanto al personalizacion sino el facilidad de utilizar la aplicacion web. Por ultimo nos dice que si hubiese una aplicacion web sobre el alquiler de scooter que le ofrece las necesidades que necesita por su puesto que la usaria.
+
 ---
 
 ### 2.2.3. Análisis de entrevistas
