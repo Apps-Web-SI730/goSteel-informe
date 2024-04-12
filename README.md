@@ -726,11 +726,11 @@ Edad: 19
 
 Districto: San Juan de Lurigancho
 
-<img src="assets/EntrevistaSegementoObjetivo2_2.png" width="300">
+<img src="assets/EntrevistaSegmentoObjetivo2_2.png" width="300">
 
-[URL: Entrevista dueño de empresa de delivery](https://youtu.be/JRuP-yDurrU)
+[URL: Entrevista dueño de empresa de delivery](https://youtu.be/JRuP-yDurrU).
 
-Resumen: El entrevistado es dueña junto a su tio de una polleria que realiza delivery, sus repartidores usan el transporte de moto. Dentro de sus principales problemas se encuentra el tráfico denso en horas pico, y el estacionamiento y problemas para acceder a ciertas zonas. Considera que los scooters son más manobriables, además de que son más sostenibles ecologicamente. En la aplicación web busca que sea intuitiva, que se pueda rastrear el estado de los scooters. Considera que se le deberían realizar constantemente revisiones a los scooters para verificar su correcto funcionamiento. Le gustaría una opción de asignar scooters a repartidores individuales y generar rendimiento de la flota de scooters.
+Resumen: El entrevistado es dueño junto a su tio de una polleria que realiza delivery, sus repartidores usan el transporte de moto. Dentro de sus principales problemas se encuentra el tráfico denso en horas pico, y el estacionamiento y problemas para acceder a ciertas zonas. Considera que los scooters son más manobriables, además de que son más sostenibles ecologicamente. En la aplicación web busca que sea intuitiva, que se pueda rastrear el estado de los scooters. Considera que se le deberían realizar constantemente revisiones a los scooters para verificar su correcto funcionamiento. Le gustaría una opción de asignar scooters a repartidores individuales y generar rendimiento de la flota de scooters.
 ---
 
 ### 2.2.3. Análisis de entrevistas
@@ -746,6 +746,14 @@ Resumen: El entrevistado es dueña junto a su tio de una polleria que realiza de
 - Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
 
 Segemento Objetivo 2: 
+- Frecuencia de uso de scooters: Aunque el entrevistado actualmente utiliza principalmente motocicletas para su servicio de delivery, muestra interés en integrar scooters eléctricos debido a sus beneficios potenciales.
+- Beneficios de los scooters: Reconoce los beneficios de los scooters en términos de eficiencia en el tráfico y sostenibilidad ambiental, lo que sugiere una inclinación hacia la adopción de tecnologías más ecológicas.
+- Desafíos y limitaciones: Se identifican desafíos como el tráfico denso y la disponibilidad de estacionamiento, lo que indica áreas donde los scooters podrían ofrecer soluciones.
+- Características valoradas en un scooter: El entrevistado destaca la importancia de la comodidad, seguridad y autonomía de la batería, lo que sugiere criterios importantes para la selección de scooters.
+- Experiencia con servicios de alquiler de scooters: Se mencionan experiencias mixtas, lo que subraya la importancia de un servicio confiable y bien mantenido.
+- Expectativas de una aplicación de alquiler de scooters: Se espera una aplicación intuitiva con datos en tiempo real sobre la disponibilidad de scooters, destacando la importancia de la tecnología para mejorar la experiencia del usuario.
+- Medidas de seguridad: Se enfatiza la importancia del mantenimiento y el respeto a las normas de seguridad, lo que refleja una preocupación por la seguridad tanto de los usuarios como de los peatones.
+- Futuro uso de scooters: El entrevistado planea seguir utilizando scooters en el futuro, lo que sugiere una tendencia hacia su adopción continua.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
