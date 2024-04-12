@@ -704,7 +704,7 @@ Distrito: San Isidro
 Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial. Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos. Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad.
 
 
-**Segmento Objetivo: Segmento Objetivo 2**
+**Segmento Objetivo: Segemento Objetivo 2**
 
 Nombre y apellidos: Janet Bustamante
 
@@ -717,23 +717,6 @@ Districto: Villa el salvador
 [URL: Entrevista dueño de empresa de delivery](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914294_upc_edu_pe/Ed97wuf6Sk9MuTW6C__Rgh8BURBBMiMqCRKqWaLkiG_WaA?e=KalkQS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Resumen: La entrevistada es dueña de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa son las motos ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el de llevar la comida rapido y en buen estado, tambien nos comenta que le gustaria implementar scooters al servicio de delivery pero que solo lo aplicaria a ciertas zonas, otra cosa que nos dice es que un caracteristica principal que debe tener una plataforma web para el alquiler de scooter es la que sea facil de navegar y facil de gestionar los scooters. Nos afirma que no le importa tanto al personalizacion sino el facilidad de utilizar la aplicacion web. Por ultimo nos dice que si hubiese una aplicacion web sobre el alquiler de scooter que le ofrece las necesidades que necesita por su puesto que la usaria.
-
-
-
-
-**Segmento Objetivo: Segmento Objetivo 2**
-
-Nombre y apellidos: Sofia Mercado
-
-Edad: 24
-
-Districto: San Juan de Lurigancho
-
-<img src="assets/EntrevistaSegmentoObjetivo2_2.png" width="300">
-
-[URL: Entrevista dueño de empresa de delivery](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914294_upc_edu_pe/Ed97wuf6Sk9MuTW6C__Rgh8BURBBMiMqCRKqWaLkiG_WaA?e=KalkQS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-Resumen: La entrevistada es dueña de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa son las bicicletas ya que son medios baratos y sanos para el medio ambiente. Uno de los desafios que tienen es el que la comida que transporta llegue en buen estado y que llegue rápido...
 
 ---
 
@@ -2088,16 +2071,23 @@ En esta sección se presentarán los sistemas de búsqueda que se implementarán
 - Buscar Scooters dentro de flota: Esta sección le permitirá al usuario buscar scooters mediante el nombre del modelo o marca, dentro de los que se encuentran en su flota.
 
 ### 4.2.5. Navigation Systems
-A continuación, el equipo mostrará los sistemas de navegación con los que contará goSteel para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
+A continuación, el equipo mostrará los sistemas de navegación con los que contará Ayni para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
 
 En el Landing Page, se cuenta con encabezados que representan a las diversas secciones que estarán presentes. Estas estarán ubicadas en la parte superior de la página como menú horizontal siempre presente a la hora de bajar y subir con el ratón. Para que el usuario no tenga que realizar una traslación de manera manual por toda la página para llegar a una sección, se podrá usar estos encabezados para ubicarse inmediatamente en el sector que se desee. Obviamente, el visitante tiene que haber leído el título del encabezado para asegurarse de que se ubicará en la zona adecuada. Gracias a esto, se genera una traslación fácil e intuitiva.
 
-En el caso de la aplicación web, al momento de crear nuestra cuenta hay una barra que nos permite elegir si somos "usuario" o "empresa". También se usa una barrra superior similar a la de la landing page, en la que se muestran las secciones de la página como: "inicio", "buscar scooters", "favoritos" y "reservas".
+En el caso de la aplicación web, se presenta un proceso similar para el menú principal, se utilizarán diversas opciones que presenta para trasladarse a otra página del sitio web. Estas opciones variarán de acuerdo al segmento objetivo al que pertenezca el usuario. Del mismo modo, se utilizan listados para los grupos de elementos, Dentro de estas listas podrán aplicar filtros que permitan a los usuarios navegar entre esas opciones.
 
 ## 4.3. Landing Page UI Design
-En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
+En esta sección, presentaremos el proceso visual de desarrollo del Landing Page. Para ello, utilizaremos la herramienta de diseño web Figma, destacada por su amplia gama de funciones y plugins que facilitan la creación del prototipo. Además, pondremos en evidencia el uso de las pautas de estilo (Style Guidelines) y la arquitectura de la información (Information Architecture) establecidas en los al inicio de este capítulo.
+
+Para mayor visualización: [Landing Page](https://www.figma.com/file/tuAbwsUKZRYtAbqHKbDQEM/Untitled?type=design&node-id=0%3A1&mode=design&t=MIUAZs4lJc8338Gn-1)
+
+![landing page-desktop&mobile](assets/landingpage.png)
 ### 4.3.1. Landing Page Wireframe
-![WIREFRAME-LandingPage]()
+
+
+
+
 ### 4.3.2. Landing Page Mock-up
 Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
 ![MOCK_UP-LandingPage]()
