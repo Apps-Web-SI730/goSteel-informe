@@ -672,8 +672,13 @@ Además de estas razones empresariales, también existe una mejora en la **soste
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-- CALIDAD: Después de estudiar a nuestros competidores en el mercado de alquiler de scooters, hemos identificado que uno de los principales problemas que enfrentan es la falta de mantenimiento de sus aplicaciones web, lo que resulta en numerosas quejas por errores frecuentes y tiempos de carga prolongados. Para diferenciarnos y obtener una ventaja competitiva, nos enfocaremos en optimizar los tiempos de carga de nuestra aplicación web y garantizar una experiencia sin inconvenientes para el usuario, abordando temas de disponibilidad, funcionalidad y accesibilidad.
-- MARKETING: Al analizar el caso de "Lime" en relación con la popularidad en el mercado de alquiler de scooters, hemos observado que uno de sus principales desafíos radica en su limitado alcance y la falta de estrategias de marketing digital efectivas. Su dependencia de un modelo de publicidad insuficiente ha obstaculizado su crecimiento y ha dificultado ofrecer una solución sostenible a largo plazo para sus problemas. Para evitar este obstáculo, nos centraremos en implementar estrategias de marketing digital sólidas que amplíen nuestro alcance y promuevan de manera efectiva nuestros servicios de alquiler de scooters en el mercado."
+>**CALIDAD**
+
+ Después de estudiar a nuestros competidores en el mercado de alquiler de scooters, hemos identificado que uno de los principales problemas que enfrentan es la falta de mantenimiento de sus aplicaciones web, lo que resulta en numerosas quejas por errores frecuentes y tiempos de carga prolongados. Para diferenciarnos y obtener una ventaja competitiva, nos enfocaremos en optimizar los tiempos de carga de nuestra aplicación web y garantizar una experiencia sin inconvenientes para el usuario, abordando temas de disponibilidad, funcionalidad y accesibilidad.
+
+>**MARKETING**
+
+ Al analizar el caso de "Lime" en relación con la popularidad en el mercado de alquiler de scooters, hemos observado que uno de sus principales desafíos radica en su limitado alcance y la falta de estrategias de marketing digital efectivas. Su dependencia de un modelo de publicidad insuficiente ha obstaculizado su crecimiento y ha dificultado ofrecer una solución sostenible a largo plazo para sus problemas. Para evitar este obstáculo, nos centraremos en implementar estrategias de marketing digital sólidas que amplíen nuestro alcance y promuevan de manera efectiva nuestros servicios de alquiler de scooters en el mercado.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
@@ -767,7 +772,7 @@ Districto: Villa el salvador
 
 Resumen: La entrevistada es dueña de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa son las motos ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el de llevar la comida rapido y en buen estado, tambien nos comenta que le gustaria implementar scooters al servicio de delivery pero que solo lo aplicaria a ciertas zonas, otra cosa que nos dice es que un caracteristica principal que debe tener una plataforma web para el alquiler de scooter es la que sea facil de navegar y facil de gestionar los scooters. Nos afirma que no le importa tanto al personalizacion sino el facilidad de utilizar la aplicacion web. Por ultimo nos dice que si hubiese una aplicacion web sobre el alquiler de scooter que le ofrece las necesidades que necesita por su puesto que la usaria.
 
-
+**Entrevistado 2**
 
 Nombre y apellidos: Jeremy Quispe
 
@@ -784,7 +789,7 @@ Resumen: El entrevistado es dueño junto a su tio de una polleria que realiza de
 
 ### 2.2.3. Análisis de entrevistas
 
- Segemento Objetivo 1:  
+**Segemento Objetivo 1: Transeúntes**  
 - Frecuencia de uso de scooters: El entrevistado utiliza scooters varias veces a la semana, lo que indica una alta frecuencia de uso y dependencia de este medio de transporte.
 - Beneficios de los scooters: Destaca la conveniencia y agilidad de los scooters para moverse en áreas urbanas congestionadas, así como su economía y eco-amigabilidad en comparación con otros medios de transporte.
 - Desafíos y limitaciones: Señala desafíos como la disponibilidad y el estado de los scooters, así como problemas con la infraestructura vial, lo que sugiere áreas de mejora en el servicio de alquiler de scooters y la planificación urbana.
@@ -794,7 +799,7 @@ Resumen: El entrevistado es dueño junto a su tio de una polleria que realiza de
 - Medidas de seguridad: Considera importante el mantenimiento y el respeto a las normas de seguridad, lo que subraya la necesidad de garantizar la seguridad tanto para los usuarios como para los peatones.
 - Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
 
-Segemento Objetivo 2: 
+**Segemento Objetivo 2: Empresas deliverys**
 - Frecuencia de uso de scooters: Aunque el entrevistado actualmente utiliza principalmente motocicletas para su servicio de delivery, muestra interés en integrar scooters eléctricos debido a sus beneficios potenciales.
 - Beneficios de los scooters: Reconoce los beneficios de los scooters en términos de eficiencia en el tráfico y sostenibilidad ambiental, lo que sugiere una inclinación hacia la adopción de tecnologías más ecológicas.
 - Desafíos y limitaciones: Se identifican desafíos como el tráfico denso y la disponibilidad de estacionamiento, lo que indica áreas donde los scooters podrían ofrecer soluciones.
@@ -807,14 +812,12 @@ Segemento Objetivo 2:
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
-#### User Persona 1: Ana García - Empresas de Delivery
- <img src="./assets/anagarcia.png" alt="Josue Hidalgo" width="700" height="900">
-
-
-#### User Persona 2: Juan Pérez - Personas que transitan Lima Metropolitana
+#### User Persona 1: Juan Pérez - Personas que transitan Lima Metropolitana
 
  <img src="./assets/juanperez.png" alt="Josue Hidalgo" width="700" height="900">
 
+#### User Persona 2: Ana García - Empresas de Delivery
+ <img src="./assets/anagarcia.png" alt="Josue Hidalgo" width="700" height="900">
 
 ### 2.3.2. User Task Matrix
 
@@ -932,22 +935,15 @@ Segemento Objetivo 2:
 
 ### 2.3.4. Empathy Mapping
 
-### Segmento 1:
-
-
-
+>**Segmento Objetivo 1: Transeúntes**
 <img src="./assets/ThinkingMapping.png" alt="Entrevista Pietro" width="600" height="300">
 
-### Segmento 2:
+>**Segmento Objetivo 2: Empresas deliverys**
 
 <img src="./assets/ThinkingMapping2.png" alt="Entrevista Pietro" width="600" height="300">
 
-<img scr="./assets/">
-
-<img scr="./assets/ThinkingMapping2.jpg">
-
 ### 2.3.5. As-is Scenario Mapping
-### Segmento 1:
+>**Segmento Objetivo 1: Transeúntes**
 
 | Escenario | Usuario buscando un scotter disponible                                  | Usuario reserva un scooter                                            | Usuario utiliza el scooter                              | Usuario devuelve el scooter                                | Usuario deja una reseña                                               |
 |-----------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -955,7 +951,7 @@ Segemento Objetivo 2:
 | Thinking  | Evaluando la conveniencia y costos                                      | Considerando la fiabilidad y disponibilidad del scooter reservado     | Planificando la ruta y considernado la seguridad        | Preocupandose por los terminos y condiciones de devolucion | Reflexionando sobre la calidad del servicio y el scooter utilizado    |
 | Feeling   | Frustracion por la falta de informacion clara y actualizada             | Inseguridad sobre si el scooter estara disponible al llegar           | Emocion por la experiencia de conduccion y la aventura  | Satisfecho si la experiencia general fue positiva          | Esperando que su opinion influya en futuros usuarios y en la empresa  |
 
-### Segmento 2:
+>**Segmento Objetivo 2: Empresas deliverys**
 
 | Escenario | Adquisicion de scooters                         | Asignacion de scooters                          | Mantenimiento de scooters                                    | 
 |-----------|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------------|
@@ -976,7 +972,7 @@ Segemento Objetivo 2:
 
 ## 3.1 To-Be Scenario Mapping
 
-### Segmento 1:
+>**Segmento Objetivo 1: Transeúntes**
 
 | Escenario | Usuario buscando un scotter disponible                   | Usuario reserva un scooter                     | Usuario utiliza el scooter                           | Usuario devuelve el scooter                                | Usuario deja una reseña                                      |
 |-----------|----------------------------------------------------------|------------------------------------------------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
@@ -985,7 +981,7 @@ Segemento Objetivo 2:
 | Feeling   | Impaciente por encontrar un <br/> scooter adecuado       | Se siente bien por haber reservado un scooter  | Contento con la comodidad del scooter                | Aliviado por haber completado la devolucion sin problemas  | Satisfecho con la experiencia y por compartir su opinion     |
 
 
-### Segmento 2:
+>**Segmento Objetivo 2: Empresas deliverys**
 
 | Escenario | Adquisicion de scooters                                   | Asignacion de scooters                        | Mantenimiento de scooters                                      | 
 |-----------|-----------------------------------------------------------|-----------------------------------------------|----------------------------------------------------------------|
