@@ -2260,7 +2260,7 @@ En esta sección, se presentaran los User Flows, donde se mostrarán las rutas H
 - Al presionar el botón de "Confirmar datos", se mostrará una ventana diciendo "Perfil modificado". (Happy Path)
 - Si se sale de la sección se devolverá al apartado inicio. (Unhappy Path)
 
-![IMAGEN-UserFlow](assets/WebAppUFD_Goal2.png)
+![IMAGEN-UserFlow2](assets/WebAppUDF_Goal2.png)
 
 **User Goal:** Registro de usuario
 
@@ -2271,7 +2271,7 @@ En esta sección, se presentaran los User Flows, donde se mostrarán las rutas H
 - Si se presiona "Crear cuenta" y todos los datos son válidos se mostrará "Cuenta creada". (Happy Path)
 - Si se cierra la ventana o se sale de esta se volverá a la sección "Inicio". (Unhappy Path)
 
-![IMAGEN-UserFlow](assets/WebAppUFD_Goal3.png)
+![IMAGEN-UserFlow3](assets/WebAppUDF_Goal2.png)
 
 ## 4.5. Web Applications Prototyping
 En esta sección, se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
