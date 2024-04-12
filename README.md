@@ -1884,9 +1884,6 @@ Al dar la alusión de la capacidad para transmitir mensajes y emociones, así co
 
 ![plataforma- paleta de colores](assets/plataforma_paleta.png)
 
-Significado de los colores usados:
-- c
-
 >**Tipografía**
 
 Las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. Por lo que, además de la elección, decidimos establecer reglas sobre el tamaño, el estilo y el espaciado de la fuente ayuda a mantener la coherencia visual y a garantizar una lectura cómoda.
@@ -2104,7 +2101,41 @@ Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Styl
 
 >**Header**
 
-En la parte de Header tenemos la frase: *"Inicia tu aventura sobre ruedas"* para llamar la atención de los usuarios que visiten nuestro landing page y también se hace visualización de los botones *call to action* tanto para iniciar sesión como descargar la aplicación.
+En la parte de Header tenemos la frase: *"Inicia tu aventura sobre ruedas"* para llamar la atención de los usuarios que visiten nuestro landing page y también se hace visualización de los botones *call-to-action* tanto para iniciar sesión como descargar la aplicación.
+
+![header mock-up](assets/landingpage/headermockup.png)
+
+>**Body**
+
+- **Features:** Explicación de las característica que nuestra aplicación ofrece 
+
+   ![features](assets/landingpage/feature.png)
+
+- Segundo **call-to-action**, enfocado a nuestro segundo segmento objetivo, empresario.
+
+    ![second-call-to-action](assets/landingpage/scta.png)
+
+- Los tipos de scooters que ofrecemos
+
+    ![scooters](assets/landingpage/scooters.png)
+
+- Descripción de nuetsra empresa emergente, *startup*
+    ![acout us](assets/landingpage/about%20us.png)
+
+- Reseñas de nuestros clientes
+    ![reviews](assets/landingpage/reviews.png)
+
+- Formulario para recibir notificaciones y/o describir dudas.
+    ![forms](assets/landingpage/forms.png)
+
+- *Call-to-action* para descargar la aplicación
+    ![download](assets/landingpage/download.png)
+
+>**Footer**
+
+Descripción de neustro *startup*, demostración de nuestros links dentro de nuestro landing, la presentación de nuestras redes, políticas de privacidad, términos y condiciones.
+
+![footer](assets/landingpage/footer.png)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
