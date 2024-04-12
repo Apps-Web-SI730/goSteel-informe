@@ -2224,7 +2224,7 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 
 Pantallas relacionadas con el inicio de sesiòn:
 
-<img src="https://i.imgur.com/mXnoTbY.pn" style="width:80%">  
+<img src="https://i.imgur.com/mXnoTbY.png" style="width:80%">  
 
 
 Pantallas relacionadas con la creacion de cuenta:
