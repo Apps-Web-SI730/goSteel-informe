@@ -1945,38 +1945,35 @@ Como equipo decidimos que el diseño de la aplicacion se organizara con una pale
 ### 4.2.1. Organization Systems
 En el presente punto se indicará los grupos de información en los cuales se aplicarán los tipos de estructuración visual, además, se indicará para qué segmento objetivo está diseñado y que tipo de categorización se utilizará
 
-**Segmento Objetivo: LLENAR**
+**Segmento Objetivo: Usuario que quieren alquilar un scooter**
 
 **Jerárquica:**
 
-- 
-- 
+- Ubicaciones de Alquiler: Organización por ubicaciones geográficas donde se pueden encontrar scooters disponibles para alquilar.
+- Categorías de Scooters: Clasificación de scooters según su tipo (por ejemplo, eléctricos, de gasolina), tamaño o capacidad.
+- Precios y Tarifas: Agrupación de scooters según sus tarifas de alquiler, como por hora, por día o por semana.
 
 **Secuencial:**
 
--
+- Proceso de Reserva: Guiar al usuario a través de los pasos necesarios para alquilar un scooter, desde la búsqueda y selección hasta el pago y confirmación de la reserva.
 
-**Matricial:**
 
--
-
-**Segmento: Exportadores o comerciantes que desean vender productos de calidad**
+**Segmento: Empresas de delivery**
 
 **Jerárquica:**
 
--
+- Marcas y Modelos: Organización por marcas y modelos de scooters disponibles en el mercado, permitiendo a las empresas comparar las opciones disponibles.
+- Especificaciones Técnicas: Clasificación de scooters según sus especificaciones técnicas, como potencia del motor, autonomía y capacidad de carga.
+- Servicios de Mantenimiento: Agrupación de scooters según los servicios de mantenimiento ofrecidos por los proveedores, como garantías y planes de servicio posventa.
+
 
 **Secuencial:**
 
--
+- Proceso de Adquisición: Guiar a las empresas a través de los pasos necesarios para adquirir scooters, desde la selección y configuración hasta el proceso de compra y entrega.
 
-**Jerarquica:**
 
--
 
-**Matricial:**
 
--
 
 ### 4.2.2. Labeling Systems
 A continuación, se presenta el sistema de etiquetado que proporcionará una descripción breve y clara de las funcionalidades ofrecidas por el servicio de alquiler de scooters, dirigido a los segmentos de personas que transitan Lima Metropolitana y empresas de delivery.
