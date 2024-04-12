@@ -2979,8 +2979,6 @@ La renta de scooters ha emergido como una opción de movilidad urbana cada vez m
   regulación y gestión del espacio público. Muchas ciudades están implementando políticas y regulaciones para abordar
   preocupaciones como la seguridad, el estacionamiento y el uso responsable de los scooters.
 
-### Video About-the-Team
-
 ---
 
 # Bibliografía
