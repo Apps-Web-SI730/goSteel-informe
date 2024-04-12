@@ -1444,7 +1444,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario crea una cuenta o actualiza su contraseña
             <br>
-            <strong>Entonces</strong> el sistema debe hacer cumplir los requisitos de seguridad mínimos para las contraseñas de los usuarios, como longitud y complejidad para tener una contraseña mas segura
+            <strong>Entonces</strong> el sistema hara cumplir los requisitos de seguridad mínimos para las contraseñas de los usuarios, como longitud y complejidad para tener una contraseña mas segura
             </td>
             <td colspan="1">EP001</td>
 		</tr>
@@ -1467,7 +1467,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario está realizando una reserva
             <br>
-            <strong>Entonces</strong> el sistema debe ofrecer opciones de pago seguras, como tarjetas de crédito/débito o métodos de pago en línea confiables
+            <strong>Entonces</strong> el sistema ofrecera opciones de pago seguras, como tarjetas de crédito/débito o métodos de pago en línea confiables
             <br><br>
             <strong>E02: Confirmación de pago exitoso</strong>
             <br><br>
@@ -1477,7 +1477,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> se completa con éxito el pago de una reserva
             <br>
-            <strong>Entonces</strong> el sistema se debe mostrar un mensaje de confirmación de pago exitoso
+            <strong>Entonces</strong> el sistema mostrara un mensaje de confirmación de pago exitoso
             <br><br>
             <strong>Caso 02: Pagos que no se pudieron completar</strong>
             <br>
@@ -1485,7 +1485,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un pago no se puede completar debido a un problema con la tarjeta u otro motivo
             <br>
-            <strong>Entonces</strong> el sistema debe notificar al usuario sobre el pago fallido
+            <strong>Entonces</strong> el sistema notificara al usuario sobre el pago fallido
             </td>
             <td colspan="1">EP004</td>
 		</tr>
@@ -1508,7 +1508,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario accede a la página de configuración de perfil
             <br>
-            <strong>Entonces</strong> el sistema debe proporcionar una interfaz intuitiva y segura que permita a los usuarios editar su información de perfil de manera eficiente y conveniente
+            <strong>Entonces</strong> el sistema proporcionara una interfaz intuitiva y segura que permita a los usuarios editar su información de perfil de manera eficiente y conveniente
             <br><br>
              <strong>E02: Confirmación de actualización exitosa</strong>
             <br><br>
@@ -1518,7 +1518,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario guarda los cambios realizados en su perfil
             <br>
-            <strong>Entonces</strong> el sistema debe mostrar un mensaje de confirmación de que la actualización se ha realizado con éxito
+            <strong>Entonces</strong> el sistema mostrara un mensaje de confirmación de que la actualización se ha realizado con éxito
             </td>
             <td colspan="1">EP002</td>
 		</tr>
@@ -1543,7 +1543,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Y</strong> selecciona la opción de "Marcar como favorito"
             <br>
-            <strong>Entonces</strong> el sistema debe proporcionar una funcionalidad clara y conveniente que permita a los usuarios marcar un scooter como favorito
+            <strong>Entonces</strong> el sistema proporcionara una funcionalidad clara y conveniente que permita a los usuarios marcar un scooter como favorito
             </td>
             <td colspan="1">EP009</td>
 		</tr>
@@ -1566,7 +1566,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario finaliza su viaje con un scooter
             <br>
-            <strong>Entonces</strong> el sistema debe proporcionar una funcionalidad fácil de usar que permita a los usuarios dejar reseñas después de utilizar un scooter 
+            <strong>Entonces</strong> el sistema proporciona una funcionalidad fácil de usar que permita a los usuarios dejar reseñas después de utilizar un scooter 
             <br><br>
             <strong>E02: Calificación de la experiencia</strong>
             <br><br>
@@ -1576,7 +1576,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> un usuario deja una reseña sobre su experiencia con el scooter
             <br>
-            <strong>Entonces</strong> el sistema debe facilitar a los usuarios la calificación de su experiencia con el scooter mediante una calificación, que puede ser en forma de estrellas o puntos numéricos
+            <strong>Entonces</strong> el sistema muestra a los usuarios la calificación de su experiencia con el scooter mediante una calificación, que puede ser en forma de estrellas o puntos numéricos
             <br><br>
             <strong>E03: Visualización de reseñas</strong>
             <br><br>
