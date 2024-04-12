@@ -2217,30 +2217,181 @@ En esta sección, se presentará el diagrama de la base de datos, que muestra la
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+Utilizaremos principalmente como IDEs: Visual Studio Code o WebStorm, cada una con su configuración debida para no causar conflictos con carpetas personalizadas de cada IDE. Más adelante se hará uso de Rider para la implementación de las APIs.
+
+Como herramientas de desarrollo se hará uso de la última versión disponible de Node.js. Para el frontend, se usará el framework web Vue versión 3. El cual se instalará mediante el manejador de paquetes. Como framework de diseño se usará PrimeVue. Finalmente, para el backend, se utilizará el framework ASP.NET con el lenguaje de programación de C#.
+
+Como herramientas SaSS, se usará GitHub como herramienta para colaboración de código. También usaremos Trello para la elaboración de los Product Backlog. Vertabelo, para la elaboración del diagrama de base de datos. LucidChart, para la elaboración del diagrama de clases y diagramas adicionales
+
+Para el desarrollo del landing page, se decidió con el equipo usar HTML, CSS y JS. Para llevarlo a cabo se eligieron diversas herramientas tecnológicas de las cuales el equipo ya está acostumbrado y tienen un cierto dominio. Estas herramientos son las siguientes:
+
+- Visual Studio Code: Es un editor de código gratuito, moderno y potente gracias a que cuenta con varias funciones y extensiones para trabajar con cualquier lenguaje de programación. Además es bastante conocida por todos los integrantes del equipo y debido a ello se decidió trabajar con Visual Studio Code. Para la instalación del programa, se puede  conseguir desde su página web oficial: una vez descargado se puede proceder con la instalación de forma rápida y fácil.
+
+- Git y Github: Se usaron estas herramientas por la razón de que hoy en día es un estándar usar Git para el control de versiones de software y se eligió GitHub por ser la plataforma más popular y fácil de usar para crear y manejar repositorios, tener funciones para ver cambios, commits, pull request, entre otros. El enlace de descarga del instalador de GitHub Desktop es 
+
+- Live Server: Finalmente, para acelerar el desarrollo del landing page, se usó esta extensión que sirve para visualizar los cambios inmediatamente después de alguna modificación en el código así se evita estar recargando la página, lo cual es un ahorro de tiempo y comodidad al desarrollar.
+
+- Discord: Aunque originalmente se diseñó como una plataforma de comunicación para gamers, Discord también se utiliza para diseñar y crear comunidades en línea y mejorar la experiencia de usuario a través de la comunicación y colaboración en grupos.
+
+- WhatsApp: WhatsApp es una aplicación de mensajería instantánea que se utiliza para la comunicación en tiempo real. Aunque no es una herramienta de gestión de proyectos, se puede usar para mantenerse en contacto con miembros del equipo y colaborar en cierta medida.
+
+**Requirements Management:**
+
+- Miro: Miro es una plataforma de pizarra en línea que se utiliza para colaborar en la ideación, planificación y diseño de proyectos. Es especialmente útil para la colaboración visual, como la creación de mapas mentales, diagramas y prototipos.
+
+- Google Docs: Google Docs es una suite de aplicaciones de procesamiento de texto, hojas de cálculo y presentaciones en línea. Aunque no es específicamente una herramienta de gestión de requisitos, se puede utilizar para documentar y colaborar en la definición y seguimiento de requisitos de proyectos.
+
+**Product UX/UI Design:**
+
+- Figma: Figma es una herramienta de diseño de interfaz de usuario (UI) y experiencia de usuario (UX) basada en la nube. Se utiliza para crear prototipos interactivos, diseños de aplicaciones y colaboración en tiempo real en proyectos de diseño.
+
+- UXPressia: UXPressia es una herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. Ayuda a visualizar y comprender la experiencia del usuario en un producto o servicio.
+  
+- LucidChart: es una herramienta para crear diagramas de clases, flujo y entre otros, de manera facil e intuitiva. Nos va a servir para hacer los user flows y el diagrama de clases para el proyecto.
+
+**Software Development:**
+
+- Visual Studio Code: Visual Studio Code es un editor de código fuente altamente configurable y ampliable. Se utiliza principalmente para la codificación, depuración y desarrollo de software en varios lenguajes de programación.
+
+- Git: Git es un sistema de control de versiones distribuido. Es una tecnología esencial para el desarrollo de software y se usa para rastrear cambios en el código fuente y facilitar la colaboración entre programadores.
+
+**Software Documentation:**
+
+- GitHub: GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
+
+**Software Testing:**
+
+- Lenguaje Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como Cucumber, para automatizar pruebas funcionales.
 
 ### 5.1.2. Source Code Management
+Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una Github Organizacion: [Apps Web SI730](https://github.com/upc-2023-GreatMinds-SW51-Web) 
+
+[Repositorio Informe: goSteel-informe](https://github.com/Apps-Web-SI730/goSteel-informe)
+
+[Repositorio Landing Page: goSteel-LandingPage](https://github.com/Apps-Web-SI730/goSteel-LandingPage)
+
+[Repositorio pruebas de aceptacion: ]()
+
+[Repositorio Frontend: ]()
+
+[Repositorio Backend: ]()
 
 ### 5.1.3. Source Code Style Guide & Conventions
+A continuación, se darán a conocer las convenciones, formatos, estilos y entre otras propiedades de los lenguajes trabajados en la presente solución las cuales son: HTML, CSS y JavaScript:
+
+- HTML: Se hará uso de la guía “HTML Style Guide and Coding” de la página W3Schools, la cual menciona las convenciones y estándares de este lenguaje de etiquetas. Hemos considerado las siguientes como las más importantes:
+
+- Declarar siempre el tipo documento: Es decir, colocar siempre la etiqueta en la primera línea del código.
+
+- Utilizar el nombre de las etiquetas y sus atributos en minúscula: Por un tema de estética y orden del código para que este se vea más limpio y sea más fácil de escribir.
+
+- Cerrar todas las etiquetas: Esto evita futuros problemas o errores de sintaxis.
+
+- Siempre coloca comillas para los valores de los atributos de las etiquetas: De esta forma los valores son más fáciles de leer y se deben utilizar obligatoriamente si este contiene espacios.
+
+- Especificar siempre los atributos alt, width y height para las imágenes: Es importante en caso de que la imagen no se pueda mostrar por algún motivo y también ayuda con el tema de la accesibilidad de los usuarios.
+
+- No omitir la etiqueta ni los metadatos: Estas etiquetas son importantes para la optimización de motores de búsqueda (SEO).
+
+CSS: Se siguió la guía “Google HTML/CSS Style Guide” donde se indican las convenciones, reglas y buenas prácticas para este lenguaje. Hemos considerado las siguientes recomendaciones como las más destacadas:
+
+- Nombre de clases: Se recomienda usar nombres generales para las clases, no deben ser específicas por la razón de que deben comportarse como padres.
+
+- Usar nombres de clase cortos: Se recomienda utilizar nombres de clase que sean cortos y descriptivos, para transmitir la idea de lo que representa de manera concisa.
+
+- Usar delimitadores de nombres de clase adecuados: Se debe de separar las palabras en los nombres de clase con solo guiones.
+
+- Evitar los selectores de ID: No se recomienda implementar este tipo de selectores, por la razón de que estos deben ser únicos en toda la página y en proyectos grandes que tengan muchos componentes es difícil de garantizar esa unicidad, es preferible usar selectores de clase.
+
+- Usar propiedades abreviadas: Es muy recomendable usar propiedades que soporten ser declarados de forma abreviada (por ejemplo, la propiedad padding, margin, border, etc.) por la razón de que reduce de forma significativa la cantidad de líneas de código, y es más legible para el programador o diseñador.
+
+- JavaScript: Se consideró importante seguir una guía de buenas prácticas para un mejor desarrollo del código, para este caso se eligió la guía de la wiki “JavaScript best practices“ del World Wide Web (W3C). Lo cual se destaca lo siguiente:
+
+- Usar nombres cortos y fáciles de leer: Es recomendable nombrar adecuadamente las variables, clases, funciones y otros elementos para que sea más sencillo de leer y comprender.
+
+- Evitar el uso de variables globales (keyword “var”): No se recomienda el uso de este tipo de variables en un proyecto, porque pueden generar muchos errores a medida que el proyecto crece y estas pueden sobrescribirse fácilmente afectando el valor y se pueden declarar otros elementos como funciones con el mismo nombre de la variable y generar errores.
+
+- Comentar y documentar lo necesario: Se recomienda comentar líneas de código que son complejos de entender a simple vista explicando o dejando mensajes para que otros programadores lo entiendan.
+
+- Usar notaciones sencillas de entender: Javascript cuenta con diversas notaciones y operadores para crear o modificar ciertas estructuras de datos como objetos, arrays, selectivas, etc.
+
+Gherkin: Se consideró conveniente usar la guía y convenciones que se mencionan en “Gherkin Conventions for Readable Specifications” para una correcta realización de las pruebas. A continuación, se mencionan los puntos que consideramos más importantes para nuestro trabajo:
+
+- Los bloques “Give-When-Then” deben ser diferenciados: Se recomienda usar una correcta indentación de esos bloques para identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos y otro bloque.
+
+- Usar tablas para los pasos: Si uno de los pasos requiere de más información es recomendable usar tablas para organizar dicha información y tenga un aspecto más ordenado.
+
+- Usar comillas simples para los parámetros: Se recomienda esta práctica para una mejor legibilidad de los parámetros en un paso y tener una sintaxis más simple.
+
+- Separar los escenarios con comentarios: Si se da el caso de tener muchos escenarios en una prueba, es usar los comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
+
+En resumen, las convenciones o estilos de programación, se seguirá la guía de estilos de Google para programar en HTML (Google HTML), CSS (CSS Style Guide) y JavaScript (JS) en el caso de la landing page. En el caso de la implementación del frontend, se utilizará Vue 3 utilizando HTML5, CSS3 y JavaScript para aspectos estáticos de templates y JavaScript como lenguaje de programación.
+
+Para el almacenamiento y control de versiones de código se utilizará GIT gestionado desde 
+GitHub aplicando GitFlow Workflow, Conventional Commits y Semantic Versioning. Además, todos los hotfixes se realizan en ella, para así poder tener los arreglos desplegados de forma automática. 
+
+![IMG: Commits del Landing Page]() 
+
+El lenguaje de diseño de Landing Page y Web Applications estará basado en Material Design. Como biblioteca de componentes de UI se utilizará PrimeVue.
+
+Para el desarrollo de Web Services, se realizará bajo RESTful API architectural style y se hará uso de ASP.NET, utilizando C# como lenguaje de Programación.
 
 ### 5.1.4. Software Deployment Configuration
+Para el despliegue del Landing Page se utilizará Github Pages, para el Frontend de la aplicación se usará _____. Finalmente, para el despliegue del RESTful API, se usará _____.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+| Sprint # | 1 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2024 - 04 - 03  |
+| Time | 22:00 |
+| Location | Virtual via Discord |
+| Prepared By | Apellido Apellido, Nombre Nombre |
+| Attendees (to planning meeting) | Apellido Apellido, Nombre Nombre / Apellido Apellido, Nombre Nombre / Apellido Apellido, Nombre Nombre / Apellido Apellido, Nombre Nombre / Apellido Apellido, Nombre Nombre |
+| Sprint 1 - Review Summary | No aplica (Es el primer Sprint) |
+| Sprint 1 - Retrospective Summary  | No aplica (Es el primer Sprint) |
+| **Sprint Goal & User Stories** | - |
+| Sprint 1 Goal| El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente |
+| Sprint 1 - Velocity | El equipo puede aceptar 20 Story Points|
+| Sprint 1 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es 18|
 
 #### 5.2.1.2. Sprint Backlog 1
+Implementación del Landing Page acorde con las User Stories.
 
+![IMG: Spring Backlog]()
 #### 5.2.1.3. Development Evidence for Sprint Review
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| goSteel-LandingPage | develop | d172a5f | feature: Creación de Landing  | - | 01/04/2024 |
+| goSteel-LandingPage | develop | a43f17b | feature: Header Section | - | 02/04/2024 |
+| goSteel-LandingPage | develop | ef25af3 | feature: Various Sections  | - | 03/04/2024 |
+| goSteel-LandingPage | develop | 0d11262 | feature: Assets  | - | 04/04/2024 |
+| goSteel-LandingPage | develop | 73f3545 | feature: Footer Section | - | 05/04/2024 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+Esta sección no fue posible integrar en la presente entrega debido a que el código realizado fue para el desarrollo de la landing page.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+En este apartado se hace presenta la implementación/despliegue de la landing page del producto solución goSteel.
+
+![IMG despliegue]()
+
+[Link del video]() 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+No se utilizó ningún servicio adicional, pues este primer Sprint solo consta de la implementación del landing page.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Como se mencionó, se utilizó Github Pages para el despliegue automático del landing page con todos los cambios realizados por el equipo. Github Pages se integra con nuestra organización en GitHub y luego con el repositorio, siendo la rama main la que utilizamos para el despliegue.
+[Enlance al Landing Page]()
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+Las actividades para el presente Sprint se repartieron en base a las secciones de la landing page que se plantearon como equipo previamente, para ello, se realizaron primero los styles en un archivo aparte .css y luego entre todo el equipo se desarrolló el index.html. De esta manera, el desarrollo de la landing page fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![IMG: commits al Landing Page]()
+![IMG: commits al Landing Page]()
 
 # Conclusiones
 ### Conclusiones y recomendaciones
