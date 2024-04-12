@@ -2175,7 +2175,7 @@ ___
 
 ![IMAGEN-WireFlow](./assets/US13.png)
 
-Enlace de Wireflow Diagrams en Figma para una mejor observación: https://www.figma.com/file/SOKyS4fEM5Vpngj85Rx08v/Untitled?type=design&node-id=0%3A1&mode=design&t=enyuXClZrXBI99Vp-1
+Enlace de [Wireflow Diagrams en Figma](https://www.figma.com/file/SOKyS4fEM5Vpngj85Rx08v/Untitled?type=design&node-id=0%3A1&mode=design&t=enyuXClZrXBI99Vp-1) para una mejor observación.
 
 
 
