@@ -2215,7 +2215,6 @@ Pantallas relacionadas con Generar Una Nueva Reserva
 <img src="https://i.imgur.com/6faI3su.png" style="width:80%"> 
 
 
-![MOCK_UP_WEB APPLICATION]()
 ### 4.4.4. Web Applications User Flow Diagrams 
 En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo.
 
@@ -2269,18 +2268,32 @@ La información presentada se separa por partes, de tal manera que el usuario en
 
 ## 4.7. Software Object-Oriented Design
 En esta sección, se utilizará el enfoque de diseño orientado a objetos para desarrollar la aplicación web. Asimismo, se aplicarán los principios y conceptos fundamentales de la programación orientada a objetos.
+
 ### 4.7.1. Class Diagrams
-En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
+En esta sección, se exhibirán los diagramas de clases que ilustran las relaciones entre las clases en el contexto del diseño orientado a objetos.
 
-![IMG-ClassDiagram]()
-
-[Link del Diagrama de Clases]()
+![class diagram](assets/classdiagram.png)
 
 ### 4.7.2. Class Dictionary
 
-![IMG-ClassDictionary]()
+El diagrama de clases se desarrolló en visual studio code con el uso de la extensión y documentación de plantUML. Aquí se creará un diccionario detallado que describe cada una de las clases identificadas en los diagramas.
 
-[Link del Diagrama de Clases]()
+- **Usuarios:** En esta clase se realiza el registro de todos los usuarios, considerando todos sus atributos y el tipo de usuario. Además, de las funciones de inicio de sesión, actualización y aliminación de cuentas.
+
+- **Scooters:** En esta clase se le permite al usuario la visualización de características de cada uno de nuestros scooters disponibles en nuestra plataforma.
+
+- **Reservas:** La principal acción de aquí es la realización de reserva considerando la clase scooter en el proceso. Asimismo, también se considera la cancelación de reserva.
+
+- **Rentas:** En esta clase el usuario activa el inicio del uso del scooter comenzando así el tiempo de su renta.
+
+- **Pagos:** En esta clase, se realizan pagos al terminar la reserva y comenzando la renta.
+
+- **Enum:** Gracias a los enum podemos declarar estados de cada proceso:
+    - tipo_usuario. Elección entre empresarios y ciudadanos.
+    - estado_scooter. Muestra si el scooter está disponible o no.
+    - estado_reserva. El estado de una reserva cambia cuando el usuario realiza una reserva y cuando la cancela.
+    - estado_renta. Comienzo o fin de uso del scooter.
+    - estado_pago. El pago realizado o pendiente. 
 
 ## 4.8. Database Design
 En esta sección, se definirán las tablas y relaciones necesarias para almacenar y gestionar los datos de manera eficiente.
