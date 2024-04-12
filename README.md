@@ -2083,16 +2083,28 @@ En esta sección, presentaremos el proceso visual de desarrollo del Landing Page
 Para mayor visualización: [Landing Page](https://www.figma.com/file/tuAbwsUKZRYtAbqHKbDQEM/Untitled?type=design&node-id=0%3A1&mode=design&t=MIUAZs4lJc8338Gn-1)
 
 ![landing page-desktop&mobile](assets/landingpage.png)
+
 ### 4.3.1. Landing Page Wireframe
 
+>**Header**
 
+![header wireframe](assets/landingpage/headerwireframe.png)
 
+>**Body**
+
+![body wireframe](assets/landingpage/bodywireframe.png)
+![body-second part-wireframe](assets/landingpage/bodysecondwireframe.png)
+
+>**Footer**
+
+![footer-wireframe](assets/landingpage/footerwireframe.png)
 
 ### 4.3.2. Landing Page Mock-up
 Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
-![MOCK_UP-LandingPage]()
 
-[Link Figma]()
+>**Header**
+
+En la parte de Header tenemos la frase: *"Inicia tu aventura sobre ruedas"* para llamar la atención de los usuarios que visiten nuestro landing page y también se hace visualización de los botones *call to action* tanto para iniciar sesión como descargar la aplicación.
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
