@@ -2056,17 +2056,19 @@ A continuación, se presenta el sistema de etiquetado que proporcionará una des
 ### 4.2.4. Searching Systems
 En esta sección se presentarán los sistemas de búsqueda que se implementarán en la aplicación. Al hacer uso de esos sistemas, los usuarios podrán encontrar la información que requieran.
 
-En el sitio web estático, los usuarios podrán utilizar la barra de navegación para buscar la información acerca del producto solución, paralelas funcionalidades se hará uso interactivo de un botón donde se alternará entre “Para productores” y “Para comerciantes”
 
 **En la aplicación web:**
 
-**Segmento: Productores que desean mejorar la calidad de sus productos**
+**Segmento: Personas que transitan Lima Metropolitana**
 
-- 
+- Buscar Scooters: Esta sección le permitirá al usuario buscar scooters mediante el nombre del modelo o marca. Esta sección también cuenta con un filtro que distingue marcas y precio de alquiler.
+- Reservas realizadas: Esta sección le permitirá al usuario buscar dentro de sus scooters reservados mediante el nombre del modelo o de la marca.
+- Scooters Favoritos: Esta sección le permitirá al usuario buscar dentro de sus scooters favoritos mediante el nombre del modelo o de la marca.
 
-**Segmento: Exportadores o comerciantes que desean mejorar la calidad de sus ventas**
+**Segmento: Empresas delivery**
 
--
+- Buscar Scooters: Esta sección le permitirá al usuario buscar los scooters disponibles para su empresa.
+- Buscar Scooters dentro de flota: Esta sección le permitirá al usuario buscar scooters mediante el nombre del modelo o marca, dentro de los que se encuentran en su flota.
 
 ### 4.2.5. Navigation Systems
 A continuación, el equipo mostrará los sistemas de navegación con los que contará Ayni para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
