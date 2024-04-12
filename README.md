@@ -2071,11 +2071,11 @@ En esta sección se presentarán los sistemas de búsqueda que se implementarán
 - Buscar Scooters dentro de flota: Esta sección le permitirá al usuario buscar scooters mediante el nombre del modelo o marca, dentro de los que se encuentran en su flota.
 
 ### 4.2.5. Navigation Systems
-A continuación, el equipo mostrará los sistemas de navegación con los que contará Ayni para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
+A continuación, el equipo mostrará los sistemas de navegación con los que contará goSteel para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
 
 En el Landing Page, se cuenta con encabezados que representan a las diversas secciones que estarán presentes. Estas estarán ubicadas en la parte superior de la página como menú horizontal siempre presente a la hora de bajar y subir con el ratón. Para que el usuario no tenga que realizar una traslación de manera manual por toda la página para llegar a una sección, se podrá usar estos encabezados para ubicarse inmediatamente en el sector que se desee. Obviamente, el visitante tiene que haber leído el título del encabezado para asegurarse de que se ubicará en la zona adecuada. Gracias a esto, se genera una traslación fácil e intuitiva.
 
-En el caso de la aplicación web, se presenta un proceso similar para el menú principal, se utilizarán diversas opciones que presenta para trasladarse a otra página del sitio web. Estas opciones variarán de acuerdo al segmento objetivo al que pertenezca el usuario. Del mismo modo, se utilizan listados para los grupos de elementos, Dentro de estas listas podrán aplicar filtros que permitan a los usuarios navegar entre esas opciones.
+En el caso de la aplicación web, al momento de crear nuestra cuenta hay una barra que nos permite elegir si somos "usuario" o "empresa". También se usa una barrra superior similar a la de la landing page, en la que se muestran las secciones de la página como: "inicio", "buscar scooters", "favoritos" y "reservas".
 
 ## 4.3. Landing Page UI Design
 En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
