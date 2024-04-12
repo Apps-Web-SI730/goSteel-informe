@@ -750,7 +750,7 @@ Districto: San Juan de Lurigancho
 [URL: Entrevista dueño de empresa de delivery](https://youtu.be/JRuP-yDurrU).
 
 Resumen: El entrevistado es dueño junto a su tio de una polleria que realiza delivery, sus repartidores usan el transporte de moto. Dentro de sus principales problemas se encuentra el tráfico denso en horas pico, y el estacionamiento y problemas para acceder a ciertas zonas. Considera que los scooters son más manobriables, además de que son más sostenibles ecologicamente. En la aplicación web busca que sea intuitiva, que se pueda rastrear el estado de los scooters. Considera que se le deberían realizar constantemente revisiones a los scooters para verificar su correcto funcionamiento. Le gustaría una opción de asignar scooters a repartidores individuales y generar rendimiento de la flota de scooters.
----
+
 
 ### 2.2.3. Análisis de entrevistas
 
