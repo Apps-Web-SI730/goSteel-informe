@@ -957,6 +957,27 @@ scooters. Considera que se le deberían realizar constantemente revisiones a los
 funcionamiento. Le gustaría una opción de asignar scooters a repartidores individuales y generar rendimiento de la flota
 de scooters.
 
+
+**Entrevistado 3**
+
+Nombre y apellidos: Abel Valle
+
+Edad: 25
+
+Districto: La Molina
+
+<img src="assets/EntrevistaSegmentoObjetivo2_3.png" width="300">
+
+[URL: Entrevista dueño de empresa de delivery]([https://youtu.be/JRuP-yDurrU](https://youtu.be/RcNx1iQbe9M)).
+
+Resumen: EL entrevistado usa para su empresa de deilvery motociletas y bicicletas y los deesafíos que más se le presentan 
+son el tráfico y la fatiga de sus repartidores. La idea de implementar scooter le parece muy interesante y prometedora,
+estos son una forma más útil para sortear el tráfico, además consideran que el mantenimiento y el combustible de los scooters
+es un factor atractivo. En una plataforma web de gestión de scooters buscan características como que sea fácil de usar, eficiente 
+en la gestión, que permita seguir la ubicación y que tenga opciones de personalización. Para garantizar el mantenimiento adecuado 
+de los scooters le parece que implementar un programa regular de inspección y mantenimiento sería atractivo. Manejarían la ubicación 
+de los scooters mediante un GPS implementado en cada uno de estos. Se encuentra bastante interesado en esta aplicación.
+
 ### 2.2.3. Análisis de entrevistas
 
 **Segemento Objetivo 1: Transeúntes**
