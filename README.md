@@ -966,7 +966,7 @@ Edad: 25
 
 Districto: La Molina
 
-<img src="assets/EntrevistaSegmentoObjetivo2_3.png" width="300">
+<img src="assets/EntrevistaSegmentoObjetivo2_3.jpg" width="300">
 
 [URL: Entrevista dueño de empresa de delivery]([https://youtu.be/JRuP-yDurrU](https://youtu.be/RcNx1iQbe9M)).
 
