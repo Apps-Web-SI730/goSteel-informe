@@ -968,7 +968,7 @@ Districto: La Molina
 
 <img src="assets/EntrevistaSegmentoObjetivo2_3.jpg" width="300">
 
-[URL: Entrevista dueño de empresa de delivery]([https://youtu.be/JRuP-yDurrU](https://youtu.be/RcNx1iQbe9M)).
+[URL: Entrevista dueño de empresa de delivery](https://youtu.be/RcNx1iQbe9M).
 
 Resumen: EL entrevistado usa para su empresa de deilvery motociletas y bicicletas y los deesafíos que más se le presentan 
 son el tráfico y la fatiga de sus repartidores. La idea de implementar scooter le parece muy interesante y prometedora,
