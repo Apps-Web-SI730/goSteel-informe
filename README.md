@@ -934,20 +934,18 @@ Resumen:El entrevistado utiliza scooters regularmente, casi todos los días, par
 
 > **Segmento Objetivo: Empresarios**
 
-Nombre y apellidos: Janet Bustamante
+Nombre y apellidos: Andreas Muller
 
-Edad: 41
+Edad: 32
 
-Districto: Villa el salvador
+Districto: San Isidro
 
-<img src="assets/EntrevistaSegementoObjetivo2.png" width="300">
+<img src="assets/landingpage/EntrevistaED.png" width="300">
 
-[URL: Entrevista dueño de empresa de delivery](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914294_upc_edu_pe/Ed97wuf6Sk9MuTW6C__Rgh8BURBBMiMqCRKqWaLkiG_WaA?e=KalkQS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL: Entrevista dueño de empresa de delivery](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914294_upc_edu_pe/EfQ7gdNkAE1Ana1EBz90-AABFZcm5vcv54SCmovhRDzkpg?e=Jj5PJe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Resumen: La entrevistada es dueña de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa
-son las motos ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el de llevar la
-comida rapido y en buen estado, tambien nos comenta que le gustaria implementar scooters al servicio de delivery pero
-que solo lo aplicaria a ciertas zonas, otra cosa que nos dice es que un caracteristica principal que debe tener una
+Resumen: La entrevistado es dueño de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa
+son las motos lineales ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el trafico, tambien nos cuenta cuales serian los pros y contras de alquirir scooters como medio de transporte para su empresa, otra cosa que nos dice es que un caracteristica principal que debe tener una
 plataforma web para el alquiler de scooter es la que sea facil de navegar y facil de gestionar los scooters. Nos afirma
 que no le importa tanto al personalizacion sino el facilidad de utilizar la aplicacion web. Por ultimo nos dice que si
 hubiese una aplicacion web sobre el alquiler de scooter que le ofrece las necesidades que necesita por su puesto que la
