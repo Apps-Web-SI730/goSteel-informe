@@ -896,6 +896,9 @@ de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real
 importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva
 para emergencias.
 
+
+
+
 **Entrevistado: 3**
 
 Nombre y apellidos: Jasmin Gianella Pomasoncco Oropeza
@@ -915,6 +918,19 @@ de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real
 importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva
 para emergencias.
 
+**Entrevistado: 4**
+
+Nombre y apellidos: Jenifer Caceres
+
+Edad: 23
+
+Distrito: Jesus Maria
+
+<img src="https://i.imgur.com/iSZdNUN.png" style="width:80%"> 
+
+[URL: Entrevista](https://youtu.be/R6D5-SKYBTA)
+
+Resumen:El entrevistado utiliza scooters regularmente, casi todos los días, para ir al trabajo, destacando su conveniencia y agilidad. Señala desafíos como la disponibilidad limitada y la infraestructura vial deficiente, especialmente en áreas sin vereda. Valora la autonomía de la batería al alquilar un scooter y prefiere tener el suyo propio. Su experiencia con servicios de alquiler ha sido limitada, pero destaca la importancia de una interfaz intuitiva. Sugiere que la duración de la batería sea prioritaria en una aplicación de alquiler. Considera importante la protección de datos y expresó interés en seguir utilizando scooters en el futuro, siempre y cuando se mejore la batería y la interfaz de usuario.
 
 > **Segmento Objetivo: Empresarios**
 
@@ -977,6 +993,20 @@ es un factor atractivo. En una plataforma web de gestión de scooters buscan car
 en la gestión, que permita seguir la ubicación y que tenga opciones de personalización. Para garantizar el mantenimiento adecuado 
 de los scooters le parece que implementar un programa regular de inspección y mantenimiento sería atractivo. Manejarían la ubicación 
 de los scooters mediante un GPS implementado en cada uno de estos. Se encuentra bastante interesado en esta aplicación.
+
+**Entrevistado 4**
+
+Nombre y apellidos: Pieer Rodas
+
+Edad: 31
+
+Districto: La victoria
+
+<img src="https://i.imgur.com/foq4p7r.png" style="width:80%">
+
+[URL: Entrevista dueño de empresa de delivery](https://youtu.be/4RhefECO8c8).
+
+Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servicio de delivery en su empresa, enfrentando desafíos como la gestión de pedidos y la logística. Considera la implementación de scooters como una opción prometedora para sortear el tráfico y reducir costos de mantenimiento y combustible. Busca en una plataforma web características como notificaciones prioritarias y seguimiento del estado de los pedidos. Propone implementar un programa regular de inspección y mantenimiento para garantizar el adecuado cuidado de los scooters, gestionando su ubicación a través de un GPS. Considera importante la personalización de la plataforma para adaptarse a las necesidades específicas de su empresa y valora la integración con sus sistemas existentes. Evalúa el rendimiento de la plataforma en base a la seguridad de los microservicios, la velocidad de las notificaciones y la capacidad de detectar vulnerabilidades. Está interesado en utilizar una aplicación web que cumpla con estas características y funciones.
 
 ### 2.2.3. Análisis de entrevistas
 
