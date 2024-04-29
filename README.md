@@ -2662,25 +2662,41 @@ La información presentada se separa por partes, de tal manera que el usuario en
 
 ### 4.6.1. Software Architecture Context Diagram
 
-![IMG-SystemContext-Diagram](./assets/1_Context.png)
+![IMG-SystemContext-Diagram](./assets/C4/1_Context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-![IMG-Container-Diagram](./assets/2_Container.png)
+![IMG-Container-Diagram](./assets/C4/2_Container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 #### User Managment Context
 
-![IMG-Component_1-Diagram](./assets/3_a-UserComponent.png)
+![IMG-Component_1-Diagram](./assets/C4/3_a-UserComponent.png)
 
 #### Booking Context
 
-![IMG-Component_3-Diagram](./assets/3_b-BookingComponent.png)
+![IMG-Component_2-Diagram](./assets/C4/3_b-BookingComponent.png)
 
 #### Scooter Inventory Context
 
-![IMG-Component_4-Diagram](./assets/3_c-ScooterComponent.png)
+![IMG-Component_3-Diagram](./assets/C4/3_c-ScooterInventoryComponent.png)
+
+#### Parking Context
+
+![IMG-Component_4-Diagram](./assets/C4/3_d-ParkingComponent.png)
+
+#### Scooter Management Context
+
+![IMG-Component_5-Diagram](./assets/C4/3_e-ScooterManagementComponent.png)
+
+#### Rental Context
+
+![IMG-Component_6-Diagram](./assets/C4/3_f-RentalComponent.png)
+
+#### Payment Context
+
+![IMG-Component_7-Diagram](./assets/C4/3_g-PaymentComponent.png)
 
 ## 4.7. Software Object-Oriented Design
 
