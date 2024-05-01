@@ -2715,25 +2715,29 @@ diseño orientado a objetos.
 El diagrama de clases se desarrolló en visual studio code con el uso de la extensión y documentación de plantUML. Aquí
 se creará un diccionario detallado que describe cada una de las clases identificadas en los diagramas.
 
-- **Usuarios:** En esta clase se realiza el registro de todos los usuarios, considerando todos sus atributos y el tipo
+- **Users:** En esta clase se realiza el registro de todos los usuarios, considerando todos sus atributos y el tipo
   de usuario. Además, de las funciones de inicio de sesión, actualización y aliminación de cuentas.
 
+- **Enterprises:** En esta clase se realiza la obtención y validación de los datos para los usuarios empresa.
+
+- **Passersby:** En esta clase se realiza la obtención y validación de los datos para los usuarios transeúntes.
+
 - **Scooters:** En esta clase se le permite al usuario la visualización de características de cada uno de nuestros
-  scooters disponibles en nuestra plataforma.
+  scooters disponibles en nuestra plataforma. Además de reservarlos.
 
-- **Reservas:** La principal acción de aquí es la realización de reserva considerando la clase scooter en el proceso.
-  Asimismo, también se considera la cancelación de reserva.
+- **Rents:** La principal acción de aquí es confirmar el inicio de la reserva y su finalización.
 
-- **Rentas:** En esta clase el usuario activa el inicio del uso del scooter comenzando así el tiempo de su renta.
+- **Payments:** En esta clase, se realizan pagos del scooter reservado.
 
-- **Pagos:** En esta clase, se realizan pagos al terminar la reserva y comenzando la renta.
+- **Parking:** Gracias a esta clase, el usuario ve los diferentes estacionamientos de scooters cerca de su zona de vivienda.
 
 - **Enum:** Gracias a los enum podemos declarar estados de cada proceso:
-    - tipo_usuario. Elección entre empresarios y ciudadanos.
-    - estado_scooter. Muestra si el scooter está disponible o no.
-    - estado_reserva. El estado de una reserva cambia cuando el usuario realiza una reserva y cuando la cancela.
-    - estado_renta. Comienzo o fin de uso del scooter.
-    - estado_pago. El pago realizado o pendiente.
+    - type_user. Elección entre empresarios y ciudadanos.
+    - state_scooter. Muestra si el scooter está disponible o no.
+    - state_reservation. El estado de una reserva cambia cuando el usuario realiza una reserva y cuando la cancela.
+    - state_rent. Comienzo o fin de uso del scooter.
+    - state_payment. El pago realizado o pendiente.
+
 
 ## 4.8. Database Design
 
