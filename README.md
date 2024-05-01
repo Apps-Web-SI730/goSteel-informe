@@ -3137,7 +3137,7 @@ continuación, se mostrarán las evidencias de los commits:
 
 Implementación del Landing Page acorde con las User Stories.
 
-![sprintbacklog2](/assets/sprintsbacklogs/sprintbacklog1.png)
+![sprintbacklog2]()
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
@@ -3161,7 +3161,13 @@ Implementación del Landing Page acorde con las User Stories.
 | acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_05      | -                   | 01/05/2024         |
 | acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_06     | -                   | 01/05/2024         |
 
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
+En este apartado se hace presenta la ejecución del frontend del servicio FastScooter.
+
+**[Link del video]()**
+
+![imagen fronted]()
 
 # Conclusiones
 
