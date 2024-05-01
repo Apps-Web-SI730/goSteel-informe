@@ -2182,7 +2182,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 			<td>6</td>
             <td>US013</td>
 			<td>Cancelacion de reserva</td>
-			<td>CComo usuario de la aplicación quiero poder cancelar una reserva para no incurrir en gastos por un servicio que no voy a utilizar..</td>
+			<td>Como usuario de la aplicación quiero poder cancelar una reserva para no incurrir en gastos por un servicio que no voy a utilizar..</td>
 			<td>8</td>
 		</tr>
         <tr>
@@ -2212,6 +2212,29 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 			<td>Visualizacion de zonas de recojo y entrega de los scooters</td>
 			<td>Como usuario de la aplicación quiero poder ver las zonas designadas para recojo y entrega de scooters para cplanificar mi viaje y encontrar fácilmente el punto de inicio y fin de mi alquiler</td>
 			<td>8</td>
+		</tr>
+    </tr>
+        <tr>
+			<td>11</td>
+            <td>US024</td>
+			<td>Visualización de características de la aplicación web	</td>
+			<td>Como usuario quiero ver las principales características de la aplicación para decidir si usar el servicio.</td>
+			<td>5</td>
+		</tr>
+    </tr>
+        <tr>
+			<td>12</td>
+            <td>US025</td>
+			<td>Landing Page responsive	</td>
+			<td>Como usuario quiero visitar la landing page desde cualquier dispositivo usuario para decidir si usar el producto en mi trabajo usuario de la aplicación.</td>
+			<td>8</td>
+		</tr>
+     <tr>
+			<td>13</td>
+            <td>US026</td>
+			<td>Botón Call to Action	</td>
+			<td>Como usuario quiero ir a la aplicación web desde un solo botón para empezar a usar el servicio de manera fácil y rápida.</td>
+			<td>5</td>
 		</tr>
 	</tbody>
 </table>
