@@ -3133,6 +3133,11 @@ continuación, se mostrarán las evidencias de los commits:
 | Sprint 2 - Velocity              | El equipo puede aceptar 30 Story Points                                                                                                                                      |
 | Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 22 Story Points                                                                                                       |
 
+#### 5.2.1.2. Sprint Backlog 2
+
+Implementación del Landing Page acorde con las User Stories.
+
+![sprintbacklog2](/assets/sprintsbacklogs/sprintbacklog1.png)
 
 
 # Conclusiones
