@@ -3060,14 +3060,14 @@ Finalmente, para el despliegue del RESTful API, se usará _____.
 | Sprint 1 - Retrospective Summary | No aplica (Es el primer Sprint)                                                                                                                                              |
 | **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
 | Sprint 1 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente                                                      |
-| Sprint 1 - Velocity              | El equipo puede aceptar 19 Story Points                                                                                                                                      |
+| Sprint 1 - Velocity              | El equipo puede aceptar 20 Story Points                                                                                                                                      |
 | Sprint 1 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 18                                                                                                        |
 
 #### 5.2.1.2. Sprint Backlog 1
 
 Implementación del Landing Page acorde con las User Stories.
 
-![sprintbacklog1](assets/sprintbacklog.png)
+![sprintbacklog1](/assets/sprintsbacklogs/sprintbacklog1.png)
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -3129,9 +3129,11 @@ continuación, se mostrarán las evidencias de los commits:
 | Sprint 1 - Review Summary        | Se realizó la landing page implementado con css y html, a raiz de los mockups de diseño |
 | Sprint 1 - Retrospective Summary | Mejorar en puntos de la documentación del informe |
 | **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
-| Sprint 1 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente                                                      |
-| Sprint 1 - Velocity              | El equipo puede aceptar 25 Story Points                                                                                                                                      |
-| Sprint 1 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 18                                                                                                        |
+| Sprint 2 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente                                                      |
+| Sprint 2 - Velocity              | El equipo puede aceptar 30 Story Points                                                                                                                                      |
+| Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 22 Story Points                                                                                                       |
+
+
 
 # Conclusiones
 
