@@ -3226,7 +3226,7 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 ### Conclusiones y recomendaciones
 
-La renta de scooters ha emergido como una opción de movilidad urbana cada vez más popular en muchas ciudades del mundo.
+La renta de scooters ha emergido como una opción de movilidad urbana cada vez más popular en muchas ciudades del mundo. La implementación del fronted para un servicio de renta de scooters aborda varios aspectos clave para garantizar una experiencia de usuario fluida y eficiente.
 
 - La renta de scooters proporciona una opción de transporte accesible y conveniente para los residentes urbanos y
   visitantes, permitiéndoles moverse rápidamente por la ciudad sin depender de horarios de transporte público o la
