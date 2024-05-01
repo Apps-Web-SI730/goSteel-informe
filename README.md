@@ -3181,9 +3181,37 @@ En este apartado se hace presenta la ejecución del frontend del servicio FastSc
 
 Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a continuación se detallará paso a paso el procedimiento del despliegue:
 
-Ejecutamos el comando “npm run dev” en la ruta de nuestro projecto en vue y esta acción nos muestra lo siguiente:
+Ejecutamos el comando “npm run dev” en la ruta de nuestro projecto en VUE y esta acción nos muestra lo siguiente:
 
 ![Imagen de terminal local del proyecto]()
+
+Se genera la carpeta src:
+
+![Imagen de carpeta local src del proyecto]()
+
+Se añade el archivo “ ” para que VUE pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![Imagen de las rutas]()
+
+Por último, usamos el comando “npm run format” al proyecto que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![Imagen del comando en la terminal]()
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
+
+![Paso para desplegar]()
+
+De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+![Imagen del despliegue]()
+
+Adicionalmente se usó JSONPlaceholder para levantar el archivo db.json para no depender de localhost:
+
+[Link del frontend desplegado]()
+
+Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Sprint2:
+
+[Link del frontend desplegado]()
+
 
 
 
