@@ -2020,6 +2020,75 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             </td>
             <td colspan="1">EP006</td>
 		</tr>
+    <tr>
+            <td colspan="1">US024</td>
+            <td colspan="1">Visualización de características de aplicación web</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario 
+            <br>
+            <strong>quiero</strong>  ver las principales características de la aplicación 
+            <br>
+            <strong>para</strong> decidir si usar el  servicio.
+            </td>
+            <td colspan="5">
+            <strong>E01: El visitante revisa el landing page</strong>
+            <br><br>
+            <strong>Caso 01: El usuario tiene vista del landing page y control </strong>
+            <br>
+            <strong>Dado que</strong> los usuarios quieran ver las características de nuestro servicio
+            <br>
+            <strong>Cuando</strong> un usuario acceda al landing page
+            <br>
+            <strong>Entonces</strong> el sistema le proporciona la visualiciación total al acceso del landing page.
+            </td>
+            <td colspan="1">EP007</td>
+		</tr> 
+    <tr>
+            <td colspan="1">US025</td>
+            <td colspan="1">Landing Page responsive</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario  
+            <br>
+            <strong>quiero</strong>  visitar la landing page desde cualquier dispositivo	usuario 
+            <br>
+            <strong>para</strong> decidir si usar el producto en mi trabajo	usuario de la aplicación.
+            </td>
+            <td colspan="5">
+            <strong>E01: Visualización correcta del landing page</strong>
+            <br><br>
+            <strong>Caso 01: Permitir a los usuarios acceder y visualizar el landing page desde otros dispositivos</strong>
+            <br>
+            <strong>Dado que</strong> los usuarios quieren ver el landing page desde diferentes dispositivos
+            <br>
+            <strong>Cuando</strong> el usuario vea el landing page desde otro dispositivo
+            <br>
+            <strong>Entonces</strong> el sistema le muestra el landing page sin afectar el contenido.
+            </td>
+            <td colspan="1">EP007</td>
+		</tr> 
+    <tr>
+            <td colspan="1">US026</td>
+            <td colspan="1">Botón Call to Action	</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario
+            <br>
+            <strong>quiero</strong>  ir a la aplicación web desde un solo botón
+            <br>
+            <strong>para</strong> empezar a usar el servicio de manera fácil y rápida.
+            </td>
+            <td colspan="5">
+            <strong>E01: Visualización correcta del landing page</strong>
+            <br><br>
+            <strong>Caso 01: Permitir a los usuarios acceder y visualizar el landing page desde otros dispositivos</strong>
+            <br>
+            <strong>Dado que</strong> los usuarios quieren ver el landing page desde diferentes dispositivos
+            <br>
+            <strong>Cuando</strong> el usuario vea el landing page desde otro dispositivo
+            <br>
+            <strong>Entonces</strong> el sistema le muestra el landing page sin afectar el contenido.
+            </td>
+            <td colspan="1">EP007</td>
+		</tr> 
     <td colspan="1">US027</td>
     <td colspan="1">Notificaciones de estado de reserva</td>
     <td colspan="1">
@@ -2738,7 +2807,6 @@ se creará un diccionario detallado que describe cada una de las clases identifi
     - state_rent. Comienzo o fin de uso del scooter.
     - state_payment. El pago realizado o pendiente.
 
-
 ## 4.8. Database Design
 
 En esta sección, se definirán las tablas y relaciones necesarias para almacenar y gestionar los datos de manera
@@ -2749,7 +2817,7 @@ eficiente.
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las
 tablas.
 
-![IMG-DB](./assets/DB-FastScooter.png)
+![IMG-DB](/assets/diagrams/databasedesign.jpg)
 
 [Link Database Diagram](https://my.vertabelo.com/public-model-view/BuTgCOFwRnLqR0QIhemQ3fQ54SAz2TZRgFV2K34qNZ6wFwXWb96nUAjoeDvpxqME?x=3793&y=4054&zoom=0.6719)
 
@@ -2961,15 +3029,15 @@ Finalmente, para el despliegue del RESTful API, se usará _____.
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | **Sprint Planning Background**   | -                                                                                                                                                                            |
 | Date                             | 2024 - 04 - 03                                                                                                                                                               |
-| Time                             | 22:00                                                                                                                                                                        |
+| Time                             | 22:00 PM                                                                                                                                                                        |
 | Location                         | Virtual via Discord                                                                                                                                                          |
-| Prepared By                      | Apellido Apellido, Nombre Nombre                                                                                                                                             |
-| Attendees (to planning meeting)  | Apellido Apellido, Nombre Nombre / Apellido Apellido, Nombre Nombre / Apellido Apellido, Nombre Nombre / Apellido Apellido, Nombre Nombre / Apellido Apellido, Nombre Nombre |
+| Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                            |
+| Attendees (to planning meeting)  | Adrianzén Flores, Carlos Arturo <br> Barrial Marin, Sharon Antuanet Ivet <br> Hidalgo Bustamante Josue Omar <br> Huachaca Advincula, Scott Jacobo <br> Minaya Mundines, Pietro Minayat |
 | Sprint 1 - Review Summary        | No aplica (Es el primer Sprint)                                                                                                                                              |
 | Sprint 1 - Retrospective Summary | No aplica (Es el primer Sprint)                                                                                                                                              |
 | **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
 | Sprint 1 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente                                                      |
-| Sprint 1 - Velocity              | El equipo puede aceptar 20 Story Points                                                                                                                                      |
+| Sprint 1 - Velocity              | El equipo puede aceptar 19 Story Points                                                                                                                                      |
 | Sprint 1 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 18                                                                                                        |
 
 #### 5.2.1.2. Sprint Backlog 1
@@ -3023,6 +3091,25 @@ continuación, se mostrarán las evidencias de los commits:
 ![controbution](assets/contri.png)
 ![network](assets/network.png)
 
+### 5.2.2. Sprint 2
+
+#### 5.2.1.1. Sprint Planning 2
+
+| Sprint #                         | 2                                                                                                                                                                            | 
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Sprint Planning Background**   | -                                                                                                                                                                            |
+| Date                             | 2024 - 05 - 01                                                                                                                                                               |
+| Time                             | 18:35 PM                                                                                                                                                                        |
+| Location                         | Virtual via Discord                                                                                                                                                          |
+| Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                            |
+| Attendees (to planning meeting)  | Adrianzén Flores, Carlos Arturo <br> Barrial Marin, Sharon Antuanet Ivet <br> Hidalgo Bustamante Josue Omar <br> Huachaca Advincula, Scott Jacobo <br> Minaya Mundines, Pietro Minayat |
+| Sprint 1 - Review Summary        | Se realizó la landing page implementado con css y html, a raiz de los mockups de diseño |
+| Sprint 1 - Retrospective Summary | Mejorar en puntos de la documentación del informe |
+| **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
+| Sprint 1 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente                                                      |
+| Sprint 1 - Velocity              | El equipo puede aceptar 25 Story Points                                                                                                                                      |
+| Sprint 1 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 18                                                                                                        |
+
 # Conclusiones
 
 ### Conclusiones y recomendaciones
@@ -3052,17 +3139,12 @@ La renta de scooters ha emergido como una opción de movilidad urbana cada vez m
 
 # Bibliografía
 
-Ecobnb. (2022). *Todo lo que tienes que saber sobre los medios de transporte sostenibles en el turismo.* Recuperado de *
-*[Ecobnb](https://es.ecobnb.com/blog/2022/09/medios-transporte-sostenibles-turismo/)** [Consulta: 28 de marzo del 2024]
+Ecobnb. (2022). *Todo lo que tienes que saber sobre los medios de transporte sostenibles en el turismo.* Recuperado de **[Ecobnb](https://es.ecobnb.com/blog/2022/09/medios-transporte-sostenibles-turismo/)** [Consulta: 28 de marzo del 2024]
 
-RPP. (2020). *¿La cantidad de autos es el problema en el tráfico de Lima?* Recuperado de *
-*[RPP](https://rpp.pe/lima/actualidad/la-cantidad-de-autos-es-el-problema-en-el-trafico-de-lima-noticia-1248078?ref=rpp)
-** [Consulta: 28 de marzo del 2024]
+RPP. (2020). *¿La cantidad de autos es el problema en el tráfico de Lima?* Recuperado de **[RPP](https://rpp.pe/lima/actualidad/la-cantidad-de-autos-es-el-problema-en-el-trafico-de-lima-noticia-1248078?ref=rpp)** [Consulta: 28 de marzo del 2024]
 
 Stakeholders. (2021). *Delivery cero emisiones: Tottus realiza sus repartos a domicilio con vehículos sostenibles.*
-Recuperado de *
-*[Stakeholders](https://stakeholders.com.pe/medio-ambiente/delivery-cero-emisiones-tottus-realiza-sus-repartos-a-domicilio-con-vehiculos-sostenibles/)
-** [Consulta: 28 de marzo del 2024]
+Recuperado de **[Stakeholders](https://stakeholders.com.pe/medio-ambiente/delivery-cero-emisiones-tottus-realiza-sus-repartos-a-domicilio-con-vehiculos-sostenibles/)** [Consulta: 28 de marzo del 2024]
 
 
 ---
