@@ -3228,25 +3228,21 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 La renta de scooters ha emergido como una opción de movilidad urbana cada vez más popular en muchas ciudades del mundo. La implementación del fronted para un servicio de renta de scooters aborda varios aspectos clave para garantizar una experiencia de usuario fluida y eficiente.
 
-- La renta de scooters proporciona una opción de transporte accesible y conveniente para los residentes urbanos y
-  visitantes, permitiéndoles moverse rápidamente por la ciudad sin depender de horarios de transporte público o la
-  necesidad de poseer un vehículo propio.
+- La renta de scooters proporciona una opción de transporte accesible y conveniente para los residentes urbanos y visitantes, permitiéndoles moverse rápidamente por la ciudad sin depender de horarios de transporte público o la necesidad de poseer un vehículo propio.
 
-- Al ofrecer una alternativa al uso de automóviles particulares, la renta de scooters puede contribuir a reducir la
-  congestión del tráfico en las ciudades, aliviando la presión sobre las carreteras y reduciendo los tiempos de viaje.
+- Al ofrecer una alternativa al uso de automóviles particulares, la renta de scooters puede contribuir a reducir la congestión del tráfico en las ciudades, aliviando la presión sobre las carreteras y reduciendo los tiempos de viaje.
 
-- Los scooters eléctricos tienen un menor impacto ambiental en comparación con los vehículos motorizados tradicionales,
-  ya que no emiten gases de escape y funcionan con energía eléctrica, lo que los convierte en una opción más sostenible
-  para el transporte urbano.
+- Los scooters eléctricos tienen un menor impacto ambiental en comparación con los vehículos motorizados tradicionales, ya que no emiten gases de escape y funcionan con energía eléctrica, lo que los convierte en una opción más sostenible para el transporte urbano.
 
-- Aunque los scooters pueden ofrecer una forma eficiente de moverse por la ciudad, también presentan desafíos en
-  términos de seguridad vial. Los accidentes y lesiones relacionados con el uso de scooters son preocupaciones
-  importantes que requieren atención y regulación por parte de las autoridades locales.
+- Aunque los scooters pueden ofrecer una forma eficiente de moverse por la ciudad, también presentan desafíos en términos de seguridad vial. Los accidentes y lesiones relacionados con el uso de scooters son preocupaciones importantes que requieren atención y regulación por parte de las autoridades locales.
 
-- La rápida proliferación de servicios de alquiler de scooters ha planteado desafíos para las ciudades en términos de
-  regulación y gestión del espacio público. Muchas ciudades están implementando políticas y regulaciones para abordar
-  preocupaciones como la seguridad, el estacionamiento y el uso responsable de los scooters.
+Es por ello que para evitar estos porblemas recomendamos:
 
+- Un diseño de frontend intuitivo y fácil de usar para que los usuarios puedan navegar sin problemas por la plataforma.
+
+- Integración de mapas para mostrar la ubicación de los scooters disponibles, así como para proporcionar direcciones a los usuarios para llegar a ellos. 
+
+- Se debe proporcionar un medio para que los usuarios puedan comunicarse con el soporte al cliente en caso de problemas, consultas o comentarios. Esto podría incluir un sistema de tickets, chat en vivo o un número de teléfono de contacto.
 ---
 
 # Bibliografía
