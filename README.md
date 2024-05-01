@@ -3010,7 +3010,7 @@ continuación, se mostrarán las evidencias de los commits:
 
 Implementación del Landing Page acorde con las User Stories.
 
-![sprintbacklog2]()
+![sprintbacklog2](/assets/sprintsbacklogs/sprint2.png)
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
