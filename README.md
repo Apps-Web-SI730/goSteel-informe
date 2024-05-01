@@ -3251,12 +3251,15 @@ Ecobnb. (2022). *Todo lo que tienes que saber sobre los medios de transporte sos
 
 RPP. (2020). *¿La cantidad de autos es el problema en el tráfico de Lima?* Recuperado de **[RPP](https://rpp.pe/lima/actualidad/la-cantidad-de-autos-es-el-problema-en-el-trafico-de-lima-noticia-1248078?ref=rpp)** [Consulta: 28 de marzo del 2024]
 
+Paredro. (2019). *Diseño Web: ¿Cuál es la importancia de una interfaz intuitiva?* Recuperado de **[Paredro](https://www.paredro.com/nterfaz-intuitiva-experiencia-de-usuario/)** [Consulta: 01 de mayo del 2024]
+
 Stakeholders. (2021). *Delivery cero emisiones: Tottus realiza sus repartos a domicilio con vehículos sostenibles.*
 Recuperado de **[Stakeholders](https://stakeholders.com.pe/medio-ambiente/delivery-cero-emisiones-tottus-realiza-sus-repartos-a-domicilio-con-vehiculos-sostenibles/)** [Consulta: 28 de marzo del 2024]
-
 
 ---
 
 # Anexos
 
 **[TB1 Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EV5-l-fRi4lGuuvSpcI40s4BpW2ckILJewAtCe5U2nNAaQ?e=qvHLDx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+**[TB2 Exposición]
