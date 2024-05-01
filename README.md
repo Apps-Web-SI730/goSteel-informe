@@ -3090,9 +3090,9 @@ Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Spr
 Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
 equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
-![pulse]()
-![controbution]()
-![network]()
+![pulse](/assets/insights/pulse-fronttp.png)
+![controbution](/assets/insights/contribution-front.png)
+![network](/assets/insights/front-network.png)
 
 
 # Conclusiones
