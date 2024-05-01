@@ -2299,32 +2299,25 @@ visual, además, se indicará para qué segmento objetivo está diseñado y que 
 
 **Jerárquica:**
 
-- Ubicaciones de Alquiler: Organización por ubicaciones geográficas donde se pueden encontrar scooters disponibles para
-  alquilar.
-- Categorías de Scooters: Clasificación de scooters según su tipo (por ejemplo, eléctricos, de gasolina), tamaño o
-  capacidad.
+- Ubicaciones de Alquiler: Organización por ubicaciones geográficas donde se pueden encontrar scooters disponibles para alquilar.
+- Categorías de Scooters: Clasificación de scooters según su tipo (por ejemplo, eléctricos, de gasolina), tamaño o capacidad.
 - Precios y Tarifas: Agrupación de scooters según sus tarifas de alquiler, como por hora, por día o por semana.
 
 **Secuencial:**
 
-- Proceso de Reserva: Guiar al usuario a través de los pasos necesarios para alquilar un scooter, desde la búsqueda y
-  selección hasta el pago y confirmación de la reserva.
+- Proceso de Reserva: Guiar al usuario a través de los pasos necesarios para alquilar un scooter, desde la búsqueda y selección hasta el pago y confirmación de la reserva.
 
 **Segmento: Empresas de delivery**
 
 **Jerárquica:**
 
-- Marcas y Modelos: Organización por marcas y modelos de scooters disponibles en el mercado, permitiendo a las empresas
-  comparar las opciones disponibles.
-- Especificaciones Técnicas: Clasificación de scooters según sus especificaciones técnicas, como potencia del motor,
-  autonomía y capacidad de carga.
-- Servicios de Mantenimiento: Agrupación de scooters según los servicios de mantenimiento ofrecidos por los proveedores,
-  como garantías y planes de servicio posventa.
+- Marcas y Modelos: Organización por marcas y modelos de scooters disponibles en el mercado, permitiendo a las empresas comparar las opciones disponibles.
+- Especificaciones Técnicas: Clasificación de scooters según sus especificaciones técnicas, como potencia del motor, autonomía y capacidad de carga.
+- Servicios de Mantenimiento: Agrupación de scooters según los servicios de mantenimiento ofrecidos por los proveedores, como garantías y planes de servicio posventa.
 
 **Secuencial:**
 
-- Proceso de Adquisición: Guiar a las empresas a través de los pasos necesarios para adquirir scooters, desde la
-  selección y configuración hasta el proceso de compra y entrega.
+- Proceso de Adquisición: Guiar a las empresas a través de los pasos necesarios para adquirir scooters, desde la selección y configuración hasta el proceso de compra y entrega.
 
 ### 4.2.2. Labeling Systems
 
@@ -2391,8 +2384,7 @@ Lima Metropolitana y empresas de delivery.
 
 **Descripción (Description):**
 
-- ¡Alquila scooters fácilmente en Lima Metropolitana con GoSteel! Descubre una forma rápida y conveniente de moverte por
-  la ciudad.
+- ¡Alquila scooters fácilmente en Lima Metropolitana con GoSteel! Descubre una forma rápida y conveniente de moverte por la ciudad.
 
 **Palabras Clave (Keywords):**
 
@@ -2410,8 +2402,7 @@ Lima Metropolitana y empresas de delivery.
 
 **Descripción (Description):**
 
-- ¡Alquila scooters fácilmente en Lima Metropolitana con la plataforma GoSteel! Descubre una forma rápida y conveniente
-  de moverte por la ciudad.
+- ¡Alquila scooters fácilmente en Lima Metropolitana con la plataforma GoSteel! Descubre una forma rápida y conveniente de moverte por la ciudad.
 
 **Palabras Clave (Keywords):**
 
@@ -2430,18 +2421,14 @@ sistemas, los usuarios podrán encontrar la información que requieran.
 
 **Segmento: Personas que transitan Lima Metropolitana**
 
-- Buscar Scooters: Esta sección le permitirá al usuario buscar scooters mediante el nombre del modelo o marca. Esta
-  sección también cuenta con un filtro que distingue marcas y precio de alquiler.
-- Reservas realizadas: Esta sección le permitirá al usuario buscar dentro de sus scooters reservados mediante el nombre
-  del modelo o de la marca.
-- Scooters Favoritos: Esta sección le permitirá al usuario buscar dentro de sus scooters favoritos mediante el nombre
-  del modelo o de la marca.
+- Buscar Scooters: Esta sección le permitirá al usuario buscar scooters mediante el nombre del modelo o marca. Esta sección también cuenta con un filtro que distingue marcas y precio de alquiler.
+- Reservas realizadas: Esta sección le permitirá al usuario buscar dentro de sus scooters reservados mediante el nombre del modelo o de la marca.
+- Scooters Favoritos: Esta sección le permitirá al usuario buscar dentro de sus scooters favoritos mediante el nombre del modelo o de la marca.
 
 **Segmento: Empresas delivery**
 
 - Buscar Scooters: Esta sección le permitirá al usuario buscar los scooters disponibles para su empresa.
-- Buscar Scooters dentro de flota: Esta sección le permitirá al usuario buscar scooters mediante el nombre del modelo o
-  marca, dentro de los que se encuentran en su flota.
+- Buscar Scooters dentro de flota: Esta sección le permitirá al usuario buscar scooters mediante el nombre del modelo o marca, dentro de los que se encuentran en su flota.
 
 ### 4.2.5. Navigation Systems
 
@@ -2470,7 +2457,7 @@ Information Architecture) establecidas en los al inicio de este capítulo.
 Para mayor
 visualización: [Landing Page](https://www.figma.com/file/tuAbwsUKZRYtAbqHKbDQEM/Untitled?type=design&node-id=0%3A1&mode=design&t=MIUAZs4lJc8338Gn-1)
 
-![landingpageuidesign](assets/landingpage/landingpageuidesign.png)
+![landingpageuidesign](/assets/landingpage/landing-page-ui.png)
 
 ### 4.3.1. Landing Page Wireframe
 
@@ -2498,21 +2485,21 @@ En la parte de Header tenemos la frase: *"Inicia tu aventura sobre ruedas"* para
 visiten nuestro landing page y también se hace visualización de los botones *call-to-action* tanto para iniciar sesión
 como descargar la aplicación.
 
-![header mock-up](assets/landingpage/headermockup.png)
+![header mock-up](/assets/landingpage/header-mockup.png)
 
 > **Body**
 
 - **Features:** Explicación de las característica que nuestra aplicación ofrece
 
-![features](assets/landingpage/feature.png)
+![features](/assets/landingpage/features.png)
 
 - Segundo **call-to-action**, enfocado a nuestro segundo segmento objetivo, empresario.
 
-![second-call-to-action](assets/landingpage/scta.png)
+![second-call-to-action](/assets/landingpage/secondcta.png)
 
 - Los tipos de scooters que ofrecemos
 
-![scooters](assets/landingpage/scooters.png)
+![scooters](/assets/landingpage/type-scooters.png)
 
 - Descripción de nuetsra empresa emergente, *startup*
 
@@ -2535,7 +2522,7 @@ como descargar la aplicación.
 Descripción de neustro *startup*, demostración de nuestros links dentro de nuestro landing, la presentación de nuestras
 redes, políticas de privacidad, términos y condiciones.
 
-![footer](assets/landingpage/footer.png)
+![footer](/assets/landingpage/footer-new.png)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -2804,71 +2791,43 @@ Para el desarrollo del landing page, se decidió con el equipo usar HTML, CSS y 
 diversas herramientas tecnológicas de las cuales el equipo ya está acostumbrado y tienen un cierto dominio. Estas
 herramientos son las siguientes:
 
-- Visual Studio Code: Es un editor de código gratuito, moderno y potente gracias a que cuenta con varias funciones y
-  extensiones para trabajar con cualquier lenguaje de programación. Además es bastante conocida por todos los
-  integrantes del equipo y debido a ello se decidió trabajar con Visual Studio Code. Para la instalación del programa,
-  se puede conseguir desde su página web oficial: una vez descargado se puede proceder con la instalación de forma
-  rápida y fácil.
+- Visual Studio Code: Es un editor de código gratuito, moderno y potente gracias a que cuenta con varias funciones y extensiones para trabajar con cualquier lenguaje de programación. Además es bastante conocida por todos los integrantes del equipo y debido a ello se decidió trabajar con Visual Studio Code. Para la instalación del programa, se puede conseguir desde su página web oficial: una vez descargado se puede proceder con la instalación de forma rápida y fácil.
 
-- Git y Github: Se usaron estas herramientas por la razón de que hoy en día es un estándar usar Git para el control de
-  versiones de software y se eligió GitHub por ser la plataforma más popular y fácil de usar para crear y manejar
-  repositorios, tener funciones para ver cambios, commits, pull request, entre otros. El enlace de descarga del
-  instalador de GitHub Desktop es
+- Git y Github: Se usaron estas herramientas por la razón de que hoy en día es un estándar usar Git para el control de versiones de software y se eligió GitHub por ser la plataforma más popular y fácil de usar para crear y manejar repositorios, tener funciones para ver cambios, commits, pull request, entre otros. El enlace de descarga del instalador de GitHub Desktop es
 
-- Live Server: Finalmente, para acelerar el desarrollo del landing page, se usó esta extensión que sirve para visualizar
-  los cambios inmediatamente después de alguna modificación en el código así se evita estar recargando la página, lo
-  cual es un ahorro de tiempo y comodidad al desarrollar.
+- Live Server: Finalmente, para acelerar el desarrollo del landing page, se usó esta extensión que sirve para visualizar los cambios inmediatamente después de alguna modificación en el código así se evita estar recargando la página, lo cual es un ahorro de tiempo y comodidad al desarrollar.
 
-- Discord: Aunque originalmente se diseñó como una plataforma de comunicación para gamers, Discord también se utiliza
-  para diseñar y crear comunidades en línea y mejorar la experiencia de usuario a través de la comunicación y
-  colaboración en grupos.
+- Discord: Aunque originalmente se diseñó como una plataforma de comunicación para gamers, Discord también se utiliza para diseñar y crear comunidades en línea y mejorar la experiencia de usuario a través de la comunicación y colaboración en grupos.
 
-- WhatsApp: WhatsApp es una aplicación de mensajería instantánea que se utiliza para la comunicación en tiempo real.
-  Aunque no es una herramienta de gestión de proyectos, se puede usar para mantenerse en contacto con miembros del
-  equipo y colaborar en cierta medida.
+- WhatsApp: WhatsApp es una aplicación de mensajería instantánea que se utiliza para la comunicación en tiempo real. Aunque no es una herramienta de gestión de proyectos, se puede usar para mantenerse en contacto con miembros del equipo y colaborar en cierta medida.
 
 **Requirements Management:**
 
-- Miro: Miro es una plataforma de pizarra en línea que se utiliza para colaborar en la ideación, planificación y diseño
-  de proyectos. Es especialmente útil para la colaboración visual, como la creación de mapas mentales, diagramas y
-  prototipos.
+- Miro: Miro es una plataforma de pizarra en línea que se utiliza para colaborar en la ideación, planificación y diseño de proyectos. Es especialmente útil para la colaboración visual, como la creación de mapas mentales, diagramas y prototipos.
 
-- Google Docs: Google Docs es una suite de aplicaciones de procesamiento de texto, hojas de cálculo y presentaciones en
-  línea. Aunque no es específicamente una herramienta de gestión de requisitos, se puede utilizar para documentar y
-  colaborar en la definición y seguimiento de requisitos de proyectos.
+- Google Docs: Google Docs es una suite de aplicaciones de procesamiento de texto, hojas de cálculo y presentaciones en línea. Aunque no es específicamente una herramienta de gestión de requisitos, se puede utilizar para documentar y colaborar en la definición y seguimiento de requisitos de proyectos.
 
 **Product UX/UI Design:**
 
-- Figma: Figma es una herramienta de diseño de interfaz de usuario (UI) y experiencia de usuario (UX) basada en la nube.
-  Se utiliza para crear prototipos interactivos, diseños de aplicaciones y colaboración en tiempo real en proyectos de
-  diseño.
+- Figma: Figma es una herramienta de diseño de interfaz de usuario (UI) y experiencia de usuario (UX) basada en la nube. Se utiliza para crear prototipos interactivos, diseños de aplicaciones y colaboración en tiempo real en proyectos de diseño.
 
-- UXPressia: UXPressia es una herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de
-  clientes y otros elementos relacionados con el diseño de UX. Ayuda a visualizar y comprender la experiencia del
-  usuario en un producto o servicio.
+- UXPressia: UXPressia es una herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. Ayuda a visualizar y comprender la experiencia del usuario en un producto o servicio.
 
-- LucidChart: es una herramienta para crear diagramas de clases, flujo y entre otros, de manera facil e intuitiva. Nos
-  va a servir para hacer los user flows y el diagrama de clases para el proyecto.
+- LucidChart: es una herramienta para crear diagramas de clases, flujo y entre otros, de manera facil e intuitiva. Nos va a servir para hacer los user flows y el diagrama de clases para el proyecto.
 
 **Software Development:**
 
-- Visual Studio Code: Visual Studio Code es un editor de código fuente altamente configurable y ampliable. Se utiliza
-  principalmente para la codificación, depuración y desarrollo de software en varios lenguajes de programación.
+- Visual Studio Code: Visual Studio Code es un editor de código fuente altamente configurable y ampliable. Se utiliza principalmente para la codificación, depuración y desarrollo de software en varios lenguajes de programación.
 
-- Git: Git es un sistema de control de versiones distribuido. Es una tecnología esencial para el desarrollo de software
-  y se usa para rastrear cambios en el código fuente y facilitar la colaboración entre programadores.
+- Git: Git es un sistema de control de versiones distribuido. Es una tecnología esencial para el desarrollo de software y se usa para rastrear cambios en el código fuente y facilitar la colaboración entre programadores.
 
 **Software Documentation:**
 
-- GitHub: GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se
-  utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre
-  desarrolladores.
+- GitHub: GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
 
 **Software Testing:**
 
-- Lenguaje Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de
-  aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como
-  Cucumber, para automatizar pruebas funcionales.
+- Lenguaje Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como Cucumber, para automatizar pruebas funcionales.
 
 ### 5.1.2. Source Code Management
 
@@ -2885,78 +2844,54 @@ Organizacion: [Apps Web SI730](https://github.com/upc-2023-GreatMinds-SW51-Web)
 A continuación, se darán a conocer las convenciones, formatos, estilos y entre otras propiedades de los lenguajes
 trabajados en la presente solución las cuales son: HTML, CSS y JavaScript:
 
-- HTML: Se hará uso de la guía “HTML Style Guide and Coding” de la página W3Schools, la cual menciona las convenciones y
-  estándares de este lenguaje de etiquetas. Hemos considerado las siguientes como las más importantes:
+- HTML: Se hará uso de la guía “HTML Style Guide and Coding” de la página W3Schools, la cual menciona las convenciones y estándares de este lenguaje de etiquetas. Hemos considerado las siguientes como las más importantes:
 
 - Declarar siempre el tipo documento: Es decir, colocar siempre la etiqueta en la primera línea del código.
 
-- Utilizar el nombre de las etiquetas y sus atributos en minúscula: Por un tema de estética y orden del código para que
-  este se vea más limpio y sea más fácil de escribir.
+- Utilizar el nombre de las etiquetas y sus atributos en minúscula: Por un tema de estética y orden del código para que este se vea más limpio y sea más fácil de escribir.
 
 - Cerrar todas las etiquetas: Esto evita futuros problemas o errores de sintaxis.
 
-- Siempre coloca comillas para los valores de los atributos de las etiquetas: De esta forma los valores son más fáciles
-  de leer y se deben utilizar obligatoriamente si este contiene espacios.
+- Siempre coloca comillas para los valores de los atributos de las etiquetas: De esta forma los valores son más fáciles de leer y se deben utilizar obligatoriamente si este contiene espacios.
 
-- Especificar siempre los atributos alt, width y height para las imágenes: Es importante en caso de que la imagen no se
-  pueda mostrar por algún motivo y también ayuda con el tema de la accesibilidad de los usuarios.
+- Especificar siempre los atributos alt, width y height para las imágenes: Es importante en caso de que la imagen no se pueda mostrar por algún motivo y también ayuda con el tema de la accesibilidad de los usuarios.
 
-- No omitir la etiqueta ni los metadatos: Estas etiquetas son importantes para la optimización de motores de búsqueda (
-  SEO).
+- No omitir la etiqueta ni los metadatos: Estas etiquetas son importantes para la optimización de motores de búsqueda (SEO).
 
 CSS: Se siguió la guía “Google HTML/CSS Style Guide” donde se indican las convenciones, reglas y buenas prácticas para
 este lenguaje. Hemos considerado las siguientes recomendaciones como las más destacadas:
 
-- Nombre de clases: Se recomienda usar nombres generales para las clases, no deben ser específicas por la razón de que
-  deben comportarse como padres.
+- Nombre de clases: Se recomienda usar nombres generales para las clases, no deben ser específicas por la razón de que deben comportarse como padres.
 
-- Usar nombres de clase cortos: Se recomienda utilizar nombres de clase que sean cortos y descriptivos, para transmitir
-  la idea de lo que representa de manera concisa.
+- Usar nombres de clase cortos: Se recomienda utilizar nombres de clase que sean cortos y descriptivos, para transmitir la idea de lo que representa de manera concisa.
 
-- Usar delimitadores de nombres de clase adecuados: Se debe de separar las palabras en los nombres de clase con solo
-  guiones.
+- Usar delimitadores de nombres de clase adecuados: Se debe de separar las palabras en los nombres de clase con solo guiones.
 
-- Evitar los selectores de ID: No se recomienda implementar este tipo de selectores, por la razón de que estos deben ser
-  únicos en toda la página y en proyectos grandes que tengan muchos componentes es difícil de garantizar esa unicidad,
-  es preferible usar selectores de clase.
+- Evitar los selectores de ID: No se recomienda implementar este tipo de selectores, por la razón de que estos deben ser únicos en toda la página y en proyectos grandes que tengan muchos componentes es difícil de garantizar esa unicidad, es preferible usar selectores de clase.
 
-- Usar propiedades abreviadas: Es muy recomendable usar propiedades que soporten ser declarados de forma abreviada (por
-  ejemplo, la propiedad padding, margin, border, etc.) por la razón de que reduce de forma significativa la cantidad de
-  líneas de código, y es más legible para el programador o diseñador.
+- Usar propiedades abreviadas: Es muy recomendable usar propiedades que soporten ser declarados de forma abreviada (por ejemplo, la propiedad padding, margin, border, etc.) por la razón de que reduce de forma significativa la cantidad de líneas de código, y es más legible para el programador o diseñador.
 
-- JavaScript: Se consideró importante seguir una guía de buenas prácticas para un mejor desarrollo del código, para este
-  caso se eligió la guía de la wiki “JavaScript best practices“ del World Wide Web (W3C). Lo cual se destaca lo
-  siguiente:
+- JavaScript: Se consideró importante seguir una guía de buenas prácticas para un mejor desarrollo del código, para este caso se eligió la guía de la wiki “JavaScript best practices“ del World Wide Web (W3C). Lo cual se destaca lo siguiente:
 
-- Usar nombres cortos y fáciles de leer: Es recomendable nombrar adecuadamente las variables, clases, funciones y otros
-  elementos para que sea más sencillo de leer y comprender.
+- Usar nombres cortos y fáciles de leer: Es recomendable nombrar adecuadamente las variables, clases, funciones y otros elementos para que sea más sencillo de leer y comprender.
 
-- Evitar el uso de variables globales (keyword “var”): No se recomienda el uso de este tipo de variables en un proyecto,
-  porque pueden generar muchos errores a medida que el proyecto crece y estas pueden sobrescribirse fácilmente afectando
-  el valor y se pueden declarar otros elementos como funciones con el mismo nombre de la variable y generar errores.
+- Evitar el uso de variables globales (keyword “var”): No se recomienda el uso de este tipo de variables en un proyecto,porque pueden generar muchos errores a medida que el proyecto crece y estas pueden sobrescribirse fácilmente afectando el valor y se pueden declarar otros elementos como funciones con el mismo nombre de la variable y generar errores.
 
-- Comentar y documentar lo necesario: Se recomienda comentar líneas de código que son complejos de entender a simple
-  vista explicando o dejando mensajes para que otros programadores lo entiendan.
+- Comentar y documentar lo necesario: Se recomienda comentar líneas de código que son complejos de entender a simple vista explicando o dejando mensajes para que otros programadores lo entiendan.
 
-- Usar notaciones sencillas de entender: Javascript cuenta con diversas notaciones y operadores para crear o modificar
-  ciertas estructuras de datos como objetos, arrays, selectivas, etc.
+- Usar notaciones sencillas de entender: Javascript cuenta con diversas notaciones y operadores para crear o modificar ciertas estructuras de datos como objetos, arrays, selectivas, etc.
 
 Gherkin: Se consideró conveniente usar la guía y convenciones que se mencionan en “Gherkin Conventions for Readable
 Specifications” para una correcta realización de las pruebas. A continuación, se mencionan los puntos que consideramos
 más importantes para nuestro trabajo:
 
-- Los bloques “Give-When-Then” deben ser diferenciados: Se recomienda usar una correcta indentación de esos bloques para
-  identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos
-  y otro bloque.
+- Los bloques “Give-When-Then” deben ser diferenciados: Se recomienda usar una correcta indentación de esos bloques para identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos y otro bloque.
 
-- Usar tablas para los pasos: Si uno de los pasos requiere de más información es recomendable usar tablas para organizar
-  dicha información y tenga un aspecto más ordenado.
+- Usar tablas para los pasos: Si uno de los pasos requiere de más información es recomendable usar tablas para organizar dicha información y tenga un aspecto más ordenado.
 
-- Usar comillas simples para los parámetros: Se recomienda esta práctica para una mejor legibilidad de los parámetros en
-  un paso y tener una sintaxis más simple.
+- Usar comillas simples para los parámetros: Se recomienda esta práctica para una mejor legibilidad de los parámetros en un paso y tener una sintaxis más simple.
 
-- Separar los escenarios con comentarios: Si se da el caso de tener muchos escenarios en una prueba, es usar los
-  comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
+- Separar los escenarios con comentarios: Si se da el caso de tener muchos escenarios en una prueba, es usar los comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
 
 En resumen, las convenciones o estilos de programación, se seguirá la guía de estilos de Google para programar en HTML (
 Google HTML), CSS (CSS Style Guide) y JavaScript (JS) en el caso de la landing page. En el caso de la implementación del
@@ -3048,9 +2983,9 @@ equipo previamente, para ello, se realizaron primero los styles en un archivo ap
 se desarrolló el index.html. De esta manera, el desarrollo de la landing page fue organizada y eficiente. A
 continuación, se mostrarán las evidencias de los commits:
 
-![pulse](assets/pulse.png)
-![controbution](assets/contri.png)
-![network](assets/network.png)
+![pulse](/assets/insights/pulse-landingpage.png)
+![controbution](/assets/insights/contri-landingpage.png)
+![network](/assets/insights/network-landingpage.png)
 
 ### 5.2.2. Sprint 2
 
