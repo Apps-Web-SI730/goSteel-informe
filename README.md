@@ -3038,9 +3038,9 @@ Implementación del Landing Page acorde con las User Stories.
 
 En este apartado se hace presenta la ejecución del frontend del servicio FastScooter.
 
-**[Link del video]()**
+**[Link del fronted](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
 
-![imagen fronted]()
+![imagen fronted](/assets/front-deployment.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
