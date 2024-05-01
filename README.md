@@ -3116,7 +3116,7 @@ continuación, se mostrarán las evidencias de los commits:
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.1.1. Sprint Planning 2
+#### 5.2.2.1. Sprint Planning 2
 
 | Sprint #                         | 2                                                                                                                                                                            | 
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
@@ -3133,11 +3133,23 @@ continuación, se mostrarán las evidencias de los commits:
 | Sprint 2 - Velocity              | El equipo puede aceptar 30 Story Points                                                                                                                                      |
 | Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 22 Story Points                                                                                                       |
 
-#### 5.2.1.2. Sprint Backlog 2
+#### 5.2.2.2. Sprint Backlog 2
 
 Implementación del Landing Page acorde con las User Stories.
 
 ![sprintbacklog2](/assets/sprintsbacklogs/sprintbacklog1.png)
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
+| goSteel-Frontend | develop | f0553f6   | chore: DDD architecture | -                   | 30/04/2024         |
+| goSteel-Frontend | develop | 9108a10   | fix: router rendering pages      | -                   | 30/04/2024         |
+| goSteel-Frontend | develop | 207b7e6   | feat: update various components    | -                   | 30/04/2024         |
+| goSteel-Frontend | develop | c5fe5c6   | chore: files to work on              | -                   | 30/04/2024         |
+| goSteel-Frontend | develop | 284d251   | feat: scooter-purchase and update routes      | -                   | 01/05/2024         |
+| goSteel-Frontend | develop | e327ad4   | chore: add .component to some files      | -                   | 01/05/2024         |
+
 
 
 # Conclusiones
