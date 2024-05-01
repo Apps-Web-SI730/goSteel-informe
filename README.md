@@ -81,6 +81,12 @@ Junio del 2024
             <td>Todos los integrantes del grupo</td>
             <td>Se realizaron todos los puntos correspondientes a solution profile, startup profile y antecedentes y problemáticas, segmentos objetivos, General Style Guidelines, Wireframes, Mockups y sus respectivos wireflows y userflows. Diagramas C4, diagramas de clases, desplegue del landing page.</td>
 		</tr>
+        <tr>
+			<td>2.00</td>
+            <td>01/05/2024</td>
+            <td>Sharon Antuanet Ivet Barrial Marin</td>
+            <td>Se realizaron todos los puntos correspondientes a las correcciones General Style Guidelines, Wireframes, Mockups, diagramas C4, diagramas de clases, diagrama de base de datos, codigo del landing page, desplegue del landing page. Además del desplegue del fronted y el desarrollo de su procedimiento.</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -105,6 +111,20 @@ correspondiente a la Landing Page
 ![alt text](assets/contris.png)
 ![alt text](assets/n2.png)
 
+TP: Se han desarrollado las actividades correspondientes para la entrega TP en el siguiente repositorio de Guthub dentro de la organización del equipo: Link de repositorio Github: (https://github.com/Apps-Web-SI730/goSteel-informe.git)
+
+Para la elaboración del informe se realizaron actividades tales como:
+
+Corregir las observaciones brindadas, tales como: mejorar el diagrama de componentes por bounded context, mejorar las nomenclaturas dentro del modelo de diagrama de clases y la armonía con la base de datos.
+Planificar el alcance y objetivo del Sprint 2
+Realizar el sprint backlog 2 para lograr el objetivo de implementar frontend
+Organizar el repositorio del informe por branches de capítulos
+Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+
+![pulse](/assets/insights/tp-pulse.png)
+![contributions](/assets/insights/tp-contri.png)
+![network](assets/n2.png)
+
 ---
 
 # Student Outcome
@@ -118,8 +138,8 @@ permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcom
 
 | Criterio específico                                                                                                                                  | Acciones realizadas                                                                                     | Conclusiones                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Barrial Marin, Sharon Antuanet Ivet** <br> ***TB1:*** Resolución de los segmentos objetivos, antecedentes y problemática, diseño de entrevistas para el segmento objetivo de empresarios, registro de entrevista, análisis de entrevista. <br><br> **Huachaca Advincula Scott Jacobo** <br> ***TB1:*** Lean UX Assumptions, Entrevista y Registro de Entrevista para Dueños de una Empresa de Delivery.<br><br>  **Josue Omar,Hidalgo Bustamante** <br> ***TB1:*** La identificación de los segmentos objetivo, la contextualización histórica y la descripción de los problemas existentes, junto con la elaboración de cuestionarios para entrevistar a empresarios específicos, el registro detallado de estas entrevistas, y el análisis de las respuestas para encontrar patrones comunes y soluciones potenciales, son pasos esenciales en este proceso.<br><br> **Minaya Mundines Pietro Gerardo** <br> ***TB1:*** Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetiv 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page<br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.  <br><br>                                                                                                                                                | ***TB1:*** Se ha evidenciado una fuerte capacidad de comunicación oral en el desarrollo de nuestro proyecto de ingeniería. Cada uno de los integrantes ha participado activamente en la exposición grupal y presentación del TB1, así como en entrevistas a nuestros segmentos específicos de usuarios. También hemos contribuido en la definición y propuesta del tema del proyecto, en la participación en el Sprint Planning I, en la preparación de ceremonias del sprint y en la creación de materiales visuales. Hemos utilizado una comunicación objetiva y adaptada a diferentes audiencias de especialidades y niveles jerárquicos, asegurando la claridad y la efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra habilidad para comunicarnos efectivamente ha sido clave en el éxito del proyecto y en la cumplimiento del criterio correspondiente del Student Outcome 5 establecido. <br><br> | 
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.  | ***Barrial Marin Sharon Antuanet Ivet*** <br> ***TB1:*** User tax matrix, user stories, product backlog, style guidelines, landing page wireframe, landing page mock-up, class diagrams, class dictionary, codificación del landing page. <br><br> ***Huachaca Advincula Scott Jacobo*** <br> ***TB1:*** Empaty Mapping, As-is Scenario Mapping, To-be Scenario Mapping, User Stories, Organization Systems, Web Applications Wireflow Diagrams, Database Diagram. <br><br> ***Hidalgo Bustamante Josue Omar*** <br> ***TB1:*** Lean UX Process, User Personas,User Journey Mapping,Impact Mapping,Labeling Systems,Web Applications Mock-ups,User Stories, Entrevistas ,Web Applications Prototyping. <br><br> ***Minaya Mundines Pietro Gerardo*** <br> ***TB1:*** Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page . <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.  <br><br>            | ***TB1:*** Cada uno de los integrantes ha contribuido en la redacción de diferentes secciones del trabajo, como los capítulos I - V, que abarcan artefactos como User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. También se ha trabajado en la elaboración de la presentación en formato de archivo .pptx. La comunicación escrita ha sido realizada con objetividad y dirigida a audiencias de diferentes especialidades y niveles jerárquicos, garantizando la claridad y efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra capacidad en conocimiento de al menos un dominio ha sido un elemento clave en el desarrollo exitoso del proyecto y en el cumplimiento del Student Outcome 5 establecido. <br><br>   |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Barrial Marin, Sharon Antuanet Ivet** <br> ***TB1:*** Resolución de los segmentos objetivos, antecedentes y problemática, diseño de entrevistas para el segmento objetivo de empresarios, registro de entrevista, análisis de entrevista.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features.<br><br> **Huachaca Advincula Scott Jacobo** <br> ***TB1:*** Lean UX Assumptions, Entrevista y Registro de Entrevista para Dueños de una Empresa de Delivery.<br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” <br><br>  **Josue Omar,Hidalgo Bustamante** <br> ***TB1:*** La identificación de los segmentos objetivo, la contextualización histórica y la descripción de los problemas existentes, junto con la elaboración de cuestionarios para entrevistar a empresarios específicos, el registro detallado de estas entrevistas, y el análisis de las respuestas para encontrar patrones comunes y soluciones potenciales, son pasos esenciales en este proceso. ***TP:*** En el contexto de la entrega parcial, se resaltan como pasos esenciales la implementación de la Page/scooter-add, la addicción de dos entrevistas para ambos segmentos, así como la actualización y corrección del capítulo 1. <br><br> **Minaya Mundines Pietro Gerardo** <br> ***TB1:*** Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetiv 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto. <br> ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br><br>                                                                                                                                                | ***TB1:*** Se ha evidenciado una fuerte capacidad de comunicación oral en el desarrollo de nuestro proyecto de ingeniería. Cada uno de los integrantes ha participado activamente en la exposición grupal y presentación del TB1, así como en entrevistas a nuestros segmentos específicos de usuarios. También hemos contribuido en la definición y propuesta del tema del proyecto, en la participación en el Sprint Planning I, en la preparación de ceremonias del sprint y en la creación de materiales visuales. Hemos utilizado una comunicación objetiva y adaptada a diferentes audiencias de especialidades y niveles jerárquicos, asegurando la claridad y la efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra habilidad para comunicarnos efectivamente ha sido clave en el éxito del proyecto y en la cumplimiento del criterio correspondiente del Student Outcome 5 establecido. <br> ***TP*** Durante el desarrollo de nuestro proyecto de ingeniería todos los miembros del equipo han participado activamente tanto en la corrección de los errores para la TP como en la corrección de las entrevistas con nuestros segmentos específicos de usuarios. Asimismo, del diagrama de clases y la base de datos.  <br><br> | 
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.  | ***Barrial Marin Sharon Antuanet Ivet*** <br> ***TB1:*** User tax matrix, user stories, product backlog, style guidelines, landing page wireframe, landing page mock-up, class diagrams, class dictionary, codificación del landing page.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features. <br><br> ***Huachaca Advincula Scott Jacobo*** <br> ***TB1:*** Empaty Mapping, As-is Scenario Mapping, To-be Scenario Mapping, User Stories, Organization Systems, Web Applications Wireflow Diagrams, Database Diagram. <br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” <br><br> ***Hidalgo Bustamante Josue Omar*** <br> ***TB1:*** Lean UX Process, User Personas,User Journey Mapping,Impact Mapping,Labeling Systems,Web Applications Mock-ups,User Stories, Entrevistas ,Web Applications Prototyping. <br> ***TP:*** Para la entrega del trabajo Parcial, es fundamental tener conocimientos en al menos un sector empresarial o dominio de aplicación de soluciones de software. <br><br> ***Minaya Mundines Pietro Gerardo*** <br> ***TB1:*** Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page . <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure  <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.  ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br><br>            | ***TB1:*** Cada uno de los integrantes ha contribuido en la redacción de diferentes secciones del trabajo, como los capítulos I - V, que abarcan artefactos como User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. También se ha trabajado en la elaboración de la presentación en formato de archivo .pptx. La comunicación escrita ha sido realizada con objetividad y dirigida a audiencias de diferentes especialidades y niveles jerárquicos, garantizando la claridad y efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra capacidad en conocimiento de al menos un dominio ha sido un elemento clave en el desarrollo exitoso del proyecto y en el cumplimiento del Student Outcome 5 establecido. <br> ***TP:*** Se ha actualizado los artefactos desde el capítulos I hasta el V, que incluyen elementos como el User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. Además, hemos colaborado en la creación de la presentación en formato de archivo .pptx. Nuestra comunicación escrita ha sido precisa y dirigida a audiencias con diferentes niveles de especialización y jerarquía, asegurando la claridad y eficacia en la transmisión de nuestras ideas y resultados. En resumen, nuestra capacidad en al menos un área de conocimiento ha sido fundamental en el éxito del proyecto y en el logro del Student Outcome 5 establecido. <br><br>   |
 
 ---
 
@@ -2902,7 +2922,7 @@ Para el almacenamiento y control de versiones de código se utilizará GIT gesti
 GitHub aplicando GitFlow Workflow, Conventional Commits y Semantic Versioning. Además, todos los hotfixes se realizan en
 ella, para así poder tener los arreglos desplegados de forma automática.
 
-![Network-Graph](assets/network.png)
+![Network-Graph](/assets/insights/network-landingpage.png)
 
 El lenguaje de diseño de Landing Page y Web Applications estará basado en Material Design. Como biblioteca de
 componentes de UI se utilizará PrimeVue.
@@ -3056,34 +3076,32 @@ Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a cont
 
 Ejecutamos el comando “npm run dev” en la ruta de nuestro projecto en VUE y esta acción nos muestra lo siguiente:
 
-![Imagen de terminal local del proyecto]()
+![Imagen de terminal local del proyecto](/assets/front/npm%20run%20dev.jpg)
 
-Se genera la carpeta src:
+Muestra de las carpetas creadas:
 
-![Imagen de carpeta local src del proyecto]()
+![Imagen de carpeta local src del proyecto](/assets/front/carpetascreadas.jpg)
 
 Se añade el archivo “ ” para que VUE pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
 
-![Imagen de las rutas]()
+![Imagen de las rutas](/assets/front/rutas.jpg)
+![Imagen de las rutas](/assets/front/rutas2.jpg)
+![Imagen de las rutas](/assets/front/rutas3.jpg)
 
 Por último, usamos el comando “npm run format” al proyecto que nos permite desplegar nuestra aplicación manualmente para evitar errores:
 
-![Imagen del comando en la terminal]()
+![Imagen del comando en la terminal](/assets/front/npmrunformat.jpg)
 
-Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
+Nuestro despliegue se ha hecho en Microsoft Azure:
 
-![Paso para desplegar]()
+![Paso para desplegar](/assets/front/microsoft-azure.jpg)
 
 De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
-![Imagen del despliegue]()
+![Imagen del despliegue](/assets/front/despliegue.jpg)
 
-Adicionalmente se usó JSONPlaceholder para levantar el archivo db.json para no depender de localhost:
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint2:
 
-[Link del frontend desplegado]()
-
-Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Sprint2:
-
-[Link del frontend desplegado]()
+[Link del frontend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -3135,4 +3153,4 @@ Recuperado de **[Stakeholders](https://stakeholders.com.pe/medio-ambiente/delive
 
 **[TB1 Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EV5-l-fRi4lGuuvSpcI40s4BpW2ckILJewAtCe5U2nNAaQ?e=qvHLDx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
 
-**[TB2 Exposición]
+**[TB2 Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EWf0atsMo3xGgsvQ8v9WWW8BT6CngTxdN07i6DnuUG8D1g?e=hccc2I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
