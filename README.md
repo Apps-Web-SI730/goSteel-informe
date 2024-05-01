@@ -269,19 +269,11 @@ sostenibilidad a largo plazo.
 
 <ins>**Valores:**</ins>
 
-1. **Sostenibilidad Ambiental:** Nos comprometemos a promover prácticas de movilidad sostenibles y respetuosas con el
-   medio ambiente, contribuyendo activamente a la reducción de emisiones de carbono y la preservación de recursos
-   naturales.
-2. **Innovación Tecnológica:** Buscamos constantemente innovar y mejorar nuestros servicios, aprovechando tecnologías
-   avanzadas para ofrecer una experiencia de movilidad eficiente, segura y conveniente.
-3. **Excelencia en el Servicio al Cliente: ** Priorizamos la satisfacción y el éxito de nuestros clientes, brindándoles
-   un servicio de alta calidad, atención personalizada y soluciones adaptadas a sus necesidades específicas.
-4. **Transparencia y Confianza:** Actuamos con integridad y transparencia en todas nuestras operaciones, estableciendo
-   relaciones de confianza y colaboración tanto con nuestros clientes como con nuestros colaboradores y socios
-   comerciales.
-5. **Responsabilidad Social Corporativa:** Nos comprometemos a ser agentes de cambio positivo en nuestras comunidades,
-   apoyando iniciativas sociales y ambientales que contribuyan al bienestar y desarrollo sostenible de la sociedad en su
-   conjunto.
+1. **Sostenibilidad Ambiental:** Nos comprometemos a promover prácticas de movilidad sostenibles y respetuosas con el medio ambiente, contribuyendo activamente a la reducción de emisiones de carbono y la preservación de recursos naturales.
+2. **Innovación Tecnológica:** Buscamos constantemente innovar y mejorar nuestros servicios, aprovechando tecnologías avanzadas para ofrecer una experiencia de movilidad eficiente, segura y conveniente.
+3. **Excelencia en el Servicio al Cliente:** Priorizamos la satisfacción y el éxito de nuestros clientes, brindándoles un servicio de alta calidad, atención personalizada y soluciones adaptadas a sus necesidades específicas.
+4. **Transparencia y Confianza:** Actuamos con integridad y transparencia en todas nuestras operaciones, estableciendo relaciones de confianza y colaboración tanto con nuestros clientes como con nuestros colaboradores y socios comerciales.
+5. **Responsabilidad Social Corporativa:** Nos comprometemos a ser agentes de cambio positivo en nuestras comunidades apoyando iniciativas sociales y ambientales que contribuyan al bienestar y desarrollo sostenible de la sociedad en su conjunto.
 
 Con FastScooter, en GoSteel estamos comprometidos a proporcionar a las transeuntes una solución de movilidad ágil,
 eficiente y ecológica que les permita optimizar sus rutas y promover un futuro más sostenible para todos.
@@ -380,12 +372,9 @@ sesión en nuestra aplicación y alquile un scooter.
 
 **Why?**
 
-- **Antecedentes:** El uso de automóviles que emiten gas de carbono es conocido por su impacto ambiental negativo debido
-  a la producción masiva de sus componentes en fábricas y al uso cotidiano como transporte.
+- **Antecedentes:** El uso de automóviles que emiten gas de carbono es conocido por su impacto ambiental negativo debido a la producción masiva de sus componentes en fábricas y al uso cotidiano como transporte.
 
-- **Problemática:** La renta de scooters busca abordar la problemática de la carencia de transportes ágiles y
-  eco-friendly, reduciendo el uso de trasnportes que tanto en su producción como en su uso final, generan mucho impacto
-  negativo en nuestro medio ambiente
+- **Problemática:** La renta de scooters busca abordar la problemática de la carencia de transportes ágiles y eco-friendly, reduciendo el uso de trasnportes que tanto en su producción como en su uso final, generan mucho impacto negativo en nuestro medio ambiente
 
 **How?**
 
@@ -438,37 +427,24 @@ Impacto de la contaminación en la salud y economia:
 * Los usuarios prefieren opciones de movilidad ágil y económica para desplazarse
 * Los usuarios buscan opciones de movilidad que no solo sean ágiles y económicas, sino también seguras y confiables.
 * Los proveedores de scooters están dispuestos a participar en una plataforma centralizada de alquiler de scooters.
-* Los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido a su
-  conveniencia y accesibilidad.
-* Existe una preocupación creciente por la congestión del tráfico y la contaminación en áreas urbanas, lo que aumenta la
-  demanda de opciones de movilidad sostenible como el alquiler de scooters.
-* La transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre los usuarios
-  de la aplicación de alquiler de scooters.
-* Los usuarios valoran la flexibilidad en el modelo de alquiler, preferiendo opciones que se adapten a diferentes
-  necesidades, como tarifas por minuto, planes de suscripción o paquetes de uso diario/semanal
+* Los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido a su conveniencia y accesibilidad.
+* Existe una preocupación creciente por la congestión del tráfico y la contaminación en áreas urbanas, lo que aumenta la demanda de opciones de movilidad sostenible como el alquiler de scooters.
+* La transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre los usuarios de la aplicación de alquiler de scooters.
+* Los usuarios valoran la flexibilidad en el modelo de alquiler, preferiendo opciones que se adapten a diferentes necesidades, como tarifas por minuto, planes de suscripción o paquetes de uso diario/semanal
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que los usuarios de servicios de movilidad urbana prefieren opciones ágiles y económicas debido a la
-  conveniencia y flexibilidad que ofrecen en comparación con métodos de transporte tradicionales como automóviles o
-  taxis.
-- Creemos que los usuarios valoran la seguridad y confiabilidad al elegir opciones de movilidad, lo que incluye la
-  percepción de riesgo al usar scooters eléctricos en áreas urbanas.
-- Creemos que los proveedores de scooters eléctricos están dispuestos a participar en una plataforma de alquiler de
-  scooters si les brinda beneficios como una mayor visibilidad en el mercado y una gestión simplificada de su flota.
-- Creemos que la transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre
-  los usuarios de la aplicación.
-- Creemos que los usuarios valoran la flexibilidad en el modelo de alquiler, prefiriendo opciones que se adapten a
-  diferentes necesidades, como tarifas por minutoi, planes de suscripción o paquetes de uso semanal.
-- Creemos que existe una creciente preocupación por la congestión del tráfico y la contaminación en áreas urbanas, lo
-  que aumenta la demanda de opciones de movilidad sostenibles.
-- Creemos que los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido
-  a su conveniencia y accesibilidad, siempre y cuando la plataforma ofrezca una experiencia de usuario intuitiva y
-  segura.
+- Creemos que los usuarios de servicios de movilidad urbana prefieren opciones ágiles y económicas debido a la conveniencia y flexibilidad que ofrecen en comparación con métodos de transporte tradicionales como automóviles o taxis.
+- Creemos que los usuarios valoran la seguridad y confiabilidad al elegir opciones de movilidad, lo que incluye la percepción de riesgo al usar scooters eléctricos en áreas urbanas.
+- Creemos que los proveedores de scooters eléctricos están dispuestos a participar en una plataforma de alquiler de scooters si les brinda beneficios como una mayor visibilidad en el mercado y una gestión simplificada de su flota.
+- Creemos que la transparencia en cuanto a precios y políticas de uso contribuirá a generar confianza y lealtad entre los usuarios de la aplicación.
+- Creemos que los usuarios valoran la flexibilidad en el modelo de alquiler, prefiriendo opciones que se adapten a diferentes necesidades, como tarifas por minutoi, planes de suscripción o paquetes de uso semanal.
+- Creemos que existe una creciente preocupación por la congestión del tráfico y la contaminación en áreas urbanas, lo que aumenta la demanda de opciones de movilidad sostenibles.
+- Creemos que los usuarios están dispuestos a utilizar una aplicación web para gestionar el alquiler de scooters debido a su conveniencia y accesibilidad, siempre y cuando la plataforma ofrezca una experiencia de usuario intuitiva y segura.
 
 #### 1.2.2.4. Lean UX Canvas
 
- <img src="./assets/leanux.png" alt="Josue Hidalgo" width="900" height="600">
+<img src="./assets/leanux.png" alt="Josue Hidalgo" width="900" height="600">
 
 ## 1.3. Segmentos objetivo
 
@@ -818,20 +794,14 @@ de alquiler de scooters en el mercado.
 > **Segmento Objetivo 1: Personas que transitan Lima Metropolitana**
 
 1. ¿Con qué frecuencia utilizas scooters como medio de transporte?
-2. ¿Cuáles crees que son los principales beneficios de usar scooters en comparación con otros medios de transporte, como
-   automóviles o bicicletas?
+2. ¿Cuáles crees que son los principales beneficios de usar scooters en comparación con otros medios de transporte, como automóviles o bicicletas?
 3. ¿Has experimentado algún desafío o limitación al usar scooters en tu distrito?
-4. ¿Qué características valoras más al alquilar un scooter, como la comodidad, la velocidad o la autonomía de la
-   batería?
+4. ¿Qué características valoras más al alquilar un scooter, como la comodidad, la velocidad o la autonomía de la batería?
 5. ¿Has utilizado servicios de alquiler de scooters antes? Si es así, ¿cómo ha sido tu experiencia general?
-6. ¿Hay aspectos específicos que hayas encontrado especialmente positivos o negativos al utilizar servicios de alquiler
-   de scooters?
-7. ¿Hay aspectos específicos que hayas encontrado especialmente positivos o negativos al utilizar servicios de alquiler
-   de scooters?
-8. ¿Qué características te gustaría ver en una aplicación de alquiler de scooters para que sea más fácil y conveniente
-   para ti?
-9. ¿Qué medidas de seguridad consideras importantes al alquilar y usar scooters, tanto para ti como para otros usuarios
-   y peatones?
+6. ¿Hay aspectos específicos que hayas encontrado especialmente positivos o negativos al utilizar servicios de alquiler de scooters?
+7. ¿Hay aspectos específicos que hayas encontrado especialmente positivos o negativos al utilizar servicios de alquiler de scooters?
+8. ¿Qué características te gustaría ver en una aplicación de alquiler de scooters para que sea más fácil y conveniente para ti?
+9. ¿Qué medidas de seguridad consideras importantes al alquilar y usar scooters, tanto para ti como para otros usuarios y peatones?
 10. ¿Crees que seguirás utilizando scooters como medio de transporte en el futuro?
 
 > **Segmento Objetivo 2: Empresas delivery**
@@ -842,12 +812,9 @@ de alquiler de scooters en el mercado.
 4. ¿Qué características buscan en una plataforma web para gestionar el alquiler de scooters?
 5. ¿Qué medidas tomarían para garantizar el mantenimiento adecuado de los scooters?
 6. ¿Cómo manejarían el seguimiento de la ubicación de los scooters y su disponibilidad para los repartidores?
-7. ¿Qué opciones de personalización necesitarían en la plataforma web para adaptarse a las necesidades específicas de su
-   empresa?
-8. ¿Qué integraciones con otras herramientas o sistemas consideran importantes para optimizar sus operaciones de
-   entrega?
-9. ¿Cuáles son los criterios clave que utilizan para evaluar el rendimiento de la plataforma web y cómo los aplican en
-   su negocio?
+7. ¿Qué opciones de personalización necesitarían en la plataforma web para adaptarse a las necesidades específicas de su empresa?
+8. ¿Qué integraciones con otras herramientas o sistemas consideran importantes para optimizar sus operaciones de entrega?
+9. ¿Cuáles son los criterios clave que utilizan para evaluar el rendimiento de la plataforma web y cómo los aplican en su negocio?
 10. Si yo le propongo una aplicación web con todas estas características y funciones usted la utilizaría?
 
 ### 2.2.2. Registro de entrevistas
@@ -1010,43 +977,25 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 
 **Segemento Objetivo 1: Transeúntes**
 
-- Frecuencia de uso de scooters: El entrevistado utiliza scooters varias veces a la semana, lo que indica una alta
-  frecuencia de uso y dependencia de este medio de transporte.
-- Beneficios de los scooters: Destaca la conveniencia y agilidad de los scooters para moverse en áreas urbanas
-  congestionadas, así como su economía y eco-amigabilidad en comparación con otros medios de transporte.
-- Desafíos y limitaciones: Señala desafíos como la disponibilidad y el estado de los scooters, así como problemas con la
-  infraestructura vial, lo que sugiere áreas de mejora en el servicio de alquiler de scooters y la planificación urbana.
-- Características valoradas en un scooter: Valora la comodidad, seguridad y autonomía de la batería al alquilar un
-  scooter, lo que resalta la importancia de estos aspectos para la satisfacción del usuario.
-- Experiencia con servicios de alquiler de scooters: Ha tenido experiencias mixtas con servicios de alquiler, destacando
-  aspectos positivos como la disponibilidad y negativos como la falta de mantenimiento.
-- Expectativas de una aplicación de alquiler de scooters: Espera una aplicación intuitiva y con datos en tiempo real
-  sobre la disponibilidad de scooters, lo que resalta la importancia de la tecnología en la mejora de la experiencia del
-  usuario.
-- Medidas de seguridad: Considera importante el mantenimiento y el respeto a las normas de seguridad, lo que subraya la
-  necesidad de garantizar la seguridad tanto para los usuarios como para los peatones.
-- Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su
-  conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
+- Frecuencia de uso de scooters: El entrevistado utiliza scooters varias veces a la semana, lo que indica una alta frecuencia de uso y dependencia de este medio de transporte.
+- Beneficios de los scooters: Destaca la conveniencia y agilidad de los scooters para moverse en áreas urbanas congestionadas, así como su economía y eco-amigabilidad en comparación con otros medios de transporte.
+- Desafíos y limitaciones: Señala desafíos como la disponibilidad y el estado de los scooters, así como problemas con la infraestructura vial, lo que sugiere áreas de mejora en el servicio de alquiler de scooters y la planificación urbana.
+- Características valoradas en un scooter: Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, lo que resalta la importancia de estos aspectos para la satisfacción del usuario.
+- Experiencia con servicios de alquiler de scooters: Ha tenido experiencias mixtas con servicios de alquiler, destacando aspectos positivos como la disponibilidad y negativos como la falta de mantenimiento.
+- Expectativas de una aplicación de alquiler de scooters: Espera una aplicación intuitiva y con datos en tiempo real sobre la disponibilidad de scooters, lo que resalta la importancia de la tecnología en la mejora de la experiencia del usuario.
+- Medidas de seguridad: Considera importante el mantenimiento y el respeto a las normas de seguridad, lo que subraya la necesidad de garantizar la seguridad tanto para los usuarios como para los peatones.
+- Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
 
 **Segemento Objetivo 2: Empresas deliverys**
 
-- Frecuencia de uso de scooters: Aunque el entrevistado actualmente utiliza principalmente motocicletas para su servicio
-  de delivery, muestra interés en integrar scooters eléctricos debido a sus beneficios potenciales.
-- Beneficios de los scooters: Reconoce los beneficios de los scooters en términos de eficiencia en el tráfico y
-  sostenibilidad ambiental, lo que sugiere una inclinación hacia la adopción de tecnologías más ecológicas.
-- Desafíos y limitaciones: Se identifican desafíos como el tráfico denso y la disponibilidad de estacionamiento, lo que
-  indica áreas donde los scooters podrían ofrecer soluciones.
-- Características valoradas en un scooter: El entrevistado destaca la importancia de la comodidad, seguridad y autonomía
-  de la batería, lo que sugiere criterios importantes para la selección de scooters.
-- Experiencia con servicios de alquiler de scooters: Se mencionan experiencias mixtas, lo que subraya la importancia de
-  un servicio confiable y bien mantenido.
-- Expectativas de una aplicación de alquiler de scooters: Se espera una aplicación intuitiva con datos en tiempo real
-  sobre la disponibilidad de scooters, destacando la importancia de la tecnología para mejorar la experiencia del
-  usuario.
-- Medidas de seguridad: Se enfatiza la importancia del mantenimiento y el respeto a las normas de seguridad, lo que
-  refleja una preocupación por la seguridad tanto de los usuarios como de los peatones.
-- Futuro uso de scooters: El entrevistado planea seguir utilizando scooters en el futuro, lo que sugiere una tendencia
-  hacia su adopción continua.
+- Frecuencia de uso de scooters: Aunque el entrevistado actualmente utiliza principalmente motocicletas para su servicio de delivery, muestra interés en integrar scooters eléctricos debido a sus beneficios potenciales.
+- Beneficios de los scooters: Reconoce los beneficios de los scooters en términos de eficiencia en el tráfico y sostenibilidad ambiental, lo que sugiere una inclinación hacia la adopción de tecnologías más ecológicas.
+- Desafíos y limitaciones: Se identifican desafíos como el tráfico denso y la disponibilidad de estacionamiento, lo que indica áreas donde los scooters podrían ofrecer soluciones.
+- Características valoradas en un scooter: El entrevistado destaca la importancia de la comodidad, seguridad y autonomía de la batería, lo que sugiere criterios importantes para la selección de scooters.
+- Experiencia con servicios de alquiler de scooters: Se mencionan experiencias mixtas, lo que subraya la importancia de un servicio confiable y bien mantenido.
+- Expectativas de una aplicación de alquiler de scooters: Se espera una aplicación intuitiva con datos en tiempo real sobre la disponibilidad de scooters, destacando la importancia de la tecnología para mejorar la experiencia del usuario.
+- Medidas de seguridad: Se enfatiza la importancia del mantenimiento y el respeto a las normas de seguridad, lo que refleja una preocupación por la seguridad tanto de los usuarios como de los peatones.
+- Futuro uso de scooters: El entrevistado planea seguir utilizando scooters en el futuro, lo que sugiere una tendencia hacia su adopción continua.
 
 ## 2.3. Needfinding
 
@@ -1204,12 +1153,9 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 
 - FastScooter:  El nombre del producto principal de la empresa, que son scooters eléctricos para renta empresarial.
 - Movilidad urbana: Se refiere al desplazamiento dentro de entornos urbanos.
-- Experiencia de usuario: La interacción y percepción de los clientes al utilizar los productos o servicios de la
-  empresa.
-- Plataforma centralizada: Se refiere a una única interfaz o sistema donde los usuarios pueden acceder a todas las
-  funciones relacionadas con el alquiler de scooters eléctricos, como reservas, pagos y seguimiento de rutas.
-- Flota: Conjunto de scooters que se encuentran desplegados al rededor de la ciudad listos para ser usados por los
-  usuarios.
+- Experiencia de usuario: La interacción y percepción de los clientes al utilizar los productos o servicios de la empresa.
+- Plataforma centralizada: Se refiere a una única interfaz o sistema donde los usuarios pueden acceder a todas las funciones relacionadas con el alquiler de scooters eléctricos, como reservas, pagos y seguimiento de rutas.
+- Flota: Conjunto de scooters que se encuentran desplegados al rededor de la ciudad listos para ser usados por los usuarios.
 
 # Capítulo III: Requirements Specification
 
@@ -2243,11 +2189,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 
 ## 4.1. Style Guidelines
 
-En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra
-página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de una interfaz
-que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto
-claros como estéticamente agradables, al mismo tiempo que hemos establecido ciertas restricciones para evitar la
-inclusión de elementos gráficos poco atractivos.
+En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de una interfaz que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo tiempo que hemos establecido ciertas restricciones para evitar la inclusión de elementos gráficos poco atractivos.
 
 ### 4.1.1. General Style Guidelines
 
@@ -2256,11 +2198,11 @@ inclusión de elementos gráficos poco atractivos.
 Para el desarrollo de nuestro branding realizamos un logotipo distintivo y memorable que facilita la comprensión de lo
 que nuestra plataforma ofrece a nuestros usuarios.
 
-![logo](assets/logo.png)
+![logo](/assets/designstyle/logo.png)
 
 La paleta de colores que implementamos para el desarrollo de nuestro logo es el siguiente:
 
-![logo-paleta de colores](assets/logo_paleta.png)
+![logo-paleta de colores](/assets/designstyle/paleta.png)
 
 > **Colores**
 
@@ -2269,7 +2211,7 @@ del producto final. Decidimos hacer uso de colores dentro de las directrices de 
 son fundamentales para crear diseños atractivos, legibles, accesibles y coherentes que comunican eficazmente el mensaje
 deseado y mejoran la experiencia de nuestros usuarios.
 
-![plataforma- paleta de colores](assets/plataforma_paleta.png)
+![plataforma- paleta de colores](/assets/designstyle/colors.png)
 
 > **Tipografía**
 
@@ -2277,7 +2219,7 @@ Las directrices de estilo, que incluyen pautas para la tipografía, son esencial
 legibilidad del contenido. Por lo que, además de la elección, decidimos establecer reglas sobre el tamaño, el estilo y
 el espaciado de la fuente ayuda a mantener la coherencia visual y a garantizar una lectura cómoda.
 
-![tipografía](assets/tipografia.png)
+![tipografía](/assets/designstyle/tipografia.png)
 
 La elección de la *NUNITO* es porque transmite y da el toque amigable pero profesional a los usuarios que visitan
 nuestra plataforma. Nunito es una tipografía contemporánea que funciona bien en interfaces de usuario. Sus formas
@@ -2286,19 +2228,15 @@ redondeadas y proporciones equilibradas la hacen especialmente adecuada para apl
 - **Títulos**: Los títulos son de estilo "Bold" y de tamaño 64px
 - **Subtítulos**: Los subtítulos sin de estilo "Semibold" y de tamaño 40px
 - **Texto y botones**: En ambos casos se hace uso del estilo "Light" y de tamaño 32px
-- **Spacing**: Implementamos un espacio apropiado entre los elementos con el fin de mejorar la legibilidad y facilitar
-  la navegación en el sitio web. Garantizamos que los componentes de la página cuenten con el espacio adecuado alrededor
-  de ellos para evitar una sensación de congestión y promover una organización visual mejorada.
+- **Spacing**: Implementamos un espacio apropiado entre los elementos con el fin de mejorar la legibilidad y facilitar la navegación en el sitio web. Garantizamos que los componentes de la página cuenten con el espacio adecuado alrededor de ellos para evitar una sensación de congestión y promover una organización visual mejorada.
     - Entre un *título* y un *texto* del **landing page** habrá una separación de 8 px.
     - Entre un *subtítulo* y el *párrafo* del **landing page** habrá una separación de 31 px.
 
 > **Tono de comunicacion y lenguaje aplicado**
 
-La elección del tono de comunicación es un componente fundamental de los estilos que estamos planificando integrar en
-las páginas.
+La elección del tono de comunicación es un componente fundamental de los estilos que estamos planificando integrar en las páginas.
 
-Al analizar el tono de comunicación, hemos determinando que el contenido será entre el límite de lo **formal e informal
-**.
+Al analizar el tono de comunicación, hemos determinando que el contenido será entre el límite de lo **formal e informal**.
 
 Teniendo como predominio lo **amigable** en el aspecto de nuestra aplicación e instruyendo lo **técnico** solo en el
 reporte oficial para problemas/soporte técnico.
@@ -2316,14 +2254,14 @@ Estas adaptaciones se fundamentan no solo en el nuevo formato y estilo visual, s
 específica que el usuario esté explorando en la aplicación. Para unificar estas variaciones, hemos identificado diversas
 secciones donde los colores y niveles de transparencia se ajustan según el diseño:
 
-![paleta web style](assets/paleta_web.png)
+![paleta web style](/assets/designstyle/paleta-web.png)
 
 > **Fondos**
 
 Con el objetivo de garantizar una estética clásica que se adecue a los variados fondos degradados presentes en nuestras
 aplicaciones, hemos optado por una paleta de colores compuesta por tonos blancos, cafés y una gama de grises.
 
-![fondo_escala](assets/escala_fondo.png)
+![fondo_escala](/assets/designstyle/escala-fondo.png)
 
 Esta decisión fomenta una mayor flexibilidad visual al mismo tiempo que mantiene la sofisticación y la facilidad de
 lectura del contenido, sin importar la combinación de colores específica que se presente en la pantalla. Esto garantiza
@@ -2338,12 +2276,12 @@ La tipografía Nunito presenta una apariencia moderna y refinada, perfecta para 
 aspecto sofisticado y legible. Su peso ligero ofrece una delicada y atractiva estética, mientras que su tamaño generoso
 asegura una excelente legibilidad, especialmente en dispositivos con pantallas de alta resolución.
 
-![heading tipografía](assets/heading_typo.png)
+![heading tipografía](/assets/designstyle/heading_typo.png)
 
 Esta combinación de tamaño y estilo es óptima para generar un impacto visual notable, al mismo tiempo que conserva una
 sensación de sutileza y claridad en el diseño.
 
-![body tipografía](assets/body_typo.png)
+![body tipografía](/assets/designstyle/body_typo.png)
 
 ## 4.2. Information Architecture
 
@@ -2566,27 +2504,31 @@ como descargar la aplicación.
 
 - **Features:** Explicación de las característica que nuestra aplicación ofrece
 
-  ![features](assets/landingpage/feature.png)
+![features](assets/landingpage/feature.png)
 
 - Segundo **call-to-action**, enfocado a nuestro segundo segmento objetivo, empresario.
 
-  ![second-call-to-action](assets/landingpage/scta.png)
+![second-call-to-action](assets/landingpage/scta.png)
 
 - Los tipos de scooters que ofrecemos
 
-  ![scooters](assets/landingpage/scooters.png)
+![scooters](assets/landingpage/scooters.png)
 
 - Descripción de nuetsra empresa emergente, *startup*
-  ![acout us](assets/landingpage/about%20us.png)
+
+![acout us](assets/landingpage/about%20us.png)
 
 - Reseñas de nuestros clientes
-  ![reviews](assets/landingpage/reviews.png)
+
+![reviews](assets/landingpage/reviews.png)
 
 - Formulario para recibir notificaciones y/o describir dudas.
-  ![forms](assets/landingpage/forms.png)
+
+![forms](assets/landingpage/forms.png)
 
 - *Call-to-action* para descargar la aplicación
-  ![download](assets/landingpage/download.png)
+
+![download](assets/landingpage/download.png)
 
 > **Footer**
 
@@ -2692,10 +2634,8 @@ verde y los Unhappy con flechas de color rojo.
 - El usuario ingresa a la sección "buscar scooters".
 - El usuario puede observar todos los scooters disponibles.
 - Al presionar en un scooter se ven sus características más relevantes.
-- Si se presiona "Reservar", entonces se reservará el scooter seleccionado y se mostrará una pantalla que diga "Reserva
-  exitosa". (Happy Path)
-- Si se cierra la ventana de reserva o se sale de ahi, se mostrará un cuadro que diga "Reserva cancelada". (Unhappy
-  Path)
+- Si se presiona "Reservar", entonces se reservará el scooter seleccionado y se mostrará una pantalla que diga "Reserva exitosa". (Happy Path)
+- Si se cierra la ventana de reserva o se sale de ahi, se mostrará un cuadro que diga "Reserva cancelada". (Unhappy Path)
 
 ![IMAGEN-UserFlow](assets/WebAppUFD_Goal1.png)
 
@@ -2807,15 +2747,13 @@ diseño orientado a objetos.
 El diagrama de clases se desarrolló en visual studio code con el uso de la extensión y documentación de plantUML. Aquí
 se creará un diccionario detallado que describe cada una de las clases identificadas en los diagramas.
 
-- **Users:** En esta clase se realiza el registro de todos los usuarios, considerando todos sus atributos y el tipo
-  de usuario. Además, de las funciones de inicio de sesión, actualización y aliminación de cuentas.
+- **Users:** En esta clase se realiza el registro de todos los usuarios, considerando todos sus atributos y el tipo de usuario. Además, de las funciones de inicio de sesión, actualización y aliminación de cuentas.
 
 - **Enterprises:** En esta clase se realiza la obtención y validación de los datos para los usuarios empresa.
 
 - **Passersby:** En esta clase se realiza la obtención y validación de los datos para los usuarios transeúntes.
 
-- **Scooters:** En esta clase se le permite al usuario la visualización de características de cada uno de nuestros
-  scooters disponibles en nuestra plataforma. Además de reservarlos.
+- **Scooters:** En esta clase se le permite al usuario la visualización de características de cada uno de nuestros scooters disponibles en nuestra plataforma. Además de reservarlos.
 
 - **Rents:** La principal acción de aquí es confirmar el inicio de la reserva y su finalización.
 
