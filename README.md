@@ -2708,7 +2708,7 @@ aplicarán los principios y conceptos fundamentales de la programación orientad
 En esta sección, se exhibirán los diagramas de clases que ilustran las relaciones entre las clases en el contexto del
 diseño orientado a objetos.
 
-![class diagram](assets/classdiagram.png)
+![class diagram](/assets/diagrams/class-diagram.jpg)
 
 ### 4.7.2. Class Dictionary
 
