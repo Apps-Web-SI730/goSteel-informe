@@ -3169,13 +3169,23 @@ En este apartado se hace presenta la ejecución del frontend del servicio FastSc
 
 ![imagen fronted]()
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 | Endpoint          | Detalles  |
 |---------------------|---------|
 | scooter_card_detail | En este endpoint se muestra los detalles del scooter seleccionado | 
 | scooter_card_grid | En este endpoint se muestra los scooters disponibles para rentar | 
 | user_profile | En este endpoint se muestra los datos de los users | 
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Ejecutamos el comando “npm run dev” en la ruta de nuestro projecto en vue y esta acción nos muestra lo siguiente:
+
+![Imagen de terminal local del proyecto]()
+
+
 
 # Conclusiones
 
