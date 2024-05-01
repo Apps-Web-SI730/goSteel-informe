@@ -3150,6 +3150,8 @@ Implementación del Landing Page acorde con las User Stories.
 | goSteel-Frontend | develop | 284d251   | feat: scooter-purchase and update routes      | -                   | 01/05/2024         |
 | goSteel-Frontend | develop | e327ad4   | chore: add .component to some files      | -                   | 01/05/2024         |
 
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
 
 
 # Conclusiones
