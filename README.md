@@ -43,7 +43,7 @@
         </tr>
 	 <tr>
             <td>Adrianzén Flores, Carlos Arturo</td>
-            <td>U201718387</td>
+            <td>U202215705</td>
         </tr>	
         <tr>
             <td>Huachaca Advincula, Scott Jacobo</td>
