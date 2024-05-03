@@ -3034,8 +3034,6 @@ Implementación del Landing Page acorde con las User Stories.
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
-| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
-|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
 | goSteel-Frontend | main | f0553f6   | chore: DDD architecture | -                   | 30/04/2024         |
 | goSteel-Frontend | main | 9108a10   | fix: router rendering pages      | -                   | 30/04/2024         |
 | goSteel-Frontend | main | 207b7e6   | feat: update various components    | -                   | 30/04/2024         |
@@ -3050,6 +3048,7 @@ Implementación del Landing Page acorde con las User Stories.
 | goSteel-Frontend | develop |  bcae30b  | fix: update component home (home-login)  | - | 03/05/2024         |
 | goSteel-Frontend | develop |  db688c7  | fix: update component login-toolbar  | - | 03/05/2024         |
 | goSteel-Frontend | develop |  a415f6c  | chore: update database funcional (db.json)  | - | 03/05/2024         |
+
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
@@ -3116,9 +3115,9 @@ Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sp
 Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
 equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
-![pulse](/assets/insights/pulse-fronttp.png)
+![pulse](/assets/insights/pulse-fronted.png)
 ![controbution](/assets/insights/contribution-front.png)
-![network](/assets/insights/front-network.png)
+![network](/assets/insights/network-front-tp.png)
 
 
 # Conclusiones
