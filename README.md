@@ -3161,4 +3161,4 @@ Recuperado de **[Stakeholders](https://stakeholders.com.pe/medio-ambiente/delive
 
 **[TB1 Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EV5-l-fRi4lGuuvSpcI40s4BpW2ckILJewAtCe5U2nNAaQ?e=qvHLDx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
 
-**[TB2 Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EWf0atsMo3xGgsvQ8v9WWW8BT6CngTxdN07i6DnuUG8D1g?e=hccc2I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+**[TP Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EWf0atsMo3xGgsvQ8v9WWW8BT6CngTxdN07i6DnuUG8D1g?e=hccc2I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
