@@ -3033,21 +3033,22 @@ Implementación del Landing Page acorde con las User Stories.
 ![sprintbacklog2](/assets/sprintsbacklogs/sprint2.png)
 
 #### 5.2.2.3. Development Evidence for Sprint Review
-
-| goSteel-Frontend | main | f0553f6   | chore: DDD architecture | -                   | 30/04/2024         |
-| goSteel-Frontend | main | 9108a10   | fix: router rendering pages      | -                   | 30/04/2024         |
-| goSteel-Frontend | main | 207b7e6   | feat: update various components    | -                   | 30/04/2024         |
-| goSteel-Frontend | main | c5fe5c6   | chore: files to work on              | -                   | 30/04/2024         |
-| goSteel-Frontend | main | 284d251   | feat: scooter-purchase and update routes      | -                   | 01/05/2024         |
-| goSteel-Frontend | main | e327ad4   | chore: add .component to some files      | -                   | 01/05/2024         |
-| goSteel-Frontend | develop |  74175c4  | feat: create scooter-favorites component (pages)      | - | 03/05/2024         |
-| goSteel-Frontend | develop |  cb414ca  | fix: update scooter-details component | - | 03/05/2024         |
-| goSteel-Frontend | develop |  59e162f  | feat: create scooter-details component  | - | 03/05/2024         |
-| goSteel-Frontend | develop |  59e162f  | feat: create scooter-favorites component (pages)      | - | 03/05/2024         |
-| goSteel-Frontend | develop |  4951609  | feat: create scooter-booking,component.vue | - | 03/05/2024         |
-| goSteel-Frontend | develop |  bcae30b  | fix: update component home (home-login)  | - | 03/05/2024         |
-| goSteel-Frontend | develop |  db688c7  | fix: update component login-toolbar  | - | 03/05/2024         |
-| goSteel-Frontend | develop |  a415f6c  | chore: update database funcional (db.json)  | - | 03/05/2024         |
+| Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
+| goSteel-Frontend    | main    | f0553f6   | chore: apply DDD architecture                | -                   | 30/04/2024         |
+| goSteel-Frontend    | main    | 9108a10   | fix: fix router rendering pages               | -                   | 30/04/2024         |
+| goSteel-Frontend    | main    | 207b7e6   | feat: update various components               | -                   | 30/04/2024         |
+| goSteel-Frontend    | main    | c5fe5c6   | chore: add necessary files                    | -                   | 30/04/2024         |
+| goSteel-Frontend    | main    | 284d251   | feat: add scooter-purchase and update routes  | -                   | 01/05/2024         |
+| goSteel-Frontend    | main    | e327ad4   | chore: add .component extension to some files | -                   | 01/05/2024         |
+| goSteel-Frontend    | develop | 74175c4   | feat(pages): create scooter-favorites component | -                | 03/05/2024         |
+| goSteel-Frontend    | develop | cb414ca   | fix: update scooter-details component        | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | 59e162f   | feat: create scooter-details component       | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | 59e162f   | feat(pages): create scooter-favorites component | -                | 03/05/2024         |
+| goSteel-Frontend    | develop | 4951609   | feat: create scooter-booking component       | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | bcae30b   | fix: update home component (home-login)      | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | db688c7   | fix: update login-toolbar component          | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | a415f6c   | chore: update database functionality (db.json) | -                  | 03/05/2024         |
 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
