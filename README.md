@@ -3378,11 +3378,18 @@ En este apartado se hace presenta la ejecución del frontend del servicio FastSc
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend.
+
 | Endpoint          | Detalles  |
 |---------------------|---------|
-| scooter_card_detail | En este endpoint se muestra los detalles del scooter seleccionado | 
-| scooter_card_grid | En este endpoint se muestra los scooters disponibles para rentar | 
-| user_profile | En este endpoint se muestra los datos de los users | 
+| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
+| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
+| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario |
+| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
+| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
+| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario | 
+| /api/v1/scooter | En este endpoint se obtiene los scooters disponibles en la aplicación|
+| /api/v1/user | En este endpoint se obtiene los users registrados en la aplicación |  
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
