@@ -3421,7 +3421,7 @@ Nuestro despliegue se ha hecho en Microsoft Azure:
 De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
 ![Imagen del despliegue](assets/tb2/back.png)
 
-Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint2:
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint3:
 
 [Link del backend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
 
@@ -3430,10 +3430,9 @@ Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sp
 Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
 equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
-![pulse](/assets/insights/pulse-fronted.png)
-![controbution](/assets/insights/contribution-front.png)
-![network](/assets/insights/network-front-tp.png)
-
+![pulse](assets/tb2/pulse.png)
+![controbution](assets/tb2/contribution.png)
+![network](assets/tb2/network.png)
 
 # Conclusiones
 
