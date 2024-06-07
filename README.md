@@ -30,24 +30,24 @@
             </td>
         </tr>
 		<tr>
-			<td>Hidalgo Bustamante Josue Omar</td>
-            <td>u202119880</td>
+			<td>Adrianzén Flores, Carlos Arturo</td>
+            <td>U202215705</td>
 		</tr>
         <tr>
             <td>Barrial Marin, Sharon Antuanet Ivet</td>
             <td>U202114900</td>
         </tr>
-        <tr>
-            <td>Minaya Mundines, Pietro Minayat</td>
-            <td>U201718387</td>
-        </tr>
 	 <tr>
-            <td>Adrianzén Flores, Carlos Arturo</td>
-            <td>U202215705</td>
+            <td>Hidalgo Bustamante Josue Omar</td>
+            <td>u202119880</td>
         </tr>	
         <tr>
             <td>Huachaca Advincula, Scott Jacobo</td>
             <td>U201914294</td>
+        </tr>
+        <tr>
+            <td>Minaya Mundines, Pietro Minayat</td>
+            <td>U201718387</td>
         </tr>
 	</tbody>
 </table>
