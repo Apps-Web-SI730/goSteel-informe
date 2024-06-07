@@ -3014,8 +3014,8 @@ continuación, se mostrarán las evidencias de los commits:
 | Sprint #                         | 2                                                                                                                                                                            | 
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | **Sprint Planning Background**   | -                                                                                                                                                                            |
-| Date                             | 2024 - 06 - 06                                                                                                                                                               |
-| Time                             | 19:54 PM                                                                                                                                                                        |
+| Date                             | 2024 - 05 - 01                                                                                                                                                               |
+| Time                             | 18:35 PM                                                                                                                                                                        |
 | Location                         | Virtual via Discord                                                                                                                                                          |
 | Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                            |
 | Attendees (to planning meeting)  | Adrianzén Flores, Carlos Arturo <br> Barrial Marin, Sharon Antuanet Ivet <br> Hidalgo Bustamante Josue Omar <br> Huachaca Advincula, Scott Jacobo <br> Minaya Mundines, Pietro Minayat |
@@ -3132,12 +3132,12 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | Location                         | Virtual via Discord                                                                                                                                                          |
 | Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                            |
 | Attendees (to planning meeting)  | Adrianzén Flores, Carlos Arturo <br> Barrial Marin, Sharon Antuanet Ivet <br> Hidalgo Bustamante Josue Omar <br> Huachaca Advincula, Scott Jacobo <br> Minaya Mundines, Pietro Minayat |
-| Sprint 2 - Review Summary        | Se realizó la organización, visualización y ejecución del fronted, respetando |
-| Sprint 1 - Retrospective Summary | Mejorar en puntos de la documentación del informe |
-| **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
-| Sprint 2 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente                                                      |
-| Sprint 2 - Velocity              | El equipo puede aceptar 30 Story Points                                                                                                                                      |
-| Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 22 Story Points                                                                                                       |
+| Sprint 3 - Review Summary        | Se realizó la organización, visualización y ejecución del fronted. Además de deployar el servidor en Microsoft Azure. |
+| Sprint 3 - Retrospective Summary | Mejorar en puntos de la documentación del informe, añadir componentes al fronted, mejorar funcionalidades, estructura y manejo de usualibity |
+| **Sprint Goal & User Stories**   | - Visualización de Scooters disponibles <br> - Visualización de detalles de scooter seleccionado<br> - Registro de usuarios  <br> - Ingreso de usuarios <br> - Reserva de scooters                                                                                                                                                                             |
+| Sprint 3 Goal                    | El objetivo del presente Sprint es en desarrollar el backend y mejorar el fronted. Para unirlo y demostrar los user stories propuestos y por haber para este sprint planing.                                                    |
+| Sprint 3 - Velocity              | El equipo puede aceptar 47 Story Points                                                                                                                                      |
+| Sprint 3 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 104 Story Points                                                                                                       |
 
 #### 5.2.2.2. Sprint Backlog 2
 
