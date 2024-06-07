@@ -3393,36 +3393,37 @@ Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a continuación se detallará paso a paso el procedimiento del despliegue:
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
 
-Ejecutamos el comando “npm run dev” en la ruta de nuestro projecto en VUE y esta acción nos muestra lo siguiente:
+Primero, seleccionamos la configuración: "FastScooter.API: http"
+![Imagen de run configuration](assets/tb2/configuración.png)
 
-![Imagen de terminal local del proyecto](/assets/front/npm%20run%20dev.jpg)
+Ejecutamos el comando “run” representado por un ícono de play: 
 
-Muestra de las carpetas creadas:
+![Imagen de terminal local del proyecto](assets/tb2/run.png)
 
-![Imagen de carpeta local src del proyecto](/assets/front/carpetascreadas.jpg)
+Demostración de las capas creadas:
 
-Se añade el archivo “ ” para que VUE pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+![Imagen de carpeta local src del proyecto](assets/tb2/capas.png)
 
-![Imagen de las rutas](/assets/front/rutas.jpg)
-![Imagen de las rutas](/assets/front/rutas2.jpg)
-![Imagen de las rutas](/assets/front/rutas3.jpg)
+Visualización de los endpoints:
 
-Por último, usamos el comando “npm run format” al proyecto que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+![Imagen de las rutas](assets/tb2/endpoints.png)
 
-![Imagen del comando en la terminal](/assets/front/npmrunformat.jpg)
+Visualización de no errores en la terminal:
+
+![Imagen del comando en la terminal](assets/tb2/termianl.png)
 
 Nuestro despliegue se ha hecho en Microsoft Azure:
 
 ![Paso para desplegar](/assets/front/microsoft-azure.jpg)
 
-De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
-![Imagen del despliegue](/assets/front/despliegue.jpg)
+De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+![Imagen del despliegue](assets/tb2/back.png)
 
 Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint2:
 
-[Link del frontend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
+[Link del backend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
