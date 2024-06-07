@@ -3014,12 +3014,125 @@ continuación, se mostrarán las evidencias de los commits:
 | Sprint #                         | 2                                                                                                                                                                            | 
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | **Sprint Planning Background**   | -                                                                                                                                                                            |
-| Date                             | 2024 - 05 - 01                                                                                                                                                               |
-| Time                             | 18:35 PM                                                                                                                                                                        |
+| Date                             | 2024 - 06 - 06                                                                                                                                                               |
+| Time                             | 19:54 PM                                                                                                                                                                        |
 | Location                         | Virtual via Discord                                                                                                                                                          |
 | Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                            |
 | Attendees (to planning meeting)  | Adrianzén Flores, Carlos Arturo <br> Barrial Marin, Sharon Antuanet Ivet <br> Hidalgo Bustamante Josue Omar <br> Huachaca Advincula, Scott Jacobo <br> Minaya Mundines, Pietro Minayat |
 | Sprint 1 - Review Summary        | Se realizó la landing page implementado con css y html, a raiz de los mockups de diseño |
+| Sprint 1 - Retrospective Summary | Mejorar en puntos de la documentación del informe |
+| **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
+| Sprint 2 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente                                                      |
+| Sprint 2 - Velocity              | El equipo puede aceptar 30 Story Points                                                                                                                                      |
+| Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 22 Story Points                                                                                                       |
+
+#### 5.2.2.2. Sprint Backlog 2
+
+Implementación del Landing Page acorde con las User Stories.
+
+![sprintbacklog2](/assets/sprintsbacklogs/sprint2.png)
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+| Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
+| goSteel-Frontend    | main    | f0553f6   | chore: apply DDD architecture                | -                   | 30/04/2024         |
+| goSteel-Frontend    | main    | 9108a10   | fix: fix router rendering pages               | -                   | 30/04/2024         |
+| goSteel-Frontend    | main    | 207b7e6   | feat: update various components               | -                   | 30/04/2024         |
+| goSteel-Frontend    | main    | c5fe5c6   | chore: add necessary files                    | -                   | 30/04/2024         |
+| goSteel-Frontend    | main    | 284d251   | feat: add scooter-purchase and update routes  | -                   | 01/05/2024         |
+| goSteel-Frontend    | main    | e327ad4   | chore: add .component extension to some files | -                   | 01/05/2024         |
+| goSteel-Frontend    | develop | 74175c4   | feat(pages): create scooter-favorites component | -                | 03/05/2024         |
+| goSteel-Frontend    | develop | cb414ca   | fix: update scooter-details component        | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | 59e162f   | feat: create scooter-details component       | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | 59e162f   | feat(pages): create scooter-favorites component | -                | 03/05/2024         |
+| goSteel-Frontend    | develop | 4951609   | feat: create scooter-booking component       | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | bcae30b   | fix: update home component (home-login)      | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | db688c7   | fix: update login-toolbar component          | -                   | 03/05/2024         |
+| goSteel-Frontend    | develop | a415f6c   | chore: update database functionality (db.json) | -                  | 03/05/2024         |
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
+| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_01 | -                   | 01/05/2024         |
+| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_02     | -                   | 01/05/2024         |
+| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_03   | -                   | 01/05/2024         |
+| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_04              | -                   | 01/05/2024         |
+| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_05      | -                   | 01/05/2024         |
+| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_06     | -                   | 01/05/2024         |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En este apartado se hace presenta la ejecución del frontend del servicio FastScooter.
+
+**[Link del fronted](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+
+![imagen fronted](/assets/front-deployment.png)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+| Endpoint          | Detalles  |
+|---------------------|---------|
+| scooter_card_detail | En este endpoint se muestra los detalles del scooter seleccionado | 
+| scooter_card_grid | En este endpoint se muestra los scooters disponibles para rentar | 
+| user_profile | En este endpoint se muestra los datos de los users | 
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Ejecutamos el comando “npm run dev” en la ruta de nuestro projecto en VUE y esta acción nos muestra lo siguiente:
+
+![Imagen de terminal local del proyecto](/assets/front/npm%20run%20dev.jpg)
+
+Muestra de las carpetas creadas:
+
+![Imagen de carpeta local src del proyecto](/assets/front/carpetascreadas.jpg)
+
+Se añade el archivo “ ” para que VUE pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![Imagen de las rutas](/assets/front/rutas.jpg)
+![Imagen de las rutas](/assets/front/rutas2.jpg)
+![Imagen de las rutas](/assets/front/rutas3.jpg)
+
+Por último, usamos el comando “npm run format” al proyecto que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![Imagen del comando en la terminal](/assets/front/npmrunformat.jpg)
+
+Nuestro despliegue se ha hecho en Microsoft Azure:
+
+![Paso para desplegar](/assets/front/microsoft-azure.jpg)
+
+De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+![Imagen del despliegue](/assets/front/despliegue.jpg)
+
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint2:
+
+[Link del frontend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
+equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![pulse](/assets/insights/pulse-fronted.png)
+![controbution](/assets/insights/contribution-front.png)
+![network](/assets/insights/network-front-tp.png)
+
+### 5.3.2. Sprint 3
+
+#### 5.3.2.1. Sprint Planning 3
+
+| Sprint #                         | 3                                                                                                                                                                            | 
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Sprint Planning Background**   | -                                                                                                                                                                            |
+| Date                             | 2024 - 06 - 06                                                                                                                                                               |
+| Time                             | 19:49 PM                                                                                                                                                                        |
+| Location                         | Virtual via Discord                                                                                                                                                          |
+| Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                            |
+| Attendees (to planning meeting)  | Adrianzén Flores, Carlos Arturo <br> Barrial Marin, Sharon Antuanet Ivet <br> Hidalgo Bustamante Josue Omar <br> Huachaca Advincula, Scott Jacobo <br> Minaya Mundines, Pietro Minayat |
+| Sprint 2 - Review Summary        | Se realizó la organización, visualización y ejecución del fronted, respetando |
 | Sprint 1 - Retrospective Summary | Mejorar en puntos de la documentación del informe |
 | **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
 | Sprint 2 Goal                    | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente                                                      |
