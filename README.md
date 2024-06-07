@@ -3391,7 +3391,7 @@ Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend
 | /api/v1/scooter | En este endpoint se obtiene los scooters disponibles en la aplicación|
 | /api/v1/user | En este endpoint se obtiene los users registrados en la aplicación |  
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
 
@@ -3421,11 +3421,11 @@ Nuestro despliegue se ha hecho en Microsoft Azure:
 De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
 ![Imagen del despliegue](assets/tb2/back.png)
 
-Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint3:
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
 
 [Link del backend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
 equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
@@ -3433,6 +3433,267 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 ![pulse](assets/tb2/pulse.png)
 ![controbution](assets/tb2/contribution.png)
 ![network](assets/tb2/network.png)
+
+## 5.3.Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+
+>**Segemento Objetivo 1: Empresarios**
+
+**Presentación del entrevistado**
+
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Hace cuánto se dedica a su empresa? 
+
+**Explicación de los alcances de la demostración**
+- Landing Page
+- Prinipales tareas en la aplicación
+
+**Navegación a través de la aplicación web**
+
+*Landing Page*
+
+**Preguntas a realizar**
+
+- ¿Consideras atractiva la manera en la que el producto FastScooter está promocionado en la Landing Page?
+- ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+- ¿Resulta agradable a la vista la manera en la que la información está presentada?
+- ¿Además de este dispositivo (pc), desde qué dispositivo utilizaste para acceder al Landing Page? (Respuestas posibles: Celular, tablet)
+- ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida o entender la información presentada?
+- Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+
+**Navegación a través de la aplicación web**
+
+*Aplicación Web*
+
+**UserFlow-1:** Ver Scooters disponibles, Buscar Scooter en específico, Añadir Renta de Scooter, visualizar la renta en la sección de reservas,  Añadir método de pago y Visualización de los scooters a pagar
+
+  - El usuario ingresa desde el botón call to action del landing page
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Search Scooters"
+  - Mostrar todos los Scooters disponibles a rentar
+  - Seleccionar un scooter
+  - Mostrar los detalles del scooters
+  - Rentar Scooters
+  - Visualizar el scooter en mis reservaciones
+  - Añadir método de pago
+  - Visualizar todos los scooters seleccionados para pagar
+
+**Userflow-2:** Visualizar perfil y Actualizar perfil
+
+- Visualizar perfil
+- Actualizar perfil
+
+**Userflow-3:** Añadir scooter a la sección de favoritos, Visualización de scooters favoritos, Reportar un problema de scooter, Documentación de GoSteel
+
+- Añadir Scooter a favoritos
+- Visualizar el scooter en el apartado Favorite scooters
+- Reportar un problema con la pagina o el scooter
+- Visualizar documentación del startup
+
+**Userflow-4:** Features adicionales: Cambiar de idioma y salir de la aplicación
+- Cambiar idioma
+- Log Out
+
+**Preguntas:**
+
+- Después de mostrarle el funcionamiento de la aplicación ¿considera que es complicado rentar un scooter?
+- ¿Los scooters disponibles contienen lo que necesitas saber sobre ellos, en cuanto a marca, tipo, precio y color?
+- ¿La funcionalidad para agregar las horas de renta, el día, tanto fecha y hora fueron complicados para entender? 
+- ¿Fue dificil hacer una renta?
+- ¿Qué otros apartados le gustaría visualizar?
+- ¿Qué opina acerca de la distribución de secciones, tanto el toolbar como el sidebar?
+- ¿Cómo describiría nuestra aplicación web en pocas palabras?
+- ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+- ¿Utiliza actualmente una aplicación web para rentar scooters? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+- ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+- ¿Considera que el diseño es adecuado?
+
+>**Segemento Objetivo 2: Transeúntes**
+
+**Presentación del entrevistado**
+
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Hace cuánto que está buscando otras formas de transportarse que no sea en auto o caminando?
+
+**Explicación de los alcances de la demostración**
+- Landing Page
+- Prinipales tareas en la aplicación
+
+**Navegación a través de la aplicación web**
+
+*Landing Page*
+
+**Preguntas a realizar**
+
+- ¿Consideras atractiva la manera en la que el producto FastScooter está promocionado en la Landing Page?
+- ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+- ¿Resulta agradable a la vista la manera en la que la información está presentada?
+- ¿Además de este dispositivo (pc), desde qué dispositivo utilizaste para acceder al Landing Page? (Respuestas posibles: Celular, tablet)
+- ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida o entender la información presentada?
+- Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+
+**Navegación a través de la aplicación web**
+
+*Aplicación Web*
+
+**UserFlow-1:** Ver Scooters disponibles, Buscar Scooter en específico, Añadir Renta de Scooter, visualizar la renta en la sección de reservas,  Añadir método de pago y Visualización de los scooters a pagar
+
+  - El usuario ingresa desde el botón call to action del landing page
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Search Scooters"
+  - Mostrar todos los Scooters disponibles a rentar
+  - Seleccionar un scooter
+  - Mostrar los detalles del scooters
+  - Rentar Scooters
+  - Visualizar el scooter en mis reservaciones
+  - Añadir método de pago
+  - Visualizar todos los scooters seleccionados para pagar
+
+**Userflow-2:** Visualizar perfil y Actualizar perfil
+
+- Visualizar perfil
+- Actualizar perfil
+
+**Userflow-3:** Añadir scooter a la sección de favoritos, Visualización de scooters favoritos, Reportar un problema de scooter, Documentación de GoSteel
+
+- Añadir Scooter a favoritos
+- Visualizar el scooter en el apartado Favorite scooters
+- Reportar un problema con la pagina o el scooter
+- Visualizar documentación del startup
+
+**Userflow-4:** Features adicionales: Cambiar de idioma y salir de la aplicación
+- Cambiar idioma
+- Log Out
+
+**Preguntas:**
+
+- Después de mostrarle el funcionamiento de la aplicación ¿considera que es complicado rentar un scooter?
+- ¿Los scooters disponibles contienen lo que necesitas saber sobre ellos, en cuanto a marca, tipo, precio y color?
+- ¿La funcionalidad para agregar las horas de renta, el día, tanto fecha y hora fueron complicados para entender? 
+- ¿Fue dificil hacer una renta?
+- ¿Qué otros apartados le gustaría visualizar?
+- ¿Qué opina acerca de la distribución de secciones, tanto el toolbar como el sidebar?
+- ¿Cómo describiría nuestra aplicación web en pocas palabras?
+- ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+- ¿Utiliza actualmente una aplicación web para rentar scooters? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+- ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+- ¿Considera que el diseño es adecuado?
+
+### 5.3.2. Registro de Entrevistas
+### 5.3.3. Evaluaciones según heurísticas
+
+>UX Heuristics & Principles Evaluation 
+ Usability – Inclusive Design – Information Architecture
+
+- Carrera: Ingeniería de Software
+- Curso: Desarrollo de Aplicaciones Open Source
+- Sección: WX52
+- Profesores: Todos
+- Auditor : Equipo de desarrollo Grupo 4
+- Cliente(s) : GoSteel-FastScooter
+
+**Site o app a evaluar:** FastScooter - Aplicación de Renta de Scooters
+
+**Tareas a evaluar:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+- Registro de un usuario nuevo 
+- Inicio de sesión
+- Visualización de scooters disponibles
+- Rentar Scooters
+- Cambio de lenguaje
+- Búsqueda de scooters
+- Añadir scooters favoritos
+- Visualización de scooters favoritos
+
+No están incluidas en esta versión de la evaluación las siguientes tareas: 
+- Enviar mensajes entre usuarios
+- Presentar ofertas de último minuto
+- Métodos de pago
+- Administrar scooters
+- Historial de pagos
+
+**Esacala de severidad:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>Nivel</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Descripción</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+		</tr>
+        <tr>
+            <td>2</td>
+            <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+        </tr>
+	    <tr>
+            <td>4</td>
+            <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+        </tr>	
+	</tbody>
+</table>
+
+**Tabla de resumen:**
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Escala de severidad</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Heurística/Principio violada(o)</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>No todas las vistas tienen </td>
+            <td>3</td>
+            <td></td>
+		</tr>
+        <tr>
+            <td>2</td>
+            <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+        </tr>
+	</tbody>
+</table>
+
+**Descripción de problemas:**
+**Problema #1**
+**Severidad:**
+**Heurística violada:**
+**Problema:**
+**Recomendación:**
+
+## 5.4. Video About-the-product
+
+
 
 # Conclusiones
 
@@ -3456,6 +3717,8 @@ Es por ello que para evitar estos porblemas recomendamos:
 
 - Se debe proporcionar un medio para que los usuarios puedan comunicarse con el soporte al cliente en caso de problemas, consultas o comentarios. Esto podría incluir un sistema de tickets, chat en vivo o un número de teléfono de contacto.
 ---
+
+### Video About-the-Team
 
 # Bibliografía
 
