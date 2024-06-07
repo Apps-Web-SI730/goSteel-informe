@@ -3352,7 +3352,7 @@ Implementación del Landing Page acorde con las User Stories.
 | goSteel-FastScooter-Backend | main | cb88fbf |fix: update functions of faorite controller | - | 07/06/2024 |
 
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 | Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|------------------------------|---------------------|--------------------|
@@ -3368,15 +3368,15 @@ Implementación del Landing Page acorde con las User Stories.
 | acceptance-test-goSteel | main | 90b7fb5 | feat: add feature 7 test | terms add | 07/06/2024 |
 | acceptance-test-goSteel | main | d447753 | feat: add feature 7 test | feature: add payment method | 07/06/2024 |
 
-#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
 En este apartado se hace presenta la ejecución del frontend del servicio FastScooter.
 
 **[Link del fronted](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
 
-![imagen fronted](/assets/front-deployment.png)
+![imagen fronted](/assets/fronted/front.png)
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 | Endpoint          | Detalles  |
 |---------------------|---------|
