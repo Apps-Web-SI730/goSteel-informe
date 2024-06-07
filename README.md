@@ -270,6 +270,11 @@ permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcom
     - [5.3.2. Registro de Entrevistas]()
     - [5.3.3. Evaluaciones según heurísticas]()
 - [5.4. Video About-the-Product]()
+- [Conclusiones]()
+    - [Conclusiones y recomendaciones]()
+- [Video About-the-Team]()
+- [Bibliografía]()
+- [Anexos]()
 
 ---
 
