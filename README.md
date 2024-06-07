@@ -3337,7 +3337,7 @@ Implementación del Landing Page acorde con las User Stories.
 | goSteel-FastScooter-Frontend | main | c99c14a | feat: add features |-| 07/06/2024|
 | goSteel-FastScooter-Frontend | main | 560ff9d | fix: multiple components| - i18n<br>- default view<br>- routes| 07/06/2024|
 | goSteel-FastScooter-Frontend | main | 681f6fb | feat: add internalization terms |-| 07/06/2024 |
-| goSteel-FastScooter-Frontend | main | fd99771 | feat: add scooter-purchase and update routes  | - | 06/06/2024 |
+| goSteel-FastScooter-Frontend | main | fd99771 | feat: add scooter-purchase and update routes  | - | 07/06/2024 |
 | goSteel-FastScooter-Frontend | main | db5bc31 | feat: add internalization terms |-| 07/06/2024 |
 | goSteel-FastScooter-Frontend | main | 672abd4 | feat: add features | - | 07/06/2024 |
 | goSteel-FastScooter-Backend | main | 3b9f786 | feat: add features | - | 07/06/2024 |
@@ -3356,12 +3356,17 @@ Implementación del Landing Page acorde con las User Stories.
 
 | Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|------------------------------|---------------------|--------------------|
-| acceptance-test-goSteel | main | 9da61c4 | feat: Acceptance_test_01 | - | 07/06/2024 |
-| acceptance-test-goSteel | main | 370035e | feat: Acceptance_test_02 |-| 07/06/2024|
-| acceptance-test-goSteel | main | 5c4c96c | feat: Acceptance_test_03   | -                   | 07/05/2024         |
-| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_04              | -                   | 01/05/2024         |
-| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_05      | -                   | 01/05/2024         |
-| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_06     | -                   | 01/05/2024         |
+| acceptance-test-goSteel | main | 9da61c4 | feat: add feature 15 test | usability function | 07/06/2024 |
+| acceptance-test-goSteel | main | 370035e | feat: add feature 14 test |- filter search<br>- features like: model, brand, type, color, price...| 07/06/2024|
+| acceptance-test-goSteel | main | 5c4c96c | feat: add feature 13 test |- delete scooter reserved<br>- visualization<br>- functionality| 07/06/2024 |
+| acceptance-test-goSteel | main | 91859b4 | feat: add feature 12 test |- btn call to action (rent now, sidebar, router-links)<br>- show functionalities| 07/06/2024 |
+| acceptance-test-goSteel | main | be9d381 | fix: add more detauls about feature 10-11 tests|- i18n internalization feature<br>- fixing terms| 07/06/2024 |
+| acceptance-test-goSteel | main | 203da35 | feat: add feature 11 test | - feature: change language<br>- all aplication web<br>- terms update | 07/06/2024 |
+| acceptance-test-goSteel | main | 61e399 | feat: add feature 10 test | - edit profile<br>- update profile<br>- cancel edit | 07/06/2024 |
+| acceptance-test-goSteel | main | ec7bc0e | feat: add feature 9 test | - add scooter to the head favorites | 07/06/2024 |
+| acceptance-test-goSteel | main | 80da8e0 | feat: add feature 8 test | - function add time and hour for each scooter id | 07/06/2024 |
+| acceptance-test-goSteel | main | 90b7fb5 | feat: add feature 7 test | terms add | 07/06/2024 |
+| acceptance-test-goSteel | main | d447753 | feat: add feature 7 test | feature: add payment method | 07/06/2024 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
