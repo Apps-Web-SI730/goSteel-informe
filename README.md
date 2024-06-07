@@ -3120,9 +3120,9 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 ![controbution](/assets/insights/contribution-front.png)
 ![network](/assets/insights/network-front-tp.png)
 
-### 5.3.2. Sprint 3
+### 5.2.3. Sprint 3
 
-#### 5.3.2.1. Sprint Planning 3
+#### 5.2.3.1. Sprint Planning 3
 
 | Sprint #                         | 3                                                                                                                                                                            | 
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
@@ -3139,7 +3139,7 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | Sprint 3 - Velocity              | El equipo puede aceptar 47 Story Points                                                                                                                                      |
 | Sprint 3 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 104 Story Points                                                                                                       |
 
-#### 5.3.2.2. Sprint Backlog 3
+#### 5.2.3.2. Sprint Backlog 3
 
 Implementación del Landing Page acorde con las User Stories.
 
@@ -3330,32 +3330,35 @@ Implementación del Landing Page acorde con las User Stories.
 </tbody>
 </table>
 
-#### 5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.3.3. Development Evidence for Sprint Review
 | Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
-| goSteel-Frontend    | main    | f0553f6   | chore: apply DDD architecture                | -                   | 30/04/2024         |
-| goSteel-Frontend    | main    | 9108a10   | fix: fix router rendering pages               | -                   | 30/04/2024         |
-| goSteel-Frontend    | main    | 207b7e6   | feat: update various components               | -                   | 30/04/2024         |
-| goSteel-Frontend    | main    | c5fe5c6   | chore: add necessary files                    | -                   | 30/04/2024         |
-| goSteel-Frontend    | main    | 284d251   | feat: add scooter-purchase and update routes  | -                   | 01/05/2024         |
-| goSteel-Frontend    | main    | e327ad4   | chore: add .component extension to some files | -                   | 01/05/2024         |
-| goSteel-Frontend    | develop | 74175c4   | feat(pages): create scooter-favorites component | -                | 03/05/2024         |
-| goSteel-Frontend    | develop | cb414ca   | fix: update scooter-details component        | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | 59e162f   | feat: create scooter-details component       | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | 59e162f   | feat(pages): create scooter-favorites component | -                | 03/05/2024         |
-| goSteel-Frontend    | develop | 4951609   | feat: create scooter-booking component       | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | bcae30b   | fix: update home component (home-login)      | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | db688c7   | fix: update login-toolbar component          | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | a415f6c   | chore: update database functionality (db.json) | -                  | 03/05/2024         |
+| goSteel-FastScooter-Frontend | main | d02fee8 | feat: add components |-| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | c99c14a | feat: add features |-| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | 560ff9d | fix: multiple components| - i18n<br>- default view<br>- routes| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | 681f6fb | feat: add internalization terms |-| 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | fd99771 | feat: add scooter-purchase and update routes  | - | 06/06/2024 |
+| goSteel-FastScooter-Frontend | main | db5bc31 | feat: add internalization terms |-| 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | 672abd4 | feat: add features | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 3b9f786 | feat: add features | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | d042542 | feat: create scooter-details component | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | d28fd1a | fix: bugs dry | - | 07/06/2024|
+| goSteel-FastScooter-Backend | main | d275230 | fix: add Payment Infrastructure | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 57952f2 | fix: add PaymentResponse | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 55dade6 | fix: added request to model| - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 5f53f8c |fix: update infrastructure for favorite | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 5483a60 | fix: update favorite domain | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 19c8d2e |feat: add component for favorite response | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | cb88fbf |fix: update functions of faorite controller | - | 07/06/2024 |
 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 | Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|------------------------------|---------------------|--------------------|
-| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_01 | -                   | 01/05/2024         |
-| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_02     | -                   | 01/05/2024         |
-| acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_03   | -                   | 01/05/2024         |
+| acceptance-test-goSteel | main | 9da61c4 | feat: Acceptance_test_01 | - | 07/06/2024 |
+| acceptance-test-goSteel | main | 370035e | feat: Acceptance_test_02 |-| 07/06/2024|
+| acceptance-test-goSteel | main | 5c4c96c | feat: Acceptance_test_03   | -                   | 07/05/2024         |
 | acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_04              | -                   | 01/05/2024         |
 | acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_05      | -                   | 01/05/2024         |
 | acceptance-test-goSteel | main | 55b1e4a   | feat: Acceptance_test_06     | -                   | 01/05/2024         |
