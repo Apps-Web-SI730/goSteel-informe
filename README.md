@@ -3139,11 +3139,196 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | Sprint 3 - Velocity              | El equipo puede aceptar 47 Story Points                                                                                                                                      |
 | Sprint 3 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 104 Story Points                                                                                                       |
 
-#### 5.2.2.2. Sprint Backlog 2
+#### 5.3.2.2. Sprint Backlog 3
 
 Implementación del Landing Page acorde con las User Stories.
 
-![sprintbacklog2](/assets/sprintsbacklogs/sprint2.png)
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 3</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el backend y corrección del fronted acorde a las historias de usuario redactadas </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US001</td>
+        <td rowspan="2" valign="top">Registro de usuarios clientes en la plataforma</td>
+        <td valign="top">001.1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Validar datos, formato, manejar errores y excepciones para el registro de usuario.</td>
+        <td valign="top">5</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">001.2</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Se hace correcciones de funcionamiento y estructura del registro.</td>
+        <td valign="top">1</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US003</td>
+        <td rowspan="2" valign="top">Inicio de sesión de usuarios</td>
+        <td valign="top">003.1</td>
+        <td valign="top">Desarrollo de funcionalidad en el backend</td>
+        <td valign="top">Validaciones correspondientes a la existencia de usuario en la base de datos.</td>
+        <td valign="top">4</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">003.2</td>
+        <td valign="top">Desarrollo de funcionalidad en el fronted</td>
+        <td valign="top">Corrección de estructura y funcionamiento.</td>
+        <td valign="top">1</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US004</td>
+        <td rowspan="2" valign="top">Reserva de Scooter</td>
+        <td valign="top">004.1</td>
+        <td valign="top">Desarrollo de backend</td>
+        <td valign="top">Validaciones y restricciones de reserva de scooters </td>
+        <td valign="top">3</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">004.1</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Componentes como calendario, hora precio y adición a la lista de reservas</td>
+        <td valign="top">5</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US007</td>
+        <td rowspan="1" valign="top">Confirmación de Reserva</td>
+        <td valign="top">007</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Validaciones de regla de negocio y adición de mensaje notificado</td>
+        <td valign="top">3</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US009</td>
+        <td rowspan="1" valign="top">Rentar Scooter</td>
+        <td valign="top">009</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Validaciones de regla de negocio y conexión de procesos para la renta de scooters</td>
+        <td valign="top">3</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US010</td>
+        <td rowspan="1" valign="top">Reporte de problemas de Scooter</td>
+        <td valign="top">010</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Secciones de página de entrada para mensajes</td>
+        <td valign="top">1</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US012</td>
+        <td rowspan="1" valign="top">Buscar Scooters disponibles</td>
+        <td valign="top">012</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Adición de barra de búsqueda para scooters, endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US013</td>
+        <td rowspan="1" valign="top">Cancelación de Reserva</td>
+        <td valign="top">013</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Adición de botón de eliminación y creación de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US014</td>
+        <td rowspan="1" valign="top">Visualización de Perfil</td>
+        <td valign="top">014</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista y de endpoint</td>
+        <td valign="top">4</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US016</td>
+        <td rowspan="1" valign="top">Gestión de Pagos</td>
+        <td valign="top">016</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, dialog y de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US017</td>
+        <td rowspan="1" valign="top">Actualización de perfil</td>
+        <td valign="top">017</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">5</td>
+        <td valign="top">Carlos Adriazen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US018</td>
+        <td rowspan="1" valign="top">Marcar scooters favoritos</td>
+        <td valign="top">018</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+     <tr>
+        <td rowspan="1" valign="top">US019</td>
+        <td rowspan="1" valign="top">Reseña sobre la experiencia sobre el scooter</td>
+        <td valign="top">019</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">2</td>
+        <td valign="top">Scott Huanchanca</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US020</td>
+        <td rowspan="1" valign="top">Visualizacion de zonas de recojo y entrega de los scooters</td>
+        <td valign="top">020</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">5</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">To Do</td>
+    </tr>
+</tbody>
+</table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 | Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
