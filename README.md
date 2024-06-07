@@ -3684,31 +3684,130 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
         </tr>
 		<tr>
 			<td>1</td>
-            <td>No todas las vistas tienen </td>
+            <td>No todas las vistas tienen aplicadas i18n</td>
             <td>3</td>
-            <td></td>
+            <td>Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares</td>
 		</tr>
         <tr>
             <td>2</td>
-            <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+            <td>Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+            <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
         </tr>
 	</tbody>
 </table>
+<br>
 
 **Descripción de problemas:**
-**Problema #1**
-**Severidad:**
-**Heurística violada:**
-**Problema:**
+**Problema #1** No todas las vistas tienen aplicadas i18n
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+![alt text](assets/tb2/heuristicas/h1.png)
 **Recomendación:**
+Es fundamental mantener la coherencia en el idioma a lo largo de toda la interfaz para asegurar una experiencia de usuario fluida y profesional.
+<br>
+
+**Problema #2** Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+![alt text](assets/tb2/heuristicas/h2.png)
+**Recomendación:**
+Para abordar este problema de diseño y mejorar la experiencia del usuario, es importante asegurarse de que el footer se mantenga en la parte inferior de la ventana del navegador, independientemente de la cantidad de contenido en la página.
+<br> 
+
+**Problema #3** No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal
+“Home”.
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+![alt text](assets/tb2/heuristicas/h3.png)
+**Recomendación:**
+Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir un botón de "Home" o similar en la barra de navegación. Esto asegurará una navegación más fluida e intuitiva, facilitando el regreso a la página principal de manera rápida y eficiente.
+<br>
+
+>**Problemas levantados:**
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Estado</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>No todas las vistas tienen aplicadas i18n</td>
+            <td>Solucionado, todas las vistas presentan traducción</td>
+		</tr>
+	</tbody>
+</table>
+
+![alt](assets/tb2/heuristicas/s1.png)
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Estado</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>2</td>
+            <td>Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.</td>
+            <td>Solucionado, el footer aparece al final del contenido y solo en el home, por preferencia de visualización.</td>
+		</tr>
+	</tbody>
+</table>
+
+![alt](assets/fronted/front.png)
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Estado</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>3</td>
+            <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”.</td>
+            <td>Botón home presente en todas las vistas por que permanece en el toolbar.</td>
+		</tr>
+	</tbody>
+</table>
+
+![alt text](assets/tb2/heuristicas/s2.png)
+
 
 ## 5.4. Video About-the-product
-
-
+A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion FastScooter, compende Web Applications y primera version de Backend aun no conectados.
+![video](assets/tb2/vid/video.png)
+[Link del video](https://youtu.be/8ybvj1w0Odk)
 
 # Conclusiones
 
@@ -3735,6 +3834,8 @@ Es por ello que para evitar estos porblemas recomendamos:
 
 ### Video About-the-Team
 
+
+
 # Bibliografía
 
 Ecobnb. (2022). *Todo lo que tienes que saber sobre los medios de transporte sostenibles en el turismo.* Recuperado de **[Ecobnb](https://es.ecobnb.com/blog/2022/09/medios-transporte-sostenibles-turismo/)** [Consulta: 28 de marzo del 2024]
@@ -3753,3 +3854,5 @@ Recuperado de **[Stakeholders](https://stakeholders.com.pe/medio-ambiente/delive
 **[TB1 Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EV5-l-fRi4lGuuvSpcI40s4BpW2ckILJewAtCe5U2nNAaQ?e=qvHLDx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
 
 **[TP Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EWf0atsMo3xGgsvQ8v9WWW8BT6CngTxdN07i6DnuUG8D1g?e=hccc2I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+**[TB2 Exposición]()**
