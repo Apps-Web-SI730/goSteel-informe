@@ -2864,7 +2864,7 @@ herramientos son las siguientes:
 
 Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder
 trabajar de forma colaborativa. Para ello, se creó una Github
-Organizacion: [Apps Web SI730](https://github.com/upc-2023-GreatMinds-SW51-Web)
+Organizacion: [Apps Web SI730](https://github.com/Apps-Web-SI730)
 
 **Repositorio Informe:** [goSteel-informe](https://github.com/Apps-Web-SI730/goSteel-informe)
 
