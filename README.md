@@ -93,6 +93,12 @@ Junio del 2024
             <td>Sharon Antuanet Ivet Barrial Marin</td>
             <td>Se realizaron todos los puntos correspondientes a las correcciones fronted. Se realizó el backend y sus componentes, se mostró el funcionamiento de ambas al mismo tiempo. Además de la dedacción del informe y la distribución de ramas en todo el equipo. Asimismo se realizó la validación del funcionamiento según cada segmento objetivo mencionado en este proyecto.</td>
 		</tr>
+        <tr>
+			<td>4.00</td>
+            <td>26/06/2024</td>
+            <td>Sharon Antuanet Ivet Barrial Marin</td>
+            <td>Se realizaron los puntos correspondientes para la culminación  de un fronted cumpliendo con las heurísticas y la funcionalidad intuitiva y fácil de manejar. Se terminó por realizar todos los endpoints necesarios para el backend y sus componentes. Asimismo, se realizó el despliegue tanto del front, de la base de datos y el backend. Además de la redacción, corrección y la distribución de ramas en todo el equipo para el informe. Asimismo se realizó la validación del funcionamiento según cada segmento objetivo mencionado en este proyecto. Por último, también se hizo la unión del front con el back haciendo uso de los endpoints.</td>
+		</tr>
 	</tbody>
 </table>
 
