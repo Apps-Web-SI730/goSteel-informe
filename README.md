@@ -1079,6 +1079,8 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 | Thinking  | Evaluando la conveniencia y costos                                      | Considerando la fiabilidad y disponibilidad del scooter reservado     | Planificando la ruta y considernado la seguridad       | Preocupandose por los terminos y condiciones de devolucion | Reflexionando sobre la calidad del servicio y el scooter utilizado   |
 | Feeling   | Frustracion por la falta de informacion clara y actualizada             | Inseguridad sobre si el scooter estara disponible al llegar           | Emocion por la experiencia de conduccion y la aventura | Satisfecho si la experiencia general fue positiva          | Esperando que su opinion influya en futuros usuarios y en la empresa |
 
+<br>
+
 > **Segmento Objetivo 2: Empresas deliverys**
 
 | Escenario | Adquisicion de scooters                        | Asignacion de scooters                         | Mantenimiento de scooters                                    | 
@@ -1094,6 +1096,11 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 - Experiencia de usuario: La interacción y percepción de los clientes al utilizar los productos o servicios de la empresa.
 - Plataforma centralizada: Se refiere a una única interfaz o sistema donde los usuarios pueden acceder a todas las funciones relacionadas con el alquiler de scooters eléctricos, como reservas, pagos y seguimiento de rutas.
 - Flota: Conjunto de scooters que se encuentran desplegados al rededor de la ciudad listos para ser usados por los usuarios.
+- Scooters: Producto que es el enfoque de la existencia de nuetsra aplicación.
+- Renta: Acción de adquirir scooters en FastScooters.
+- Reserva: Acción posterior de rentar que almacena los scooters rentados para que el usuario pueda visualizarlos.
+- Reporte: acción que permite a los usuarios avisar sobre algún problema, comentario o feedback del aplicativo.
+- Pago: Pago de renta de scooters.
 
 # Capítulo III: Requirements Specification
 
