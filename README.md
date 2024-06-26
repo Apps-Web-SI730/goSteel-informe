@@ -147,8 +147,24 @@ Planificar el alcance y objetivo del Sprint 3
 Realizar el sprint backlog 3 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend
 Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 
-![alt text](image.png)
-![alt text](image-2.png)
+![alt text](assets/sprint4/insights/pulse-main.png)
+![contributions](assets/sprint4/insights/commits-main.png)
+![network](assets/sprint4/insights/network-main.png)
+
+TF: Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de Github dentro de la organización del equipo:
+
+Link de repositorio Github: (https://github.com/Apps-Web-SI730/goSteel-informe.git)
+
+Para la elaboración del informe se realizaron actividades tales como: -Corregir las observaciones brindadas, tales como: corregir el fronted, añadir elementos necesarios al backend y por último la unión en cuanto a funcionamiento dle fronted y el backend.
+
+Planificar el alcance y objetivo del Sprint 4
+Realizar el sprint backlog 4 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend
+Realizar los puntos correspondientes al Sprint 3, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+
+![alt text]()
+![contributions]()
+![network]()
+
 
 ---
 
