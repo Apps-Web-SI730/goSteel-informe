@@ -359,59 +359,59 @@ eficiente y ecológica que les permita optimizar sus rutas y promover un futuro 
 
 <img src="./assets/profile-sharon.png" alt="Sharon Antuanet Ivet Barrial Marin" width="200" height="200">
 
-Nombre completo: Sharon Antuanet Ivet Barrial Marin
+**Nombre completo:** Sharon Antuanet Ivet Barrial Marin
 
-Código de estudiante: U202114900
+**Código de estudiante:** U202114900
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy una estudiante que se caracteriza por poseer cualidades como la perseverencia, el compañerismo y la
+**Acerca de mí:** Soy una estudiante que se caracteriza por poseer cualidades como la perseverencia, el compañerismo y la
 comunicación interpersonal. Además de tener conocimientos en diversos lenguajes de programación (Python, C++, C#...),
 también tengo habilidades en la edición de fotos y videos, y en el enfoque al marketing digital. Espero que estas pocas
 cualidades sirvan como aporte al proyecto durante el presente ciclo y curso.
 
 <img src="./assets/profile-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
 
-Nombre completo: Pietro Gerardo Minaya Mundines
+**Nombre completo:** Pietro Gerardo Minaya Mundines
 
-Código de estudiante: U201718387
+**Código de estudiante:** U201718387
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
+**Acerca de mí:** Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 <img src="./assets/profile-arturo.png" alt="Carlos Arturo Adrianzén Flores" width="200" height="200">
 
-Nombre completo: Carlos Arturo Adrianzén Flores
+**Nombre completo:** Carlos Arturo Adrianzén Flores
 
-Código de estudiante: U202215705
+**Código de estudiante:** U202215705
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC, curso el 5to ciclo. Me gusta jugar fútbol y tocar guitarra. Respecto al trabajo
+**Acerca de mí:** Soy estudiante de la UPC, curso el 5to ciclo. Me gusta jugar fútbol y tocar guitarra. Respecto al trabajo
 en equipo espero poder ayudar con todas mis capacidades. Me considero optimista y alegre.
 
 <img src="./assets/profile-scott.jpg" alt="Scott Jacobo Huachaca Advincula" width="200" height="200">
 
-Nombre completo: Scott Jacobo Huachaca Advincula
+**Nombre completo:** Scott Jacobo Huachaca Advincula
 
-Código de estudiante: U201914294
+**Código de estudiante:** U201914294
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan
+**Acerca de mí:** Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan
 como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que
 utilizamos a diario, como las redes sociales o aplicaciones de productividad.
 
 <img src="./assets/yo.jpeg" alt="Josue Hidalgo" width="200" height="200">
 
-Nombre completo: Josue Hidalgo Bustamante
+**Nombre completo:** Josue Hidalgo Bustamante
 
-Código de estudiante: U202119880
+**Código de estudiante:** U202119880
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC,me gusta mucho la tecnologia y los videojuegos
+**Acerca de mí:** Soy estudiante de la UPC,me gusta mucho la tecnologia y los videojuegos
 
 ## 1.2 Solution Profile
 
@@ -939,9 +939,6 @@ deficiente. Prioriza la comodidad, seguridad y autonomía al alquilar un scooter
 de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real sobre la disponibilidad. Destaca la
 importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva
 para emergencias.
-
-
-
 
 **Entrevistado: 3**
 
