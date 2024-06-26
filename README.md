@@ -1684,43 +1684,25 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">US019</td>
             <td colspan="1">Calificación de los scooters disponibles</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la aplicación 
+            <strong>Como</strong> usuario de la aplicación  
             <br>
-            <strong>quiero</strong> poder dejar una reseña sobre mi experiencia con un scooter
+            <strong>quiero</strong> poder ver la calificación del scooter de forma fácil
             <br>
-            <strong>para</strong> compartir mi opinión con otros usuarios y ayudarles a tomar decisiones informadas
+            <strong>para</strong> ver cual scooter rentar
             </td>
             <td colspan="5">
-            <strong>E01: Dejar una reseña después de usar un scooter</strong>
+            <strong>E01: Visualización de calificación de scooters</strong>
             <br><br>
-            <strong>Caso 01: Permitir a los usuarios dejar una reseña después de usar un scooter</strong>
+            <strong>Caso 01: La calificación de los scooters son visibles y fáciles de interpretar</strong>
             <br>
-            <strong>Dado que</strong> los usuarios han utilizado un scooter para realizar un viaje
+            <strong>Dado que</strong> los usuarios quieren saber cual es el mejor scooter para rentar 
             <br>
-            <strong>Cuando</strong> un usuario finaliza su viaje con un scooter
+            <strong>Cuando</strong> un usuario busca un scooter 
             <br>
-            <strong>Entonces</strong> el sistema proporciona una funcionalidad fácil de usar que permita a los usuarios dejar reseñas después de utilizar un scooter 
+            <strong>Y</strong> un usuario ve los detalles del scooter
+            <br>
+            <strong>Entonces</strong> el sistema muestra la cacilificación del scooter mediante estrellas.
             <br><br>
-            <strong>E02: Calificación de la experiencia</strong>
-            <br><br>
-            <strong>Caso 01: Permitir a los usuarios calificar su experiencia con el scooter</strong>
-            <br>
-            <strong>Dado que</strong> los usuarios desean proporcionar una evaluación rápida de su experiencia
-            <br>
-            <strong>Cuando</strong> un usuario deja una reseña sobre su experiencia con el scooter
-            <br>
-            <strong>Entonces</strong> el sistema muestra a los usuarios la calificación de su experiencia con el scooter mediante una calificación, que puede ser en forma de estrellas o puntos numéricos
-            <br><br>
-            <strong>E03: Visualización de reseñas</strong>
-            <br><br>
-            <strong>Caso 01: Permitir a los usuarios ver las reseñas dejadas por otros usuarios</strong>
-            <br>
-            <strong>Dado que</strong> los usuarios desean tomar decisiones informadas basadas en las experiencias de otros
-            <br>
-            <strong>Cuando</strong> un usuario busca información sobre un scooter específico
-            <br>
-            <strong>Entonces</strong> el sistema muestra una lista de reseñas dejadas por otros usuarios sobre ese scooter
-            </td>
             <td colspan="1">EP008</td>
 		</tr>
         <tr>
@@ -1731,7 +1713,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>quiero</strong> poder acceder a un historial de mis reservas anteriores
             <br>
-            <strong>para</strong> tener un registro de mis viajes pasados 
+            <strong>para</strong> tener un registro de mis scooters rentados
             </td>
             <td colspan="5">
             <strong>E01:  Mostrar el apartado de historial de reservas</strong>
@@ -2025,8 +2007,36 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <tr>
 			<td>17</td>
             <td>US019</td>
-			<td></td>
-			<td>Como usuario de la aplicación quiero poder dejar una reseña sobre mi experiencia con un scooter para compartir mi opinión con otros usuarios y ayudarles a tomar decisiones informadas.</td>
+			<td>Calificación de los scooters disponibles</td>
+			<td>Como usuario de la aplicación quiero poder ver la calificación del scooter de forma fácil para ver cual scooter rentar</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>17</td>
+            <td>US021</td>
+			<td>Historial de reservas</td>
+			<td>Como usuario de la aplicación quiero poder acceder a un historial de mis reservas anteriores para tener un registro de mis scooters rentados.</td>
+			<td>5</td>
+		</tr>
+        <tr>
+			<td>18</td>
+            <td>US022</td>
+			<td>Personalizacion de la interfaz de usuario</td>
+			<td>Como usuario de la aplicación quiero poder personalizar la interfaz de usuario según mis preferencias para adaptarla a mis necesidades y mejorar mi experiencia de uso.</td>
+			<td>5</td>
+		</tr>
+        <tr>
+			<td>19</td>
+            <td>US023</td>
+			<td>Reporte de problemas de la aplicación web</td>
+			<td>Como usuario de la aplicación quiero poder reportar problemas que encuentre durante el uso de la aplicación web para informar a los administradores sobre posibles errores o situaciones que requieran atención.</td>
+			<td>5</td>
+		</tr>
+        <tr>
+			<td>20</td>
+            <td>US014</td>
+			<td>Visualizacion de perfil	</td>
+			<td>Como usuario de la aplicación quiero poder visualizar mi perfil para revisar y confirmar mis datos personales y de usuario.</td>
 			<td>3</td>
 		</tr>
 	</tbody>
