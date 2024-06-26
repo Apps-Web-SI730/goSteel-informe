@@ -3771,6 +3771,29 @@ Reseña. Mauro Perez Diaz es una persona de 70 años y tiene una empresa de Deli
 
 Reseña.Jeremy Joel quispe andia es un joven estudiante en la upc. Comenta que alquila scooters regularmente para ir a la universidad mediante distintas aplicaciones desde que ingreso a la universidad hace 2 años. La landing Page le pareció amigable y confortante, le gustó la paleta de colores. Le pareció que el formulario de contacto debería estar más completo y ser más atractivo ya que le parece importante en una landing Page. Respecto a la aplicación web opina que cumple su principal funcionalidad, pero que está un poco desorganizada y que le gustaría ver un apartado de reseñas de usuario, para poder saber a scooter escoger, ya que una  sola estrella no brinda mucha información.  La gusto el cambio de idioma. También uso la aplicación desde su tableta y menciona que todo genial. Le brinda a la aplicación un sólido 9 de 10 debido a las sugerencias que ya se mencionaron.
 
+**Entrevistado 2:** Ely Cortez
+**Edad:** 19 años
+**Distrito:** San Isidro
+**Cargo:** Estudiante universitario
+
+![transeunte2](assets/sprint4/interviews/person2.png)
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/EX9MQzlZiYlAp6FRgvDlvXYB6EFzV_03X7KXKdNicVLhJw?e=8rq5bN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Reseña. Ely Rivaldo es un joven de 19 años que busca opciones de transporte màs ràpidas y amigables, comenta que si conoce sobre el uso de scooters, pero estos le parecen algo caros. Le parecio que el producto se presento de manera correcta en la landing page y que cumple su funcion de landing page. Tambien le parece que la informacion presentada en la landing page es suficiente para entender el funcionamiento del proyecto. Comentò que es bastante agradable a la vista y que los colores son bastantas suaves, lo que hace que sea de facil manejo y lectura. Tambièn la visitò desde su celular y comentò que le pareciò bastante dinàmica su funcionamiento y no presentò errores. Le brindò a la landing page un 9 de 10, ya que considera que no es perfecta esteticamente. Considera que el proceso de renta de scooter dentro de la aplicaciòn web es bastante sencillo. Comenta que la informaciòn que se muestra en los scooters, marca, tipo, precio y color son escenciales. Le gustaria visualizar un apartado en el q se muestre como usar los scooters. El tool y el sidebar le parecen bien organizados y en general toda la informaciòn de la aplicaciòn. Actualmente no usa ninguna otra aplicaciòn de renta de scooters, pero aun asi esta le parece innovadora.
+
+**Entrevistado 3:** Mathias Mendoza
+**Edad:** 20 años
+**Distrito:** San Isidro
+**Cargo:** Estudiante universitario
+
+![transeunte3](assets/sprint4/interviews/person3.png)
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/EeVrf59s5KlGtL9R7yZQf6MBuBnvZwdeQgl3UyaLdzgI4g?e=g67OZj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Reseña. Mathias Mendoza es un joven de 20 años, que lleva buscando opciones de transporte desde que empezò sus clases universitarias,
+es decir hace 3 meses. La landing page le parece minimalista y que va a lo suyo, los colores le parecieron atractivos y la distribuciòn muy amigable. Respecto a la informaciòn que se muestra le parece suficiente y que basta para entender a que va la aplicaciòn web. Ademàs de pc, tambièn entro en celular y comentò que la experiencia fue igualmente satisfactoria y que cumpliò sus expectativas. Del 1 al 10 califica la landing page con un 9. Considera que el proceso de renta de un scooter es bastante sencillo dentro de la aplicaciòn. La informacion que se muestra de los scooters le parece bastante completa y eficaz.
+Le gustaria un apartado que muestre el precio de los scooters dependiendo del tiempo por el que se alquilen. No utiliza ninguna aplicaciòn web para rentar scooters, comenta que ha visto en las calles bicicletas para alquilar, y que estas le parecen poco atractivas y desorganizadas a comparaciòn de lo que ofrecemos.
+
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
