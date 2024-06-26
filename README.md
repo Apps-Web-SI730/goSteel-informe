@@ -145,7 +145,7 @@ Para la elaboración del informe se realizaron actividades tales como: -Corregir
 
 Planificar el alcance y objetivo del Sprint 3
 Realizar el sprint backlog 3 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend
-Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+Realizar los puntos correspondientes al Sprint 3, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 
 ![alt text](assets/sprint4/insights/pulse-main.png)
 ![contributions](assets/sprint4/insights/commits-main.png)
@@ -158,12 +158,12 @@ Link de repositorio Github: (https://github.com/Apps-Web-SI730/goSteel-informe.g
 Para la elaboración del informe se realizaron actividades tales como: -Corregir las observaciones brindadas, tales como: corregir el fronted, añadir elementos necesarios al backend y por último la unión en cuanto a funcionamiento dle fronted y el backend.
 
 Planificar el alcance y objetivo del Sprint 4
-Realizar el sprint backlog 4 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend
-Realizar los puntos correspondientes al Sprint 3, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+Realizar el sprint backlog 4 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend.
+Realizar los puntos correspondientes al Sprint 4, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights.
 
-![alt text]()
-![contributions]()
-![network]()
+![pulse](assets/sprint4/insights/pulse-tf.png)
+![contributions](assets/sprint4/insights/commits-tf.png)
+![network](assets/sprint4/insights/network-tf.png)
 
 
 ---
@@ -4033,4 +4033,6 @@ Recuperado de **[Stakeholders](https://stakeholders.com.pe/medio-ambiente/delive
 **[TP Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EWf0atsMo3xGgsvQ8v9WWW8BT6CngTxdN07i6DnuUG8D1g?e=hccc2I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
 
 **[TB2 Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/ETU-uEZH9OpPjZlQk32ZAwAB6V5vEIa5MLd4MsPqBK0vZg?e=JhOu7x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+**[TF Exposición]()**
 
