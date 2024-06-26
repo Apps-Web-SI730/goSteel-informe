@@ -3525,10 +3525,8 @@ Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend
 | Endpoint          | Detalles  |
 |---------------------|---------|
 | /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
-| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
 | /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario |
 | /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
-| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
 | /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario | 
 | /api/v1/scooter | En este endpoint se obtiene los scooters disponibles en la aplicación|
 | /api/v1/user | En este endpoint se obtiene los users registrados en la aplicación |  
@@ -3560,7 +3558,7 @@ Nuestro despliegue se ha hecho en Microsoft Azure:
 
 ![Paso para desplegar](/assets/front/microsoft-azure.jpg)
 
-De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+De esta manera el avance del Sprint 4 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
 ![Imagen del despliegue](assets/tb2/back.png)
 
 Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
@@ -3571,6 +3569,15 @@ Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sp
 
 Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
 equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+>**Front insights**
+
+![pulse](assets/sprint4/insights/front-pulse.png)
+![contribution](assets/sprint4/insights/front-contribution.png)
+![network](assets/sprint4/insights/front-network.png)
+
+
+>**Back insights**
 
 ![pulse](assets/tb2/pulse.png)
 ![controbution](assets/tb2/contribution.png)
