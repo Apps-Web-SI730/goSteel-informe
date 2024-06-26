@@ -3262,7 +3262,7 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 #### 5.2.4.1. Sprint Planning 4
 
-| Sprint #                         | 3                                                                                                                                                                            | 
+| Sprint #                         | 4                                                                                                                                                                            | 
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | **Sprint Planning Background**   | -                                                                                                                                                                            |
 | Date                             | 2024 - 06 - 26                                                                                                                                                              |
@@ -3271,11 +3271,11 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                            |
 | Attendees (to planning meeting)  | Adrianzén Flores, Carlos Arturo <br> Barrial Marin, Sharon Antuanet Ivet <br> Hidalgo Bustamante Josue Omar <br> Huachaca Advincula, Scott Jacobo <br> Minaya Mundines, Pietro Minayat |
 | Sprint 4 - Review Summary        | Se realizó la organización, visualización y ejecución del fronted. Además de deployar el servidor en Microsoft Azure. |
-| Sprint 4 - Retrospective Summary | Mejorar en puntos de la documentación del informe, añadir componentes al fronted, mejorar funcionalidades, estructura y manejo de usualibity |
+| Sprint 4 - Retrospective Summary | Mejorar en puntos de la documentación del informe, añadir componentes al fronted, mejorar funcionalidades, estructura y manejo de usualibity del fronted y el backend. |
 | **Sprint Goal & User Stories**   | - Visualización de Scooters disponibles <br> - Visualización de detalles de scooter seleccionado<br> - Registro de usuarios  <br> - Ingreso de usuarios <br> - Reserva de scooters                                                                                                                                                                             |
-| Sprint 4 Goal                    | El objetivo del presente Sprint es en desarrollar el backend y mejorar el fronted. Para unirlo y demostrar los user stories propuestos y por haber para este sprint planing.                                                    |
-| Sprint 4 - Velocity              | El equipo puede aceptar 47 Story Points                                                                                                                                      |
-| Sprint 4 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 104 Story Points                                                                                                       |
+| Sprint 4 Goal                    | El objetivo del presente Sprint es mejorar el backend y mejorar el fronted. Para unirlo y demostrar los user stories propuestos y por haber para este sprint planing.                                                    |
+| Sprint 4 - Velocity              | El equipo puede aceptar 51 Story Points                                                                                                                                      |
+| Sprint 4 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 121 Story Points                                                                                                       |
 
 #### 5.2.4.2. Sprint Backlog 4
 
