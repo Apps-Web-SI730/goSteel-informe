@@ -2864,7 +2864,7 @@ herramientos son las siguientes:
 
 Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder
 trabajar de forma colaborativa. Para ello, se creó una Github
-Organizacion: [Apps Web SI730](https://github.com/upc-2023-GreatMinds-SW51-Web)
+Organizacion: [Apps Web SI730](https://github.com/Apps-Web-SI730)
 
 **Repositorio Informe:** [goSteel-informe](https://github.com/Apps-Web-SI730/goSteel-informe)
 
@@ -3449,6 +3449,324 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 ![controbution](assets/tb2/contribution.png)
 ![network](assets/tb2/network.png)
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint #                         | 3                                                                                                                                                                            | 
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Sprint Planning Background**   | -                                                                                                                                                                            |
+| Date                             | 2024 - 06 - 26                                                                                                                                                              |
+| Time                             | 08:38 AM                                                                                                                                                                        |
+| Location                         | Virtual via Discord                                                                                                                                                          |
+| Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                            |
+| Attendees (to planning meeting)  | Adrianzén Flores, Carlos Arturo <br> Barrial Marin, Sharon Antuanet Ivet <br> Hidalgo Bustamante Josue Omar <br> Huachaca Advincula, Scott Jacobo <br> Minaya Mundines, Pietro Minayat |
+| Sprint 4 - Review Summary        | Se realizó la organización, visualización y ejecución del fronted. Además de deployar el servidor en Microsoft Azure. |
+| Sprint 4 - Retrospective Summary | Mejorar en puntos de la documentación del informe, añadir componentes al fronted, mejorar funcionalidades, estructura y manejo de usualibity |
+| **Sprint Goal & User Stories**   | - Visualización de Scooters disponibles <br> - Visualización de detalles de scooter seleccionado<br> - Registro de usuarios  <br> - Ingreso de usuarios <br> - Reserva de scooters                                                                                                                                                                             |
+| Sprint 4 Goal                    | El objetivo del presente Sprint es en desarrollar el backend y mejorar el fronted. Para unirlo y demostrar los user stories propuestos y por haber para este sprint planing.                                                    |
+| Sprint 4 - Velocity              | El equipo puede aceptar 47 Story Points                                                                                                                                      |
+| Sprint 4 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 104 Story Points                                                                                                       |
+
+#### 5.2.4.2. Sprint Backlog 4
+
+Implementación del Landing Page acorde con las User Stories.
+
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 4</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el backend y corrección del fronted acorde a las historias de usuario redactadas </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US001</td>
+        <td rowspan="2" valign="top">Registro de usuarios clientes en la plataforma</td>
+        <td valign="top">001.1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Validar datos, formato, manejar errores y excepciones para el registro de usuario.</td>
+        <td valign="top">5</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">001.2</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Se hace correcciones de funcionamiento y estructura del registro.</td>
+        <td valign="top">1</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US003</td>
+        <td rowspan="2" valign="top">Inicio de sesión de usuarios</td>
+        <td valign="top">003.1</td>
+        <td valign="top">Desarrollo de funcionalidad en el backend</td>
+        <td valign="top">Validaciones correspondientes a la existencia de usuario en la base de datos.</td>
+        <td valign="top">4</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">003.2</td>
+        <td valign="top">Desarrollo de funcionalidad en el fronted</td>
+        <td valign="top">Corrección de estructura y funcionamiento.</td>
+        <td valign="top">1</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US004</td>
+        <td rowspan="2" valign="top">Reserva de Scooter</td>
+        <td valign="top">004.1</td>
+        <td valign="top">Desarrollo de backend</td>
+        <td valign="top">Validaciones y restricciones de reserva de scooters </td>
+        <td valign="top">3</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">004.1</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Componentes como calendario, hora precio y adición a la lista de reservas</td>
+        <td valign="top">5</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US007</td>
+        <td rowspan="1" valign="top">Confirmación de Reserva</td>
+        <td valign="top">007</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Validaciones de regla de negocio y adición de mensaje notificado</td>
+        <td valign="top">3</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US009</td>
+        <td rowspan="1" valign="top">Rentar Scooter</td>
+        <td valign="top">009</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Validaciones de regla de negocio y conexión de procesos para la renta de scooters</td>
+        <td valign="top">3</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US010</td>
+        <td rowspan="1" valign="top">Reporte de problemas de Scooter</td>
+        <td valign="top">010</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Secciones de página de entrada para mensajes</td>
+        <td valign="top">1</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US012</td>
+        <td rowspan="1" valign="top">Buscar Scooters disponibles</td>
+        <td valign="top">012</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Adición de barra de búsqueda para scooters, endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US013</td>
+        <td rowspan="1" valign="top">Cancelación de Reserva</td>
+        <td valign="top">013</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Adición de botón de eliminación y creación de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US014</td>
+        <td rowspan="1" valign="top">Visualización de Perfil</td>
+        <td valign="top">014</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista y de endpoint</td>
+        <td valign="top">4</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US016</td>
+        <td rowspan="1" valign="top">Gestión de Pagos</td>
+        <td valign="top">016</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, dialog y de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US017</td>
+        <td rowspan="1" valign="top">Actualización de perfil</td>
+        <td valign="top">017</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">5</td>
+        <td valign="top">Carlos Adriazen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US018</td>
+        <td rowspan="1" valign="top">Marcar scooters favoritos</td>
+        <td valign="top">018</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+     <tr>
+        <td rowspan="1" valign="top">US019</td>
+        <td rowspan="1" valign="top">Reseña sobre la experiencia sobre el scooter</td>
+        <td valign="top">019</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">2</td>
+        <td valign="top">Scott Huanchanca</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US020</td>
+        <td rowspan="1" valign="top">Visualizacion de zonas de recojo y entrega de los scooters</td>
+        <td valign="top">020</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">5</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">To Do</td>
+    </tr>
+</tbody>
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+| Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
+| goSteel-FastScooter-Frontend | main | d02fee8 | feat: add components |-| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | c99c14a | feat: add features |-| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | 560ff9d | fix: multiple components| - i18n<br>- default view<br>- routes| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | 681f6fb | feat: add internalization terms |-| 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | fd99771 | feat: add scooter-purchase and update routes  | - | 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | db5bc31 | feat: add internalization terms |-| 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | 672abd4 | feat: add features | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 3b9f786 | feat: add features | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | d042542 | feat: create scooter-details component | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | d28fd1a | fix: bugs dry | - | 07/06/2024|
+| goSteel-FastScooter-Backend | main | d275230 | fix: add Payment Infrastructure | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 57952f2 | fix: add PaymentResponse | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 55dade6 | fix: added request to model| - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 5f53f8c |fix: update infrastructure for favorite | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 5483a60 | fix: update favorite domain | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 19c8d2e |feat: add component for favorite response | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | cb88fbf |fix: update functions of faorite controller | - | 07/06/2024 |
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
+| acceptance-test-goSteel | main | 9da61c4 | feat: add feature 15 test | usability function | 07/06/2024 |
+| acceptance-test-goSteel | main | 370035e | feat: add feature 14 test |- filter search<br>- features like: model, brand, type, color, price...| 07/06/2024|
+| acceptance-test-goSteel | main | 5c4c96c | feat: add feature 13 test |- delete scooter reserved<br>- visualization<br>- functionality| 07/06/2024 |
+| acceptance-test-goSteel | main | 91859b4 | feat: add feature 12 test |- btn call to action (rent now, sidebar, router-links)<br>- show functionalities| 07/06/2024 |
+| acceptance-test-goSteel | main | be9d381 | fix: add more detauls about feature 10-11 tests|- i18n internalization feature<br>- fixing terms| 07/06/2024 |
+| acceptance-test-goSteel | main | 203da35 | feat: add feature 11 test | - feature: change language<br>- all aplication web<br>- terms update | 07/06/2024 |
+| acceptance-test-goSteel | main | 61e399 | feat: add feature 10 test | - edit profile<br>- update profile<br>- cancel edit | 07/06/2024 |
+| acceptance-test-goSteel | main | ec7bc0e | feat: add feature 9 test | - add scooter to the head favorites | 07/06/2024 |
+| acceptance-test-goSteel | main | 80da8e0 | feat: add feature 8 test | - function add time and hour for each scooter id | 07/06/2024 |
+| acceptance-test-goSteel | main | 90b7fb5 | feat: add feature 7 test | terms add | 07/06/2024 |
+| acceptance-test-goSteel | main | d447753 | feat: add feature 7 test | feature: add payment method | 07/06/2024 |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En este apartado se hace presenta la ejecución del frontend del servicio FastScooter.
+
+**[Link del fronted](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+
+![imagen fronted](/assets/fronted/front.png)
+
+**[Link del backend](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+
+![imagen fronted](/assets/tb2/back.png)
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend.
+
+| Endpoint          | Detalles  |
+|---------------------|---------|
+| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
+| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
+| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario |
+| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
+| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
+| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario | 
+| /api/v1/scooter | En este endpoint se obtiene los scooters disponibles en la aplicación|
+| /api/v1/user | En este endpoint se obtiene los users registrados en la aplicación |  
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Primero, seleccionamos la configuración: "FastScooter.API: http"
+![Imagen de run configuration](assets/tb2/configuración.png)
+
+Ejecutamos el comando “run” representado por un ícono de play: 
+
+![Imagen de terminal local del proyecto](assets/tb2/run.png)
+
+Demostración de las capas creadas:
+
+![Imagen de carpeta local src del proyecto](assets/tb2/capas.png)
+
+Visualización de los endpoints:
+
+![Imagen de las rutas](assets/tb2/endpoints.png)
+
+Visualización de no errores en la terminal:
+
+![Imagen del comando en la terminal](assets/tb2/termianl.png)
+
+Nuestro despliegue se ha hecho en Microsoft Azure:
+
+![Paso para desplegar](/assets/front/microsoft-azure.jpg)
+
+De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+![Imagen del despliegue](assets/tb2/back.png)
+
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
+
+[Link del backend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
+equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![pulse](assets/tb2/pulse.png)
+![controbution](assets/tb2/contribution.png)
+![network](assets/tb2/network.png)
+
 ## 5.3.Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
@@ -3643,8 +3961,6 @@ Reseña.
 [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/EZjcL4lYq0NDvE6aVXo_B7gBcD4ZVWSKqNLViMV_Xkv1tw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SJdYW3)
 
 Reseña.Jeremy Joel quispe andia es un joven estudiante en la upc. Comenta que alquila scooters regularmente para ir a la universidad mediante distintas aplicaciones desde que ingreso a la universidad hace 2 años. La landing Page le pareció amigable y confortante, le gustó la paleta de colores. Le pareció que el formulario de contacto debería estar más completo y ser más atractivo ya que le parece importante en una landing Page. Respecto a la aplicación web opina que cumple su principal funcionalidad, pero que está un poco desorganizada y que le gustaría ver un apartado de reseñas de usuario, para poder saber a scooter escoger, ya que una  sola estrella no brinda mucha información.  La gusto el cambio de idioma. También uso la aplicación desde su tableta y menciona que todo genial. Le brinda a la aplicación un sólido 9 de 10 debido a las sugerencias que ya se mencionaron.
-
-
 
 
 ### 5.3.3. Evaluaciones según heurísticas
