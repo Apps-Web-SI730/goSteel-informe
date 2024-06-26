@@ -93,6 +93,12 @@ Junio del 2024
             <td>Sharon Antuanet Ivet Barrial Marin</td>
             <td>Se realizaron todos los puntos correspondientes a las correcciones fronted. Se realizó el backend y sus componentes, se mostró el funcionamiento de ambas al mismo tiempo. Además de la dedacción del informe y la distribución de ramas en todo el equipo. Asimismo se realizó la validación del funcionamiento según cada segmento objetivo mencionado en este proyecto.</td>
 		</tr>
+        <tr>
+			<td>4.00</td>
+            <td>26/06/2024</td>
+            <td>Sharon Antuanet Ivet Barrial Marin</td>
+            <td>Se realizaron los puntos correspondientes para la culminación  de un fronted cumpliendo con las heurísticas y la funcionalidad intuitiva y fácil de manejar. Se terminó por realizar todos los endpoints necesarios para el backend y sus componentes. Asimismo, se realizó el despliegue tanto del front, de la base de datos y el backend. Además de la redacción, corrección y la distribución de ramas en todo el equipo para el informe. Asimismo se realizó la validación del funcionamiento según cada segmento objetivo mencionado en este proyecto. Por último, también se hizo la unión del front con el back haciendo uso de los endpoints.</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -131,6 +137,35 @@ Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidec
 ![contributions](/assets/insights/tp-contri.png)
 ![network](assets/n2.png)
 
+TB2: Se han desarrollado las actividades correspondientes para la entrega TB2 en el siguiente repositorio de Github dentro de la organización del equipo:
+
+Link de repositorio Github: (https://github.com/Apps-Web-SI730/goSteel-informe.git)
+
+Para la elaboración del informe se realizaron actividades tales como: -Corregir las observaciones brindadas, tales como: corregir el diagrama de base de datos, corregir la nomenclatura de los archivos, corregir nomenclatura de componentes del frontend, corregir tablas de user stories.
+
+Planificar el alcance y objetivo del Sprint 3
+Realizar el sprint backlog 3 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend
+Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+
+![alt text](assets/sprint4/insights/pulse-main.png)
+![contributions](assets/sprint4/insights/commits-main.png)
+![network](assets/sprint4/insights/network-main.png)
+
+TF: Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de Github dentro de la organización del equipo:
+
+Link de repositorio Github: (https://github.com/Apps-Web-SI730/goSteel-informe.git)
+
+Para la elaboración del informe se realizaron actividades tales como: -Corregir las observaciones brindadas, tales como: corregir el fronted, añadir elementos necesarios al backend y por último la unión en cuanto a funcionamiento dle fronted y el backend.
+
+Planificar el alcance y objetivo del Sprint 4
+Realizar el sprint backlog 4 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend
+Realizar los puntos correspondientes al Sprint 3, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+
+![alt text]()
+![contributions]()
+![network]()
+
+
 ---
 
 # Student Outcome
@@ -144,8 +179,8 @@ permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcom
 
 | Criterio específico                                                                                                                                  | Acciones realizadas                                                                                     | Conclusiones                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Barrial Marin, Sharon Antuanet Ivet** <br> ***TB1:*** Resolución de los segmentos objetivos, antecedentes y problemática, diseño de entrevistas para el segmento objetivo de empresarios, registro de entrevista, análisis de entrevista.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features.<br> ***TB2:*** Para esta entrega, realicé una serie de correcciones importantes en el frontend y también hice aportes significativos en el desarrollo del backend.<br><br> **Huachaca Advincula Scott Jacobo** <br> ***TB1:*** Lean UX Assumptions, Entrevista y Registro de Entrevista para Dueños de una Empresa de Delivery.<br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” <br><br>  **Josue Omar,Hidalgo Bustamante** <br> ***TB1:*** La identificación de los segmentos objetivo, la contextualización histórica y la descripción de los problemas existentes, junto con la elaboración de cuestionarios para entrevistar a empresarios específicos, el registro detallado de estas entrevistas, y el análisis de las respuestas para encontrar patrones comunes y soluciones potenciales, son pasos esenciales en este proceso.<br> ***TP:*** En el contexto de la entrega parcial, se resaltan como pasos esenciales la implementación de la Page/scooter-add, la addicción de dos entrevistas para ambos segmentos, así como la actualización y corrección del capítulo 1. **TB2:** corregí los capítulos anteriores y añadí las partes faltantes del frontend, además de las correcciones observadas en clase. En el capítulo 5, realicé la sección de Favorites,Rent y Scooter, como parte de la corrección del frontend, y desarrollé la sección de employee y profile como parte del backend. <br><br> **Minaya Mundines Pietro Gerardo** <br> ***TB1:*** Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetiv 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto. <br> ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br><br>                                                                                                                                                | ***TB1:*** Se ha evidenciado una fuerte capacidad de comunicación oral en el desarrollo de nuestro proyecto de ingeniería. Cada uno de los integrantes ha participado activamente en la exposición grupal y presentación del TB1, así como en entrevistas a nuestros segmentos específicos de usuarios. También hemos contribuido en la definición y propuesta del tema del proyecto, en la participación en el Sprint Planning I, en la preparación de ceremonias del sprint y en la creación de materiales visuales. Hemos utilizado una comunicación objetiva y adaptada a diferentes audiencias de especialidades y niveles jerárquicos, asegurando la claridad y la efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra habilidad para comunicarnos efectivamente ha sido clave en el éxito del proyecto y en la cumplimiento del criterio correspondiente del Student Outcome 5 establecido. <br> ***TP:*** Durante el desarrollo de nuestro proyecto de ingeniería todos los miembros del equipo han participado activamente tanto en la corrección de los errores para la TP como en la corrección de las entrevistas con nuestros segmentos específicos de usuarios. Asimismo, del diagrama de clases y la base de datos.  <br><br> ***TB2:*** Durante el desarrollo del proyecto en esta penúltima etapa todos los miembros del equipo participaron activamente en la realización de correcciones tanto en el backend como en el fornted. Se creó más del 80% de los endpoints necesitados y se probó su funcionamiento junto con el fronted.   | 
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.  | ***Barrial Marin Sharon Antuanet Ivet*** <br> ***TB1:*** User tax matrix, user stories, product backlog, style guidelines, landing page wireframe, landing page mock-up, class diagrams, class dictionary, codificación del landing page.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features.<br> ***TB2:*** En esta entrega, tuve la oportunidad de exponer en detalle lo que hemos resuelto a lo largo de este trabajo, ofrecer una explicación exhaustiva de la aplicación web de FastScooter y presentar una reflexión profunda sobre el equipo, "About the Team". <br><br> ***Huachaca Advincula Scott Jacobo*** <br> ***TB1:*** Empaty Mapping, As-is Scenario Mapping, To-be Scenario Mapping, User Stories, Organization Systems, Web Applications Wireflow Diagrams, Database Diagram. <br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” <br><br> ***Hidalgo Bustamante Josue Omar*** <br> ***TB1:*** Lean UX Process, User Personas,User Journey Mapping,Impact Mapping,Labeling Systems,Web Applications Mock-ups,User Stories, Entrevistas ,Web Applications Prototyping. <br> ***TP:*** Para la entrega del trabajo Parcial, es fundamental tener conocimientos en al menos un sector empresarial o dominio de aplicación de soluciones de software. **TB2:** hice ajustes en la sección del frontend correspondiente al bounded context Employee, continuando con el desarrollo del código en GitHub usando GitFlow y Conventional Commits. En el backend, implementé el bounded context Employee, relacionado con el API de  Favorites,Rent y Scooter, desarrollando los métodos CRUD y Gets necesarios para el correcto funcionamiento de la aplicación frontend. En ambos ajustes, tanto de frontend como de backend, apliqué el enfoque de Domain Driven Design, organizando las carpetas según cada bounded context. Además, seguí asistiendo a las reuniones y contribuyendo con mis ideas en cada una de ellas. <br><br> ***Minaya Mundines Pietro Gerardo*** <br> ***TB1:*** Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page . <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure  <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.  ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br><br>            | ***TB1:*** Cada uno de los integrantes ha contribuido en la redacción de diferentes secciones del trabajo, como los capítulos I - V, que abarcan artefactos como User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. También se ha trabajado en la elaboración de la presentación en formato de archivo .pptx. La comunicación escrita ha sido realizada con objetividad y dirigida a audiencias de diferentes especialidades y niveles jerárquicos, garantizando la claridad y efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra capacidad en conocimiento de al menos un dominio ha sido un elemento clave en el desarrollo exitoso del proyecto y en el cumplimiento del Student Outcome 5 establecido. <br> ***TP:*** Se ha actualizado los artefactos desde el capítulos I hasta el V, que incluyen elementos como el User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. Además, hemos colaborado en la creación de la presentación en formato de archivo .pptx. Nuestra comunicación escrita ha sido precisa y dirigida a audiencias con diferentes niveles de especialización y jerarquía, asegurando la claridad y eficacia en la transmisión de nuestras ideas y resultados. En resumen, nuestra capacidad en al menos un área de conocimiento ha sido fundamental en el éxito del proyecto y en el logro del Student Outcome 5 establecido. <br><br> ***TB2:*** Para esta penúltima etapa del proyecto, nos enfocamos en la transmisión de nuestras ideas a través de una comunicación oral efectiva. Esta fase fue crucial en las entrevistas realizadas a nuestros usuarios para comprobar y validar el prototipo de nuestra aplicación web y su funcionamiento. Mediante estas entrevistas obtuvimos retroalimentación valiosa y confirmamos que las funcionalidades desarrolladas cumplían con las expectativas y necesidades de los usuarios. Este proceso de validación fue esencial para asegurar la calidad y la utilidad de la aplicación antes de su lanzamiento final. Gracias a la comunicación clara y precisa durante estas entrevistas, logramos verificar que se cumplieran los objetivos del proyecto, alineándonos así con el logro establecido en el Student Outcome 5.    |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Barrial Marin, Sharon Antuanet Ivet** <br> ***TB1:*** Resolución de los segmentos objetivos, antecedentes y problemática, diseño de entrevistas para el segmento objetivo de empresarios, registro de entrevista, análisis de entrevista.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features.<br> ***TB2:*** Para esta entrega, realicé una serie de correcciones importantes en el frontend y también hice aportes significativos en el desarrollo del backend.<br>***TF:*** Resolución de las correcciones necesarias en la documentación, así como en los componentes de frontend y backend. También se registró la revisión del sprint 4, documentando todas las observaciones y aprendizajes obtenidos. Además, se llevaron a cabo pruebas exhaustivas de las funcionalidades establecidas en este proyecto, asegurando que cada feature cumpla con los requisitos y estándares de calidad definidos. <br><br> **Huachaca Advincula Scott Jacobo** <br> ***TB1:*** Lean UX Assumptions, Entrevista y Registro de Entrevista para Dueños de una Empresa de Delivery.<br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” **TB2:**Identificó la necesidad de crear páginas web funcionales para la búsqueda de scooters, visualización de detalles de scooters, carrito de compras y reservaciones. Formuló un plan de desarrollo para cada página web, incluyendo los requisitos funcionales y no funcionales.<br>***TF:*** <br><br>  **Josue Omar,Hidalgo Bustamante** <br> ***TB1:*** La identificación de los segmentos objetivo, la contextualización histórica y la descripción de los problemas existentes, junto con la elaboración de cuestionarios para entrevistar a empresarios específicos, el registro detallado de estas entrevistas, y el análisis de las respuestas para encontrar patrones comunes y soluciones potenciales, son pasos esenciales en este proceso.<br> ***TP:*** En el contexto de la entrega parcial, se resaltan como pasos esenciales la implementación de la Page/scooter-add, la addicción de dos entrevistas para ambos segmentos, así como la actualización y corrección del capítulo 1. **TB2:** corregí los capítulos anteriores y añadí las partes faltantes del frontend, además de las correcciones observadas en clase. En el capítulo 5, realicé la sección de Favorites,Rent y Scooter, como parte de la corrección del frontend, y desarrollé la sección de employee y profile como parte del backend.<br>***TF:*** <br><br> **Minaya Mundines Pietro Gerardo** <br> ***TB1:*** Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetiv 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure **TB2:** Asignación del Frontend Web App Despliegue del Frontend Web App en Azure Codificacion del Backend Web Services <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto. <br> ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br>***TF:***<br><br> | ***TB1:*** Se ha evidenciado una fuerte capacidad de comunicación oral en el desarrollo de nuestro proyecto de ingeniería. Cada uno de los integrantes ha participado activamente en la exposición grupal y presentación del TB1, así como en entrevistas a nuestros segmentos específicos de usuarios. También hemos contribuido en la definición y propuesta del tema del proyecto, en la participación en el Sprint Planning I, en la preparación de ceremonias del sprint y en la creación de materiales visuales. Hemos utilizado una comunicación objetiva y adaptada a diferentes audiencias de especialidades y niveles jerárquicos, asegurando la claridad y la efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra habilidad para comunicarnos efectivamente ha sido clave en el éxito del proyecto y en la cumplimiento del criterio correspondiente del Student Outcome 5 establecido. <br><br> ***TP:*** Durante el desarrollo de nuestro proyecto de ingeniería todos los miembros del equipo han participado activamente tanto en la corrección de los errores para la TP como en la corrección de las entrevistas con nuestros segmentos específicos de usuarios. Asimismo, del diagrama de clases y la base de datos.  <br><br> ***TB2:*** Durante el desarrollo del proyecto en esta penúltima etapa todos los miembros del equipo participaron activamente en la realización de correcciones tanto en el backend como en el fornted. Se creó más del 80% de los endpoints necesitados y se probó su funcionamiento junto con el fronted. <br><br> ***TF:*** Durante el desarrollo de esta última etapa de trabajo, todos los miembros se enfocaron en culminar con la implementación de todos los endpoints necesarios para garantizar una conexión efectiva entre los datos, es decir, una relación fluida entre el frontend y el backend. Además, se aseguró la correcta recepción y almacenamiento de los datos en nuestra base de datos.  | 
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.  | ***Barrial Marin Sharon Antuanet Ivet*** <br> ***TB1:*** User tax matrix, user stories, product backlog, style guidelines, landing page wireframe, landing page mock-up, class diagrams, class dictionary, codificación del landing page.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features.<br> ***TB2:*** En esta entrega, tuve la oportunidad de exponer en detalle lo que hemos resuelto a lo largo de este trabajo, ofrecer una explicación exhaustiva de la aplicación web de FastScooter y presentar una reflexión profunda sobre el equipo, "About the Team". <br>***TF:*** La comunicación dentro de la organización en esta entrega nos llevó a exponer los puntos tratados en el sprint review 4, donde reflexionamos sobre los roles que asumimos durante este trabajo. Además, discutimos la retroalimentación grupal en el video "About the Team", compartiendo nuestras experiencias y aprendizajes tanto a nivel individual como colectivo. <br><br> ***Huachaca Advincula Scott Jacobo*** <br> ***TB1:*** Empaty Mapping, As-is Scenario Mapping, To-be Scenario Mapping, User Stories, Organization Systems, Web Applications Wireflow Diagrams, Database Diagram. <br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” **TB2:**Identificó la necesidad de crear páginas web funcionales para la búsqueda de scooters, visualización de detalles de scooters, carrito de compras y reservaciones. Formuló un plan de desarrollo para cada página web, incluyendo los requisitos funcionales y no funcionales.  <br>***TF:*** <br><br> ***Hidalgo Bustamante Josue Omar*** <br> ***TB1:*** Lean UX Process, User Personas,User Journey Mapping,Impact Mapping,Labeling Systems,Web Applications Mock-ups,User Stories, Entrevistas ,Web Applications Prototyping. <br> ***TP:*** Para la entrega del trabajo Parcial, es fundamental tener conocimientos en al menos un sector empresarial o dominio de aplicación de soluciones de software. ***TB2:*** hice ajustes en la sección del frontend correspondiente al bounded context Employee, continuando con el desarrollo del código en GitHub usando GitFlow y Conventional Commits. En el backend, implementé el bounded context Employee, relacionado con el API de  Favorites,Rent y Scooter, desarrollando los métodos CRUD y Gets necesarios para el correcto funcionamiento de la aplicación frontend. En ambos ajustes, tanto de frontend como de backend, apliqué el enfoque de Domain Driven Design, organizando las carpetas según cada bounded context. Además, seguí asistiendo a las reuniones y contribuyendo con mis ideas en cada una de ellas. <br>***TF:*** <br><br> ***Minaya Mundines Pietro Gerardo*** <br> ***TB1:*** Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page . <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure <br> ***TB2:*** Asignación del Frontend Web App, Despliegue del Frontend Web App en Azure, Codificacion del Backend Web Services. <br>***TF:*** <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.  ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br>***TF:***  | ***TB1:*** Cada uno de los integrantes ha contribuido en la redacción de diferentes secciones del trabajo, como los capítulos I - V, que abarcan artefactos como User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. También se ha trabajado en la elaboración de la presentación en formato de archivo .pptx. La comunicación escrita ha sido realizada con objetividad y dirigida a audiencias de diferentes especialidades y niveles jerárquicos, garantizando la claridad y efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra capacidad en conocimiento de al menos un dominio ha sido un elemento clave en el desarrollo exitoso del proyecto y en el cumplimiento del Student Outcome 5 establecido. <br> ***TP:*** Se ha actualizado los artefactos desde el capítulos I hasta el V, que incluyen elementos como el User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. Además, hemos colaborado en la creación de la presentación en formato de archivo .pptx. Nuestra comunicación escrita ha sido precisa y dirigida a audiencias con diferentes niveles de especialización y jerarquía, asegurando la claridad y eficacia en la transmisión de nuestras ideas y resultados. En resumen, nuestra capacidad en al menos un área de conocimiento ha sido fundamental en el éxito del proyecto y en el logro del Student Outcome 5 establecido. <br><br> ***TB2:*** Para esta penúltima etapa del proyecto, nos enfocamos en la transmisión de nuestras ideas a través de una comunicación oral efectiva. Esta fase fue crucial en las entrevistas realizadas a nuestros usuarios para comprobar y validar el prototipo de nuestra aplicación web y su funcionamiento. Mediante estas entrevistas obtuvimos retroalimentación valiosa y confirmamos que las funcionalidades desarrolladas cumplían con las expectativas y necesidades de los usuarios. Este proceso de validación fue esencial para asegurar la calidad y la utilidad de la aplicación antes de su lanzamiento final. Gracias a la comunicación clara y precisa durante estas entrevistas, logramos verificar que se cumplieran los objetivos del proyecto, alineándonos así con el logro establecido en el Student Outcome 5.<br><br>***TF:*** En la etapa final del proyecto, nos centramos en establecer una comunicación efectiva para validar y asegurar el correcto funcionamiento de FastScooter, incorporando todos los features necesarios. Durante este proceso, reflexionamos tanto a nivel individual como en equipo, identificando y compartiendo las lecciones aprendidas y los desafíos superados. Estas reflexiones fueron cruciales durante el Sprint Review 4, donde presentamos detalladamente nuestros avances y soluciones implementadas. Además de cumplir con los requisitos del Student Outcome 5, esta presentación nos permitió recibir valioso feedback, el cual utilizaremos para perfeccionar aún más el producto en futuras iteraciones. |
 
 ---
 
@@ -153,128 +188,139 @@ permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcom
 
 ## Tabla de contenidos
 
-### [Capítulo I: Introducción]()
+   **[Capítulo I: Introducción](#capítulo-i-introducción)**<br>
 
-- [1.1. Startup Profile]()
-    - [1.1.1 Descripción de la Startup]()
-    - [1.1.2 Perfiles de integrantes del equipo]()
-- [1.2 Solution Profile]()
-    - [1.2.1 Antecedentes y problemática]()
-    - [1.2.2 Lean UX Process]()
-        - [1.2.2.1. Lean UX Problem Statements]()
-        - [1.2.2.2. Lean UX Assumptions]()
-        - [1.2.2.3. Lean UX Hypothesis Statements]()
-        - [1.2.2.4. Lean UX Canvas]()
-- [1.3. Segmentos objetivo]()
+   1.1.  [Startup Profile](#11-startup-profile)
+   1.1.1.   [Descripción de la Startup](#111-descripción-de-la-startup)
+   1.1.2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)<br>
 
-### [Capítulo II: Requirements Elicitation & Analysis]()
+   1.2. [Solution Profile](#12-solution-profile)
+   1.2.1. [Antecedentes y problemática](#121-antecedentes-y-problemática)
+   1.2.2. [Lean UX Process](#122-lean-ux-process)
+   1.2.2.1. [Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+   1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions)
+   1.2.2.3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+   1.2.2.4. [Lean UX Canvas](#1224-lean-ux-canvas)<br>
+   
+   1.3. [Segmentos objetivo](#13-segmentos-objetivo)
 
-- [2.1. Competidores]()
-    - [2.1.1. Análisis competitivo]()
-    - [2.1.2. Estrategias y tácticas frente a competidores]()
-- [2.2. Entrevistas]()
-    - [2.2.1. Diseño de entrevistas]()
-    - [2.2.2. Registro de entrevistas]()
-    - [2.2.3. Análisis de entrevistas]()
-- [2.3. Needfinding]()
-    - [2.3.1. User Personas]()
-    - [2.3.2. User Task Matrix]()
-    - [2.3.3. User Journey Mapping]()
-    - [2.3.4. Empathy Mapping]()
-    - [2.3.5. As-is Scenario Mapping]()
-- [2.4. Ubiquitous Language]()
+**[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)** <br>
 
-### [Capítulo III: Requirements Specification]()
+2.1. [Competidores](#21-competidores)
+2.1.1. [Análisis competitivo](#211-análisis-competitivo)
+2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)<br>
 
-- [3.1. To-Be Scenario Mapping]()
-- [3.2. User Stories]()
-- [3.3. Impact Mapping]()
-- [3.4. Product Backlog]()
+2.2. [Entrevistas](#22-entrevistas)
+2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas)
+2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)
+2.2.3 [Análisis de entrevistas](#223-análisis-de-entrevistas)<br>
 
-### [Capítulo IV: Product Design]()
+2.3. [Needfinding](#23-needfinding)
+2.3.1. [User Personas](#231-user-personas)
+2.3.2. [User Task Matrix](#232-user-task-matrix)
+2.3.3. [User Journey Mapping](#233-user-journey-mapping)
+2.3.4. [Empathy Mapping](#234-empathy-mapping)
+2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
 
-- [4.1. Style Guidelines]()
-    - [4.1.1. General Style Guidelines]()
-    - [4.1.2. Web Style Guidelines]()
-- [4.2. Information Architecture]()
-    - [4.2.1. Organization Systems]()
-    - [4.2.2. Labeling Systems]()
-    - [4.2.3. SEO Tags and Meta Tags]()
-    - [4.2.4. Searching Systems]()
-    - [4.2.5. Navigation Systems]()
-- [4.3. Landing Page UI Design]()
-    - [4.3.1. Landing Page Wireframe]()
-    - [4.3.2. Landing Page Mock-up]()
-- [4.4. Web Applications UX/UI Design]()
-    - [4.4.1. Web Applications Wireframes]()
-    - [4.4.2. Web Applications Wireflow Diagrams]()
-    - [4.4.3. Web Applications Mock-ups]()
-    - [4.4.4. Web Applications User Flow Diagrams]()
-- [4.5. Web Applications Prototyping]()
-- [4.6. Domain-Driven Software Architecture]()
-    - [4.6.1. Software Architecture Context Diagram]()
-    - [4.6.2. Software Architecture Container Diagrams]()
-    - [4.6.3. Software Architecture Components Diagrams]()
-- [4.7. Software Object-Oriented Design]()
-    - [4.7.1. Class Diagrams]()
-    - [4.7.2. Class Dictionary]()
-- [4.8. Database Design]()
-    - [4.8.1. Database Diagram]()
+2.4. [Ubiquitous Language](#24-ubiquitous-language)
 
-### [Capítulo V: Product Implementation, Validation & Deployment]()
+**[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)**<br>
 
-- [5.1. Software Configuration Management]()
-    - [5.1.1. Software Development Environment Configuration]()
-    - [5.1.2. Source Code Management]()
-    - [5.1.3. Source Code Style Guide & Conventions]()
-    - [5.1.4. Software Deployment Configuration]()
-- [5.2. Landing Page, Services & Applications Implementation]()
-    - [5.2.1. Sprint 1]()
-        - [5.2.1.1. Sprint Planning 1]()
-        - [5.2.1.2. Sprint Backlog 1]()
-        - [5.2.1.3. Development Evidence for Sprint Review]()
-        - [5.2.1.4. Testing Suite Evidence for Sprint Review]()
-        - [5.2.1.5. Execution Evidence for Sprint Review]()
-        - [5.2.1.6. Services Documentation Evidence for Sprint Review]()
-        - [5.2.1.7. Software Deployment Evidence for Sprint Review]()
-        - [5.2.1.8. Team Collaboration Insights during Sprint]()
-    - [5.2.2. Sprint 2]()
-        - [5.2.2.1. Sprint Planning 2]()
-        - [5.2.2.2. Sprint Backlog 2]()
-        - [5.2.2.3. Development Evidence for Sprint Review]()
-        - [5.2.2.4. Testing Suite Evidence for Sprint Review]()
-        - [5.2.2.5. Execution Evidence for Sprint Review]()
-        - [5.2.2.6. Services Documentation Evidence for Sprint Review]()
-        - [5.2.2.7. Software Deployment Evidence for Sprint Review]()
-        - [5.2.2.8. Team Collaboration Insights during Sprint]()
-    - [5.2.3. Sprint 3]()
-        - [5.2.3.1. Sprint Planning 3]()
-        - [5.2.3.2. Sprint Backlog 3]()
-        - [5.2.3.3. Development Evidence for Sprint Review]()
-        - [5.2.3.4. Testing Suite Evidence for Sprint Review]()
-        - [5.2.3.5. Execution Evidence for Sprint Review]()
-        - [5.2.3.6. Services Documentation Evidence for Sprint Review]()
-        - [5.2.3.7. Software Deployment Evidence for Sprint Review]()
-        - [5.2.3.8. Team Collaboration Insights during Sprint]()
-    - [5.2.4. Sprint 4]()
-        - [5.2.4.1. Sprint Planning 4]()
-        - [5.2.4.2. Sprint Backlog 4]()
-        - [5.2.4.3. Development Evidence for Sprint Review]()
-        - [5.2.4.4. Testing Suite Evidence for Sprint Review]()
-        - [5.2.4.5. Execution Evidence for Sprint Review]()
-        - [5.2.4.6. Services Documentation Evidence for Sprint Review]()
-        - [5.2.4.7. Software Deployment Evidence for Sprint Review]()
-        - [5.2.4.8. Team Collaboration Insights during Sprint]()
-- [5.3. Validation Interviews]()
-    - [5.3.1. Diseño de Entrevistas]()
-    - [5.3.2. Registro de Entrevistas]()
-    - [5.3.3. Evaluaciones según heurísticas]()
-- [5.4. Video About-the-Product]()
-- [Conclusiones]()
-    - [Conclusiones y recomendaciones]()
-- [Video About-the-Team]()
-- [Bibliografía]()
-- [Anexos]()
+3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+3.2. [User Stories](#32-user-stories)
+3.3. [Impact Mapping](#33-impact-mapping)
+3.4. [Product Backlog](#34-product-backlog)
+
+**[Capítulo IV: Product Design](#capítulo-iv-product-design)**<br>
+
+4.1. [Style Guidelines](#41-style-guidelines)
+4.1.1. [General Style Guidelines](#411-general-style-guidelines)
+4.1.2. [Web Style Guidelines](#412-web-style-guidelines) <br>
+
+4.2. [Information Architecture](#42-information-architecture)
+4.2.1. [Organization Systems](#421-organization-systems)
+4.2.2. [Labeling Systems](#422-labeling-systems)
+4.2.3. [SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+4.2.4. [Searching Systems](#424-searching-systems)
+4.2.5. [Navigation Systems](#425-navigation-systems)<br>
+
+4.3. [Landing Page UI Design](#43-landing-page-ui-design)
+4.3.1. [Landing Page Wireframe](#431-landing-page-wireframe)
+4.3.2. [Landing Page Mock-up](#432-landing-page-mock-up)<br>
+
+4.4. [Web Applications UX/UI Design](#44-web-applications-uxui-design)
+4.4.1. [Web Applications Wireframes](#441-web-applications-wireframes)
+4.4.2. [Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+4.4.3. [Web Applications Mock-ups](#443-web-applications-mock-ups)
+4.4.4. [Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)<br>
+4.5. [Web Applications Prototyping](#45-web-applications-prototyping)<br>
+4.6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+4.6.1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+4.6.2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+4.6.3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)<br>
+4.7. [Software Object-Oriented Design](#47-software-object-oriented-design)
+4.7.1. [Class Diagrams](#471-class-diagrams)
+4.7.2. [Class Dictionary](#472-class-dictionary)<br>
+4.8. [Database Design](#48-database-design)
+4.8.1. [Database Diagram](#481-database-diagram)
+
+
+
+**[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)**<br>
+
+5.1. [Software Configuration Management](#51-software-configuration-management)
+5.1.1. [Software Development Environment Configuration](#511-software-development-environment-configuration)
+5.1.2. [Source Code Management](#512-source-code-management)
+5.1.3. [Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+5.1.4. [Software Deployment Configuration](#514-software-deployment-configuration)<br>
+5.2. [Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+5.2.1. [Sprint 1](#521-sprint-1)
+5.2.1.1. [Sprint Planning 1](#5211-sprint-planning-1)
+5.2.1.2. [Sprint Backlog 1](#5212-sprint-backlog-1)
+5.2.1.3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+5.2.1.4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+5.2.1.5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+5.2.2. [Sprint 2](#522-sprint-2)
+5.2.2.1. [Sprint Planning 2](#5221-sprint-planning-2)
+5.2.2.2. [Sprint Backlog 2](#5222-sprint-backlog-2)
+5.2.2.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+5.2.2.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+5.2.2.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+5.2.3. [Sprint 3](#523-sprint-3)
+5.2.3.1. [Sprint Planning 3](#5231-sprint-planning-3)
+5.2.3.2. [Sprint Backlog 3](#5232-sprint-backlog-3)
+5.2.3.3. [Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+5.2.3.4. [Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+5.2.4. [Sprint 4](#524-sprint-4)
+5.2.4.1. [Sprint Planning 4](#5241-sprint-planning-4)
+5.2.4.2. [Sprint Backlog 4](#5242-sprint-backlog-4)
+5.2.4.3. [Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+5.2.4.4. [Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+5.2.4.5. [Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+5.2.4.6. [Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+5.2.4.7. [Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+5.2.4.8. [Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)<br>
+5.3. [Validation Interviews](#53-validation-interviews)
+5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas)
+5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas)
+5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)<br>
+5.4. [Video About-the-Product](#54-video-about-the-product)
+
+[Conclusiones](#conclusiones)
+[Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+[Video About-the-Team](#video-about-the-team)
+[Bibliografía](#bibliografía)
+[Anexos](#anexos)
 
 ---
 
@@ -313,59 +359,59 @@ eficiente y ecológica que les permita optimizar sus rutas y promover un futuro 
 
 <img src="./assets/profile-sharon.png" alt="Sharon Antuanet Ivet Barrial Marin" width="200" height="200">
 
-Nombre completo: Sharon Antuanet Ivet Barrial Marin
+**Nombre completo:** Sharon Antuanet Ivet Barrial Marin
 
-Código de estudiante: U202114900
+**Código de estudiante:** U202114900
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy una estudiante que se caracteriza por poseer cualidades como la perseverencia, el compañerismo y la
+**Acerca de mí:** Soy una estudiante que se caracteriza por poseer cualidades como la perseverencia, el compañerismo y la
 comunicación interpersonal. Además de tener conocimientos en diversos lenguajes de programación (Python, C++, C#...),
 también tengo habilidades en la edición de fotos y videos, y en el enfoque al marketing digital. Espero que estas pocas
 cualidades sirvan como aporte al proyecto durante el presente ciclo y curso.
 
 <img src="./assets/profile-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
 
-Nombre completo: Pietro Gerardo Minaya Mundines
+**Nombre completo:** Pietro Gerardo Minaya Mundines
 
-Código de estudiante: U201718387
+**Código de estudiante:** U201718387
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
+**Acerca de mí:** Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 <img src="./assets/profile-arturo.png" alt="Carlos Arturo Adrianzén Flores" width="200" height="200">
 
-Nombre completo: Carlos Arturo Adrianzén Flores
+**Nombre completo:** Carlos Arturo Adrianzén Flores
 
-Código de estudiante: U202215705
+**Código de estudiante:** U202215705
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC, curso el 5to ciclo. Me gusta jugar fútbol y tocar guitarra. Respecto al trabajo
+**Acerca de mí:** Soy estudiante de la UPC, curso el 5to ciclo. Me gusta jugar fútbol y tocar guitarra. Respecto al trabajo
 en equipo espero poder ayudar con todas mis capacidades. Me considero optimista y alegre.
 
 <img src="./assets/profile-scott.jpg" alt="Scott Jacobo Huachaca Advincula" width="200" height="200">
 
-Nombre completo: Scott Jacobo Huachaca Advincula
+**Nombre completo:** Scott Jacobo Huachaca Advincula
 
-Código de estudiante: U201914294
+**Código de estudiante:** U201914294
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan
+**Acerca de mí:** Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan
 como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que
 utilizamos a diario, como las redes sociales o aplicaciones de productividad.
 
 <img src="./assets/yo.jpeg" alt="Josue Hidalgo" width="200" height="200">
 
-Nombre completo: Josue Hidalgo Bustamante
+**Nombre completo:** Josue Hidalgo Bustamante
 
-Código de estudiante: U202119880
+**Código de estudiante:** U202119880
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC,me gusta mucho la tecnologia y los videojuegos
+**Acerca de mí:** Soy estudiante de la UPC,me gusta mucho la tecnologia y los videojuegos
 
 ## 1.2 Solution Profile
 
@@ -3711,7 +3757,7 @@ Reseña.Abel andres valle Zuta es un joven egresado de la carrera de administrac
 ![empresario 2](assets/tb2/entrevistas/e1.png)
 [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/r/personal/u201914294_upc_edu_pe/Documents/EntrevistaDeliveryD.mp4?csf=1&web=1&e=uCWqR3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Reseña.
+Reseña. Mauro Perez Diaz es una persona de 70 años y tiene una empresa de Delivery de comida. Por el lado del Landing Page comenta que esta bastante claro en el tema de información pero también nos comenta que podríamos mejorar. En la parte de la aplicación web después de enseñarles la funcionalidades de la web nos comenta no es fácil rentar un scooter en nuestra aplicación web, pero también nos comento sobre el precio de los scooter, se percato que algunos scooter tenían el precio algo desfasados.
 
 >**Segmento Objetivo 2: Transeúntes**
 
@@ -3962,7 +4008,10 @@ Es por ello que para evitar estos porblemas recomendamos:
 
 ### Video About-the-Team
 
+A continuación, se muestra el Video About the Team, donde se ahce una retrospectiva al grupo y se realta las tareas realizadas asimismo con los logros de los outcomes del curso.
 
+![aboutus](image-3.png)
+[URL video de about-the-team](https://youtu.be/qZIuF1lrcXQ)
 
 # Bibliografía
 
@@ -3983,4 +4032,5 @@ Recuperado de **[Stakeholders](https://stakeholders.com.pe/medio-ambiente/delive
 
 **[TP Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EWf0atsMo3xGgsvQ8v9WWW8BT6CngTxdN07i6DnuUG8D1g?e=hccc2I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
 
-**[TB2 Exposición]()**
+**[TB2 Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/ETU-uEZH9OpPjZlQk32ZAwAB6V5vEIa5MLd4MsPqBK0vZg?e=JhOu7x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
