@@ -2798,7 +2798,7 @@ tablas.
 
 ![IMG-DB](/assets/diagrams/databasedesign.jpg)
 
-[Link Database Diagram](https://my.vertabelo.com/public-model-view/BuTgCOFwRnLqR0QIhemQ3fQ54SAz2TZRgFV2K34qNZ6wFwXWb96nUAjoeDvpxqME?x=3793&y=4054&zoom=0.6719)
+Enlace ara mayor visualización del [Database Diagram](https://my.vertabelo.com/public-model-view/BuTgCOFwRnLqR0QIhemQ3fQ54SAz2TZRgFV2K34qNZ6wFwXWb96nUAjoeDvpxqME?x=3793&y=4054&zoom=0.6719)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
