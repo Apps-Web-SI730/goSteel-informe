@@ -2692,6 +2692,7 @@ cualquier pantalla.
 
 **Principio de divulgación:**
 La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee.
+
 <img src="https://i.imgur.com/er4V7Wv.png" style="width:80%">
 <img src="https://i.imgur.com/XQuyrgR.png" style="width:80%">
 <img src="https://i.imgur.com/jRkwPNH.png" style="width:80%">
