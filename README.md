@@ -1276,7 +1276,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		<tr>
             <td colspan="1">US001</td>
             <td colspan="1">
-            Registro de usuarios clientes en la plataforma
+            Registro de usuarios en la plataforma
             </td>
             <td colspan="1">
             <strong>Como</strong> usuario cliente <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
@@ -1336,85 +1336,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             </td>
             <td colspan="1">EP01</td>
-		</tr>
-        <tr>
-            <td colspan="1">US002</td>
-            <td colspan="1">Registro de empresas en la plataforma</td>
-            <td colspan="1">
-            <strong>Como</strong> usuario empresa <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.
-            </td>
-            <td colspan="5">
-            <strong>E01: Registro Exitoso</strong>
-            <br><br>
-            <strong>Caso 01: Registro con e-mail</strong>
-            <br>
-            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
-            <br>
-            <strong>Y</strong> el usuario empresa selecciona la opción de registro
-            <br>
-            <strong>Cuando</strong> el sistema muestre el formulario de registro 
-            <br>
-            <strong>Y</strong> el usuario empresa llene todo el formulario con sus datos
-            <br>
-            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
-            <br>
-            <strong>Y</strong> el sistema verifique los datos colocados por el usuario empresa
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje informando que su cuenta ha sido registrada exitosamente.
-            <br><br>
-            <strong>E02: Registro Fallido</strong>
-            <br><br>
-            <strong>Caso 01: Datos inválidos</strong>
-            <br>
-            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
-            <br>
-            <strong>Y</strong> el usuario empresa selecciona la opción de registro
-            <br>
-            <strong>Cuando</strong> el sistema muestre el formulario de registro 
-            <br>
-            <strong>Y</strong> el usuario empresa llene todo el formulario con sus datos
-            <br>
-            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
-            <br>
-            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
-            <br><br>
-            <strong>Caso 02: Datos incompletos</strong>
-            <br>
-            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
-            <br>
-            <strong>Y</strong> el usuario empresa selecciona la opción de registro
-            <br>
-            <strong>Cuando</strong> el sistema muestre el formulario de registro 
-            <br>
-            <strong>Y</strong> el usuario empresa llene solo algunas partes del formulario con sus datos
-            <br>
-            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
-            <br>
-            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
-            <br><br>
-            <strong>Caso 03: Datos inexistentes</strong>
-            <br>
-            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
-            <br>
-            <strong>Y</strong> el usuario empresa selecciona la opción de registro
-            <br>
-            <strong>Cuando</strong> el sistema muestre el formulario de registro 
-            <br>
-            <strong>Y</strong> el usuario empresa coloque un RUC inexistente
-            <br>
-            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
-            <br>
-            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario empresa son inexistentes
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta porque la empresa no existe.
-            <br><br>
-            </td>
-            <td colspan="1">EP001</td>
-            </td>
 		</tr>
         <tr>
             <td colspan="1">US003</td>
@@ -1513,72 +1434,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">EP005</td>
 		</tr>
         <tr>
-            <td colspan="1">US005</td>
-            <td colspan="1">Recuperación de contraseña para usuarios registrados </td>
-            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> poder recuperar mi contraseña <strong>para</strong> poder acceder a mi cuenta en caso de que me hay olvidado alguna de mis credenciales. 
-            </td>
-            <td colspan="5">   
-            <strong>E01: Recuperación de contraseña exitosa</strong>
-            <br><br>
-            <strong>Caso 01: Cambio de contraseña</strong>
-            <br>
-            <strong>Dado que</strong> el usuario olvida su contraseña 
-            <br>
-            <strong>Y</strong> el usuario quiere recuperar su contraseña 
-            <br>
-            <strong>Cuando</strong> el usuario seleccione la opción restablecer contraseña 
-            <br>
-            <strong>Y</strong> el sistema envía un código a su correo 
-            <br>
-            <strong>Y</strong> el usuario coloca el código en el formulario de la plataforma
-            <br>
-            <strong>Entonces</strong> el sistema verifica que el código es correcto 
-            <br>
-            <strong>Y</strong> el usuario puede volver a escribir una nueva contraseña.
-            <br><br>
-            <strong> Caso 02: No se pudo realizar el cambio de contraseña</strong>
-            <br>
-            <strong>Dado que</strong> el usuario olvida su contraseña 
-            <br>
-            <strong>Y</strong> el usuario quiere recuperar su contraseña 
-            <br>
-            <strong>Cuando</strong> el usuario seleccione la opción restablecer contraseña 
-            <br>
-            <strong>Y</strong> el sistema envía un código a su correo 
-            <br>
-            <strong>Y</strong> el usuario coloca el código en el formulario de la plataforma
-            <br>
-            <strong>Y</strong> el sistema detecta que el código es incorrecto.
-            <br>
-            <strong>Entonces</strong> el sistema un mensaje donde indica que ha colocado el código incorrecto.           <br>
-            </td>
-            <td colspan="1">EP002</td>
-		</tr>
-        <tr>
-            <td colspan="1">US006</td>
-            <td colspan="1">Bloqueo de scooters</td>
-            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> bloquear mi scooter cuando termine mi viaje<strong> para</strong> evitar que otros lo utilicen sin autorización.</td>
-            <td colspan="5">
-            <strong>E01: Bloqueo exitoso
-            <br></br>
-            Caso 01: El usuario bloquea exitosamente el scooter</strong>
-            <strong>Dado</strong> que el usuario termina de usar el scooter 
-            <br>
-            <strong>Y</strong> el usuario quiere bloquear el scooter
-            <br> 
-            <strong>Cuando</strong> el usuario seleccione la opción finalizar uso
-            <br>
-            <strong>Y</strong> el sistema envía un código al correo del usuario
-            <br>
-            <strong>Y</strong> el usuario coloca el código 
-            <br>
-            <strong>Y</strong> el sistema verifica que el código sea correcto
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje diciendo que se ha bloqueado correctamente el scooter.        
-            </td>
-            <td colspan="1">EP003</td>
-		</tr>
-        <tr>
             <td colspan="1">US007</td>
             <td colspan="1">Confirmación de reserva</td>
             <td colspan="1"><strong>Como</strong> usuario que ha realizado una reserva en el sistema, <strong>quiero</strong> recibir un correo <strong>para</strong> confirmar mi reserva y asegurarme de no haber reservado por error.</td>
@@ -1589,20 +1444,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             Entonces el usuario visualiza su reserva detalladamente.
             </td>
             <td colspan="1">EP005</td>
-		</tr>
-        <tr>
-            <td colspan="1">US008</td>
-            <td colspan="1">Desbloqueo de scooter</td>
-            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> desbloquear mi scooter<strong> para</strong> empezar mi viaje.</td>
-            <td colspan="5">E01: Desbloqueo exitoso
-            Caso 01: Uso activo
-            Dado que el usuario paga por la renta del scooter
-            Cuando el sistema envia un codigo al correo del usuario
-            Y el usuario escribe el codigo en la aplicación
-            Entonces el sistema desbloquea el scooter
-            Y el usuario empieza a utilizar su scooter.
-            </td>
-            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US009</td>
@@ -1841,7 +1682,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US019</td>
-            <td colspan="1">Reseña sobre la experiencia sobre el scooter</td>
+            <td colspan="1">Calificación de los scooters disponibles</td>
             <td colspan="1">
             <strong>Como</strong> usuario de la aplicación 
             <br>
@@ -1881,31 +1722,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Entonces</strong> el sistema muestra una lista de reseñas dejadas por otros usuarios sobre ese scooter
             </td>
             <td colspan="1">EP008</td>
-		</tr>
-        <tr>
-            <td colspan="1">US020</td>
-            <td colspan="1">Visualizacion de zonas de recojo y entrega de los scooters</td>
-            <td colspan="1">
-            <strong>Como</strong> usuario de la aplicación 
-            <br>
-            <strong>quiero</strong> poder ver las zonas designadas para recojo y entrega de scooters
-            <br>
-            <strong>para</strong> cplanificar mi viaje y encontrar fácilmente el punto de inicio y fin de mi alquiler
-            </td>
-            <td colspan="5">
-            <strong>E01: Visualización de zonas en el mapa</strong>
-            <br><br>
-            <strong>Caso 01: Permitir a los usuarios ver las zonas de recojo y entrega en un mapa</strong>
-            <br>
-            <strong>Dado que</strong> los usuarios necesitan localizar las zonas de recojo y entrega
-            <br>
-            <strong>Cuando</strong> un usuario abre la aplicación 
-            <br>
-            <strong>Y</strong> accede a la sección de "recojo y entrega de scooters"
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mapa que indica las zonas designadas para recojo y entrega
-            </td>
-            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US021</td>
@@ -2055,24 +1871,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             </td>
             <td colspan="1">EP007</td>
 		</tr> 
-    <td colspan="1">US027</td>
-    <td colspan="1">Notificaciones de estado de reserva</td>
-    <td colspan="1">
-        <strong>Como</strong> usuario de la aplicación,
-        <br>
-        <strong>quiero</strong> recibir notificaciones sobre el estado de mis reservas para mantenerme informado sobre cualquier cambio o actualización.
-    </td>
-    <td colspan="5">
-        <strong>E01: Notificaciones en tiempo real</strong>
-        <br><br>
-        <strong>Caso 01: Enviar notificaciones cuando se confirme una reserva</strong>
-        <br>
-        <strong>Dado que</strong> el usuario ha realizado una reserva<br>
-        Cuando el sistema confirme la reserva,
-        <br>
-        Entonces el sistema envía una notificación al usuario informando sobre la confirmación de la reserva y proporcionando detalles adicionales, como la hora y ubicación de recogida del scooter.
-    </td>
-    <td colspan="1">EP006</td>
 </tr>
 </tbody>
 </table>
@@ -2081,8 +1879,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 
 > **Semneto objetivo 1: Transeúntes**
 
-
 <img src="./assets/juanperezmap.png" alt="Josue Hidalgo" width="1000" height="800">
+
+<br>
 
 > **Segmento objetivo 2: Empresarios**
 
@@ -2112,76 +1911,48 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		<tr>
 			<td>1</td>
             <td>US001</td>
-			<td>Registro de usuarios clientes en la plataforma</td>
+			<td>Registro de usuarios en la plataforma</td>
 			<td>Como usuario cliente quiero crearme una cuenta para poder acceder a la aplicación y sus funciones.</td>
-			<td>8</td>
+			<td>3</td>
 		</tr>
         <tr>
 			<td>2</td>
-            <td>US002</td>
-			<td>Registro de empresas en la plataforma</td>
-			<td>Como usuario empresa quiero crearme una cuenta para poder acceder a la aplicación.</td>
-			<td>8</td>
-		</tr>
-        <tr>
-			<td>3</td>
             <td>US003</td>
 			<td>Inicio de sesión de usuarios en la plataforma</td>
 			<td>Como usuario quiero iniciar sesión con mi correo para ingresar a la plataforma.</td>
-			<td>8</td>
+			<td>3</td>
 		</tr>
         <tr>
-			<td>4</td>
+			<td>3</td>
             <td>US004</td>
 			<td>Reserva de scooter</td>
 			<td>Como usuario quiero poder reservar un scooter específico con anticipación para asegurarme de que esté disponible cuando llegue a la estación de scooters.</td>
 			<td>8</td>
 		</tr>
         <tr>
-			<td>5</td>
+			<td>4</td>
             <td>US016</td>
 			<td>Gestion de pagos</td>
 			<td>Como usuario de la aplicación quiero tener un proceso de pago seguro y eficiente para poder realizar reservas de scooters de manera rápida y confiable.</td>
 			<td>8</td>
 		</tr>
         <tr>
-			<td>6</td>
+			<td>5</td>
             <td>US013</td>
 			<td>Cancelacion de reserva</td>
 			<td>Como usuario de la aplicación quiero poder cancelar una reserva para no incurrir en gastos por un servicio que no voy a utilizar..</td>
 			<td>8</td>
 		</tr>
         <tr>
-			<td>7</td>
-            <td>US006</td>
-			<td>Bloqueo de scooters</td>
-			<td>Como usuario quiero bloquear mi scooter cuando termine mi viaje para evitar que otros lo utilicen sin autorización.</td>
-			<td>8</td>
-		</tr>
-        <tr>
-			<td>8</td>
-            <td>US008</td>
-			<td>Desbloqueo de scooter</td>
-			<td>Como usuario quiero desbloquear mi scooter para empezar mi viaje.</td>
-			<td>8</td>
-		</tr>
-        <tr>
-			<td>9</td>
+			<td>6</td>
             <td>US009</td>
 			<td>Rentar Scooter</td>
 			<td>Como usuario quiero rentar un scooter para realizar mis viajes.</td>
 			<td>8</td>
 		</tr>
-        <tr>
-			<td>10</td>
-            <td>US020</td>
-			<td>Visualizacion de zonas de recojo y entrega de los scooters</td>
-			<td>Como usuario de la aplicación quiero poder ver las zonas designadas para recojo y entrega de scooters para cplanificar mi viaje y encontrar fácilmente el punto de inicio y fin de mi alquiler</td>
-			<td>8</td>
-		</tr>
     </tr>
         <tr>
-			<td>11</td>
+			<td>07</td>
             <td>US024</td>
 			<td>Visualización de características de la aplicación web	</td>
 			<td>Como usuario quiero ver las principales características de la aplicación para decidir si usar el servicio.</td>
@@ -2189,18 +1960,74 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
     </tr>
         <tr>
-			<td>12</td>
+			<td>08</td>
             <td>US025</td>
 			<td>Landing Page responsive	</td>
 			<td>Como usuario quiero visitar la landing page desde cualquier dispositivo usuario para decidir si usar el producto en mi trabajo usuario de la aplicación.</td>
 			<td>8</td>
 		</tr>
      <tr>
-			<td>13</td>
+			<td>09</td>
             <td>US026</td>
 			<td>Botón Call to Action	</td>
 			<td>Como usuario quiero ir a la aplicación web desde un solo botón para empezar a usar el servicio de manera fácil y rápida.</td>
-			<td>5</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>10</td>
+            <td>US007</td>
+			<td>Confirmación de reserva</td>
+			<td>Como usuario que ha realizado una reserva en el sistema, quiero recibir un correo para confirmar mi reserva y asegurarme de no haber reservado por error.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>11</td>
+            <td>US010</td>
+			<td>Reporte de problemas con el scooter</td>
+			<td>Como usuario quiero reportar problemas con el scooter para que entre a mantenimiento</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>12</td>
+            <td>US012</td>
+			<td>Buscar scooters disponibles</td>
+			<td>Como usuario, quiero poder buscar scooters disponibles en mi área cercana para poder encontrar una opción conveniente para mi viaje.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>13</td>
+            <td>US015</td>
+			<td>Seguridad de informacion</td>
+			<td>Como usuario de la aplicación quiero tener la seguridad de que mis datos personales para evitar accesos no autorizados y proteger mi privacidad</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>14</td>
+            <td>US016</td>
+			<td>Gestion de pagos</td>
+			<td>Como usuario de la aplicación quiero tener un proceso de pago seguro y eficiente para poder realizar reservas de scooters de manera rápida y confiable.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>15</td>
+            <td>US017</td>
+			<td>Actualizacion de perfil</td>
+			<td>Como usuario de la aplicación quiero poder actualizar mi información de perfil para mantener mis datos personales actualizados y precisos.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>16</td>
+            <td>US018</td>
+			<td>Marcar scooters favoritos</td>
+			<td>Como usuario de la aplicación quiero poder marcar scooters como favoritos para acceder rápidamente a mis opciones preferidas y realizar reservas más fácilmente.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>17</td>
+            <td>US019</td>
+			<td></td>
+			<td>Como usuario de la aplicación quiero poder dejar una reseña sobre mi experiencia con un scooter para compartir mi opinión con otros usuarios y ayudarles a tomar decisiones informadas.</td>
+			<td>3</td>
 		</tr>
 	</tbody>
 </table>
