@@ -3494,17 +3494,18 @@ Implementación del Landing Page acorde con las User Stories.
 
 | Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|------------------------------|---------------------|--------------------|
-| acceptance-test-goSteel | main | 9da61c4 | feat: add feature 15 test | usability function | 07/06/2024 |
-| acceptance-test-goSteel | main | 370035e | feat: add feature 14 test |- filter search<br>- features like: model, brand, type, color, price...| 07/06/2024|
-| acceptance-test-goSteel | main | 5c4c96c | feat: add feature 13 test |- delete scooter reserved<br>- visualization<br>- functionality| 07/06/2024 |
-| acceptance-test-goSteel | main | 91859b4 | feat: add feature 12 test |- btn call to action (rent now, sidebar, router-links)<br>- show functionalities| 07/06/2024 |
-| acceptance-test-goSteel | main | be9d381 | fix: add more detauls about feature 10-11 tests|- i18n internalization feature<br>- fixing terms| 07/06/2024 |
-| acceptance-test-goSteel | main | 203da35 | feat: add feature 11 test | - feature: change language<br>- all aplication web<br>- terms update | 07/06/2024 |
-| acceptance-test-goSteel | main | 61e399 | feat: add feature 10 test | - edit profile<br>- update profile<br>- cancel edit | 07/06/2024 |
-| acceptance-test-goSteel | main | ec7bc0e | feat: add feature 9 test | - add scooter to the head favorites | 07/06/2024 |
-| acceptance-test-goSteel | main | 80da8e0 | feat: add feature 8 test | - function add time and hour for each scooter id | 07/06/2024 |
-| acceptance-test-goSteel | main | 90b7fb5 | feat: add feature 7 test | terms add | 07/06/2024 |
-| acceptance-test-goSteel | main | d447753 | feat: add feature 7 test | feature: add payment method | 07/06/2024 |
+| acceptance-test-goSteel | main | 4c7e49a | feat: create feature test 16 | usability function | 25/06/2024 |
+| acceptance-test-goSteel | main | 20d5795 | feat: create feature test 17 |-| 25/06/2024|
+| acceptance-test-goSteel | main | 37b6136 | feat: create feature test 18 |-| 25/06/2024 |
+| acceptance-test-goSteel | main | 22ed9b0 | feat: create feature test 19 |-| 25/06/2024 |
+| acceptance-test-goSteel | main | 7e455e1 | feat: create feature test 20 |-| 25/06/2024 |
+| acceptance-test-goSteel | main | 97e441a | feat: create feature test 21 | - | 25/06/2024 |
+| acceptance-test-goSteel | main | 838e343 | fix: update gherkin elements for feature test 16|Feature 16: Profile configuration<br>Scenarios: 2<br>unhappy and happy math | 25/06/2024 |
+| acceptance-test-goSteel | main | fdeb463 | fix: update gherkin elements for feature test 17|Feature 17: Log Out of the site<br>Scenarios: 3<br>unhappy and happy math | 25/06/2024 |
+| acceptance-test-goSteel | main | 86b2645 | fix: update gherkin elements for feature test 18|Feature 18: Visualization of rating service scoooter<br>Scenarios: 3<br>unhappy and happy math | 25/06/2024 |
+| acceptance-test-goSteel | main | 52293cd | fix: update gherkin elements for feature test 19|Feature 19: Visualization of the sidebar<br>Scenarios: 3<br>unhappy and happy math | 25/06/2024 |
+| acceptance-test-goSteel | main | f71ab70 | fix: update gherkin elements for feature test 20|Feature 20: Checkout functionality<br>Scenarios: 3<br>unhappy and happy math | 25/06/2024 |
+| acceptance-test-goSteel | main | ba76d93 | fix: update gherkin elements for feature test 21|Feature 21: Support Client<br>Scenarios: 3<br>unhappy and happy math | 25/06/2024 |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -3561,7 +3562,7 @@ Nuestro despliegue se ha hecho en Microsoft Azure:
 De esta manera el avance del Sprint 4 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
 ![Imagen del despliegue](assets/tb2/back.png)
 
-Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 4:
 
 [Link del backend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
 
