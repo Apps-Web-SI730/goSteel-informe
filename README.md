@@ -634,80 +634,53 @@ presencia global y su enfoque en la sostenibilidad los hacen destacar.
 			<td rowspan="3">Perfil de Producto</td>
 			<td>Productos &amp; Servicios</td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 		</tr>
 		<tr>
 			<td>Precios &amp; Costos</td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                    Plataforma de Pago
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                Plataforma de Pago
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                    Plataforma de Pago
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                    Plataforma de Pago
             </td>
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 		</tr>
 		<tr>
 			<td rowspan="4">Análisis SWOT</td>
 			<td>Fortalezas</td>
 			<td>
-                <ul>
-                    <li></li>
-                    <li>Actualizaciones continuas</li>
-                </ul>
+                Actualizaciones continuas
             </td>
 			<td>
                 <ul>
@@ -716,37 +689,25 @@ presencia global y su enfoque en la sostenibilidad los hacen destacar.
                 </ul>
             </td>
 			<td>
-                <ul>
-                    <li>Optimiza las rutas cada día siendo más eficiente</li>
-                </ul>
+                    Optimiza las rutas cada día siendo más eficiente
             </td>
 			<td>
-                <ul>
-                    <li>Brinda capacidad de administrar todos los aspectos del alquiler</li>
-                </ul>
+                    Brinda capacidad de administrar todos los aspectos del alquiler
             </td>
 		</tr>
 		<tr>
 			<td>Debilidades</td>
 			<td>
-                <ul>
-                    <li>Carece de ciertas características específicas</li>
-                </ul>
+                    Carece de ciertas características específicas
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma poco intuitiva</li>
-                </ul>
+                    Plataforma poco intuitiva
             </td>
 			<td>
-                <ul>
-                    <li>Precio de renta elevados</li>
-                </ul>
+                    Precio de renta elevados
             </td>
 			<td>
-                <ul>
-                    <li>Tiene un costo muy alto para lo que ofrece</li>
-                </ul>
+                    Tiene un costo muy alto para lo que ofrece
             </td>
 		</tr>
 		<tr>
@@ -767,33 +728,18 @@ presencia global y su enfoque en la sostenibilidad los hacen destacar.
                     <li>Buen reconocimiento</li>
                 </ul>
             </td>
-			<td>
-                <ul>
-                    <li>Funciona correctamente para ayudar a los interesados</li>
-                </ul>
+			<td>Funciona correctamente para ayudar a los interesados
             </td>
 		</tr>
 		<tr>
 			<td>Amenazas</td>
-			<td>
-                <ul>
-                    <li>Presencia de competidores estalecidos</li>
-                </ul>
+			<td>Presencia de competidores estalecidos
             </td>
-			<td>
-                <ul>
-                    <li>App similar</li>
-                </ul>
+			<td>App similar
             </td>
-			<td>
-                <ul>
-                    <li>App similar</li>
-                </ul>
+			<td>App similar
             </td>
-			<td>
-                <ul>
-                    <li>App similar</li>
-                </ul>
+			<td>App similar
             </td>
 		</tr>
 	</tbody>
@@ -862,18 +808,10 @@ Distrito: San Isidro
 
 <img src="./assets/interview-pietro.png" alt="Entrevista Pietro" width="600" height="300">
 
-[URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/
-201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
+[URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
 
-Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas
-urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin
-embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial.
-Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con
-servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos.
-Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la
-disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y
-peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y
-sostenibilidad.
+Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial. Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos. Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad.
+<br>
 
 **Entrevistado: 2**
 
@@ -887,15 +825,8 @@ Distrito: San Isidro
 
 [URL: Entrevista](https://youtu.be/Ric4PU5pKqI)
 
-Resumen:El entrevistado emplea scooters regularmente para trayectos cortos en entornos urbanos, valorando su
-conveniencia y agilidad. Sin embargo, señala desafíos como la disponibilidad limitada y la infraestructura vial
-deficiente. Prioriza la comodidad, seguridad y autonomía al alquilar un scooter, aunque su experiencia con los servicios
-de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real sobre la disponibilidad. Destaca la
-importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva
-para emergencias.
-
-
-
+Resumen: El entrevistado emplea scooters regularmente para trayectos cortos en entornos urbanos, valorando su conveniencia y agilidad. Sin embargo, señala desafíos como la disponibilidad limitada y la infraestructura vial deficiente. Prioriza la comodidad, seguridad y autonomía al alquilar un scooter, aunque su experiencia con los servicios de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real sobre la disponibilidad. Destaca la importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva para emergencias.
+<br>
 
 **Entrevistado: 3**
 
@@ -909,12 +840,8 @@ Distrito: San Isidro
 
 **[URL: Entrevista](https://youtu.be/SQGh2JlNiuI)**
 
-Resumen:El entrevistado emplea scooters regularmente para trayectos cortos en entornos urbanos, valorando su
-conveniencia y agilidad. Sin embargo, señala desafíos como la disponibilidad limitada y la infraestructura vial
-deficiente. Prioriza la comodidad, seguridad y autonomía al alquilar un scooter, aunque su experiencia con los servicios
-de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real sobre la disponibilidad. Destaca la
-importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva
-para emergencias.
+Resumen: El entrevistado utiliza scooters con frecuencia para desplazamientos cortos en áreas urbanas, apreciando su practicidad y rapidez. No obstante, menciona obstáculos como la limitada disponibilidad de scooters y la deficiente infraestructura vial. Al rentar un scooter, prioriza la comodidad, seguridad y autonomía, aunque ha tenido experiencias variadas con los servicios de alquiler. Espera que las aplicaciones sean fáciles de usar y proporcionen información en tiempo real sobre la disponibilidad. Además, enfatiza la importancia del mantenimiento y la seguridad al conducir. A pesar de continuar usando scooters por su conveniencia, los reserva principalmente para situaciones de emergencia.
+<br>
 
 **Entrevistado: 4**
 
@@ -929,8 +856,11 @@ Distrito: Jesus Maria
 [URL: Entrevista](https://youtu.be/R6D5-SKYBTA)
 
 Resumen:El entrevistado utiliza scooters regularmente, casi todos los días, para ir al trabajo, destacando su conveniencia y agilidad. Señala desafíos como la disponibilidad limitada y la infraestructura vial deficiente, especialmente en áreas sin vereda. Valora la autonomía de la batería al alquilar un scooter y prefiere tener el suyo propio. Su experiencia con servicios de alquiler ha sido limitada, pero destaca la importancia de una interfaz intuitiva. Sugiere que la duración de la batería sea prioritaria en una aplicación de alquiler. Considera importante la protección de datos y expresó interés en seguir utilizando scooters en el futuro, siempre y cuando se mejore la batería y la interfaz de usuario.
+<br>
 
 > **Segmento Objetivo: Empresarios**
+
+**Entrevistado: 1**
 
 Nombre y apellidos: Andreas Muller
 
@@ -942,14 +872,10 @@ Districto: San Isidro
 
 [URL: Entrevista dueño de empresa de delivery](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914294_upc_edu_pe/EfQ7gdNkAE1Ana1EBz90-AABFZcm5vcv54SCmovhRDzkpg?e=Jj5PJe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Resumen: La entrevistado es dueño de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa
-son las motos lineales ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el trafico, tambien nos cuenta cuales serian los pros y contras de alquirir scooters como medio de transporte para su empresa, otra cosa que nos dice es que un caracteristica principal que debe tener una
-plataforma web para el alquiler de scooter es la que sea facil de navegar y facil de gestionar los scooters. Nos afirma
-que no le importa tanto al personalizacion sino el facilidad de utilizar la aplicacion web. Por ultimo nos dice que si
-hubiese una aplicacion web sobre el alquiler de scooter que le ofrece las necesidades que necesita por su puesto que la
-usaria.
+Resumen: La entrevistado es dueño de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa son las motos lineales ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el trafico, tambien nos cuenta cuales serian los pros y contras de alquirir scooters como medio de transporte para su empresa, otra cosa que nos dice es que un caracteristica principal que debe tener una plataforma web para el alquiler de scooter es la que sea facil de navegar y facil de gestionar los scooters. Nos afirma que no le importa tanto al personalizacion sino el facilidad de utilizar la aplicacion web. Por ultimo nos dice que si hubiese una aplicacion web sobre el alquiler de scooter que le ofrece las necesidades que necesita por su puesto que la usaría.
+<br>
 
-**Entrevistado 2**
+**Entrevistado: 2**
 
 Nombre y apellidos: Jeremy Quispe
 
@@ -961,16 +887,11 @@ Districto: San Juan de Lurigancho
 
 [URL: Entrevista dueño de empresa de delivery](https://youtu.be/JRuP-yDurrU).
 
-Resumen: El entrevistado es dueño junto a su tio de una polleria que realiza delivery, sus repartidores usan el
-transporte de moto. Dentro de sus principales problemas se encuentra el tráfico denso en horas pico, y el
-estacionamiento y problemas para acceder a ciertas zonas. Considera que los scooters son más manobriables, además de que
-son más sostenibles ecologicamente. En la aplicación web busca que sea intuitiva, que se pueda rastrear el estado de los
-scooters. Considera que se le deberían realizar constantemente revisiones a los scooters para verificar su correcto
-funcionamiento. Le gustaría una opción de asignar scooters a repartidores individuales y generar rendimiento de la flota
+Resumen: El entrevistado es dueño junto a su tio de una polleria que realiza delivery, sus repartidores usan el transporte de moto. Dentro de sus principales problemas se encuentra el tráfico denso en horas pico, y el estacionamiento y problemas para acceder a ciertas zonas. Considera que los scooters son más manobriables, además de que son más sostenibles ecologicamente. En la aplicación web busca que sea intuitiva, que se pueda rastrear el estado de los scooters. Considera que se le deberían realizar constantemente revisiones a los scooters para verificar su correcto funcionamiento. Le gustaría una opción de asignar scooters a repartidores individuales y generar rendimiento de la flota
 de scooters.
+<br>
 
-
-**Entrevistado 3**
+**Entrevistado: 3**
 
 Nombre y apellidos: Abel Valle
 
@@ -982,15 +903,10 @@ Districto: La Molina
 
 [URL: Entrevista dueño de empresa de delivery](https://youtu.be/RcNx1iQbe9M).
 
-Resumen: EL entrevistado usa para su empresa de deilvery motociletas y bicicletas y los deesafíos que más se le presentan 
-son el tráfico y la fatiga de sus repartidores. La idea de implementar scooter le parece muy interesante y prometedora,
-estos son una forma más útil para sortear el tráfico, además consideran que el mantenimiento y el combustible de los scooters
-es un factor atractivo. En una plataforma web de gestión de scooters buscan características como que sea fácil de usar, eficiente 
-en la gestión, que permita seguir la ubicación y que tenga opciones de personalización. Para garantizar el mantenimiento adecuado 
-de los scooters le parece que implementar un programa regular de inspección y mantenimiento sería atractivo. Manejarían la ubicación 
-de los scooters mediante un GPS implementado en cada uno de estos. Se encuentra bastante interesado en esta aplicación.
+Resumen: EL entrevistado usa para su empresa de deilvery motociletas y bicicletas y los deesafíos que más se le presentan son el tráfico y la fatiga de sus repartidores. La idea de implementar scooter le parece muy interesante y prometedora, estos son una forma más útil para sortear el tráfico, además consideran que el mantenimiento y el combustible de los scooters es un factor atractivo. En una plataforma web de gestión de scooters buscan características como que sea fácil de usar, eficiente en la gestión, que permita seguir la ubicación y que tenga opciones de personalización. Para garantizar el mantenimiento adecuado de los scooters le parece que implementar un programa regular de inspección y mantenimiento sería atractivo. Manejarían la ubicación de los scooters mediante un GPS implementado en cada uno de estos. Se encuentra bastante interesado en esta aplicación.
+<br>
 
-**Entrevistado 4**
+**Entrevistado: 4**
 
 Nombre y apellidos: Pieer Rodas
 
@@ -1006,7 +922,7 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 
 ### 2.2.3. Análisis de entrevistas
 
-**Segemento Objetivo 1: Transeúntes**
+>**Segemento Objetivo 1: Transeúntes**
 
 - Frecuencia de uso de scooters: El entrevistado utiliza scooters varias veces a la semana, lo que indica una alta frecuencia de uso y dependencia de este medio de transporte.
 - Beneficios de los scooters: Destaca la conveniencia y agilidad de los scooters para moverse en áreas urbanas congestionadas, así como su economía y eco-amigabilidad en comparación con otros medios de transporte.
@@ -1017,7 +933,7 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 - Medidas de seguridad: Considera importante el mantenimiento y el respeto a las normas de seguridad, lo que subraya la necesidad de garantizar la seguridad tanto para los usuarios como para los peatones.
 - Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
 
-**Segemento Objetivo 2: Empresas deliverys**
+>**Segemento Objetivo 2: Empresas deliverys**
 
 - Frecuencia de uso de scooters: Aunque el entrevistado actualmente utiliza principalmente motocicletas para su servicio de delivery, muestra interés en integrar scooters eléctricos debido a sus beneficios potenciales.
 - Beneficios de los scooters: Reconoce los beneficios de los scooters en términos de eficiencia en el tráfico y sostenibilidad ambiental, lo que sugiere una inclinación hacia la adopción de tecnologías más ecológicas.
@@ -1105,28 +1021,28 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
             <td colspan="1">alta</td>
 		</tr>
         <tr>
-			<td colspan="1">Escanear el código QR para desbloquear scooter</td>
+			<td colspan="1">Cerrar sesión</td>
 			<td colspan="1">multiple</td>
             <td colspan="1">alta</td>
             <td colspan="1">multiple</td>
             <td colspan="1">alta</td>
 		</tr>
         <tr>
-			<td colspan="1">Iniciar viaje</td>
+			<td colspan="1">Añadir scooters a favoritos</td>
 			<td colspan="1">multiple</td>
             <td colspan="1">alta</td>
             <td colspan="1">multiple</td>
             <td colspan="1">alta</td>
 		</tr>
         <tr>
-			<td colspan="1">Monitorear viaje</td>
+			<td colspan="1">Filtrar scooters</td>
 			<td colspan="1">multiple</td>
             <td colspan="1">media</td>
             <td colspan="1">rara</td>
             <td colspan="1">baja</td>
 		</tr>
          <tr>
-			<td colspan="1">Historial de viajes</td>
+			<td colspan="1">Añadir método de pago</td>
 			<td colspan="1">multiple</td>
             <td colspan="1">media</td>
             <td colspan="1">rara</td>
@@ -1156,6 +1072,7 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 ### 2.3.4. Empathy Mapping
 
 > **Segmento Objetivo 1: Transeúntes**
+
 <img src="./assets/ThinkingMapping.png" alt="Entrevista Pietro" width="600" height="300">
 
 > **Segmento Objetivo 2: Empresas deliverys**
@@ -1164,13 +1081,16 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 
 ### 2.3.5. As-is Scenario Mapping
 
-> **Segmento Objetivo 1: Transeúntes**
+>**Segmento Objetivo 1: Transeúntes** 
+<br>
 
 | Escenario | Usuario buscando un scotter disponible                                  | Usuario reserva un scooter                                            | Usuario utiliza el scooter                             | Usuario devuelve el scooter                                | Usuario deja una reseña                                              |
 |-----------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
 | Doing     | Buscando en linea o preguntando a locales la disponibilidad de scooters | Llamando o visitando fisicamente la empresa de alquiler para reservar | Recogiendo al scooter en el lugar designado            | Devolviendo el scooter al lugar de alquiler                | Completando formularios o enviando comentarios sobre su experiencia  |
 | Thinking  | Evaluando la conveniencia y costos                                      | Considerando la fiabilidad y disponibilidad del scooter reservado     | Planificando la ruta y considernado la seguridad       | Preocupandose por los terminos y condiciones de devolucion | Reflexionando sobre la calidad del servicio y el scooter utilizado   |
 | Feeling   | Frustracion por la falta de informacion clara y actualizada             | Inseguridad sobre si el scooter estara disponible al llegar           | Emocion por la experiencia de conduccion y la aventura | Satisfecho si la experiencia general fue positiva          | Esperando que su opinion influya en futuros usuarios y en la empresa |
+
+<br>
 
 > **Segmento Objetivo 2: Empresas deliverys**
 
@@ -1187,6 +1107,11 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 - Experiencia de usuario: La interacción y percepción de los clientes al utilizar los productos o servicios de la empresa.
 - Plataforma centralizada: Se refiere a una única interfaz o sistema donde los usuarios pueden acceder a todas las funciones relacionadas con el alquiler de scooters eléctricos, como reservas, pagos y seguimiento de rutas.
 - Flota: Conjunto de scooters que se encuentran desplegados al rededor de la ciudad listos para ser usados por los usuarios.
+- Scooters: Producto que es el enfoque de la existencia de nuetsra aplicación.
+- Renta: Acción de adquirir scooters en FastScooters.
+- Reserva: Acción posterior de rentar que almacena los scooters rentados para que el usuario pueda visualizarlos.
+- Reporte: acción que permite a los usuarios avisar sobre algún problema, comentario o feedback del aplicativo.
+- Pago: Pago de renta de scooters.
 
 # Capítulo III: Requirements Specification
 
