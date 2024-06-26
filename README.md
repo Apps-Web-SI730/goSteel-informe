@@ -623,80 +623,53 @@ presencia global y su enfoque en la sostenibilidad los hacen destacar.
 			<td rowspan="3">Perfil de Producto</td>
 			<td>Productos &amp; Servicios</td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 		</tr>
 		<tr>
 			<td>Precios &amp; Costos</td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                    Plataforma de Pago
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                Plataforma de Pago
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                    Plataforma de Pago
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                    Plataforma de Pago
             </td>
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 		</tr>
 		<tr>
 			<td rowspan="4">Análisis SWOT</td>
 			<td>Fortalezas</td>
 			<td>
-                <ul>
-                    <li></li>
-                    <li>Actualizaciones continuas</li>
-                </ul>
+                Actualizaciones continuas
             </td>
 			<td>
                 <ul>
@@ -705,37 +678,25 @@ presencia global y su enfoque en la sostenibilidad los hacen destacar.
                 </ul>
             </td>
 			<td>
-                <ul>
-                    <li>Optimiza las rutas cada día siendo más eficiente</li>
-                </ul>
+                    Optimiza las rutas cada día siendo más eficiente
             </td>
 			<td>
-                <ul>
-                    <li>Brinda capacidad de administrar todos los aspectos del alquiler</li>
-                </ul>
+                    Brinda capacidad de administrar todos los aspectos del alquiler
             </td>
 		</tr>
 		<tr>
 			<td>Debilidades</td>
 			<td>
-                <ul>
-                    <li>Carece de ciertas características específicas</li>
-                </ul>
+                    Carece de ciertas características específicas
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma poco intuitiva</li>
-                </ul>
+                    Plataforma poco intuitiva
             </td>
 			<td>
-                <ul>
-                    <li>Precio de renta elevados</li>
-                </ul>
+                    Precio de renta elevados
             </td>
 			<td>
-                <ul>
-                    <li>Tiene un costo muy alto para lo que ofrece</li>
-                </ul>
+                    Tiene un costo muy alto para lo que ofrece
             </td>
 		</tr>
 		<tr>
@@ -756,33 +717,18 @@ presencia global y su enfoque en la sostenibilidad los hacen destacar.
                     <li>Buen reconocimiento</li>
                 </ul>
             </td>
-			<td>
-                <ul>
-                    <li>Funciona correctamente para ayudar a los interesados</li>
-                </ul>
+			<td>Funciona correctamente para ayudar a los interesados
             </td>
 		</tr>
 		<tr>
 			<td>Amenazas</td>
-			<td>
-                <ul>
-                    <li>Presencia de competidores estalecidos</li>
-                </ul>
+			<td>Presencia de competidores estalecidos
             </td>
-			<td>
-                <ul>
-                    <li>App similar</li>
-                </ul>
+			<td>App similar
             </td>
-			<td>
-                <ul>
-                    <li>App similar</li>
-                </ul>
+			<td>App similar
             </td>
-			<td>
-                <ul>
-                    <li>App similar</li>
-                </ul>
+			<td>App similar
             </td>
 		</tr>
 	</tbody>
