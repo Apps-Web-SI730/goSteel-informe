@@ -93,6 +93,12 @@ Junio del 2024
             <td>Sharon Antuanet Ivet Barrial Marin</td>
             <td>Se realizaron todos los puntos correspondientes a las correcciones fronted. Se realizó el backend y sus componentes, se mostró el funcionamiento de ambas al mismo tiempo. Además de la dedacción del informe y la distribución de ramas en todo el equipo. Asimismo se realizó la validación del funcionamiento según cada segmento objetivo mencionado en este proyecto.</td>
 		</tr>
+        <tr>
+			<td>4.00</td>
+            <td>26/06/2024</td>
+            <td>Sharon Antuanet Ivet Barrial Marin</td>
+            <td>Se realizaron los puntos correspondientes para la culminación  de un fronted cumpliendo con las heurísticas y la funcionalidad intuitiva y fácil de manejar. Se terminó por realizar todos los endpoints necesarios para el backend y sus componentes. Asimismo, se realizó el despliegue tanto del front, de la base de datos y el backend. Además de la redacción, corrección y la distribución de ramas en todo el equipo para el informe. Asimismo se realizó la validación del funcionamiento según cada segmento objetivo mencionado en este proyecto. Por último, también se hizo la unión del front con el back haciendo uso de los endpoints.</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -141,8 +147,24 @@ Planificar el alcance y objetivo del Sprint 3
 Realizar el sprint backlog 3 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend
 Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 
-![alt text](image.png)
-![alt text](image-2.png)
+![alt text](assets/sprint4/insights/pulse-main.png)
+![contributions](assets/sprint4/insights/commits-main.png)
+![network](assets/sprint4/insights/network-main.png)
+
+TF: Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de Github dentro de la organización del equipo:
+
+Link de repositorio Github: (https://github.com/Apps-Web-SI730/goSteel-informe.git)
+
+Para la elaboración del informe se realizaron actividades tales como: -Corregir las observaciones brindadas, tales como: corregir el fronted, añadir elementos necesarios al backend y por último la unión en cuanto a funcionamiento dle fronted y el backend.
+
+Planificar el alcance y objetivo del Sprint 4
+Realizar el sprint backlog 4 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend
+Realizar los puntos correspondientes al Sprint 3, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+
+![alt text]()
+![contributions]()
+![network]()
+
 
 ---
 
@@ -157,8 +179,8 @@ permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcom
 
 | Criterio específico                                                                                                                                  | Acciones realizadas                                                                                     | Conclusiones                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Barrial Marin, Sharon Antuanet Ivet** <br> ***TB1:*** Resolución de los segmentos objetivos, antecedentes y problemática, diseño de entrevistas para el segmento objetivo de empresarios, registro de entrevista, análisis de entrevista.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features.<br> ***TB2:*** Para esta entrega, realicé una serie de correcciones importantes en el frontend y también hice aportes significativos en el desarrollo del backend.<br><br> **Huachaca Advincula Scott Jacobo** <br> ***TB1:*** Lean UX Assumptions, Entrevista y Registro de Entrevista para Dueños de una Empresa de Delivery.<br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” **TB2:**Identificó la necesidad de crear páginas web funcionales para la búsqueda de scooters, visualización de detalles de scooters, carrito de compras y reservaciones. Formuló un plan de desarrollo para cada página web, incluyendo los requisitos funcionales y no funcionales. <br><br>  **Josue Omar,Hidalgo Bustamante** <br> ***TB1:*** La identificación de los segmentos objetivo, la contextualización histórica y la descripción de los problemas existentes, junto con la elaboración de cuestionarios para entrevistar a empresarios específicos, el registro detallado de estas entrevistas, y el análisis de las respuestas para encontrar patrones comunes y soluciones potenciales, son pasos esenciales en este proceso.<br> ***TP:*** En el contexto de la entrega parcial, se resaltan como pasos esenciales la implementación de la Page/scooter-add, la addicción de dos entrevistas para ambos segmentos, así como la actualización y corrección del capítulo 1. **TB2:** corregí los capítulos anteriores y añadí las partes faltantes del frontend, además de las correcciones observadas en clase. En el capítulo 5, realicé la sección de Favorites,Rent y Scooter, como parte de la corrección del frontend, y desarrollé la sección de employee y profile como parte del backend. <br><br> **Minaya Mundines Pietro Gerardo** <br> ***TB1:*** Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetiv 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure **TB2:** Asignación del Frontend Web App Despliegue del Frontend Web App en Azure Codificacion del Backend Web Services <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto. <br> ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br><br>                                                                                                                                                | ***TB1:*** Se ha evidenciado una fuerte capacidad de comunicación oral en el desarrollo de nuestro proyecto de ingeniería. Cada uno de los integrantes ha participado activamente en la exposición grupal y presentación del TB1, así como en entrevistas a nuestros segmentos específicos de usuarios. También hemos contribuido en la definición y propuesta del tema del proyecto, en la participación en el Sprint Planning I, en la preparación de ceremonias del sprint y en la creación de materiales visuales. Hemos utilizado una comunicación objetiva y adaptada a diferentes audiencias de especialidades y niveles jerárquicos, asegurando la claridad y la efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra habilidad para comunicarnos efectivamente ha sido clave en el éxito del proyecto y en la cumplimiento del criterio correspondiente del Student Outcome 5 establecido. <br> ***TP:*** Durante el desarrollo de nuestro proyecto de ingeniería todos los miembros del equipo han participado activamente tanto en la corrección de los errores para la TP como en la corrección de las entrevistas con nuestros segmentos específicos de usuarios. Asimismo, del diagrama de clases y la base de datos.  <br><br> ***TB2:*** Durante el desarrollo del proyecto en esta penúltima etapa todos los miembros del equipo participaron activamente en la realización de correcciones tanto en el backend como en el fornted. Se creó más del 80% de los endpoints necesitados y se probó su funcionamiento junto con el fronted.   | 
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.  | ***Barrial Marin Sharon Antuanet Ivet*** <br> ***TB1:*** User tax matrix, user stories, product backlog, style guidelines, landing page wireframe, landing page mock-up, class diagrams, class dictionary, codificación del landing page.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features.<br> ***TB2:*** En esta entrega, tuve la oportunidad de exponer en detalle lo que hemos resuelto a lo largo de este trabajo, ofrecer una explicación exhaustiva de la aplicación web de FastScooter y presentar una reflexión profunda sobre el equipo, "About the Team". <br><br> ***Huachaca Advincula Scott Jacobo*** <br> ***TB1:*** Empaty Mapping, As-is Scenario Mapping, To-be Scenario Mapping, User Stories, Organization Systems, Web Applications Wireflow Diagrams, Database Diagram. <br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” **TB2:**Identificó la necesidad de crear páginas web funcionales para la búsqueda de scooters, visualización de detalles de scooters, carrito de compras y reservaciones. Formuló un plan de desarrollo para cada página web, incluyendo los requisitos funcionales y no funcionales.  <br><br> ***Hidalgo Bustamante Josue Omar*** <br> ***TB1:*** Lean UX Process, User Personas,User Journey Mapping,Impact Mapping,Labeling Systems,Web Applications Mock-ups,User Stories, Entrevistas ,Web Applications Prototyping. <br> ***TP:*** Para la entrega del trabajo Parcial, es fundamental tener conocimientos en al menos un sector empresarial o dominio de aplicación de soluciones de software. **TB2:** hice ajustes en la sección del frontend correspondiente al bounded context Employee, continuando con el desarrollo del código en GitHub usando GitFlow y Conventional Commits. En el backend, implementé el bounded context Employee, relacionado con el API de  Favorites,Rent y Scooter, desarrollando los métodos CRUD y Gets necesarios para el correcto funcionamiento de la aplicación frontend. En ambos ajustes, tanto de frontend como de backend, apliqué el enfoque de Domain Driven Design, organizando las carpetas según cada bounded context. Además, seguí asistiendo a las reuniones y contribuyendo con mis ideas en cada una de ellas. <br><br> ***Minaya Mundines Pietro Gerardo*** <br> ***TB1:*** Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page . <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure **TB2:** Asignación del Frontend Web App, Despliegue del Frontend Web App en Azure, Codificacion del Backend Web Services <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.  ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br><br>            | ***TB1:*** Cada uno de los integrantes ha contribuido en la redacción de diferentes secciones del trabajo, como los capítulos I - V, que abarcan artefactos como User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. También se ha trabajado en la elaboración de la presentación en formato de archivo .pptx. La comunicación escrita ha sido realizada con objetividad y dirigida a audiencias de diferentes especialidades y niveles jerárquicos, garantizando la claridad y efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra capacidad en conocimiento de al menos un dominio ha sido un elemento clave en el desarrollo exitoso del proyecto y en el cumplimiento del Student Outcome 5 establecido. <br> ***TP:*** Se ha actualizado los artefactos desde el capítulos I hasta el V, que incluyen elementos como el User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. Además, hemos colaborado en la creación de la presentación en formato de archivo .pptx. Nuestra comunicación escrita ha sido precisa y dirigida a audiencias con diferentes niveles de especialización y jerarquía, asegurando la claridad y eficacia en la transmisión de nuestras ideas y resultados. En resumen, nuestra capacidad en al menos un área de conocimiento ha sido fundamental en el éxito del proyecto y en el logro del Student Outcome 5 establecido. <br><br> ***TB2:*** Para esta penúltima etapa del proyecto, nos enfocamos en la transmisión de nuestras ideas a través de una comunicación oral efectiva. Esta fase fue crucial en las entrevistas realizadas a nuestros usuarios para comprobar y validar el prototipo de nuestra aplicación web y su funcionamiento. Mediante estas entrevistas obtuvimos retroalimentación valiosa y confirmamos que las funcionalidades desarrolladas cumplían con las expectativas y necesidades de los usuarios. Este proceso de validación fue esencial para asegurar la calidad y la utilidad de la aplicación antes de su lanzamiento final. Gracias a la comunicación clara y precisa durante estas entrevistas, logramos verificar que se cumplieran los objetivos del proyecto, alineándonos así con el logro establecido en el Student Outcome 5.    |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Barrial Marin, Sharon Antuanet Ivet** <br> ***TB1:*** Resolución de los segmentos objetivos, antecedentes y problemática, diseño de entrevistas para el segmento objetivo de empresarios, registro de entrevista, análisis de entrevista.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features.<br> ***TB2:*** Para esta entrega, realicé una serie de correcciones importantes en el frontend y también hice aportes significativos en el desarrollo del backend.<br>***TF:*** Resolución de las correcciones necesarias en la documentación, así como en los componentes de frontend y backend. También se registró la revisión del sprint 4, documentando todas las observaciones y aprendizajes obtenidos. Además, se llevaron a cabo pruebas exhaustivas de las funcionalidades establecidas en este proyecto, asegurando que cada feature cumpla con los requisitos y estándares de calidad definidos. <br><br> **Huachaca Advincula Scott Jacobo** <br> ***TB1:*** Lean UX Assumptions, Entrevista y Registro de Entrevista para Dueños de una Empresa de Delivery.<br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” **TB2:**Identificó la necesidad de crear páginas web funcionales para la búsqueda de scooters, visualización de detalles de scooters, carrito de compras y reservaciones. Formuló un plan de desarrollo para cada página web, incluyendo los requisitos funcionales y no funcionales.<br>***TF:*** <br><br>  **Josue Omar,Hidalgo Bustamante** <br> ***TB1:*** La identificación de los segmentos objetivo, la contextualización histórica y la descripción de los problemas existentes, junto con la elaboración de cuestionarios para entrevistar a empresarios específicos, el registro detallado de estas entrevistas, y el análisis de las respuestas para encontrar patrones comunes y soluciones potenciales, son pasos esenciales en este proceso.<br> ***TP:*** En el contexto de la entrega parcial, se resaltan como pasos esenciales la implementación de la Page/scooter-add, la addicción de dos entrevistas para ambos segmentos, así como la actualización y corrección del capítulo 1. **TB2:** corregí los capítulos anteriores y añadí las partes faltantes del frontend, además de las correcciones observadas en clase. En el capítulo 5, realicé la sección de Favorites,Rent y Scooter, como parte de la corrección del frontend, y desarrollé la sección de employee y profile como parte del backend.<br>***TF:*** <br><br> **Minaya Mundines Pietro Gerardo** <br> ***TB1:*** Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetiv 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure **TB2:** Asignación del Frontend Web App Despliegue del Frontend Web App en Azure Codificacion del Backend Web Services <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto. <br> ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br>***TF:***<br><br> | ***TB1:*** Se ha evidenciado una fuerte capacidad de comunicación oral en el desarrollo de nuestro proyecto de ingeniería. Cada uno de los integrantes ha participado activamente en la exposición grupal y presentación del TB1, así como en entrevistas a nuestros segmentos específicos de usuarios. También hemos contribuido en la definición y propuesta del tema del proyecto, en la participación en el Sprint Planning I, en la preparación de ceremonias del sprint y en la creación de materiales visuales. Hemos utilizado una comunicación objetiva y adaptada a diferentes audiencias de especialidades y niveles jerárquicos, asegurando la claridad y la efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra habilidad para comunicarnos efectivamente ha sido clave en el éxito del proyecto y en la cumplimiento del criterio correspondiente del Student Outcome 5 establecido. <br><br> ***TP:*** Durante el desarrollo de nuestro proyecto de ingeniería todos los miembros del equipo han participado activamente tanto en la corrección de los errores para la TP como en la corrección de las entrevistas con nuestros segmentos específicos de usuarios. Asimismo, del diagrama de clases y la base de datos.  <br><br> ***TB2:*** Durante el desarrollo del proyecto en esta penúltima etapa todos los miembros del equipo participaron activamente en la realización de correcciones tanto en el backend como en el fornted. Se creó más del 80% de los endpoints necesitados y se probó su funcionamiento junto con el fronted. <br><br> ***TF:*** Durante el desarrollo de esta última etapa de trabajo, todos los miembros se enfocaron en culminar con la implementación de todos los endpoints necesarios para garantizar una conexión efectiva entre los datos, es decir, una relación fluida entre el frontend y el backend. Además, se aseguró la correcta recepción y almacenamiento de los datos en nuestra base de datos.  | 
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.  | ***Barrial Marin Sharon Antuanet Ivet*** <br> ***TB1:*** User tax matrix, user stories, product backlog, style guidelines, landing page wireframe, landing page mock-up, class diagrams, class dictionary, codificación del landing page.<br> ***TP:*** Correcciones en el diagrama de clases, creación y desarrollo de los archivos acceptance test para cada uno de nuestros features.<br> ***TB2:*** En esta entrega, tuve la oportunidad de exponer en detalle lo que hemos resuelto a lo largo de este trabajo, ofrecer una explicación exhaustiva de la aplicación web de FastScooter y presentar una reflexión profunda sobre el equipo, "About the Team". <br>***TF:*** La comunicación dentro de la organización en esta entrega nos llevó a exponer los puntos tratados en el sprint review 4, donde reflexionamos sobre los roles que asumimos durante este trabajo. Además, discutimos la retroalimentación grupal en el video "About the Team", compartiendo nuestras experiencias y aprendizajes tanto a nivel individual como colectivo. <br><br> ***Huachaca Advincula Scott Jacobo*** <br> ***TB1:*** Empaty Mapping, As-is Scenario Mapping, To-be Scenario Mapping, User Stories, Organization Systems, Web Applications Wireflow Diagrams, Database Diagram. <br> ***TP:*** Correcciones de la TB1 y Implementación de pages para la Aplicación Web tales como “/scooters-search” y “scooters-search/ID” **TB2:**Identificó la necesidad de crear páginas web funcionales para la búsqueda de scooters, visualización de detalles de scooters, carrito de compras y reservaciones. Formuló un plan de desarrollo para cada página web, incluyendo los requisitos funcionales y no funcionales.  <br>***TF:*** <br><br> ***Hidalgo Bustamante Josue Omar*** <br> ***TB1:*** Lean UX Process, User Personas,User Journey Mapping,Impact Mapping,Labeling Systems,Web Applications Mock-ups,User Stories, Entrevistas ,Web Applications Prototyping. <br> ***TP:*** Para la entrega del trabajo Parcial, es fundamental tener conocimientos en al menos un sector empresarial o dominio de aplicación de soluciones de software. ***TB2:*** hice ajustes en la sección del frontend correspondiente al bounded context Employee, continuando con el desarrollo del código en GitHub usando GitFlow y Conventional Commits. En el backend, implementé el bounded context Employee, relacionado con el API de  Favorites,Rent y Scooter, desarrollando los métodos CRUD y Gets necesarios para el correcto funcionamiento de la aplicación frontend. En ambos ajustes, tanto de frontend como de backend, apliqué el enfoque de Domain Driven Design, organizando las carpetas según cada bounded context. Además, seguí asistiendo a las reuniones y contribuyendo con mis ideas en cada una de ellas. <br>***TF:*** <br><br> ***Minaya Mundines Pietro Gerardo*** <br> ***TB1:*** Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page . <br> ***TP:*** Correcciones de C4 y Codificación del Frontend Web App Despliegue del Frontend Web App en Azure <br> ***TB2:*** Asignación del Frontend Web App, Despliegue del Frontend Web App en Azure, Codificacion del Backend Web Services. <br>***TF:*** <br><br> ***Adrianzen, Carlos Arturo*** <br> ***TB1:*** El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups de appwebs. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.  ***TP:*** En esta entrega pude corregir un problema que hubo con las entrevistas fe validación que hubo en la entrega anterior. También desarrolle el componente scooter-purchase de la front en app. <br>***TF:***  | ***TB1:*** Cada uno de los integrantes ha contribuido en la redacción de diferentes secciones del trabajo, como los capítulos I - V, que abarcan artefactos como User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. También se ha trabajado en la elaboración de la presentación en formato de archivo .pptx. La comunicación escrita ha sido realizada con objetividad y dirigida a audiencias de diferentes especialidades y niveles jerárquicos, garantizando la claridad y efectividad en la transmisión de nuestras ideas y resultados. En general, nuestra capacidad en conocimiento de al menos un dominio ha sido un elemento clave en el desarrollo exitoso del proyecto y en el cumplimiento del Student Outcome 5 establecido. <br> ***TP:*** Se ha actualizado los artefactos desde el capítulos I hasta el V, que incluyen elementos como el User Journey, Impact & Scenario Mappings, Product Backlog, User Personas, User Stories, Configuración del repositorio y tecnologías, User Task Matrix, Empathy Mapping, Information Architecture y Domain-Driven Software Architecture. Además, hemos colaborado en la creación de la presentación en formato de archivo .pptx. Nuestra comunicación escrita ha sido precisa y dirigida a audiencias con diferentes niveles de especialización y jerarquía, asegurando la claridad y eficacia en la transmisión de nuestras ideas y resultados. En resumen, nuestra capacidad en al menos un área de conocimiento ha sido fundamental en el éxito del proyecto y en el logro del Student Outcome 5 establecido. <br><br> ***TB2:*** Para esta penúltima etapa del proyecto, nos enfocamos en la transmisión de nuestras ideas a través de una comunicación oral efectiva. Esta fase fue crucial en las entrevistas realizadas a nuestros usuarios para comprobar y validar el prototipo de nuestra aplicación web y su funcionamiento. Mediante estas entrevistas obtuvimos retroalimentación valiosa y confirmamos que las funcionalidades desarrolladas cumplían con las expectativas y necesidades de los usuarios. Este proceso de validación fue esencial para asegurar la calidad y la utilidad de la aplicación antes de su lanzamiento final. Gracias a la comunicación clara y precisa durante estas entrevistas, logramos verificar que se cumplieran los objetivos del proyecto, alineándonos así con el logro establecido en el Student Outcome 5.<br><br>***TF:*** En la etapa final del proyecto, nos centramos en establecer una comunicación efectiva para validar y asegurar el correcto funcionamiento de FastScooter, incorporando todos los features necesarios. Durante este proceso, reflexionamos tanto a nivel individual como en equipo, identificando y compartiendo las lecciones aprendidas y los desafíos superados. Estas reflexiones fueron cruciales durante el Sprint Review 4, donde presentamos detalladamente nuestros avances y soluciones implementadas. Además de cumplir con los requisitos del Student Outcome 5, esta presentación nos permitió recibir valioso feedback, el cual utilizaremos para perfeccionar aún más el producto en futuras iteraciones. |
 
 ---
 
@@ -166,128 +188,139 @@ permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcom
 
 ## Tabla de contenidos
 
-### [Capítulo I: Introducción]()
+   **[Capítulo I: Introducción](#capítulo-i-introducción)**<br>
 
-- [1.1. Startup Profile]()
-    - [1.1.1 Descripción de la Startup]()
-    - [1.1.2 Perfiles de integrantes del equipo]()
-- [1.2 Solution Profile]()
-    - [1.2.1 Antecedentes y problemática]()
-    - [1.2.2 Lean UX Process]()
-        - [1.2.2.1. Lean UX Problem Statements]()
-        - [1.2.2.2. Lean UX Assumptions]()
-        - [1.2.2.3. Lean UX Hypothesis Statements]()
-        - [1.2.2.4. Lean UX Canvas]()
-- [1.3. Segmentos objetivo]()
+   1.1.  [Startup Profile](#11-startup-profile)
+   1.1.1.   [Descripción de la Startup](#111-descripción-de-la-startup)
+   1.1.2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)<br>
 
-### [Capítulo II: Requirements Elicitation & Analysis]()
+   1.2. [Solution Profile](#12-solution-profile)
+   1.2.1. [Antecedentes y problemática](#121-antecedentes-y-problemática)
+   1.2.2. [Lean UX Process](#122-lean-ux-process)
+   1.2.2.1. [Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+   1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions)
+   1.2.2.3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+   1.2.2.4. [Lean UX Canvas](#1224-lean-ux-canvas)<br>
+   
+   1.3. [Segmentos objetivo](#13-segmentos-objetivo)
 
-- [2.1. Competidores]()
-    - [2.1.1. Análisis competitivo]()
-    - [2.1.2. Estrategias y tácticas frente a competidores]()
-- [2.2. Entrevistas]()
-    - [2.2.1. Diseño de entrevistas]()
-    - [2.2.2. Registro de entrevistas]()
-    - [2.2.3. Análisis de entrevistas]()
-- [2.3. Needfinding]()
-    - [2.3.1. User Personas]()
-    - [2.3.2. User Task Matrix]()
-    - [2.3.3. User Journey Mapping]()
-    - [2.3.4. Empathy Mapping]()
-    - [2.3.5. As-is Scenario Mapping]()
-- [2.4. Ubiquitous Language]()
+**[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)** <br>
 
-### [Capítulo III: Requirements Specification]()
+2.1. [Competidores](#21-competidores)
+2.1.1. [Análisis competitivo](#211-análisis-competitivo)
+2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)<br>
 
-- [3.1. To-Be Scenario Mapping]()
-- [3.2. User Stories]()
-- [3.3. Impact Mapping]()
-- [3.4. Product Backlog]()
+2.2. [Entrevistas](#22-entrevistas)
+2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas)
+2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)
+2.2.3 [Análisis de entrevistas](#223-análisis-de-entrevistas)<br>
 
-### [Capítulo IV: Product Design]()
+2.3. [Needfinding](#23-needfinding)
+2.3.1. [User Personas](#231-user-personas)
+2.3.2. [User Task Matrix](#232-user-task-matrix)
+2.3.3. [User Journey Mapping](#233-user-journey-mapping)
+2.3.4. [Empathy Mapping](#234-empathy-mapping)
+2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
 
-- [4.1. Style Guidelines]()
-    - [4.1.1. General Style Guidelines]()
-    - [4.1.2. Web Style Guidelines]()
-- [4.2. Information Architecture]()
-    - [4.2.1. Organization Systems]()
-    - [4.2.2. Labeling Systems]()
-    - [4.2.3. SEO Tags and Meta Tags]()
-    - [4.2.4. Searching Systems]()
-    - [4.2.5. Navigation Systems]()
-- [4.3. Landing Page UI Design]()
-    - [4.3.1. Landing Page Wireframe]()
-    - [4.3.2. Landing Page Mock-up]()
-- [4.4. Web Applications UX/UI Design]()
-    - [4.4.1. Web Applications Wireframes]()
-    - [4.4.2. Web Applications Wireflow Diagrams]()
-    - [4.4.3. Web Applications Mock-ups]()
-    - [4.4.4. Web Applications User Flow Diagrams]()
-- [4.5. Web Applications Prototyping]()
-- [4.6. Domain-Driven Software Architecture]()
-    - [4.6.1. Software Architecture Context Diagram]()
-    - [4.6.2. Software Architecture Container Diagrams]()
-    - [4.6.3. Software Architecture Components Diagrams]()
-- [4.7. Software Object-Oriented Design]()
-    - [4.7.1. Class Diagrams]()
-    - [4.7.2. Class Dictionary]()
-- [4.8. Database Design]()
-    - [4.8.1. Database Diagram]()
+2.4. [Ubiquitous Language](#24-ubiquitous-language)
 
-### [Capítulo V: Product Implementation, Validation & Deployment]()
+**[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)**<br>
 
-- [5.1. Software Configuration Management]()
-    - [5.1.1. Software Development Environment Configuration]()
-    - [5.1.2. Source Code Management]()
-    - [5.1.3. Source Code Style Guide & Conventions]()
-    - [5.1.4. Software Deployment Configuration]()
-- [5.2. Landing Page, Services & Applications Implementation]()
-    - [5.2.1. Sprint 1]()
-        - [5.2.1.1. Sprint Planning 1]()
-        - [5.2.1.2. Sprint Backlog 1]()
-        - [5.2.1.3. Development Evidence for Sprint Review]()
-        - [5.2.1.4. Testing Suite Evidence for Sprint Review]()
-        - [5.2.1.5. Execution Evidence for Sprint Review]()
-        - [5.2.1.6. Services Documentation Evidence for Sprint Review]()
-        - [5.2.1.7. Software Deployment Evidence for Sprint Review]()
-        - [5.2.1.8. Team Collaboration Insights during Sprint]()
-    - [5.2.2. Sprint 2]()
-        - [5.2.2.1. Sprint Planning 2]()
-        - [5.2.2.2. Sprint Backlog 2]()
-        - [5.2.2.3. Development Evidence for Sprint Review]()
-        - [5.2.2.4. Testing Suite Evidence for Sprint Review]()
-        - [5.2.2.5. Execution Evidence for Sprint Review]()
-        - [5.2.2.6. Services Documentation Evidence for Sprint Review]()
-        - [5.2.2.7. Software Deployment Evidence for Sprint Review]()
-        - [5.2.2.8. Team Collaboration Insights during Sprint]()
-    - [5.2.3. Sprint 3]()
-        - [5.2.3.1. Sprint Planning 3]()
-        - [5.2.3.2. Sprint Backlog 3]()
-        - [5.2.3.3. Development Evidence for Sprint Review]()
-        - [5.2.3.4. Testing Suite Evidence for Sprint Review]()
-        - [5.2.3.5. Execution Evidence for Sprint Review]()
-        - [5.2.3.6. Services Documentation Evidence for Sprint Review]()
-        - [5.2.3.7. Software Deployment Evidence for Sprint Review]()
-        - [5.2.3.8. Team Collaboration Insights during Sprint]()
-    - [5.2.4. Sprint 4]()
-        - [5.2.4.1. Sprint Planning 4]()
-        - [5.2.4.2. Sprint Backlog 4]()
-        - [5.2.4.3. Development Evidence for Sprint Review]()
-        - [5.2.4.4. Testing Suite Evidence for Sprint Review]()
-        - [5.2.4.5. Execution Evidence for Sprint Review]()
-        - [5.2.4.6. Services Documentation Evidence for Sprint Review]()
-        - [5.2.4.7. Software Deployment Evidence for Sprint Review]()
-        - [5.2.4.8. Team Collaboration Insights during Sprint]()
-- [5.3. Validation Interviews]()
-    - [5.3.1. Diseño de Entrevistas]()
-    - [5.3.2. Registro de Entrevistas]()
-    - [5.3.3. Evaluaciones según heurísticas]()
-- [5.4. Video About-the-Product]()
-- [Conclusiones]()
-    - [Conclusiones y recomendaciones]()
-- [Video About-the-Team]()
-- [Bibliografía]()
-- [Anexos]()
+3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+3.2. [User Stories](#32-user-stories)
+3.3. [Impact Mapping](#33-impact-mapping)
+3.4. [Product Backlog](#34-product-backlog)
+
+**[Capítulo IV: Product Design](#capítulo-iv-product-design)**<br>
+
+4.1. [Style Guidelines](#41-style-guidelines)
+4.1.1. [General Style Guidelines](#411-general-style-guidelines)
+4.1.2. [Web Style Guidelines](#412-web-style-guidelines) <br>
+
+4.2. [Information Architecture](#42-information-architecture)
+4.2.1. [Organization Systems](#421-organization-systems)
+4.2.2. [Labeling Systems](#422-labeling-systems)
+4.2.3. [SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+4.2.4. [Searching Systems](#424-searching-systems)
+4.2.5. [Navigation Systems](#425-navigation-systems)<br>
+
+4.3. [Landing Page UI Design](#43-landing-page-ui-design)
+4.3.1. [Landing Page Wireframe](#431-landing-page-wireframe)
+4.3.2. [Landing Page Mock-up](#432-landing-page-mock-up)<br>
+
+4.4. [Web Applications UX/UI Design](#44-web-applications-uxui-design)
+4.4.1. [Web Applications Wireframes](#441-web-applications-wireframes)
+4.4.2. [Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+4.4.3. [Web Applications Mock-ups](#443-web-applications-mock-ups)
+4.4.4. [Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)<br>
+4.5. [Web Applications Prototyping](#45-web-applications-prototyping)<br>
+4.6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+4.6.1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+4.6.2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+4.6.3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)<br>
+4.7. [Software Object-Oriented Design](#47-software-object-oriented-design)
+4.7.1. [Class Diagrams](#471-class-diagrams)
+4.7.2. [Class Dictionary](#472-class-dictionary)<br>
+4.8. [Database Design](#48-database-design)
+4.8.1. [Database Diagram](#481-database-diagram)
+
+
+
+**[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)**<br>
+
+5.1. [Software Configuration Management](#51-software-configuration-management)
+5.1.1. [Software Development Environment Configuration](#511-software-development-environment-configuration)
+5.1.2. [Source Code Management](#512-source-code-management)
+5.1.3. [Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+5.1.4. [Software Deployment Configuration](#514-software-deployment-configuration)<br>
+5.2. [Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+5.2.1. [Sprint 1](#521-sprint-1)
+5.2.1.1. [Sprint Planning 1](#5211-sprint-planning-1)
+5.2.1.2. [Sprint Backlog 1](#5212-sprint-backlog-1)
+5.2.1.3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+5.2.1.4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+5.2.1.5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+5.2.2. [Sprint 2](#522-sprint-2)
+5.2.2.1. [Sprint Planning 2](#5221-sprint-planning-2)
+5.2.2.2. [Sprint Backlog 2](#5222-sprint-backlog-2)
+5.2.2.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+5.2.2.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+5.2.2.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+5.2.3. [Sprint 3](#523-sprint-3)
+5.2.3.1. [Sprint Planning 3](#5231-sprint-planning-3)
+5.2.3.2. [Sprint Backlog 3](#5232-sprint-backlog-3)
+5.2.3.3. [Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+5.2.3.4. [Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+5.2.4. [Sprint 4](#524-sprint-4)
+5.2.4.1. [Sprint Planning 4](#5241-sprint-planning-4)
+5.2.4.2. [Sprint Backlog 4](#5242-sprint-backlog-4)
+5.2.4.3. [Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+5.2.4.4. [Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+5.2.4.5. [Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+5.2.4.6. [Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+5.2.4.7. [Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+5.2.4.8. [Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)<br>
+5.3. [Validation Interviews](#53-validation-interviews)
+5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas)
+5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas)
+5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)<br>
+5.4. [Video About-the-Product](#54-video-about-the-product)
+
+[Conclusiones](#conclusiones)
+[Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+[Video About-the-Team](#video-about-the-team)
+[Bibliografía](#bibliografía)
+[Anexos](#anexos)
 
 ---
 
@@ -326,59 +359,59 @@ eficiente y ecológica que les permita optimizar sus rutas y promover un futuro 
 
 <img src="./assets/profile-sharon.png" alt="Sharon Antuanet Ivet Barrial Marin" width="200" height="200">
 
-Nombre completo: Sharon Antuanet Ivet Barrial Marin
+**Nombre completo:** Sharon Antuanet Ivet Barrial Marin
 
-Código de estudiante: U202114900
+**Código de estudiante:** U202114900
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy una estudiante que se caracteriza por poseer cualidades como la perseverencia, el compañerismo y la
+**Acerca de mí:** Soy una estudiante que se caracteriza por poseer cualidades como la perseverencia, el compañerismo y la
 comunicación interpersonal. Además de tener conocimientos en diversos lenguajes de programación (Python, C++, C#...),
 también tengo habilidades en la edición de fotos y videos, y en el enfoque al marketing digital. Espero que estas pocas
 cualidades sirvan como aporte al proyecto durante el presente ciclo y curso.
 
 <img src="./assets/profile-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
 
-Nombre completo: Pietro Gerardo Minaya Mundines
+**Nombre completo:** Pietro Gerardo Minaya Mundines
 
-Código de estudiante: U201718387
+**Código de estudiante:** U201718387
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
+**Acerca de mí:** Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 <img src="./assets/profile-arturo.png" alt="Carlos Arturo Adrianzén Flores" width="200" height="200">
 
-Nombre completo: Carlos Arturo Adrianzén Flores
+**Nombre completo:** Carlos Arturo Adrianzén Flores
 
-Código de estudiante: U202215705
+**Código de estudiante:** U202215705
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC, curso el 5to ciclo. Me gusta jugar fútbol y tocar guitarra. Respecto al trabajo
+**Acerca de mí:** Soy estudiante de la UPC, curso el 5to ciclo. Me gusta jugar fútbol y tocar guitarra. Respecto al trabajo
 en equipo espero poder ayudar con todas mis capacidades. Me considero optimista y alegre.
 
 <img src="./assets/profile-scott.jpg" alt="Scott Jacobo Huachaca Advincula" width="200" height="200">
 
-Nombre completo: Scott Jacobo Huachaca Advincula
+**Nombre completo:** Scott Jacobo Huachaca Advincula
 
-Código de estudiante: U201914294
+**Código de estudiante:** U201914294
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan
+**Acerca de mí:** Soy estudiante de la UPC, la razon por la que elegi la carrera es porque combina las cosas que me gustan
 como la tecnologia y la creacion de aplicaciones. Ademas siempre me ha intrigado como funcionan las aplicaciones que
 utilizamos a diario, como las redes sociales o aplicaciones de productividad.
 
 <img src="./assets/yo.jpeg" alt="Josue Hidalgo" width="200" height="200">
 
-Nombre completo: Josue Hidalgo Bustamante
+**Nombre completo:** Josue Hidalgo Bustamante
 
-Código de estudiante: U202119880
+**Código de estudiante:** U202119880
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Acerca de mí: Soy estudiante de la UPC,me gusta mucho la tecnologia y los videojuegos
+**Acerca de mí:** Soy estudiante de la UPC,me gusta mucho la tecnologia y los videojuegos
 
 ## 1.2 Solution Profile
 
@@ -647,80 +680,53 @@ presencia global y su enfoque en la sostenibilidad los hacen destacar.
 			<td rowspan="3">Perfil de Producto</td>
 			<td>Productos &amp; Servicios</td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 		</tr>
 		<tr>
 			<td>Precios &amp; Costos</td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                    Plataforma de Pago
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                Plataforma de Pago
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                    Plataforma de Pago
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma de Pago</li>
-                </ul>
+                    Plataforma de Pago
             </td>
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 			<td>
-                <ul>
-                    <li>Aplicación web</li>
-                </ul>
+                    Aplicación web
             </td>
 		</tr>
 		<tr>
 			<td rowspan="4">Análisis SWOT</td>
 			<td>Fortalezas</td>
 			<td>
-                <ul>
-                    <li></li>
-                    <li>Actualizaciones continuas</li>
-                </ul>
+                Actualizaciones continuas
             </td>
 			<td>
                 <ul>
@@ -729,37 +735,25 @@ presencia global y su enfoque en la sostenibilidad los hacen destacar.
                 </ul>
             </td>
 			<td>
-                <ul>
-                    <li>Optimiza las rutas cada día siendo más eficiente</li>
-                </ul>
+                    Optimiza las rutas cada día siendo más eficiente
             </td>
 			<td>
-                <ul>
-                    <li>Brinda capacidad de administrar todos los aspectos del alquiler</li>
-                </ul>
+                    Brinda capacidad de administrar todos los aspectos del alquiler
             </td>
 		</tr>
 		<tr>
 			<td>Debilidades</td>
 			<td>
-                <ul>
-                    <li>Carece de ciertas características específicas</li>
-                </ul>
+                    Carece de ciertas características específicas
             </td>
 			<td>
-                <ul>
-                    <li>Plataforma poco intuitiva</li>
-                </ul>
+                    Plataforma poco intuitiva
             </td>
 			<td>
-                <ul>
-                    <li>Precio de renta elevados</li>
-                </ul>
+                    Precio de renta elevados
             </td>
 			<td>
-                <ul>
-                    <li>Tiene un costo muy alto para lo que ofrece</li>
-                </ul>
+                    Tiene un costo muy alto para lo que ofrece
             </td>
 		</tr>
 		<tr>
@@ -780,33 +774,18 @@ presencia global y su enfoque en la sostenibilidad los hacen destacar.
                     <li>Buen reconocimiento</li>
                 </ul>
             </td>
-			<td>
-                <ul>
-                    <li>Funciona correctamente para ayudar a los interesados</li>
-                </ul>
+			<td>Funciona correctamente para ayudar a los interesados
             </td>
 		</tr>
 		<tr>
 			<td>Amenazas</td>
-			<td>
-                <ul>
-                    <li>Presencia de competidores estalecidos</li>
-                </ul>
+			<td>Presencia de competidores estalecidos
             </td>
-			<td>
-                <ul>
-                    <li>App similar</li>
-                </ul>
+			<td>App similar
             </td>
-			<td>
-                <ul>
-                    <li>App similar</li>
-                </ul>
+			<td>App similar
             </td>
-			<td>
-                <ul>
-                    <li>App similar</li>
-                </ul>
+			<td>App similar
             </td>
 		</tr>
 	</tbody>
@@ -875,18 +854,10 @@ Distrito: San Isidro
 
 <img src="./assets/interview-pietro.png" alt="Entrevista Pietro" width="600" height="300">
 
-[URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/
-201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
+[URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
 
-Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas
-urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin
-embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial.
-Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con
-servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos.
-Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la
-disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y
-peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y
-sostenibilidad.
+Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial. Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos. Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad.
+<br>
 
 **Entrevistado: 2**
 
@@ -900,15 +871,8 @@ Distrito: San Isidro
 
 [URL: Entrevista](https://youtu.be/Ric4PU5pKqI)
 
-Resumen:El entrevistado emplea scooters regularmente para trayectos cortos en entornos urbanos, valorando su
-conveniencia y agilidad. Sin embargo, señala desafíos como la disponibilidad limitada y la infraestructura vial
-deficiente. Prioriza la comodidad, seguridad y autonomía al alquilar un scooter, aunque su experiencia con los servicios
-de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real sobre la disponibilidad. Destaca la
-importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva
-para emergencias.
-
-
-
+Resumen: El entrevistado emplea scooters regularmente para trayectos cortos en entornos urbanos, valorando su conveniencia y agilidad. Sin embargo, señala desafíos como la disponibilidad limitada y la infraestructura vial deficiente. Prioriza la comodidad, seguridad y autonomía al alquilar un scooter, aunque su experiencia con los servicios de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real sobre la disponibilidad. Destaca la importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva para emergencias.
+<br>
 
 **Entrevistado: 3**
 
@@ -922,12 +886,8 @@ Distrito: San Isidro
 
 **[URL: Entrevista](https://youtu.be/SQGh2JlNiuI)**
 
-Resumen:El entrevistado emplea scooters regularmente para trayectos cortos en entornos urbanos, valorando su
-conveniencia y agilidad. Sin embargo, señala desafíos como la disponibilidad limitada y la infraestructura vial
-deficiente. Prioriza la comodidad, seguridad y autonomía al alquilar un scooter, aunque su experiencia con los servicios
-de alquiler ha sido mixta. Espera aplicaciones intuitivas y datos en tiempo real sobre la disponibilidad. Destaca la
-importancia del mantenimiento y la seguridad vial. Aunque seguirá utilizando scooters por su conveniencia, los reserva
-para emergencias.
+Resumen: El entrevistado utiliza scooters con frecuencia para desplazamientos cortos en áreas urbanas, apreciando su practicidad y rapidez. No obstante, menciona obstáculos como la limitada disponibilidad de scooters y la deficiente infraestructura vial. Al rentar un scooter, prioriza la comodidad, seguridad y autonomía, aunque ha tenido experiencias variadas con los servicios de alquiler. Espera que las aplicaciones sean fáciles de usar y proporcionen información en tiempo real sobre la disponibilidad. Además, enfatiza la importancia del mantenimiento y la seguridad al conducir. A pesar de continuar usando scooters por su conveniencia, los reserva principalmente para situaciones de emergencia.
+<br>
 
 **Entrevistado: 4**
 
@@ -942,8 +902,11 @@ Distrito: Jesus Maria
 [URL: Entrevista](https://youtu.be/R6D5-SKYBTA)
 
 Resumen:El entrevistado utiliza scooters regularmente, casi todos los días, para ir al trabajo, destacando su conveniencia y agilidad. Señala desafíos como la disponibilidad limitada y la infraestructura vial deficiente, especialmente en áreas sin vereda. Valora la autonomía de la batería al alquilar un scooter y prefiere tener el suyo propio. Su experiencia con servicios de alquiler ha sido limitada, pero destaca la importancia de una interfaz intuitiva. Sugiere que la duración de la batería sea prioritaria en una aplicación de alquiler. Considera importante la protección de datos y expresó interés en seguir utilizando scooters en el futuro, siempre y cuando se mejore la batería y la interfaz de usuario.
+<br>
 
 > **Segmento Objetivo: Empresarios**
+
+**Entrevistado: 1**
 
 Nombre y apellidos: Andreas Muller
 
@@ -955,14 +918,10 @@ Districto: San Isidro
 
 [URL: Entrevista dueño de empresa de delivery](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914294_upc_edu_pe/EfQ7gdNkAE1Ana1EBz90-AABFZcm5vcv54SCmovhRDzkpg?e=Jj5PJe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Resumen: La entrevistado es dueño de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa
-son las motos lineales ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el trafico, tambien nos cuenta cuales serian los pros y contras de alquirir scooters como medio de transporte para su empresa, otra cosa que nos dice es que un caracteristica principal que debe tener una
-plataforma web para el alquiler de scooter es la que sea facil de navegar y facil de gestionar los scooters. Nos afirma
-que no le importa tanto al personalizacion sino el facilidad de utilizar la aplicacion web. Por ultimo nos dice que si
-hubiese una aplicacion web sobre el alquiler de scooter que le ofrece las necesidades que necesita por su puesto que la
-usaria.
+Resumen: La entrevistado es dueño de una empresa de delivery y nos cuenta que el medio de transporte que usa la empresa son las motos lineales ya que son mas rapidos al momento de entregar el pedido. Uno de los desafios que tienen es el trafico, tambien nos cuenta cuales serian los pros y contras de alquirir scooters como medio de transporte para su empresa, otra cosa que nos dice es que un caracteristica principal que debe tener una plataforma web para el alquiler de scooter es la que sea facil de navegar y facil de gestionar los scooters. Nos afirma que no le importa tanto al personalizacion sino el facilidad de utilizar la aplicacion web. Por ultimo nos dice que si hubiese una aplicacion web sobre el alquiler de scooter que le ofrece las necesidades que necesita por su puesto que la usaría.
+<br>
 
-**Entrevistado 2**
+**Entrevistado: 2**
 
 Nombre y apellidos: Jeremy Quispe
 
@@ -974,16 +933,11 @@ Districto: San Juan de Lurigancho
 
 [URL: Entrevista dueño de empresa de delivery](https://youtu.be/JRuP-yDurrU).
 
-Resumen: El entrevistado es dueño junto a su tio de una polleria que realiza delivery, sus repartidores usan el
-transporte de moto. Dentro de sus principales problemas se encuentra el tráfico denso en horas pico, y el
-estacionamiento y problemas para acceder a ciertas zonas. Considera que los scooters son más manobriables, además de que
-son más sostenibles ecologicamente. En la aplicación web busca que sea intuitiva, que se pueda rastrear el estado de los
-scooters. Considera que se le deberían realizar constantemente revisiones a los scooters para verificar su correcto
-funcionamiento. Le gustaría una opción de asignar scooters a repartidores individuales y generar rendimiento de la flota
+Resumen: El entrevistado es dueño junto a su tio de una polleria que realiza delivery, sus repartidores usan el transporte de moto. Dentro de sus principales problemas se encuentra el tráfico denso en horas pico, y el estacionamiento y problemas para acceder a ciertas zonas. Considera que los scooters son más manobriables, además de que son más sostenibles ecologicamente. En la aplicación web busca que sea intuitiva, que se pueda rastrear el estado de los scooters. Considera que se le deberían realizar constantemente revisiones a los scooters para verificar su correcto funcionamiento. Le gustaría una opción de asignar scooters a repartidores individuales y generar rendimiento de la flota
 de scooters.
+<br>
 
-
-**Entrevistado 3**
+**Entrevistado: 3**
 
 Nombre y apellidos: Abel Valle
 
@@ -995,15 +949,10 @@ Districto: La Molina
 
 [URL: Entrevista dueño de empresa de delivery](https://youtu.be/RcNx1iQbe9M).
 
-Resumen: EL entrevistado usa para su empresa de deilvery motociletas y bicicletas y los deesafíos que más se le presentan 
-son el tráfico y la fatiga de sus repartidores. La idea de implementar scooter le parece muy interesante y prometedora,
-estos son una forma más útil para sortear el tráfico, además consideran que el mantenimiento y el combustible de los scooters
-es un factor atractivo. En una plataforma web de gestión de scooters buscan características como que sea fácil de usar, eficiente 
-en la gestión, que permita seguir la ubicación y que tenga opciones de personalización. Para garantizar el mantenimiento adecuado 
-de los scooters le parece que implementar un programa regular de inspección y mantenimiento sería atractivo. Manejarían la ubicación 
-de los scooters mediante un GPS implementado en cada uno de estos. Se encuentra bastante interesado en esta aplicación.
+Resumen: EL entrevistado usa para su empresa de deilvery motociletas y bicicletas y los deesafíos que más se le presentan son el tráfico y la fatiga de sus repartidores. La idea de implementar scooter le parece muy interesante y prometedora, estos son una forma más útil para sortear el tráfico, además consideran que el mantenimiento y el combustible de los scooters es un factor atractivo. En una plataforma web de gestión de scooters buscan características como que sea fácil de usar, eficiente en la gestión, que permita seguir la ubicación y que tenga opciones de personalización. Para garantizar el mantenimiento adecuado de los scooters le parece que implementar un programa regular de inspección y mantenimiento sería atractivo. Manejarían la ubicación de los scooters mediante un GPS implementado en cada uno de estos. Se encuentra bastante interesado en esta aplicación.
+<br>
 
-**Entrevistado 4**
+**Entrevistado: 4**
 
 Nombre y apellidos: Pieer Rodas
 
@@ -1019,7 +968,7 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 
 ### 2.2.3. Análisis de entrevistas
 
-**Segemento Objetivo 1: Transeúntes**
+>**Segemento Objetivo 1: Transeúntes**
 
 - Frecuencia de uso de scooters: El entrevistado utiliza scooters varias veces a la semana, lo que indica una alta frecuencia de uso y dependencia de este medio de transporte.
 - Beneficios de los scooters: Destaca la conveniencia y agilidad de los scooters para moverse en áreas urbanas congestionadas, así como su economía y eco-amigabilidad en comparación con otros medios de transporte.
@@ -1030,7 +979,7 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 - Medidas de seguridad: Considera importante el mantenimiento y el respeto a las normas de seguridad, lo que subraya la necesidad de garantizar la seguridad tanto para los usuarios como para los peatones.
 - Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
 
-**Segemento Objetivo 2: Empresas deliverys**
+>**Segemento Objetivo 2: Empresas deliverys**
 
 - Frecuencia de uso de scooters: Aunque el entrevistado actualmente utiliza principalmente motocicletas para su servicio de delivery, muestra interés en integrar scooters eléctricos debido a sus beneficios potenciales.
 - Beneficios de los scooters: Reconoce los beneficios de los scooters en términos de eficiencia en el tráfico y sostenibilidad ambiental, lo que sugiere una inclinación hacia la adopción de tecnologías más ecológicas.
@@ -1118,28 +1067,28 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
             <td colspan="1">alta</td>
 		</tr>
         <tr>
-			<td colspan="1">Escanear el código QR para desbloquear scooter</td>
+			<td colspan="1">Cerrar sesión</td>
 			<td colspan="1">multiple</td>
             <td colspan="1">alta</td>
             <td colspan="1">multiple</td>
             <td colspan="1">alta</td>
 		</tr>
         <tr>
-			<td colspan="1">Iniciar viaje</td>
+			<td colspan="1">Añadir scooters a favoritos</td>
 			<td colspan="1">multiple</td>
             <td colspan="1">alta</td>
             <td colspan="1">multiple</td>
             <td colspan="1">alta</td>
 		</tr>
         <tr>
-			<td colspan="1">Monitorear viaje</td>
+			<td colspan="1">Filtrar scooters</td>
 			<td colspan="1">multiple</td>
             <td colspan="1">media</td>
             <td colspan="1">rara</td>
             <td colspan="1">baja</td>
 		</tr>
          <tr>
-			<td colspan="1">Historial de viajes</td>
+			<td colspan="1">Añadir método de pago</td>
 			<td colspan="1">multiple</td>
             <td colspan="1">media</td>
             <td colspan="1">rara</td>
@@ -1169,6 +1118,7 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 ### 2.3.4. Empathy Mapping
 
 > **Segmento Objetivo 1: Transeúntes**
+
 <img src="./assets/ThinkingMapping.png" alt="Entrevista Pietro" width="600" height="300">
 
 > **Segmento Objetivo 2: Empresas deliverys**
@@ -1177,13 +1127,16 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 
 ### 2.3.5. As-is Scenario Mapping
 
-> **Segmento Objetivo 1: Transeúntes**
+>**Segmento Objetivo 1: Transeúntes** 
+<br>
 
 | Escenario | Usuario buscando un scotter disponible                                  | Usuario reserva un scooter                                            | Usuario utiliza el scooter                             | Usuario devuelve el scooter                                | Usuario deja una reseña                                              |
 |-----------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
 | Doing     | Buscando en linea o preguntando a locales la disponibilidad de scooters | Llamando o visitando fisicamente la empresa de alquiler para reservar | Recogiendo al scooter en el lugar designado            | Devolviendo el scooter al lugar de alquiler                | Completando formularios o enviando comentarios sobre su experiencia  |
 | Thinking  | Evaluando la conveniencia y costos                                      | Considerando la fiabilidad y disponibilidad del scooter reservado     | Planificando la ruta y considernado la seguridad       | Preocupandose por los terminos y condiciones de devolucion | Reflexionando sobre la calidad del servicio y el scooter utilizado   |
 | Feeling   | Frustracion por la falta de informacion clara y actualizada             | Inseguridad sobre si el scooter estara disponible al llegar           | Emocion por la experiencia de conduccion y la aventura | Satisfecho si la experiencia general fue positiva          | Esperando que su opinion influya en futuros usuarios y en la empresa |
+
+<br>
 
 > **Segmento Objetivo 2: Empresas deliverys**
 
@@ -1200,6 +1153,11 @@ Resumen:El entrevistado utiliza motocicletas y bicicletas para realizar el servi
 - Experiencia de usuario: La interacción y percepción de los clientes al utilizar los productos o servicios de la empresa.
 - Plataforma centralizada: Se refiere a una única interfaz o sistema donde los usuarios pueden acceder a todas las funciones relacionadas con el alquiler de scooters eléctricos, como reservas, pagos y seguimiento de rutas.
 - Flota: Conjunto de scooters que se encuentran desplegados al rededor de la ciudad listos para ser usados por los usuarios.
+- Scooters: Producto que es el enfoque de la existencia de nuetsra aplicación.
+- Renta: Acción de adquirir scooters en FastScooters.
+- Reserva: Acción posterior de rentar que almacena los scooters rentados para que el usuario pueda visualizarlos.
+- Reporte: acción que permite a los usuarios avisar sobre algún problema, comentario o feedback del aplicativo.
+- Pago: Pago de renta de scooters.
 
 # Capítulo III: Requirements Specification
 
@@ -1300,7 +1258,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		<tr>
             <td colspan="1">US001</td>
             <td colspan="1">
-            Registro de usuarios clientes en la plataforma
+            Registro de usuarios en la plataforma
             </td>
             <td colspan="1">
             <strong>Como</strong> usuario cliente <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
@@ -1360,85 +1318,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             </td>
             <td colspan="1">EP01</td>
-		</tr>
-        <tr>
-            <td colspan="1">US002</td>
-            <td colspan="1">Registro de empresas en la plataforma</td>
-            <td colspan="1">
-            <strong>Como</strong> usuario empresa <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.
-            </td>
-            <td colspan="5">
-            <strong>E01: Registro Exitoso</strong>
-            <br><br>
-            <strong>Caso 01: Registro con e-mail</strong>
-            <br>
-            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
-            <br>
-            <strong>Y</strong> el usuario empresa selecciona la opción de registro
-            <br>
-            <strong>Cuando</strong> el sistema muestre el formulario de registro 
-            <br>
-            <strong>Y</strong> el usuario empresa llene todo el formulario con sus datos
-            <br>
-            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
-            <br>
-            <strong>Y</strong> el sistema verifique los datos colocados por el usuario empresa
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje informando que su cuenta ha sido registrada exitosamente.
-            <br><br>
-            <strong>E02: Registro Fallido</strong>
-            <br><br>
-            <strong>Caso 01: Datos inválidos</strong>
-            <br>
-            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
-            <br>
-            <strong>Y</strong> el usuario empresa selecciona la opción de registro
-            <br>
-            <strong>Cuando</strong> el sistema muestre el formulario de registro 
-            <br>
-            <strong>Y</strong> el usuario empresa llene todo el formulario con sus datos
-            <br>
-            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
-            <br>
-            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
-            <br><br>
-            <strong>Caso 02: Datos incompletos</strong>
-            <br>
-            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
-            <br>
-            <strong>Y</strong> el usuario empresa selecciona la opción de registro
-            <br>
-            <strong>Cuando</strong> el sistema muestre el formulario de registro 
-            <br>
-            <strong>Y</strong> el usuario empresa llene solo algunas partes del formulario con sus datos
-            <br>
-            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
-            <br>
-            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
-            <br><br>
-            <strong>Caso 03: Datos inexistentes</strong>
-            <br>
-            <strong>Dado que</strong> el usuario empresa ingresa por primera vez a la aplicación
-            <br>
-            <strong>Y</strong> el usuario empresa selecciona la opción de registro
-            <br>
-            <strong>Cuando</strong> el sistema muestre el formulario de registro 
-            <br>
-            <strong>Y</strong> el usuario empresa coloque un RUC inexistente
-            <br>
-            <strong>Y</strong> el usuario empresa seleccione la opción "registrar cuenta"
-            <br>
-            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario empresa son inexistentes
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta porque la empresa no existe.
-            <br><br>
-            </td>
-            <td colspan="1">EP001</td>
-            </td>
 		</tr>
         <tr>
             <td colspan="1">US003</td>
@@ -1537,72 +1416,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">EP005</td>
 		</tr>
         <tr>
-            <td colspan="1">US005</td>
-            <td colspan="1">Recuperación de contraseña para usuarios registrados </td>
-            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> poder recuperar mi contraseña <strong>para</strong> poder acceder a mi cuenta en caso de que me hay olvidado alguna de mis credenciales. 
-            </td>
-            <td colspan="5">   
-            <strong>E01: Recuperación de contraseña exitosa</strong>
-            <br><br>
-            <strong>Caso 01: Cambio de contraseña</strong>
-            <br>
-            <strong>Dado que</strong> el usuario olvida su contraseña 
-            <br>
-            <strong>Y</strong> el usuario quiere recuperar su contraseña 
-            <br>
-            <strong>Cuando</strong> el usuario seleccione la opción restablecer contraseña 
-            <br>
-            <strong>Y</strong> el sistema envía un código a su correo 
-            <br>
-            <strong>Y</strong> el usuario coloca el código en el formulario de la plataforma
-            <br>
-            <strong>Entonces</strong> el sistema verifica que el código es correcto 
-            <br>
-            <strong>Y</strong> el usuario puede volver a escribir una nueva contraseña.
-            <br><br>
-            <strong> Caso 02: No se pudo realizar el cambio de contraseña</strong>
-            <br>
-            <strong>Dado que</strong> el usuario olvida su contraseña 
-            <br>
-            <strong>Y</strong> el usuario quiere recuperar su contraseña 
-            <br>
-            <strong>Cuando</strong> el usuario seleccione la opción restablecer contraseña 
-            <br>
-            <strong>Y</strong> el sistema envía un código a su correo 
-            <br>
-            <strong>Y</strong> el usuario coloca el código en el formulario de la plataforma
-            <br>
-            <strong>Y</strong> el sistema detecta que el código es incorrecto.
-            <br>
-            <strong>Entonces</strong> el sistema un mensaje donde indica que ha colocado el código incorrecto.           <br>
-            </td>
-            <td colspan="1">EP002</td>
-		</tr>
-        <tr>
-            <td colspan="1">US006</td>
-            <td colspan="1">Bloqueo de scooters</td>
-            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> bloquear mi scooter cuando termine mi viaje<strong> para</strong> evitar que otros lo utilicen sin autorización.</td>
-            <td colspan="5">
-            <strong>E01: Bloqueo exitoso
-            <br></br>
-            Caso 01: El usuario bloquea exitosamente el scooter</strong>
-            <strong>Dado</strong> que el usuario termina de usar el scooter 
-            <br>
-            <strong>Y</strong> el usuario quiere bloquear el scooter
-            <br> 
-            <strong>Cuando</strong> el usuario seleccione la opción finalizar uso
-            <br>
-            <strong>Y</strong> el sistema envía un código al correo del usuario
-            <br>
-            <strong>Y</strong> el usuario coloca el código 
-            <br>
-            <strong>Y</strong> el sistema verifica que el código sea correcto
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mensaje diciendo que se ha bloqueado correctamente el scooter.        
-            </td>
-            <td colspan="1">EP003</td>
-		</tr>
-        <tr>
             <td colspan="1">US007</td>
             <td colspan="1">Confirmación de reserva</td>
             <td colspan="1"><strong>Como</strong> usuario que ha realizado una reserva en el sistema, <strong>quiero</strong> recibir un correo <strong>para</strong> confirmar mi reserva y asegurarme de no haber reservado por error.</td>
@@ -1613,20 +1426,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             Entonces el usuario visualiza su reserva detalladamente.
             </td>
             <td colspan="1">EP005</td>
-		</tr>
-        <tr>
-            <td colspan="1">US008</td>
-            <td colspan="1">Desbloqueo de scooter</td>
-            <td colspan="1"><strong>Como</strong> usuario <strong>quiero</strong> desbloquear mi scooter<strong> para</strong> empezar mi viaje.</td>
-            <td colspan="5">E01: Desbloqueo exitoso
-            Caso 01: Uso activo
-            Dado que el usuario paga por la renta del scooter
-            Cuando el sistema envia un codigo al correo del usuario
-            Y el usuario escribe el codigo en la aplicación
-            Entonces el sistema desbloquea el scooter
-            Y el usuario empieza a utilizar su scooter.
-            </td>
-            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US009</td>
@@ -1865,71 +1664,28 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US019</td>
-            <td colspan="1">Reseña sobre la experiencia sobre el scooter</td>
+            <td colspan="1">Calificación de los scooters disponibles</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la aplicación 
+            <strong>Como</strong> usuario de la aplicación  
             <br>
-            <strong>quiero</strong> poder dejar una reseña sobre mi experiencia con un scooter
+            <strong>quiero</strong> poder ver la calificación del scooter de forma fácil
             <br>
-            <strong>para</strong> compartir mi opinión con otros usuarios y ayudarles a tomar decisiones informadas
+            <strong>para</strong> ver cual scooter rentar
             </td>
             <td colspan="5">
-            <strong>E01: Dejar una reseña después de usar un scooter</strong>
+            <strong>E01: Visualización de calificación de scooters</strong>
             <br><br>
-            <strong>Caso 01: Permitir a los usuarios dejar una reseña después de usar un scooter</strong>
+            <strong>Caso 01: La calificación de los scooters son visibles y fáciles de interpretar</strong>
             <br>
-            <strong>Dado que</strong> los usuarios han utilizado un scooter para realizar un viaje
+            <strong>Dado que</strong> los usuarios quieren saber cual es el mejor scooter para rentar 
             <br>
-            <strong>Cuando</strong> un usuario finaliza su viaje con un scooter
+            <strong>Cuando</strong> un usuario busca un scooter 
             <br>
-            <strong>Entonces</strong> el sistema proporciona una funcionalidad fácil de usar que permita a los usuarios dejar reseñas después de utilizar un scooter 
+            <strong>Y</strong> un usuario ve los detalles del scooter
+            <br>
+            <strong>Entonces</strong> el sistema muestra la cacilificación del scooter mediante estrellas.
             <br><br>
-            <strong>E02: Calificación de la experiencia</strong>
-            <br><br>
-            <strong>Caso 01: Permitir a los usuarios calificar su experiencia con el scooter</strong>
-            <br>
-            <strong>Dado que</strong> los usuarios desean proporcionar una evaluación rápida de su experiencia
-            <br>
-            <strong>Cuando</strong> un usuario deja una reseña sobre su experiencia con el scooter
-            <br>
-            <strong>Entonces</strong> el sistema muestra a los usuarios la calificación de su experiencia con el scooter mediante una calificación, que puede ser en forma de estrellas o puntos numéricos
-            <br><br>
-            <strong>E03: Visualización de reseñas</strong>
-            <br><br>
-            <strong>Caso 01: Permitir a los usuarios ver las reseñas dejadas por otros usuarios</strong>
-            <br>
-            <strong>Dado que</strong> los usuarios desean tomar decisiones informadas basadas en las experiencias de otros
-            <br>
-            <strong>Cuando</strong> un usuario busca información sobre un scooter específico
-            <br>
-            <strong>Entonces</strong> el sistema muestra una lista de reseñas dejadas por otros usuarios sobre ese scooter
-            </td>
             <td colspan="1">EP008</td>
-		</tr>
-        <tr>
-            <td colspan="1">US020</td>
-            <td colspan="1">Visualizacion de zonas de recojo y entrega de los scooters</td>
-            <td colspan="1">
-            <strong>Como</strong> usuario de la aplicación 
-            <br>
-            <strong>quiero</strong> poder ver las zonas designadas para recojo y entrega de scooters
-            <br>
-            <strong>para</strong> cplanificar mi viaje y encontrar fácilmente el punto de inicio y fin de mi alquiler
-            </td>
-            <td colspan="5">
-            <strong>E01: Visualización de zonas en el mapa</strong>
-            <br><br>
-            <strong>Caso 01: Permitir a los usuarios ver las zonas de recojo y entrega en un mapa</strong>
-            <br>
-            <strong>Dado que</strong> los usuarios necesitan localizar las zonas de recojo y entrega
-            <br>
-            <strong>Cuando</strong> un usuario abre la aplicación 
-            <br>
-            <strong>Y</strong> accede a la sección de "recojo y entrega de scooters"
-            <br>
-            <strong>Entonces</strong> el sistema muestra un mapa que indica las zonas designadas para recojo y entrega
-            </td>
-            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US021</td>
@@ -1939,7 +1695,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>quiero</strong> poder acceder a un historial de mis reservas anteriores
             <br>
-            <strong>para</strong> tener un registro de mis viajes pasados 
+            <strong>para</strong> tener un registro de mis scooters rentados
             </td>
             <td colspan="5">
             <strong>E01:  Mostrar el apartado de historial de reservas</strong>
@@ -2079,24 +1835,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             </td>
             <td colspan="1">EP007</td>
 		</tr> 
-    <td colspan="1">US027</td>
-    <td colspan="1">Notificaciones de estado de reserva</td>
-    <td colspan="1">
-        <strong>Como</strong> usuario de la aplicación,
-        <br>
-        <strong>quiero</strong> recibir notificaciones sobre el estado de mis reservas para mantenerme informado sobre cualquier cambio o actualización.
-    </td>
-    <td colspan="5">
-        <strong>E01: Notificaciones en tiempo real</strong>
-        <br><br>
-        <strong>Caso 01: Enviar notificaciones cuando se confirme una reserva</strong>
-        <br>
-        <strong>Dado que</strong> el usuario ha realizado una reserva<br>
-        Cuando el sistema confirme la reserva,
-        <br>
-        Entonces el sistema envía una notificación al usuario informando sobre la confirmación de la reserva y proporcionando detalles adicionales, como la hora y ubicación de recogida del scooter.
-    </td>
-    <td colspan="1">EP006</td>
 </tr>
 </tbody>
 </table>
@@ -2105,8 +1843,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 
 > **Semneto objetivo 1: Transeúntes**
 
-
 <img src="./assets/juanperezmap.png" alt="Josue Hidalgo" width="1000" height="800">
+
+<br>
 
 > **Segmento objetivo 2: Empresarios**
 
@@ -2136,76 +1875,48 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		<tr>
 			<td>1</td>
             <td>US001</td>
-			<td>Registro de usuarios clientes en la plataforma</td>
+			<td>Registro de usuarios en la plataforma</td>
 			<td>Como usuario cliente quiero crearme una cuenta para poder acceder a la aplicación y sus funciones.</td>
-			<td>8</td>
+			<td>3</td>
 		</tr>
         <tr>
 			<td>2</td>
-            <td>US002</td>
-			<td>Registro de empresas en la plataforma</td>
-			<td>Como usuario empresa quiero crearme una cuenta para poder acceder a la aplicación.</td>
-			<td>8</td>
-		</tr>
-        <tr>
-			<td>3</td>
             <td>US003</td>
 			<td>Inicio de sesión de usuarios en la plataforma</td>
 			<td>Como usuario quiero iniciar sesión con mi correo para ingresar a la plataforma.</td>
-			<td>8</td>
+			<td>3</td>
 		</tr>
         <tr>
-			<td>4</td>
+			<td>3</td>
             <td>US004</td>
 			<td>Reserva de scooter</td>
 			<td>Como usuario quiero poder reservar un scooter específico con anticipación para asegurarme de que esté disponible cuando llegue a la estación de scooters.</td>
 			<td>8</td>
 		</tr>
         <tr>
-			<td>5</td>
+			<td>4</td>
             <td>US016</td>
 			<td>Gestion de pagos</td>
 			<td>Como usuario de la aplicación quiero tener un proceso de pago seguro y eficiente para poder realizar reservas de scooters de manera rápida y confiable.</td>
 			<td>8</td>
 		</tr>
         <tr>
-			<td>6</td>
+			<td>5</td>
             <td>US013</td>
 			<td>Cancelacion de reserva</td>
 			<td>Como usuario de la aplicación quiero poder cancelar una reserva para no incurrir en gastos por un servicio que no voy a utilizar..</td>
 			<td>8</td>
 		</tr>
         <tr>
-			<td>7</td>
-            <td>US006</td>
-			<td>Bloqueo de scooters</td>
-			<td>Como usuario quiero bloquear mi scooter cuando termine mi viaje para evitar que otros lo utilicen sin autorización.</td>
-			<td>8</td>
-		</tr>
-        <tr>
-			<td>8</td>
-            <td>US008</td>
-			<td>Desbloqueo de scooter</td>
-			<td>Como usuario quiero desbloquear mi scooter para empezar mi viaje.</td>
-			<td>8</td>
-		</tr>
-        <tr>
-			<td>9</td>
+			<td>6</td>
             <td>US009</td>
 			<td>Rentar Scooter</td>
 			<td>Como usuario quiero rentar un scooter para realizar mis viajes.</td>
 			<td>8</td>
 		</tr>
-        <tr>
-			<td>10</td>
-            <td>US020</td>
-			<td>Visualizacion de zonas de recojo y entrega de los scooters</td>
-			<td>Como usuario de la aplicación quiero poder ver las zonas designadas para recojo y entrega de scooters para cplanificar mi viaje y encontrar fácilmente el punto de inicio y fin de mi alquiler</td>
-			<td>8</td>
-		</tr>
     </tr>
         <tr>
-			<td>11</td>
+			<td>07</td>
             <td>US024</td>
 			<td>Visualización de características de la aplicación web	</td>
 			<td>Como usuario quiero ver las principales características de la aplicación para decidir si usar el servicio.</td>
@@ -2213,18 +1924,102 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
     </tr>
         <tr>
-			<td>12</td>
+			<td>08</td>
             <td>US025</td>
 			<td>Landing Page responsive	</td>
 			<td>Como usuario quiero visitar la landing page desde cualquier dispositivo usuario para decidir si usar el producto en mi trabajo usuario de la aplicación.</td>
 			<td>8</td>
 		</tr>
      <tr>
-			<td>13</td>
+			<td>09</td>
             <td>US026</td>
 			<td>Botón Call to Action	</td>
 			<td>Como usuario quiero ir a la aplicación web desde un solo botón para empezar a usar el servicio de manera fácil y rápida.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>10</td>
+            <td>US007</td>
+			<td>Confirmación de reserva</td>
+			<td>Como usuario que ha realizado una reserva en el sistema, quiero recibir un correo para confirmar mi reserva y asegurarme de no haber reservado por error.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>11</td>
+            <td>US010</td>
+			<td>Reporte de problemas con el scooter</td>
+			<td>Como usuario quiero reportar problemas con el scooter para que entre a mantenimiento</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>12</td>
+            <td>US012</td>
+			<td>Buscar scooters disponibles</td>
+			<td>Como usuario, quiero poder buscar scooters disponibles en mi área cercana para poder encontrar una opción conveniente para mi viaje.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>13</td>
+            <td>US015</td>
+			<td>Seguridad de informacion</td>
+			<td>Como usuario de la aplicación quiero tener la seguridad de que mis datos personales para evitar accesos no autorizados y proteger mi privacidad</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>14</td>
+            <td>US016</td>
+			<td>Gestion de pagos</td>
+			<td>Como usuario de la aplicación quiero tener un proceso de pago seguro y eficiente para poder realizar reservas de scooters de manera rápida y confiable.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>15</td>
+            <td>US017</td>
+			<td>Actualizacion de perfil</td>
+			<td>Como usuario de la aplicación quiero poder actualizar mi información de perfil para mantener mis datos personales actualizados y precisos.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>16</td>
+            <td>US018</td>
+			<td>Marcar scooters favoritos</td>
+			<td>Como usuario de la aplicación quiero poder marcar scooters como favoritos para acceder rápidamente a mis opciones preferidas y realizar reservas más fácilmente.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>17</td>
+            <td>US019</td>
+			<td>Calificación de los scooters disponibles</td>
+			<td>Como usuario de la aplicación quiero poder ver la calificación del scooter de forma fácil para ver cual scooter rentar</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>17</td>
+            <td>US021</td>
+			<td>Historial de reservas</td>
+			<td>Como usuario de la aplicación quiero poder acceder a un historial de mis reservas anteriores para tener un registro de mis scooters rentados.</td>
 			<td>5</td>
+		</tr>
+        <tr>
+			<td>18</td>
+            <td>US022</td>
+			<td>Personalizacion de la interfaz de usuario</td>
+			<td>Como usuario de la aplicación quiero poder personalizar la interfaz de usuario según mis preferencias para adaptarla a mis necesidades y mejorar mi experiencia de uso.</td>
+			<td>5</td>
+		</tr>
+        <tr>
+			<td>19</td>
+            <td>US023</td>
+			<td>Reporte de problemas de la aplicación web</td>
+			<td>Como usuario de la aplicación quiero poder reportar problemas que encuentre durante el uso de la aplicación web para informar a los administradores sobre posibles errores o situaciones que requieran atención.</td>
+			<td>5</td>
+		</tr>
+        <tr>
+			<td>20</td>
+            <td>US014</td>
+			<td>Visualizacion de perfil	</td>
+			<td>Como usuario de la aplicación quiero poder visualizar mi perfil para revisar y confirmar mis datos personales y de usuario.</td>
+			<td>3</td>
 		</tr>
 	</tbody>
 </table>
@@ -2705,6 +2500,7 @@ cualquier pantalla.
 
 **Principio de divulgación:**
 La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee.
+
 <img src="https://i.imgur.com/er4V7Wv.png" style="width:80%">
 <img src="https://i.imgur.com/XQuyrgR.png" style="width:80%">
 <img src="https://i.imgur.com/jRkwPNH.png" style="width:80%">
@@ -2811,7 +2607,7 @@ tablas.
 
 ![IMG-DB](/assets/diagrams/databasedesign.jpg)
 
-[Link Database Diagram](https://my.vertabelo.com/public-model-view/BuTgCOFwRnLqR0QIhemQ3fQ54SAz2TZRgFV2K34qNZ6wFwXWb96nUAjoeDvpxqME?x=3793&y=4054&zoom=0.6719)
+Enlace ara mayor visualización del [Database Diagram](https://my.vertabelo.com/public-model-view/BuTgCOFwRnLqR0QIhemQ3fQ54SAz2TZRgFV2K34qNZ6wFwXWb96nUAjoeDvpxqME?x=3793&y=4054&zoom=0.6719)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2877,7 +2673,7 @@ herramientos son las siguientes:
 
 Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder
 trabajar de forma colaborativa. Para ello, se creó una Github
-Organizacion: [Apps Web SI730](https://github.com/upc-2023-GreatMinds-SW51-Web)
+Organizacion: [Apps Web SI730](https://github.com/Apps-Web-SI730)
 
 **Repositorio Informe:** [goSteel-informe](https://github.com/Apps-Web-SI730/goSteel-informe)
 
@@ -3462,6 +3258,324 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 ![controbution](assets/tb2/contribution.png)
 ![network](assets/tb2/network.png)
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint #                         | 3                                                                                                                                                                            | 
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Sprint Planning Background**   | -                                                                                                                                                                            |
+| Date                             | 2024 - 06 - 26                                                                                                                                                              |
+| Time                             | 08:38 AM                                                                                                                                                                        |
+| Location                         | Virtual via Discord                                                                                                                                                          |
+| Prepared By                      | Barrial Marin, Sharon Antuanet Ivet                                                                                                                                            |
+| Attendees (to planning meeting)  | Adrianzén Flores, Carlos Arturo <br> Barrial Marin, Sharon Antuanet Ivet <br> Hidalgo Bustamante Josue Omar <br> Huachaca Advincula, Scott Jacobo <br> Minaya Mundines, Pietro Minayat |
+| Sprint 4 - Review Summary        | Se realizó la organización, visualización y ejecución del fronted. Además de deployar el servidor en Microsoft Azure. |
+| Sprint 4 - Retrospective Summary | Mejorar en puntos de la documentación del informe, añadir componentes al fronted, mejorar funcionalidades, estructura y manejo de usualibity |
+| **Sprint Goal & User Stories**   | - Visualización de Scooters disponibles <br> - Visualización de detalles de scooter seleccionado<br> - Registro de usuarios  <br> - Ingreso de usuarios <br> - Reserva de scooters                                                                                                                                                                             |
+| Sprint 4 Goal                    | El objetivo del presente Sprint es en desarrollar el backend y mejorar el fronted. Para unirlo y demostrar los user stories propuestos y por haber para este sprint planing.                                                    |
+| Sprint 4 - Velocity              | El equipo puede aceptar 47 Story Points                                                                                                                                      |
+| Sprint 4 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 104 Story Points                                                                                                       |
+
+#### 5.2.4.2. Sprint Backlog 4
+
+Implementación del Landing Page acorde con las User Stories.
+
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 4</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el backend y corrección del fronted acorde a las historias de usuario redactadas </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US001</td>
+        <td rowspan="2" valign="top">Registro de usuarios clientes en la plataforma</td>
+        <td valign="top">001.1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Validar datos, formato, manejar errores y excepciones para el registro de usuario.</td>
+        <td valign="top">5</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">001.2</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Se hace correcciones de funcionamiento y estructura del registro.</td>
+        <td valign="top">1</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US003</td>
+        <td rowspan="2" valign="top">Inicio de sesión de usuarios</td>
+        <td valign="top">003.1</td>
+        <td valign="top">Desarrollo de funcionalidad en el backend</td>
+        <td valign="top">Validaciones correspondientes a la existencia de usuario en la base de datos.</td>
+        <td valign="top">4</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">003.2</td>
+        <td valign="top">Desarrollo de funcionalidad en el fronted</td>
+        <td valign="top">Corrección de estructura y funcionamiento.</td>
+        <td valign="top">1</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US004</td>
+        <td rowspan="2" valign="top">Reserva de Scooter</td>
+        <td valign="top">004.1</td>
+        <td valign="top">Desarrollo de backend</td>
+        <td valign="top">Validaciones y restricciones de reserva de scooters </td>
+        <td valign="top">3</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">004.1</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Componentes como calendario, hora precio y adición a la lista de reservas</td>
+        <td valign="top">5</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US007</td>
+        <td rowspan="1" valign="top">Confirmación de Reserva</td>
+        <td valign="top">007</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Validaciones de regla de negocio y adición de mensaje notificado</td>
+        <td valign="top">3</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US009</td>
+        <td rowspan="1" valign="top">Rentar Scooter</td>
+        <td valign="top">009</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Validaciones de regla de negocio y conexión de procesos para la renta de scooters</td>
+        <td valign="top">3</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US010</td>
+        <td rowspan="1" valign="top">Reporte de problemas de Scooter</td>
+        <td valign="top">010</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Secciones de página de entrada para mensajes</td>
+        <td valign="top">1</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US012</td>
+        <td rowspan="1" valign="top">Buscar Scooters disponibles</td>
+        <td valign="top">012</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Adición de barra de búsqueda para scooters, endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US013</td>
+        <td rowspan="1" valign="top">Cancelación de Reserva</td>
+        <td valign="top">013</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Adición de botón de eliminación y creación de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US014</td>
+        <td rowspan="1" valign="top">Visualización de Perfil</td>
+        <td valign="top">014</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista y de endpoint</td>
+        <td valign="top">4</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US016</td>
+        <td rowspan="1" valign="top">Gestión de Pagos</td>
+        <td valign="top">016</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, dialog y de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US017</td>
+        <td rowspan="1" valign="top">Actualización de perfil</td>
+        <td valign="top">017</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">5</td>
+        <td valign="top">Carlos Adriazen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US018</td>
+        <td rowspan="1" valign="top">Marcar scooters favoritos</td>
+        <td valign="top">018</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+     <tr>
+        <td rowspan="1" valign="top">US019</td>
+        <td rowspan="1" valign="top">Reseña sobre la experiencia sobre el scooter</td>
+        <td valign="top">019</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">2</td>
+        <td valign="top">Scott Huanchanca</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US020</td>
+        <td rowspan="1" valign="top">Visualizacion de zonas de recojo y entrega de los scooters</td>
+        <td valign="top">020</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">5</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">To Do</td>
+    </tr>
+</tbody>
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+| Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
+| goSteel-FastScooter-Frontend | main | d02fee8 | feat: add components |-| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | c99c14a | feat: add features |-| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | 560ff9d | fix: multiple components| - i18n<br>- default view<br>- routes| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | 681f6fb | feat: add internalization terms |-| 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | fd99771 | feat: add scooter-purchase and update routes  | - | 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | db5bc31 | feat: add internalization terms |-| 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | 672abd4 | feat: add features | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 3b9f786 | feat: add features | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | d042542 | feat: create scooter-details component | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | d28fd1a | fix: bugs dry | - | 07/06/2024|
+| goSteel-FastScooter-Backend | main | d275230 | fix: add Payment Infrastructure | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 57952f2 | fix: add PaymentResponse | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 55dade6 | fix: added request to model| - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 5f53f8c |fix: update infrastructure for favorite | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 5483a60 | fix: update favorite domain | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 19c8d2e |feat: add component for favorite response | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | cb88fbf |fix: update functions of faorite controller | - | 07/06/2024 |
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
+| acceptance-test-goSteel | main | 9da61c4 | feat: add feature 15 test | usability function | 07/06/2024 |
+| acceptance-test-goSteel | main | 370035e | feat: add feature 14 test |- filter search<br>- features like: model, brand, type, color, price...| 07/06/2024|
+| acceptance-test-goSteel | main | 5c4c96c | feat: add feature 13 test |- delete scooter reserved<br>- visualization<br>- functionality| 07/06/2024 |
+| acceptance-test-goSteel | main | 91859b4 | feat: add feature 12 test |- btn call to action (rent now, sidebar, router-links)<br>- show functionalities| 07/06/2024 |
+| acceptance-test-goSteel | main | be9d381 | fix: add more detauls about feature 10-11 tests|- i18n internalization feature<br>- fixing terms| 07/06/2024 |
+| acceptance-test-goSteel | main | 203da35 | feat: add feature 11 test | - feature: change language<br>- all aplication web<br>- terms update | 07/06/2024 |
+| acceptance-test-goSteel | main | 61e399 | feat: add feature 10 test | - edit profile<br>- update profile<br>- cancel edit | 07/06/2024 |
+| acceptance-test-goSteel | main | ec7bc0e | feat: add feature 9 test | - add scooter to the head favorites | 07/06/2024 |
+| acceptance-test-goSteel | main | 80da8e0 | feat: add feature 8 test | - function add time and hour for each scooter id | 07/06/2024 |
+| acceptance-test-goSteel | main | 90b7fb5 | feat: add feature 7 test | terms add | 07/06/2024 |
+| acceptance-test-goSteel | main | d447753 | feat: add feature 7 test | feature: add payment method | 07/06/2024 |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En este apartado se hace presenta la ejecución del frontend del servicio FastScooter.
+
+**[Link del fronted](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+
+![imagen fronted](/assets/fronted/front.png)
+
+**[Link del backend](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+
+![imagen fronted](/assets/tb2/back.png)
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend.
+
+| Endpoint          | Detalles  |
+|---------------------|---------|
+| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
+| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
+| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario |
+| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
+| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
+| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario | 
+| /api/v1/scooter | En este endpoint se obtiene los scooters disponibles en la aplicación|
+| /api/v1/user | En este endpoint se obtiene los users registrados en la aplicación |  
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Primero, seleccionamos la configuración: "FastScooter.API: http"
+![Imagen de run configuration](assets/tb2/configuración.png)
+
+Ejecutamos el comando “run” representado por un ícono de play: 
+
+![Imagen de terminal local del proyecto](assets/tb2/run.png)
+
+Demostración de las capas creadas:
+
+![Imagen de carpeta local src del proyecto](assets/tb2/capas.png)
+
+Visualización de los endpoints:
+
+![Imagen de las rutas](assets/tb2/endpoints.png)
+
+Visualización de no errores en la terminal:
+
+![Imagen del comando en la terminal](assets/tb2/termianl.png)
+
+Nuestro despliegue se ha hecho en Microsoft Azure:
+
+![Paso para desplegar](/assets/front/microsoft-azure.jpg)
+
+De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+![Imagen del despliegue](assets/tb2/back.png)
+
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
+
+[Link del backend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
+equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![pulse](assets/tb2/pulse.png)
+![controbution](assets/tb2/contribution.png)
+![network](assets/tb2/network.png)
+
 ## 5.3.Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
@@ -3656,8 +3770,6 @@ Reseña. Mauro Perez Diaz es una persona de 70 años y tiene una empresa de Deli
 [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/EZjcL4lYq0NDvE6aVXo_B7gBcD4ZVWSKqNLViMV_Xkv1tw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SJdYW3)
 
 Reseña.Jeremy Joel quispe andia es un joven estudiante en la upc. Comenta que alquila scooters regularmente para ir a la universidad mediante distintas aplicaciones desde que ingreso a la universidad hace 2 años. La landing Page le pareció amigable y confortante, le gustó la paleta de colores. Le pareció que el formulario de contacto debería estar más completo y ser más atractivo ya que le parece importante en una landing Page. Respecto a la aplicación web opina que cumple su principal funcionalidad, pero que está un poco desorganizada y que le gustaría ver un apartado de reseñas de usuario, para poder saber a scooter escoger, ya que una  sola estrella no brinda mucha información.  La gusto el cambio de idioma. También uso la aplicación desde su tableta y menciona que todo genial. Le brinda a la aplicación un sólido 9 de 10 debido a las sugerencias que ya se mencionaron.
-
-
 
 
 ### 5.3.3. Evaluaciones según heurísticas
@@ -3921,3 +4033,4 @@ Recuperado de **[Stakeholders](https://stakeholders.com.pe/medio-ambiente/delive
 **[TP Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EWf0atsMo3xGgsvQ8v9WWW8BT6CngTxdN07i6DnuUG8D1g?e=hccc2I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
 
 **[TB2 Exposición](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/ETU-uEZH9OpPjZlQk32ZAwAB6V5vEIa5MLd4MsPqBK0vZg?e=JhOu7x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
