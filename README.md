@@ -3511,17 +3511,17 @@ Implementación del Landing Page acorde con las User Stories.
 
 En este apartado se hace presenta la ejecución del frontend  y el backend del servicio FastScooter.
 
-**[Link del fronted](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+**[Link del fronted](https://victorious-hill-07651490f.5.azurestaticapps.net/)**
 
 ![imagen fronted](/assets/fronted/front.png)
 
-**[Link del backend]()**
+**[Link del backend](https://gosteel-fastscooter-backend.azurewebsites.net/)**
 
 ![imagen fronted](/assets/tb2/back.png)
 
 Además se hace presente la realización de los testing, cumpliendo más del 80% del coverage:
 
-![unit test](assets/sprint4/more%20ss/unittest.png)
+![unit test vf](assets/sprint4/more%20ss/un.png)
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -3568,7 +3568,7 @@ De esta manera el avance del Sprint 4 queda desplegado, a continuación se mostr
 
 Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 4:
 
-[Link del backend desplegado]()
+[Link del backend desplegado](https://gosteel-fastscooter-backend.azurewebsites.net/)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
@@ -3584,9 +3584,9 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 >**Back insights**
 
-![pulse](assets/tb2/pulse.png)
-![controbution](assets/tb2/contribution.png)
-![network](assets/tb2/network.png)
+![pulse](assets/sprint4/more%20ss/pb.png)
+![contribution](assets/sprint4/more%20ss/cb.png)
+![network](assets/sprint4/more%20ss/nb.png)
 
 ## 5.3.Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
